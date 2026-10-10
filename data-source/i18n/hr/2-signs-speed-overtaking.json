@@ -1,0 +1,322 @@
+{
+  "questions": {
+    "si01": {
+      "prompt": "Gdje završava ovo ograničenje brzine?",
+      "options": ["Kod znaka koji pokazuje njegov kraj (npr. 278 ili 282)", "Uvijek na sljedećem raskrižju", "Nakon točno 500 metara"],
+      "why": "Ograničenja na dionici vrijede dok ih znak ne ukine; ne završavaju sama od sebe nakon raskrižja. Iznimke: dopunska ploča navodi duljinu ili ograničenje stoji uz znak opasnosti i očito završava s opasnošću.",
+      "tip": "Raskrižje ne ukida ograničenje brzine."
+    },
+    "si02": {
+      "prompt": "Što je dopušteno na kolniku kod ovog znaka?",
+      "options": ["Ništa — zaustavljanje je potpuno zabranjeno", "Kratko zaustavljanje da netko izađe", "Parkiranje do tri minute"],
+      "why": "Znak 283 je apsolutna zabrana zaustavljanja: na kolniku se ne smiješ zaustaviti uopće, ni nakratko da netko uđe ili izađe.",
+      "tip": "Križ = nikad. Jedna crta = nakratko."
+    },
+    "si03": {
+      "prompt": "Što dopušta ovaj znak?",
+      "options": ["Zaustavljanje do tri minute", "Dulje zaustavljanje radi utovara ili ulaska i izlaska putnika", "Parkiranje"],
+      "why": "Znak 286, ograničena zabrana zaustavljanja, zabranjuje zaustavljanje dulje od tri minute, osim za ulazak i izlazak putnika ili utovar i istovar. Parkiranje nije dopušteno."
+    },
+    "si04": {
+      "prompt": "Što znači ovaj znak?",
+      "options": ["Zabrana prometa svih vozila — bicikl se smije gurati", "Samo za stanare", "Biciklisti smiju voziti"],
+      "why": "Znak 250 zabranjuje vozila svake vrste. Ne odnosi se na ručna kolica ni na bicikle i motocikle koji se guraju."
+    },
+    "si05": {
+      "prompt": "Što znači ovaj znak?",
+      "options": ["Zabrana ulaska", "Zabrana prometa u oba smjera", "Zabrana zaustavljanja"],
+      "why": "Znak 267 znači zabranu ulaska. Obično stoji na dalekom kraju jednosmjerne ulice u koju se smije ući s drugog kraja."
+    },
+    "si06": {
+      "prompt": "Što vrijedi u ovoj ulici?",
+      "options": ["Smijem voziti samo u smjeru strelice", "Smijem se zaustaviti i parkirati i lijevo", "Ovdje se smijem okrenuti"],
+      "why": "Znak 220 označava jednosmjernu ulicu. Vozi se samo u smjeru strelice; zaustavljanje i parkiranje dopušteni su i lijevo (§ 12 st. 4 StVO). Okretanje bi značilo vožnju u suprotnom smjeru."
+    },
+    "si07": {
+      "prompt": "Što ti govori ovaj znak?",
+      "options": ["Slijepa ulica", "Cesta s prednošću", "Zabrana parkiranja"],
+      "why": "Znak 357 pokazuje slijepu ulicu: vozila ne mogu proći dalje. Računaj s okretanjem."
+    },
+    "si08": {
+      "prompt": "Što vrijedi u ovoj zoni?",
+      "options": ["Vožnja brzinom hoda", "Pješaci smiju koristiti cijelu ulicu, a djeca se igrati bilo gdje", "Parkirati se smije bilo gdje uz rub"],
+      "why": "U zoni smirenog prometa (znak 325.1) vozi se brzinom hoda. Pješaci smiju koristiti cijelu širinu, djeca se smiju igrati bilo gdje. Parkiranje samo na označenim mjestima.",
+      "tip": "Ulica za igru: ovdje si gost."
+    },
+    "si09": {
+      "prompt": "Izlaziš iz zone smirenog prometa na običnu cestu. Tko ima prednost?",
+      "options": ["Svi na cesti na koju izlazim", "Ja, ako dolazim zdesna", "Ja, jer vozim brzinom hoda"],
+      "why": "Pri izlasku iz zone smirenog prometa moraš propustiti sve ostale i isključiti svaku opasnost (§ 10 StVO), kao pri izlasku s dvorišta."
+    },
+    "si10": {
+      "prompt": "Što obično vrijedi u ovoj zoni?",
+      "options": ["Najviše 30 km/h", "Na raskrižjima obično „desni ima prednost”", "Zabrana pretjecanja za sve"],
+      "why": "U zoni 30 (znak 274.1) ograničenje je 30 km/h dok znak 274.2 ne završi zonu. U tim zonama nema cesta s prednošću, pa na raskrižjima obično vrijedi „desni ima prednost”."
+    },
+    "si11": {
+      "prompt": "Koje ograničenje brzine vrijedi za osobni automobil od ovog znaka, ako znakovi ne kažu drukčije?",
+      "why": "Znak naselja (310) označava početak naselja. Unutra za sva motorna vozila vrijedi 50 km/h (§ 3 st. 3 StVO).",
+      "tip": "Žuti znak naselja = 50."
+    },
+    "si12": {
+      "prompt": "Tko smije koristiti autocestu?",
+      "options": ["Motorna vozila konstruirana za više od 60 km/h", "Sva motorna vozila", "I mopedi ograničeni na 45 km/h"],
+      "why": "Autoceste (znak 330.1) i brze ceste namijenjene su samo motornim vozilima čija konstrukcijska brzina prelazi 60 km/h (§ 18 st. 1 StVO)."
+    },
+    "si13": {
+      "prompt": "Što pokazuje ovaj znak?",
+      "options": ["Kraj ceste s prednošću", "Početak ceste s prednošću", "Prednost na sljedećem raskrižju"],
+      "why": "Znak 307 završava cestu s prednošću. Nakon njega ponovno odlučuju znakovi ili „desni ima prednost”. Često ubrzo slijedi znak 205."
+    },
+    "si14": {
+      "prompt": "Kada vrijedi upozorenje ovih znakova?",
+      "options": ["Samo kad je cesta mokra", "Uvijek", "Samo zimi"],
+      "why": "Znak 114 upozorava na sklizak kolnik. Dopunska ploča „bei Nässe” (kad je mokro) ograničava upozorenje na mokru cestu."
+    },
+    "si15": {
+      "prompt": "Što trebaš očekivati kod ovog znaka?",
+      "options": ["Djecu koja iznenada istrče na cestu", "Djecu koja se igraju uz cestu", "Djecu samo za vrijeme nastave"],
+      "why": "Znak 136 upozorava na djecu u bilo koje doba dana. Uspori i budi spremno za kočenje (§ 3 st. 2a StVO)."
+    },
+    "si16": {
+      "prompt": "Što je točno kod ovog znaka?",
+      "options": ["Životinje su osobito česte u sumrak i u zoru", "Gdje prijeđe jedna životinja, često slijede i druge", "Upozorenje vrijedi samo u jesen"],
+      "why": "Znak 142 upozorava na divljač. Divlje životinje najaktivnije su u zoru i u sumrak i često se kreću u skupinama: nakon prve srne često dolazi druga."
+    },
+    "si17": {
+      "prompt": "Otprilike koliko metara prije željezničkog prijelaza stoji oznaka s tri crte?",
+      "why": "Oznake stoje otprilike 240 m (tri crte), 160 m (dvije) i 80 m (jedna) prije prijelaza. Svaka crta je oko 80 metara.",
+      "tip": "Jedna crta = 80 metara."
+    },
+    "si18": {
+      "prompt": "Koga još smiješ pretjecati kod ovog znaka?",
+      "options": ["Biciklista", "Motocikl bez prikolice", "Spori osobni automobil"],
+      "why": "Znak 276 zabranjuje pretjecanje višetragih motornih vozila i motocikala s prikolicom. Jednotrage — bicikle, mopede, motocikle — smiješ pretjecati uz dovoljan razmak."
+    },
+    "si19": {
+      "prompt": "Voziš osobni automobil s prikolicom, zajedno više od 3,5 t. Smiješ li pretjecati kod ovog znaka?",
+      "options": ["Da — osobni automobili izuzeti su od ove zabrane", "Ne — skup vozila teži je od 3,5 t", "Samo bicikliste"],
+      "why": "Znak 277 odnosi se na motorna vozila teža od 3,5 t zajedno s prikolicama te na traktore. Osobni automobili i autobusi izričito su izuzeti, s prikolicom ili bez nje."
+    },
+    "si20": {
+      "prompt": "Što ukida ovaj znak?",
+      "options": ["Sva ograničenja na dionici prije njega, poput ograničenja brzine i zabrane pretjecanja", "Samo zabranu pretjecanja", "Cestu s prednošću"],
+      "why": "Znak 282 ukida sva ograničenja na dionici. Nakon njega ponovno vrijede opća pravila — izvan naselja, primjerice, 100 km/h za osobne automobile."
+    },
+    "si21": {
+      "prompt": "Što zahtijeva ovaj znak?",
+      "options": ["Ne voziti sporije od 30 km/h, osim ako to traže promet, vidljivost ili vrijeme", "Voziti najviše 30 km/h", "Voziti točno 30 km/h"],
+      "why": "Okrugli plavi znakovi su naredbe: znak 275 je najmanja dopuštena brzina. Vozila koja ne mogu voziti tako brzo ne smiju koristiti tu cestu.",
+      "tip": "Plavo = mora se. Crveni rub = ne smije se."
+    },
+    "si22": {
+      "prompt": "Tko smije koristiti ove staze?",
+      "options": ["Biciklisti (a na dvije desne i pješaci)", "Automobili, kad je cesta zakrčena", "Motocikli"],
+      "why": "Znak 237 je biciklistička staza, 240 zajednička, a 241 odvojena pješačko-biciklistička staza. Ni po jednoj ne smiješ voziti automobil; električni romobili, naprotiv, moraju koristiti biciklističke staze."
+    },
+    "si23": {
+      "prompt": "Koliko metara prije i poslije ovog znaka ne smiješ parkirati?",
+      "why": "Znak 224 označava autobusno ili tramvajsko stajalište. Parkiranje je zabranjeno 15 m sa svake strane, da autobusi i tramvaji mogu ulaziti i izlaziti."
+    },
+    "si24": {
+      "prompt": "Tko unatoč zabrani smije ući?",
+      "options": ["Stanari i oni koji ondje imaju posla, poput posjetitelja i dostave", "Svatko tko traži prečac", "Nitko"],
+      "why": "„Anlieger frei” pušta svakoga tko ima posla u toj ulici — stanare, posjetitelje, dostavu. Tranzitni promet ostaje zabranjen."
+    },
+    "si25": {
+      "prompt": "Kada vrijedi ova zabrana zaustavljanja?",
+      "options": ["Samo između 16 i 18 sati", "Cijeli dan", "Samo radnim danom ujutro"],
+      "why": "Dopunska ploča sužava glavni znak. S „16-18 h” zabrana zaustavljanja vrijedi samo u ta dva sata."
+    },
+    "si26": {
+      "prompt": "Što znači ova puna crta?",
+      "options": ["Ne smije se prijeći", "Po njoj se ne smije ni voziti", "Pretjecanje je dopušteno ako je cesta slobodna"],
+      "why": "Puna razdjelna crta (295) ne smije se prijeći ni voziti po njoj. Ne smiješ se zaustaviti ni lijevo od nje."
+    },
+    "si27": {
+      "prompt": "Što vrijedi za ovu isprekidanu crtu?",
+      "options": ["Smijem je prijeći ako nitko nije ugrožen", "Nikad je ne smijem prijeći", "Označava trak za parkiranje"],
+      "why": "Isprekidana crta (340) dijeli trakove. Smije se prijeći, npr. pri pretjecanju, kad promet to dopušta."
+    },
+    "si28": {
+      "prompt": "Što znači ova oznaka?",
+      "options": ["Šrafirana površina — po njoj se ne vozi", "Parkiranje dopušteno", "Samo za autobuse"],
+      "why": "Šrafiranu površinu (298) vozila ne smiju koristiti uopće — ni za vožnju, ni za zaustavljanje, ni za parkiranje."
+    },
+    "si29": {
+      "prompt": "Što pokazuje ova cik-cak oznaka?",
+      "options": ["Područje gdje je zabranjeno zaustavljanje ili parkiranje", "Ulicu za igru", "Biciklistički trak"],
+      "why": "Cik-cak crta (299) označava ili produljuje područje zabrane zaustavljanja ili parkiranja, npr. ispred izlaza ili autobusnih stajališta."
+    },
+    "si30": {
+      "prompt": "Vidiš ovaj znak prije suženja. Što radiš?",
+      "options": ["Ustupam prednost prometu iz suprotnog smjera, po potrebi čekam", "Brzo prolazim prije nego što dođe promet iz suprotnog smjera", "Trubim i prolazim"],
+      "why": "Znak 208 znači „prednost prolaska vozilima iz suprotnog smjera”. Crvena strelica si ti: ti čekaš. Vozači iz suprotnog smjera vide znak 308.",
+      "tip": "Crvena strelica = ja čekam."
+    },
+    "si31": {
+      "prompt": "Što znači ova ploča ispod ograničenja brzine?",
+      "options": ["Ograničenje vrijedi na sljedećih 800 metara", "Ograničenje počinje za 800 metara", "Sljedeća benzinska postaja je za 800 metara"],
+      "why": "„auf 800 m” navodi duljinu na kojoj ograničenje vrijedi; znak kraja ne slijedi. „nach 200 m”, naprotiv, govori gdje nešto počinje.",
+      "tip": "„auf” = na kojoj duljini. „nach” = nakon koje udaljenosti."
+    },
+    "si32": {
+      "prompt": "Što pokazuju ove crveno-bijele strelice?",
+      "options": ["Smjer zavoja", "Izlaz s gradilišta", "Zabranu pretjecanja"],
+      "why": "Ploče za označavanje zavoja (625) pokazuju na koju stranu ide zavoj. Gdje stoje, zavoj je često oštriji nego što izgleda."
+    },
+    "sp01": {
+      "prompt": "Koje ograničenje brzine vrijedi za osobni automobil izvan naselja kad nema znakova (ne na autocesti)?",
+      "why": "Izvan naselja ograničenje za osobne automobile je 100 km/h (§ 3 st. 3 StVO). Na autocestama nema općeg ograničenja za osobne automobile, ali preporučena najveća brzina je 130 km/h.",
+      "tip": "Naselje 50, izvan 100, autocesta 130 preporuka."
+    },
+    "sp02": {
+      "prompt": "Što vrijedi na autocesti kad ograničenje brzine nije označeno?",
+      "options": ["Preporučuje se najviše 130 km/h", "130 km/h zakonsko je ograničenje", "Ništa ne treba uzeti u obzir"],
+      "why": "130 km/h je preporuka, a ne ograničenje. Ali ako voziš brže i dođe do nesreće, može ti se pripisati dio odgovornosti, čak i ako inače nisi kriv ili kriva."
+    },
+    "sp03": {
+      "prompt": "Koja je najveća brzina osobnog automobila s prikolicom izvan naselja i na autocesti (bez posebnog odobrenja)?",
+      "why": "S prikolicom su osobni automobili ograničeni na 80 km/h izvan naselja i na autocestama. S odobrenjem „Tempo 100” za skup vozila na autocestama i brzim cestama dopušteno je 100 km/h."
+    },
+    "sp04": {
+      "prompt": "Magla, snijeg ili kiša smanjuju vidljivost ispod 50 m. Kolikom najvećom brzinom smiješ voziti?",
+      "why": "Pri vidljivosti ispod 50 m zbog magle, snijega ili kiše ne smiješ prijeći 50 km/h, a često treba voziti sporije (§ 3 st. 1 StVO). Smjerokazni stupići uz cestu stoje na 50 m razmaka, što pomaže procijeniti udaljenost.",
+      "tip": "Ne vidiš sljedeći stupić? Ispod 50 km/h."
+    },
+    "sp05": {
+      "prompt": "Koja je najveća brzina sa stavljenim lancima za snijeg?",
+      "why": "S lancima ograničenje je 50 km/h, čak i gdje je inače dopušteno više. Lance koristi samo na neprekinutom snježnom pokrivaču."
+    },
+    "sp06": {
+      "prompt": "Koliko brzo smiješ voziti kad ne vidiš daleko naprijed?",
+      "options": ["Tako da se mogu zaustaviti na vidljivoj udaljenosti", "Na vrlo uskim cestama tako da se mogu zaustaviti na pola te udaljenosti", "Koliko dopušta znak"],
+      "why": "Vožnja na udaljenost vidljivosti (§ 3 st. 1 StVO): moraš se moći zaustaviti na udaljenosti koju vidiš. Na cesti toliko uskoj da bi promet iz suprotnog smjera bio ugrožen — na polovici, jer i drugi vozač treba prostor za zaustavljanje."
+    },
+    "sp07": {
+      "prompt": "Prema okvirnom pravilu, koliki je put reakcije pri 50 km/h?",
+      "why": "50 ÷ 10 = 5, puta 3 = 15 m. Okvirna pravila: put reakcije = (brzina ÷ 10) × 3. Put kočenja = (brzina ÷ 10) × (brzina ÷ 10). Pri naglom kočenju put kočenja se prepolovi. Put zaustavljanja = put reakcije + put kočenja."
+    },
+    "sp08": {
+      "prompt": "Prema okvirnom pravilu, koliki je normalni put kočenja pri 50 km/h?",
+      "why": "50 ÷ 10 = 5, puta 5 = 25 m. Okvirna pravila: put reakcije = (brzina ÷ 10) × 3. Put kočenja = (brzina ÷ 10) × (brzina ÷ 10). Pri naglom kočenju put kočenja se prepolovi. Put zaustavljanja = put reakcije + put kočenja."
+    },
+    "sp09": {
+      "prompt": "Prema okvirnom pravilu, koliki je put zaustavljanja pri 100 km/h (normalno kočenje)?",
+      "why": "Reakcija 10 × 3 = 30 m, kočenje 10 × 10 = 100 m, ukupno 130 m. Okvirna pravila: put reakcije = (brzina ÷ 10) × 3. Put kočenja = (brzina ÷ 10) × (brzina ÷ 10). Pri naglom kočenju put kočenja se prepolovi. Put zaustavljanja = put reakcije + put kočenja."
+    },
+    "sp10": {
+      "prompt": "Prema okvirnom pravilu, koliki je put kočenja pri naglom kočenju sa 100 km/h?",
+      "why": "Normalno kočenje 10 × 10 = 100 m; naglo kočenje ga prepolovi: 50 m. Okvirna pravila: put reakcije = (brzina ÷ 10) × 3. Put kočenja = (brzina ÷ 10) × (brzina ÷ 10). Pri naglom kočenju put kočenja se prepolovi. Put zaustavljanja = put reakcije + put kočenja."
+    },
+    "sp11": {
+      "prompt": "Prema okvirnom pravilu, koliki je put zaustavljanja pri 70 km/h (normalno kočenje)?",
+      "why": "Reakcija 7 × 3 = 21 m, kočenje 7 × 7 = 49 m, ukupno 70 m. Okvirna pravila: put reakcije = (brzina ÷ 10) × 3. Put kočenja = (brzina ÷ 10) × (brzina ÷ 10). Pri naglom kočenju put kočenja se prepolovi. Put zaustavljanja = put reakcije + put kočenja."
+    },
+    "sp12": {
+      "prompt": "Voziš dvostruko brže. Što se događa s putem reakcije i putem kočenja?",
+      "options": ["Put reakcije se udvostručuje", "Put kočenja se učetverostručuje", "Put kočenja se udvostručuje"],
+      "why": "Put reakcije raste razmjerno brzini; put kočenja raste s njezinim kvadratom. Dvostruko brže znači četiri puta dulji put kočenja.",
+      "tip": "Dvostruka brzina, četverostruko kočenje."
+    },
+    "sp13": {
+      "prompt": "Voziš 80 km/h izvan naselja. Koliki razmak u metrima moraš držati najmanje do vozila ispred (pravilo „pola brzinomjera”)?",
+      "why": "Izvan naselja vrijedi pravilo „pola brzinomjera”: polovica brzine u metrima — 40 m pri 80 km/h, nešto manje od dvije sekunde. Manje od tri desetine toga smatra se opasnom vožnjom na repu i kažnjava se.",
+      "tip": "Odbroji dvije sekunde: „dvadeset jedan, dvadeset dva”."
+    },
+    "sp14": {
+      "prompt": "Što produljuje put zaustavljanja?",
+      "options": ["Umor, jer reakcija dolazi kasnije", "Mokar ili sklizak kolnik", "Nove gume s dubokom šarom"],
+      "why": "Put zaustavljanja je reakcija plus kočenje. Umor, nepažnja i alkohol produljuju prvo; mokrina, lišće, snijeg, istrošene gume i težak teret produljuju drugo."
+    },
+    "sp15": {
+      "prompt": "Kada moraš voziti sporije nego što ograničenje dopušta?",
+      "options": ["U magli, na kiši ili na skliskoj cesti", "Kad su djeca uz cestu", "Kad mi netko vozi na repu"],
+      "why": "Ograničenje je gornja granica. Brzina mora odgovarati cesti, prometu, vidljivosti i vremenu (§ 3 st. 1 StVO), uz poseban oprez pokraj djece, starijih i svih kojima treba pomoć."
+    },
+    "sp16": {
+      "prompt": "Smiješ li bez razloga voziti vrlo sporo?",
+      "options": ["Ne, ne tako sporo da ometam tok prometa", "Da, sporo je uvijek sigurno", "Da, ali samo na autocesti"],
+      "why": "Bez opravdanog razloga motorna vozila ne smiju voziti tako sporo da ometaju promet (§ 3 st. 2 StVO). Nepotrebno spora vožnja navodi druge na rizično pretjecanje."
+    },
+    "sp17": {
+      "prompt": "Prema okvirnom pravilu, koliki je put kočenja pri naglom kočenju s 80 km/h?",
+      "why": "Normalno kočenje 8 × 8 = 64 m; polovica je 32 m. Okvirna pravila: put reakcije = (brzina ÷ 10) × 3. Put kočenja = (brzina ÷ 10) × (brzina ÷ 10). Pri naglom kočenju put kočenja se prepolovi. Put zaustavljanja = put reakcije + put kočenja."
+    },
+    "sp18": {
+      "prompt": "Prema okvirnom pravilu, koliki je put reakcije pri 100 km/h?",
+      "why": "100 ÷ 10 = 10, puta 3 = 30 m — u onoj jednoj sekundi prije nego što noga uopće dotakne kočnicu. Okvirna pravila: put reakcije = (brzina ÷ 10) × 3. Put kočenja = (brzina ÷ 10) × (brzina ÷ 10). Pri naglom kočenju put kočenja se prepolovi. Put zaustavljanja = put reakcije + put kočenja."
+    },
+    "sp19": {
+      "prompt": "Prema okvirnom pravilu, koliki je normalni put kočenja pri 30 km/h?",
+      "why": "30 ÷ 10 = 3, puta 3 = 9 m. S 50 km/h već je 25 m — zato je pred školama 30. Okvirna pravila: put reakcije = (brzina ÷ 10) × 3. Put kočenja = (brzina ÷ 10) × (brzina ÷ 10). Pri naglom kočenju put kočenja se prepolovi. Put zaustavljanja = put reakcije + put kočenja."
+    },
+    "sp20": {
+      "prompt": "Voziš 50 km/h u gradu. Koji je najmanji razuman razmak do vozila ispred?",
+      "options": ["Otprilike put koji prijeđem u jednoj sekundi (oko 15 m)", "Jedna duljina automobila", "Toliko blizu da se nitko ne ugura"],
+      "why": "Razmak mora omogućiti zaustavljanje čak i ako vozilo ispred naglo zakoči (§ 4 st. 1 StVO). U gradu je minimum razmak od jedne sekunde; izvan grada „pola brzinomjera”."
+    },
+    "ov01": {
+      "prompt": "Kada je pretjecanje zabranjeno?",
+      "options": ["Kad je prometna situacija nejasna", "Kad nisam znatno brži ili brža od vozila koje želim prestići", "Kad je promet iz suprotnog smjera daleko"],
+      "why": "Smiješ pretjecati samo ako vidiš da promet iz suprotnog smjera neće biti ometan i ako je tvoja brzina znatno veća od brzine vozila koje pretječeš. Pri nejasnoj situaciji pretjecanje je zabranjeno (§ 5 st. 2 i 3 StVO).",
+      "tip": "Kad si u dvojbi, ne pretječi."
+    },
+    "ov02": {
+      "prompt": "Koliki je najmanji bočni razmak pri pretjecanju biciklista izvan naselja?",
+      "why": "Pri pretjecanju pješaka, biciklista i vozača električnih romobila najmanji razmak je 1,5 m u naselju i 2 m izvan njega (§ 5 st. 4 StVO). Ako ne stane, ne pretječeš.",
+      "tip": "Naselje 1,5 — izvan 2."
+    },
+    "ov03": {
+      "prompt": "Netko te pretječe. Što ne smiješ činiti?",
+      "options": ["Ubrzavati", "Pomaknuti se više udesno", "Nastaviti stalnom brzinom"],
+      "why": "Dok te netko pretječe, ne smiješ ubrzavati (§ 5 st. 6 StVO). Po potrebi uspori i drži se desno."
+    },
+    "ov04": {
+      "prompt": "Vozilo ispred pokazuje lijevo i pomaknulo se prema sredini. Kako prolaziš pokraj njega?",
+      "options": ["Zdesna", "Slijeva", "Nikako — uvijek moram čekati iza njega"],
+      "why": "Vozilo koje je pokazalo i postavilo se za skretanje ulijevo pretječe se zdesna (§ 5 st. 7 StVO), ako ima dovoljno mjesta."
+    },
+    "ov05": {
+      "prompt": "Gdje je pretjecanje zabranjeno?",
+      "options": ["Pri približavanju pješačkim prijelazima i na njima", "Od znakova upozorenja prije željezničkog prijelaza dok se ne prijeđu tračnice", "Na svakom mostu"],
+      "why": "Na pješačkim prijelazima ne smiješ pretjecati (§ 26 st. 3 StVO). Od znaka 151 ili 156 dok ne prijeđeš željeznički prijelaz motorna vozila ne smiju pretjecati druga motorna vozila (§ 19 st. 1 StVO). Za mostove nema općeg pravila."
+    },
+    "ov06": {
+      "prompt": "Što moraš činiti pri pretjecanju?",
+      "options": ["Prije izlaska pokazati lijevo i pogledati preko ramena", "Pri vraćanju pokazati desno", "Pri vraćanju ne presjeći put pretečenom vozilu"],
+      "why": "Izlazak i vraćanje su promjene traka: na vrijeme pokaži smjer, pogledaj u zrcalo i preko ramena (§ 5 st. 4a StVO). Vrati se tek kad ne ometaš pretečeno vozilo."
+    },
+    "ov07": {
+      "prompt": "Na autocesti lijevi trak polako mili u koloni. Smiješ li desno voziti brže?",
+      "options": ["Da, najviše 20 km/h brže i vrlo oprezno, ako lijevi trak vozi 60 km/h ili sporije", "Da, koliko god brže", "Ne, nikad"],
+      "why": "Kad vozila lijevo stoje ili voze sporo, smiješ ih zdesna mimoići samo malo brže i vrlo oprezno (§ 7 st. 2a StVO). Sudovi to određuju kao najviše 20 km/h brže, uz lijevi trak na 60 km/h ili manje."
+    },
+    "ov08": {
+      "prompt": "Na tvojoj strani ceste je prepreka, a iz suprotnog smjera dolazi promet. Tko mora čekati?",
+      "options": ["Ja", "Promet iz suprotnog smjera", "Tko prvi stigne"],
+      "why": "Tko ima prepreku na svojoj strani, mora propustiti vozila iz suprotnog smjera (§ 6 StVO). Pokaži smjer kad obilaziš prepreku.",
+      "tip": "Čija je strana zatvorena, taj čeka."
+    },
+    "ov09": {
+      "prompt": "Kako pretječeš tramvaj na dvosmjernoj ulici?",
+      "options": ["Zdesna", "Slijeva", "S bilo koje strane"],
+      "why": "Tračnička vozila pretječu se zdesna. Slijeva samo u jednosmjernim ulicama ili kad su tračnice predaleko desno (§ 5 st. 7 StVO)."
+    },
+    "ov10": {
+      "prompt": "Na što treba računati pri pretjecanju kamiona na cesti izvan naselja?",
+      "options": ["Put pretjecanja vrlo je dug", "Pri izlasku iza njega može me zahvatiti bočni vjetar", "Kamion mi zaklanja pogled na promet iz suprotnog smjera"],
+      "why": "Kamion je dug i često tek malo sporiji od tebe, pa pretjecanje može trajati nekoliko stotina metara. Iza njega slabo vidiš promet iz suprotnog smjera, a pri izlasku iz njegove zavjetrine bočni vjetar te može gurnuti u stranu."
+    },
+    "ov11": {
+      "prompt": "Kada u gradu smiješ prolaziti pokraj drugih zdesna?",
+      "options": ["Na cestama s više označenih trakova u jednom smjeru", "Kad god je desno slobodno", "Nikad"],
+      "why": "U naselju motorna vozila do 3,5 t smiju na cestama s više označenih trakova u jednom smjeru birati bilo koji trak i tada smiju voziti brže i desno (§ 7 st. 3 StVO)."
+    },
+    "ov12": {
+      "prompt": "Iza biciklista si, dolazi promet iz suprotnog smjera i nema mjesta za razmak od 1,5 m. Što radiš?",
+      "options": ["Ostajem iza biciklista dok ga ne mogu prestići uz dovoljan razmak", "Pretječem tijesno — biciklist se može pomaknuti", "Trubim da biciklist napravi mjesta"],
+      "why": "Najmanji razmak je zakon, a ne savjet. Ako nema mjesta, ne pretječeš. Truba služi samo za upozorenje na opasnost."
+    }
+  }
+}

@@ -12,7 +12,8 @@
     "ar": "حق الأولوية",
     "ru": "Преимущество",
     "pl": "Pierwszeństwo",
-    "ro": "Prioritate"
+    "ro": "Prioritate",
+    "hr": "Prednost prolaska"
    },
    "blurb": {
     "de": "Rechts vor links, Schilder, Abbiegen, Kreisverkehr",
@@ -21,7 +22,8 @@
     "ar": "اليمين قبل اليسار، الإشارات، الانعطاف، الدوّارات",
     "ru": "Правый перед левым, знаки, повороты, кольца",
     "pl": "Prawa przed lewą, znaki, skręty, ronda",
-    "ro": "Dreapta înaintea stângii, indicatoare, viraje, sensuri giratorii"
+    "ro": "Dreapta înaintea stângii, indicatoare, viraje, sensuri giratorii",
+    "hr": "Desni ima prednost, znakovi, skretanje, kružni tokovi"
    }
   },
   {
@@ -36,7 +38,8 @@
     "ar": "الإشارات الضوئية والشرطة",
     "ru": "Светофоры и полиция",
     "pl": "Światła i policja",
-    "ro": "Semafoare și poliție"
+    "ro": "Semafoare și poliție",
+    "hr": "Semafori i policija"
    },
    "blurb": {
     "de": "Wer wen überstimmt, Blaulicht, Grünpfeil",
@@ -45,7 +48,8 @@
     "ar": "من يتقدم على من، الأضواء الزرقاء، السهم الأخضر",
     "ru": "Кто главнее, синие маячки, зелёная стрелка",
     "pl": "Kto przed kim, niebieskie światła, zielona strzałka",
-    "ro": "Cine are întâietate, girofar albastru, săgeată verde"
+    "ro": "Cine are întâietate, girofar albastru, săgeată verde",
+    "hr": "Tko je iznad koga, plava svjetla, zelena strelica"
    }
   },
   {
@@ -60,7 +64,8 @@
     "ar": "إشارات المرور",
     "ru": "Дорожные знаки",
     "pl": "Znaki drogowe",
-    "ro": "Indicatoare rutiere"
+    "ro": "Indicatoare rutiere",
+    "hr": "Prometni znakovi"
    },
    "blurb": {
     "de": "Gefahr, Gebot, Verbot, Markierungen",
@@ -69,7 +74,8 @@
     "ar": "تحذير، إلزام، منع، علامات الطريق",
     "ru": "Предупреждающие, предписывающие, запрещающие, разметка",
     "pl": "Ostrzegawcze, nakazu, zakazu, oznakowanie poziome",
-    "ro": "Avertizare, obligare, interzicere, marcaje"
+    "ro": "Avertizare, obligare, interzicere, marcaje",
+    "hr": "Opasnost, obveza, zabrana, oznake na kolniku"
    }
   },
   {
@@ -84,7 +90,8 @@
     "ar": "القواعد الأساسية",
     "ru": "Основные правила",
     "pl": "Podstawowe zasady",
-    "ro": "Reguli de bază"
+    "ro": "Reguli de bază",
+    "hr": "Osnovna pravila"
    },
    "blurb": {
     "de": "Rechtsfahren, Spurwechsel, Reißverschluss",
@@ -93,7 +100,8 @@
     "ar": "السير على اليمين، تغيير المسار، الاندماج بالتناوب",
     "ru": "Правостороннее движение, перестроение, «молния»",
     "pl": "Ruch prawostronny, zmiana pasa, jazda na suwak",
-    "ro": "Mersul pe dreapta, schimbarea benzii, fermoarul"
+    "ro": "Mersul pe dreapta, schimbarea benzii, fermoarul",
+    "hr": "Vožnja desno, promjena traka, patentni zatvarač"
    }
   },
   {
@@ -108,7 +116,8 @@
     "ar": "السرعة والمسافة",
     "ru": "Скорость и дистанция",
     "pl": "Prędkość i odstęp",
-    "ro": "Viteză și distanță"
+    "ro": "Viteză și distanță",
+    "hr": "Brzina i razmak"
    },
    "blurb": {
     "de": "Limits, Anhalteweg, Faustformeln",
@@ -117,7 +126,8 @@
     "ar": "الحدود، مسافة التوقف، القواعد التقريبية",
     "ru": "Ограничения, остановочный путь, формулы",
     "pl": "Ograniczenia, droga zatrzymania, wzory",
-    "ro": "Limite, distanța de oprire, reguli practice"
+    "ro": "Limite, distanța de oprire, reguli practice",
+    "hr": "Ograničenja, put zaustavljanja, okvirna pravila"
    }
   },
   {
@@ -132,7 +142,8 @@
     "ar": "التجاوز",
     "ru": "Обгон",
     "pl": "Wyprzedzanie",
-    "ro": "Depășirea"
+    "ro": "Depășirea",
+    "hr": "Pretjecanje"
    },
    "blurb": {
     "de": "Wann, wie, mit wie viel Abstand",
@@ -141,7 +152,8 @@
     "ar": "متى، وكيف، وبأي مسافة",
     "ru": "Когда, как, с каким интервалом",
     "pl": "Kiedy, jak, z jakim odstępem",
-    "ro": "Când, cum, cu câtă distanță"
+    "ro": "Când, cum, cu câtă distanță",
+    "hr": "Kada, kako, s kolikim razmakom"
    }
   },
   {
@@ -156,7 +168,8 @@
     "ar": "الانعطاف والرجوع",
     "ru": "Повороты и задний ход",
     "pl": "Skręcanie i cofanie",
-    "ro": "Viraje și mers înapoi"
+    "ro": "Viraje și mers înapoi",
+    "hr": "Skretanje i vožnja unatrag"
    },
    "blurb": {
     "de": "Schulterblick, Einordnen, Rückwärtsfahren",
@@ -165,7 +178,8 @@
     "ar": "النظر فوق الكتف، التموضع، الرجوع إلى الخلف",
     "ru": "Взгляд через плечо, положение, задний ход",
     "pl": "Spojrzenie przez ramię, ustawienie, cofanie",
-    "ro": "Privirea peste umăr, poziționare, mers înapoi"
+    "ro": "Privirea peste umăr, poziționare, mers înapoi",
+    "hr": "Pogled preko ramena, položaj, vožnja unatrag"
    }
   },
   {
@@ -180,7 +194,8 @@
     "ar": "المشاة وراكبو الدراجات",
     "ru": "Пешеходы и велосипедисты",
     "pl": "Piesi i rowerzyści",
-    "ro": "Pietoni și bicicliști"
+    "ro": "Pietoni și bicicliști",
+    "hr": "Pješaci i biciklisti"
    },
    "blurb": {
     "de": "Kinder, Zebrastreifen, Seitenabstand",
@@ -189,7 +204,8 @@
     "ar": "الأطفال، معابر المشاة، المسافة الجانبية",
     "ru": "Дети, «зебры», интервал",
     "pl": "Dzieci, przejścia dla pieszych, odstęp",
-    "ro": "Copii, treceri de pietoni, distanța laterală"
+    "ro": "Copii, treceri de pietoni, distanța laterală",
+    "hr": "Djeca, pješački prijelazi, razmak"
    }
   },
   {
@@ -204,7 +220,8 @@
     "ar": "القطارات والحافلات",
     "ru": "Поезда и автобусы",
     "pl": "Pociągi i autobusy",
-    "ro": "Trenuri și autobuze"
+    "ro": "Trenuri și autobuze",
+    "hr": "Vlakovi i autobusi"
    },
    "blurb": {
     "de": "Bahnübergang, Straßenbahn, Haltestellen",
@@ -213,7 +230,8 @@
     "ar": "معابر السكة، الترام، مواقف الحافلات",
     "ru": "Переезды, трамваи, остановки",
     "pl": "Przejazdy kolejowe, tramwaje, przystanki",
-    "ro": "Treceri la nivel, tramvaie, stații de autobuz"
+    "ro": "Treceri la nivel, tramvaie, stații de autobuz",
+    "hr": "Željeznički prijelazi, tramvaji, stajališta"
    }
   },
   {
@@ -228,7 +246,8 @@
     "ar": "التوقف والوقوف",
     "ru": "Остановка и стоянка",
     "pl": "Zatrzymanie i postój",
-    "ro": "Oprire și parcare"
+    "ro": "Oprire și parcare",
+    "hr": "Zaustavljanje i parkiranje"
    },
    "blurb": {
     "de": "Wo nicht, wie lange, Parkscheibe",
@@ -237,7 +256,8 @@
     "ar": "أين لا، كم من الوقت، قرص الوقوف",
     "ru": "Где нельзя, как долго, парковочный диск",
     "pl": "Gdzie nie, jak długo, tarcza parkingowa",
-    "ro": "Unde nu, cât timp, discul de parcare"
+    "ro": "Unde nu, cât timp, discul de parcare",
+    "hr": "Gdje ne, koliko dugo, parkirni sat"
    }
   },
   {
@@ -252,7 +272,8 @@
     "ar": "الطريق السريع",
     "ru": "Автобан",
     "pl": "Autostrada",
-    "ro": "Autostrada"
+    "ro": "Autostrada",
+    "hr": "Autocesta"
    },
    "blurb": {
     "de": "Auffahren, Rettungsgasse, Panne",
@@ -261,7 +282,8 @@
     "ar": "الدخول، ممر الطوارئ، الأعطال",
     "ru": "Въезд, коридор для спасателей, поломки",
     "pl": "Włączanie się, korytarz życia, awarie",
-    "ro": "Intrarea, culoarul de salvare, penele"
+    "ro": "Intrarea, culoarul de salvare, penele",
+    "hr": "Uključivanje, koridor za interventna vozila, kvarovi"
    }
   },
   {
@@ -276,7 +298,8 @@
     "ar": "المخاطر",
     "ru": "Опасности",
     "pl": "Zagrożenia",
-    "ro": "Pericole"
+    "ro": "Pericole",
+    "hr": "Opasnosti"
    },
    "blurb": {
     "de": "Nässe, Glätte, Nacht, Wild, Ablenkung",
@@ -285,7 +308,8 @@
     "ar": "البلل، الجليد، الليل، الحيوانات، التشتت",
     "ru": "Влага, лёд, ночь, животные, отвлечение",
     "pl": "Mokro, lód, noc, zwierzęta, rozproszenie",
-    "ro": "Umezeală, gheață, noapte, animale, distragere"
+    "ro": "Umezeală, gheață, noapte, animale, distragere",
+    "hr": "Mokrina, led, noć, životinje, nepažnja"
    }
   },
   {
@@ -300,7 +324,8 @@
     "ar": "الكحول والتعب",
     "ru": "Алкоголь и усталость",
     "pl": "Alkohol i zmęczenie",
-    "ro": "Alcool și oboseală"
+    "ro": "Alcool și oboseală",
+    "hr": "Alkohol i umor"
    },
    "blurb": {
     "de": "Promille, Cannabis, Medikamente",
@@ -309,7 +334,8 @@
     "ar": "حدود الكحول، القنب، الأدوية",
     "ru": "Пределы алкоголя, каннабис, лекарства",
     "pl": "Limity alkoholu, marihuana, leki",
-    "ro": "Limite de alcool, canabis, medicamente"
+    "ro": "Limite de alcool, canabis, medicamente",
+    "hr": "Granice alkohola, kanabis, lijekovi"
    }
   },
   {
@@ -324,7 +350,8 @@
     "ar": "السيارة والتقنية",
     "ru": "Автомобиль и техника",
     "pl": "Samochód i technika",
-    "ro": "Mașina și tehnica"
+    "ro": "Mașina și tehnica",
+    "hr": "Automobil i tehnika"
    },
    "blurb": {
     "de": "Reifen, Warnleuchten, Ladung, Anhänger",
@@ -333,7 +360,8 @@
     "ar": "الإطارات، أضواء التحذير، الحمولات، المقطورات",
     "ru": "Шины, контрольные лампы, груз, прицепы",
     "pl": "Opony, kontrolki, ładunek, przyczepy",
-    "ro": "Anvelope, martori, încărcătură, remorci"
+    "ro": "Anvelope, martori, încărcătură, remorci",
+    "hr": "Gume, žaruljice upozorenja, teret, prikolice"
    }
   },
   {
@@ -348,7 +376,8 @@
     "ar": "البيئة",
     "ru": "Окружающая среда",
     "pl": "Środowisko",
-    "ro": "Mediu"
+    "ro": "Mediu",
+    "hr": "Okoliš"
    },
    "blurb": {
     "de": "Sparsam fahren, Lärm, Umweltzone",
@@ -357,7 +386,8 @@
     "ar": "القيادة الاقتصادية، الضجيج، مناطق الانبعاثات المنخفضة",
     "ru": "Экономичная езда, шум, экологические зоны",
     "pl": "Ekonomiczna jazda, hałas, strefy niskiej emisji",
-    "ro": "Condus economic, zgomot, zone cu emisii reduse"
+    "ro": "Condus economic, zgomot, zone cu emisii reduse",
+    "hr": "Štedljiva vožnja, buka, zone niskih emisija"
    }
   },
   {
@@ -372,7 +402,8 @@
     "ar": "الواجبات والقانون",
     "ru": "Обязанности и закон",
     "pl": "Obowiązki i prawo",
-    "ro": "Obligații și lege"
+    "ro": "Obligații și lege",
+    "hr": "Obveze i zakon"
    },
    "blurb": {
     "de": "Unfall, Probezeit, Punkte, Papiere",
@@ -381,7 +412,8 @@
     "ar": "الحوادث، فترة الاختبار، النقاط، الوثائق",
     "ru": "Аварии, испытательный срок, баллы, документы",
     "pl": "Wypadki, okres próbny, punkty, dokumenty",
-    "ro": "Accidente, perioada de probă, puncte, acte"
+    "ro": "Accidente, perioada de probă, puncte, acte",
+    "hr": "Nesreće, probno razdoblje, bodovi, isprave"
    }
   }
  ],
@@ -417,7 +449,7 @@
   "ru": 1,
   "pl": 1,
   "ro": 1,
-  "hr": 0,
+  "hr": 1,
   "el": 0,
   "it": 0,
   "es": 0,

@@ -1,0 +1,317 @@
+{
+  "questions": {
+    "ha01": {
+      "prompt": "Na jakoj kiši upravljač iznenada postane lagan — akvaplaning. Što radiš?",
+      "options": ["Pritišćem spojku ili skidam nogu s gasa", "Držim upravljač ravno", "Snažno kočim i kontriram upravljačem"],
+      "why": "Pri akvaplaningu gume klize po sloju vode i ne prenose nikakvu silu. Skini nogu s gasa (ili pritisni spojku), ne koči i drži upravljač ravno dok gume ponovno ne prihvate, inače se vozilo zanese.",
+      "tip": "Noga s gasa, ruke mirne."
+    },
+    "ha02": {
+      "prompt": "Gdje zimi osobito treba računati s poledicom?",
+      "options": ["Na mostovima", "Na šumskim i zasjenjenim dionicama", "U grijanim podzemnim garažama"],
+      "why": "Mostovi se hlade odozgo i odozdo i prvi se smrzavaju. U šumi i hladu led se zadržava dulje, čak i kad je cesta prije bila suha."
+    },
+    "ha03": {
+      "prompt": "Nakon duge suše počinje kiša. Što je točno?",
+      "options": ["Cesta sada može biti osobito skliska", "Kiša čisti cestu i poboljšava prianjanje", "To se odnosi samo na kocke"],
+      "why": "Prva kiša pretvara prašinu, gumu i ulje u sklizak sloj. Tek dulja kiša ga ispere."
+    },
+    "ha04": {
+      "prompt": "Kada smiješ upaliti stražnje svjetlo za maglu?",
+      "options": ["Kad magla smanji vidljivost ispod 50 m", "Uvijek kad pada kiša", "Noću na cestama izvan naselja"],
+      "why": "Stražnje svjetlo za maglu dopušteno je samo kad magla smanji vidljivost ispod 50 m — i tada je ograničenje 50 km/h (§ 17 st. 3 StVO). Pri boljoj vidljivosti zasljepljuje vozače iza.",
+      "tip": "Stražnje svjetlo za maglu upaljeno = najviše 50."
+    },
+    "ha05": {
+      "prompt": "Noću te zasljepljuju svjetla iz suprotnog smjera. Što radiš?",
+      "options": ["Gledam desni rub ceste", "Usporavam, po potrebi stajem", "Uzvraćam dugim svjetlima"],
+      "why": "Gledaj desni rub i uspori. Nakon zasljepljivanja oči nekoliko sekundi gotovo ne vide, a u tom vremenu prijeđeš velik put."
+    },
+    "ha06": {
+      "prompt": "Noću na cesti u svjetlu farova stoji srna. Što radiš?",
+      "options": ["Prebacujem na kratka svjetla, trubim i kočim", "Ako se sudar ne može izbjeći: čvrsto držim upravljač i ne izvodim opasan manevar", "Ostavljam duga svjetla da ode"],
+      "why": "Duga svjetla paraliziraju divljač; kratka svjetla i truba je tjeraju. Izbjegavanje u stablo ili u promet iz suprotnog smjera opasnije je od udara u životinju.",
+      "tip": "Kratka, truba, kočnica — bez naglog skretanja."
+    },
+    "ha07": {
+      "prompt": "Došlo je do naleta na srnu. Što radiš?",
+      "options": ["Osiguravam mjesto nesreće", "Obavještavam policiju ili zakupnika lovišta", "Uzimam životinju sa sobom"],
+      "why": "Sva četiri pokazivača, prsluk, trokut — zatim nazovi policiju, koja će obavijestiti zakupnika lovišta. Ne diraj i ne uzimaj životinju: to bi bio krivolov. Osiguranje će tražiti potvrdu o naletu na divljač."
+    },
+    "ha08": {
+      "prompt": "Kada kočiš za zavoj?",
+      "options": ["Prije zavoja, dok još vozim ravno", "Usred zavoja", "Na izlazu iz zavoja"],
+      "why": "U zavoju gume trebaju prianjanje da zadrže putanju. Kočenje ondje prijeti da vozilo produži ravno. Prvo koči, zatim mirno prođi zavoj.",
+      "tip": "Polako u zavoj, mirno iz njega."
+    },
+    "ha09": {
+      "prompt": "Na dugom putu hvata te umor. Što stvarno pomaže?",
+      "options": ["Odmor i, ako je moguće, kratak san", "Otvoren prozor i glasna glazba", "Brža vožnja da prije stignem"],
+      "why": "Umor liječi samo san. Svjež zrak i glazba donose najviše nekoliko minuta. Mikrosan od tri sekunde pri 100 km/h znači više od 80 metara vožnje naslijepo."
+    },
+    "ha10": {
+      "prompt": "Na mostu ili na čistini između stabala zahvati te bočni vjetar. Što radiš?",
+      "options": ["Usporavam i čvrsto držim upravljač", "Računam s udarom vjetra pri pretjecanju kamiona", "Snažno kontriram čim nešto osjetim"],
+      "why": "Bočni vjetar dolazi u naletima. Sporije i s mirnim, čvrstim stiskom ispravljaš malim pokretima; nagli pokreti upravljača ljuljaju vozilo. Znak 117 upozorava na tipična mjesta."
+    },
+    "ha11": {
+      "prompt": "Približava se motocikl, a ti želiš skrenuti lijevo. Što je ovdje teško?",
+      "options": ["Njegovu brzinu teško je procijeniti", "Lako ga je previdjeti jer je uzak", "Motocikli moraju propustiti one koji skreću lijevo"],
+      "why": "Motocikli su uski i izgledaju dalje i sporije nego što jesu. Mnoge nesreće događaju se upravo tako: onaj tko skreće lijevo previdi motocikl iz suprotnog smjera. U dvojbi pričekaj."
+    },
+    "ha12": {
+      "prompt": "Za vrijeme vožnje zvoni mobitel. Što smiješ?",
+      "options": ["Razgovarati preko uređaja za slobodne ruke bez uzimanja mobitela u ruku", "Nakratko ga uzeti u ruku dok čekam na crvenom", "Pročitati poruku na ravnoj cesti"],
+      "why": "Za vrijeme vožnje ne smiješ uzeti ni držati mobitel, čak ni na crvenom ili kad start-stop ugasi motor. Dopušteni su samo glasovno upravljanje ili kratak pogled na pričvršćen mobitel (§ 23 st. 1a StVO).",
+      "tip": "I crveno je vožnja. Pauza je tek kad je motor potpuno ugašen."
+    },
+    "ha13": {
+      "prompt": "Noću voziš izvan naselja s dugim svjetlima. Kada moraš prebaciti na kratka?",
+      "options": ["Kad netko dolazi iz suprotnog smjera", "Kad vozim blizu iza drugog vozila", "Samo pred kamionima iz suprotnog smjera"],
+      "why": "Prebaci na kratka kad netko dolazi iz suprotnog smjera, kad voziš blizu iza drugog vozila i gdje god bi se drugi mogli zaslijepiti (§ 17 st. 2 StVO) — uključujući pješake i bicikliste."
+    },
+    "ha14": {
+      "prompt": "Kada trebaš zimske gume?",
+      "options": ["Na poledici, utabanom snijegu, bljuzgavici, ledu ili inju", "Od 1. listopada do 31. ožujka, bez obzira na vrijeme", "Samo na autocesti"],
+      "why": "U Njemačkoj pravilo ovisi o vremenu: u zimskim uvjetima smiješ voziti samo na zimskim ili cjelogodišnjim gumama s alpskim simbolom (planina s pahuljicom). Gume samo s oznakom M+S od listopada 2024. više ne vrijede.",
+      "tip": "Okvirno pravilo: od listopada do Uskrsa."
+    },
+    "ha15": {
+      "prompt": "Ispred tebe uz cestu stao je kombi sa sladoledom. Što očekuješ?",
+      "options": ["Djecu koja iznenada pretrčavaju cestu", "Da će kombi uskoro krenuti", "Ništa posebno"],
+      "why": "Gdje god nešto privlači djecu — kombiji sa sladoledom, igrališta, škole — ona trče bez gledanja. Vozi polako i budi spremno za kočenje."
+    },
+    "ha16": {
+      "prompt": "Voziš iza kamiona izvan naselja. Zašto držiš veći razmak?",
+      "options": ["Da vidim cestu pokraj njega", "Jer me vozač kamiona možda ne vidi", "Jer kamioni nikad ne koče"],
+      "why": "Tik iza kamiona ne vidiš ništa od ceste ispred i nalaziš se u mrtvom kutu njegovih zrcala. Veći razmak daje pregled i vrijeme ako naglo zakoči."
+    },
+    "fi01": {
+      "prompt": "Koliko alkohola smiješ imati u krvi pri vožnji u probnom razdoblju ili prije 21. godine?",
+      "why": "U probnom razdoblju i prije 21. rođendana vrijedi apsolutna zabrana alkohola (§ 24c StVG): 0,0 promila, ni jedno malo pivo. Kršenje je teži prekršaj u probnom razdoblju, s tečajem i produljenjem probnog razdoblja.",
+      "tip": "Novi vozači: nula zarez nula."
+    },
+    "fi02": {
+      "prompt": "Od koje razine alkohola u krvi činiš prekršaj, čak i bez znakova utjecaja?",
+      "options": ["0,5 ‰", "0,8 ‰", "1,1 ‰"],
+      "why": "Od 0,5 ‰ riječ je o prekršaju (novčana kazna, bodovi, zabrana vožnje). Od 0,3 ‰ to je već kazneno djelo ako se pojave pogreške u vožnji ili znakovi utjecaja. Od 1,1 ‰ smatra se apsolutna nesposobnost za vožnju — uvijek kazneno djelo.",
+      "tip": "0,3 s pogreškama — 0,5 uvijek — 1,1 kazneno djelo."
+    },
+    "fi03": {
+      "prompt": "Otprilike koliko brzo tijelo razgrađuje alkohol?",
+      "options": ["Oko 0,1 promila na sat", "Brže uz jaku kavu", "Brže uz hladan tuš i svjež zrak"],
+      "why": "Jetra razgradi oko 0,1 ‰ na sat, ne brže. Kava, tuš ili kretanje ništa ne mijenjaju. Nakon duge noći ujutro se još može biti iznad granice."
+    },
+    "fi04": {
+      "prompt": "Što od 2024. vrijedi za kanabis i vožnju?",
+      "options": ["Od 3,5 ng/ml THC-a u krvnom serumu je prekršaj", "U probnom razdoblju i do 21. godine zabranjen je bilo kakav THC", "Kanabis s alkoholom je u redu ako su oboje ispod granice"],
+      "why": "Od kolovoza 2024. granica THC-a je 3,5 ng/ml u krvnom serumu (§ 24a StVG). Vozači u probnom razdoblju i mlađi od 21 godine ne smiju uopće voziti pod utjecajem kanabisa. Tko kombinira kanabis i alkohol, mora imati 0,0 ‰."
+    },
+    "fi05": {
+      "prompt": "Uzimaš lijek. Što radiš prije vožnje?",
+      "options": ["Čitam uputu i u dvojbi pitam liječnika ili ljekarnika", "Ništa — lijekovi bez recepta uvijek su u redu", "Popijem malo alkohola da ublažim djelovanje"],
+      "why": "Mnogi lijekovi, uključujući one bez recepta za prehladu i alergiju, izazivaju pospanost ili usporavaju reakcije. S alkoholom je učinak često znatno jači."
+    },
+    "fi06": {
+      "prompt": "Tvoja vozačka dozvola ima šifru 01 (korekcija vida). Što to znači?",
+      "options": ["Pri vožnji moram nositi naočale ili kontaktne leće", "Smijem voziti samo po danu", "Uvijek moram imati rezervne naočale"],
+      "why": "Uvjet korekcije vida vrijedi pri svakoj vožnji. Vožnja bez naočala ili leća krši uvjet — novčana kazna i problemi s osiguranjem nakon nesreće."
+    },
+    "fi07": {
+      "prompt": "Po čemu primjećuješ da te umor sprječava u vožnji?",
+      "options": ["Često zijevanje i teški kapci", "Ne sjećam se zadnjih nekoliko kilometara", "Osjećam posebnu svježinu i budnost"],
+      "why": "Zijevanje, peckanje očiju, drhtavica, rupe u pamćenju, izlaženje iz traka — to su znakovi upozorenja. Najkasnije tada stani na odmor."
+    },
+    "fi08": {
+      "prompt": "Nakon svađe te obuzima veliki bijes. Kako to utječe na vožnju?",
+      "options": ["Sklonost riskantnijoj i agresivnijoj vožnji", "Slabije primjećujem opasnosti", "Nikako"],
+      "why": "Jake emocije — bijes, tuga, čak i radost — odvlače pažnju i navode na rizik. Prvo se smiri, a zatim kreni."
+    },
+    "ve01": {
+      "prompt": "Koja je zakonska najmanja dubina šare gume?",
+      "why": "Zakonski minimum je 1,6 mm (§ 36 StVZO). Stručnjaci preporučuju 3 mm za ljetne i 4 mm za zimske gume; ispod toga put kočenja na mokrom i snijegu znatno raste."
+    },
+    "ve02": {
+      "prompt": "Kada se tlak u gumama pravilno provjerava?",
+      "options": ["Na hladnim gumama", "Prema podacima proizvođača, povišen za puno opterećenje", "Odmah nakon duge vožnje autocestom"],
+      "why": "Tople gume pokazuju previsok tlak. Vrijednosti su u uputama, često i na poklopcu spremnika goriva ili na vozačkim vratima. Prenizak tlak produljuje kočenje, povećava potrošnju i može uništiti gumu."
+    },
+    "ve03": {
+      "prompt": "Tijekom vožnje upali se crvena žaruljica tlaka ulja. Što radiš?",
+      "options": ["Stajem čim je sigurno i gasim motor", "Vozim do kuće i ondje provjerim", "Podižem okretaje da pumpa više ulja"],
+      "why": "Crvene žaruljice znače: djeluj odmah. Bez tlaka ulja motor se ne podmazuje i može se uništiti u nekoliko minuta. Stani, ugasi motor, provjeri razinu ulja.",
+      "tip": "Crveno = stani odmah. Narančasto = uskoro u servis."
+    },
+    "ve04": {
+      "prompt": "Tvoj automobil ima ABS. Kako kočiš u nuždi?",
+      "options": ["Snažno pritisnem kočnicu i držim", "Za vrijeme punog kočenja mogu upravljati", "Pumpam kočnicu da se kotači ne blokiraju"],
+      "why": "ABS sprječava blokiranje kotača — pulsiranje pedale je normalno. Pritisni snažno i drži; još uvijek možeš upravljati. Pumpanje kočnice imalo je smisla samo bez ABS-a."
+    },
+    "ve05": {
+      "prompt": "Što radi elektronički sustav stabilnosti (ESP)?",
+      "options": ["Pomaže spriječiti zanošenje kočenjem pojedinih kotača", "Ukida granice fizike", "Skraćuje kočenje na ledu na normalno"],
+      "why": "ESP koči pojedine kotače i smanjuje snagu da vozilo zadrži putanju. Nije lijek za preveliku brzinu — fizika ostaje ista."
+    },
+    "ve06": {
+      "prompt": "Tvoj automobil ima dnevna svjetla. Kada ipak moraš upaliti kratka svjetla?",
+      "options": ["U sumrak i u mraku", "U tunelima i pri slaboj vidljivosti", "Nikad — dnevna svjetla uvijek su dovoljna"],
+      "why": "Dnevna svjetla svijetle samo sprijeda i jedva osvjetljavaju cestu; stražnja svjetla često ostaju ugašena. U sumrak, u mraku, u tunelima i pri slaboj vidljivosti kratka svjetla su obvezna (§ 17 StVO)."
+    },
+    "ve07": {
+      "prompt": "Vučeš automobil užetom. Što je točno?",
+      "options": ["Oba vozila pale sva četiri pokazivača", "Razmak između vozila najviše je 5 m", "Kontakt u vučenom automobilu ostaje isključen"],
+      "why": "Pri vuči oba vozila imaju upaljena sva četiri pokazivača (§ 15a StVO), razmak je najviše 5 m, a uže je u sredini označeno. Kontakt vučenog automobila mora biti uključen, inače se zaključa upravljač; s ugašenim motorom upravljač i kočnice su teški."
+    },
+    "ve08": {
+      "prompt": "Želiš prevoziti prtljagu na krovu. Na što paziš?",
+      "options": ["Da ne prekoračim dopušteno opterećenje krova iz isprava vozila", "Vozilo se ponaša drukčije: težište je više, osjetljivije je na bočni vjetar", "Neosigurane stvari su u redu ako vozim polako"],
+      "why": "Teret mora biti osiguran tako da se ne pomakne ni ne padne ni pri naglom kočenju ili izbjegavanju (§ 22 StVO). Teret na krovu mijenja ponašanje vozila i povećava potrošnju."
+    },
+    "ve09": {
+      "prompt": "Koje prikolice smiješ vući s vozačkom dozvolom kategorije B?",
+      "options": ["Prikolice do 750 kg najveće dopuštene mase", "Teže prikolice, ako cijeli skup ima najviše 3.500 kg najveće dopuštene mase", "Svaku prikolicu koju moj automobil smije vući"],
+      "why": "Kategorija B dopušta prikolice do 750 kg ili teže, dok skup ostaje unutar 3.500 kg. Šifra 96 (nakon obuke) dopušta do 4.250 kg; iznad toga treba kategorija BE."
+    },
+    "ve10": {
+      "prompt": "Voziš niz dugu, strmu nizbrdicu. Kako štediš kočnice?",
+      "options": ["Koristim niži stupanj prijenosa i kočenje motorom", "Vozim u praznom hodu i lagano kočim cijelim putem", "Isključujem kontakt"],
+      "why": "Stalno kočenje pregrijava kočnice dok gotovo ne prestanu raditi (fading). Okvirno pravilo: nizbrdo koristi onaj stupanj koji bi trebalo uzbrdo. Isključivanje kontakta je opasno — gubiš servo upravljač i pomoć pri kočenju."
+    },
+    "ve11": {
+      "prompt": "Što mora imati svaki osobni automobil?",
+      "options": ["Prvu pomoć", "Sigurnosni trokut", "Barem jedan reflektirajući prsluk"],
+      "why": "Prva pomoć, sigurnosni trokut i barem jedan reflektirajući prsluk su obvezni. Preporučuje se prsluk za svaku osobu, nadohvat ruke u kabini."
+    },
+    "ve12": {
+      "prompt": "Želiš postaviti dječju sjedalicu okrenutu unatrag na prednje suvozačko sjedalo. Što moraš učiniti?",
+      "options": ["Isključiti suvozački zračni jastuk", "Ništa — zračni jastuk dodatno štiti", "Pomaknuti sjedalo skroz naprijed"],
+      "why": "Zračni jastuk koji se aktivira udara ogromnom silom u naslon sjedalice okrenute unatrag — to može ubiti. S dječjom sjedalicom okrenutom unatrag suvozački jastuk mora biti isključen."
+    },
+    "ve13": {
+      "prompt": "Djeca mlađa od 12 godina moraju koristiti dječju sjedalicu dok ne dosegnu koju visinu?",
+      "why": "Djeca mlađa od 12 godina niža od 150 cm smiju se voziti samo u prikladnom, homologiranom sustavu za zaštitu djece (§ 21 st. 1a StVO).",
+      "tip": "12 godina ili 150 cm — što prije nastupi."
+    },
+    "ve14": {
+      "prompt": "Koliko često automobil mora na tehnički pregled („TÜV”)?",
+      "options": ["Svake dvije godine; novi automobil prvi put nakon tri", "Svake godine", "Samo nakon nesreće"],
+      "why": "Osobni automobili idu na pregled svaka 24 mjeseca, novi prvi put nakon 36. Naljepnica na stražnjoj registarskoj pločici pokazuje mjesec i godinu sljedećeg."
+    },
+    "ve15": {
+      "prompt": "Kako pravilno namjestiti naslon za glavu?",
+      "options": ["Gornji rub otprilike u visini tjemena, što bliže glavi", "Što niže", "U visini vrata"],
+      "why": "Pri udaru straga naslon za glavu prihvaća glavu. Postavljen prenisko djeluje kao poluga i može ozlijediti vrat."
+    },
+    "ve16": {
+      "prompt": "Na što treba paziti pri sporoj vožnji električnim automobilom?",
+      "options": ["Pješaci ga jedva čuju i možda me ne očekuju", "Vrlo snažno ubrzava s mjesta", "Električni automobili uvijek imaju prednost na parkiralištima"],
+      "why": "Pri maloj brzini električni automobili su vrlo tihi; pješaci — osobito slijepi i djeca — primjećuju ih kasno. Trenutačni okretni moment čini da naglo krenu s mjesta."
+    },
+    "ec01": {
+      "prompt": "Kako voziti najštedljivije?",
+      "options": ["Rano mijenjati u viši stupanj i držati niske okretaje", "Predviđati i izbjegavati nepotrebno kočenje", "U niskim stupnjevima na visokim okretajima"],
+      "why": "Rano mijenjanje u viši stupanj (oko 2.000–2.500 o/min kod benzinca) i predviđajuće kotrljanje štede mnogo goriva. Svako nepotrebno zaustavljanje troši energiju plaćenu gorivom."
+    },
+    "ec02": {
+      "prompt": "Kotrljaš se prema crvenom svjetlu s uključenim stupnjem prijenosa. Što se događa?",
+      "options": ["Dovod goriva se prekida (isključenje ubrizgavanja pri kočenju motorom)", "Motor troši više nego u praznom hodu", "Motor se gasi"],
+      "why": "Pri kotrljanju u stupnju bez gasa suvremeni motori isključuju ubrizgavanje i ne troše gorivo. U praznom hodu motor i dalje troši gorivo da bi radio."
+    },
+    "ec03": {
+      "prompt": "Što je zabranjeno da bi se izbjegla nepotrebna buka i ispušni plinovi?",
+      "options": ["Zagrijavanje motora na mjestu", "Besciljna vožnja tamo-amo po gradu", "Neugašen motor na crvenom"],
+      "why": "Nepotrebna buka i izbježivi ispušni plinovi zabranjeni su, uključujući zagrijavanje na mjestu i besciljno kruženje po gradu (§ 30 st. 1 StVO). Na crvenom motor smije raditi, ali pri duljem čekanju isplati se ugasiti ga."
+    },
+    "ec04": {
+      "prompt": "Čeka te dugo čekanje pred spuštenim branicima. Što radiš?",
+      "options": ["Gasim motor", "Ostavljam ga upaljenim da se ne ohladi", "Dajem gas da napunim akumulator"],
+      "why": "Pri duljem čekanju pred branicima, u koloni ili na semaforu kod radova gašenje motora štedi gorivo te smanjuje buku i ispušne plinove."
+    },
+    "ec05": {
+      "prompt": "Što povećava potrošnju goriva?",
+      "options": ["Prazan krovni nosač", "Prenizak tlak u gumama", "Klima-uređaj"],
+      "why": "Krovna oprema povećava otpor zraka, nizak tlak povećava otpor kotrljanja, a klima-uređaj troši snagu motora. Skini opremu, provjeri tlak i klimu koristi samo kad treba."
+    },
+    "ec06": {
+      "prompt": "Zašto potrošnja naglo raste pri velikoj brzini?",
+      "options": ["Otpor zraka raste s kvadratom brzine", "Jer je motor neučinkovit u najvišem stupnju", "Ne raste — brza vožnja štedi i vrijeme i gorivo"],
+      "why": "Dvostruka brzina znači četverostruki otpor zraka. 120 umjesto 160 km/h na autocesti često uštedi trećinu goriva i stoji samo oko dvanaest minuta na 100 km."
+    },
+    "ec07": {
+      "prompt": "Kamo odlažeš rabljeno motorno ulje?",
+      "options": ["Na mjesto za prikupljanje, npr. ondje gdje je ulje kupljeno", "U kućni otpad u zatvorenoj boci", "U odvod"],
+      "why": "Jedna litra rabljenog ulja može onečistiti milijun litara pitke vode. Trgovine koje prodaju motorno ulje moraju besplatno preuzeti istu količinu rabljenog ulja."
+    },
+    "ec08": {
+      "prompt": "Tko smije ući u zonu niskih emisija?",
+      "options": ["Vozila s propisanom ekološkom naljepnicom", "Svako vozilo koje vozi polako", "Samo električni automobili"],
+      "why": "U zonu niskih emisija (znak 270.1) smiju ući samo vozila s odgovarajućom naljepnicom — danas gotovo posvuda zelenom. Bez nje prijeti novčana kazna."
+    },
+    "ec09": {
+      "prompt": "Koje vožnje najviše opterećuju motor i okoliš?",
+      "options": ["Kratke vožnje s hladnim motorom", "Duge, ujednačene vožnje", "Vožnje s tempomatom"],
+      "why": "Hladan motor troši znatno više goriva i brže se troši, a katalizator se još nije zagrijao. Za kratke relacije često su bolji hodanje, bicikl ili autobus."
+    },
+    "la01": {
+      "prompt": "Što traži temeljno pravilo iz § 1 StVO?",
+      "options": ["Stalni oprez i međusobno uvažavanje", "Nitko ne smije biti ozlijeđen, ugrožen, ometan ili uznemiren više nego što je neizbježno", "Tko ima prednost, smije na njoj inzistirati"],
+      "why": "§ 1 StVO stoji iznad svih drugih pravila: stalni oprez i međusobno uvažavanje. Prednost je pravo koje ne smiješ iznuđivati kad ga drugi očito ne poštuje.",
+      "tip": "Biti u pravu ne znači iznuditi pravo."
+    },
+    "la02": {
+      "prompt": "Nailaziš na nesreću s ozlijeđenima. Što radiš najprije?",
+      "options": ["Osiguravam mjesto nesreće", "Zovem 112 i pružam prvu pomoć", "Vozim dalje — netko drugi će sigurno stati"],
+      "why": "Sva četiri pokazivača, prsluk, trokut: najprije osiguraj mjesto da nitko više ne udari. Zatim 112 i prva pomoć. Nepružanje pomoći kad je to razumno moguće kazneno je djelo (§ 323c StGB).",
+      "tip": "Osiguraj — nazovi — pomozi."
+    },
+    "la03": {
+      "prompt": "Pri izlasku s parkirnog mjesta oštećuješ drugi automobil. Vlasnika nema. Što radiš?",
+      "options": ["Čekam razumno vrijeme i, ako nitko ne dođe, obavještavam policiju", "Ostavljam ceduljicu s brojem ispod brisača i odlazim", "Odlazim — šteta je mala"],
+      "why": "Napuštanje mjesta bez omogućavanja utvrđivanja činjenica kazneno je djelo (§ 142 StGB, bijeg s mjesta nesreće). Ceduljica nije dovoljna. Pričekaj razumno vrijeme, a zatim bez odgode prijavi policiji.",
+      "tip": "Ceduljica nije prijava."
+    },
+    "la04": {
+      "prompt": "Koje isprave moraš imati pri vožnji?",
+      "options": ["Vozačku dozvolu", "Prometnu dozvolu, dio I (Fahrzeugschein)", "Kupoprodajni ugovor automobila"],
+      "why": "Moraš imati vozačku dozvolu i prometnu dozvolu dio I te ih na zahtjev pokazati. Dio II (isprava o vlasništvu) ne drži se u automobilu."
+    },
+    "la05": {
+      "prompt": "Koliko godina obično traje probno razdoblje za nove vozače?",
+      "why": "Probno razdoblje traje dvije godine od prve vozačke dozvole. Nakon jednog težeg (A) ili dva lakša (B) prekršaja treba pohađati tečaj, a probno razdoblje produljuje se na četiri godine (§ 2a StVG)."
+    },
+    "la06": {
+      "prompt": "Koji je prekršaj u probnom razdoblju težak (kategorija A)?",
+      "options": ["Prekoračenje brzine za više od 20 km/h", "Prolazak kroz crveno", "Vožnja bez reflektirajućeg prsluka u automobilu"],
+      "why": "U kategoriju A spadaju prekoračenje brzine za 21 km/h ili više, prolazak kroz crveno, nepoštivanje prednosti, opasno pretjecanje te alkohol ili kanabis za upravljačem. Jedan takav prekršaj znači tečaj."
+    },
+    "la07": {
+      "prompt": "Pri koliko bodova u registru vozača oduzima se vozačka dozvola?",
+      "why": "Registar vozača u Flensburgu radi u stupnjevima: 4–5 bodova opomena, 6–7 upozorenje, a s 8 bodova vozačka dozvola se oduzima."
+    },
+    "la08": {
+      "prompt": "Što ti prijeti za prolazak kroz svjetlo koje je crveno dulje od jedne sekunde?",
+      "options": ["Zabrana vožnje od mjesec dana", "Dva boda u registru vozača", "Samo upozorenje"],
+      "why": "„Kvalificirani” prolazak kroz crveno (crveno dulje od sekunde) prema katalogu kazni stoji 200 €, 2 boda i mjesec dana zabrane — uz tečaj i produljenje ako si u probnom razdoblju."
+    },
+    "la09": {
+      "prompt": "Tko je odgovoran da je vozilo ispravno kad krećeš?",
+      "options": ["Ja, kao osoba koja vozi", "Samo registrirani posjednik", "Servis"],
+      "why": "Vozač odgovara za to da su vozilo, teret i putnici u redu i da je vozilo ispravno (§ 23 st. 1 StVO). Odgovoran je i posjednik."
+    },
+    "la10": {
+      "prompt": "Tko mora biti vezan u automobilu?",
+      "options": ["Svi na sjedalu s pojasom", "Samo vozač i suvozač", "Samo na autocesti"],
+      "why": "Pojas se mora vezati tijekom vožnje, naprijed i straga (§ 21a StVO). Kao osoba koja vozi, odgovaraš i za pravilno osiguranje djece."
+    },
+    "la11": {
+      "prompt": "Što mora ispunjavati odrasla pratnja pri vožnji uz pratnju od 17 godina?",
+      "options": ["Imati najmanje 30 godina", "Imati vozačku dozvolu kategorije B najmanje 5 godina", "Imati najviše jedan bod u registru vozača"],
+      "why": "Pratnja mora imati najmanje 30 godina, kategoriju B najmanje 5 godina, najviše jedan bod i biti upisana u potvrdu. Za nju vrijede granice od 0,5 ‰ alkohola i granice za kanabis."
+    },
+    "la12": {
+      "prompt": "Koje je osiguranje obvezno za svaki registrirani automobil?",
+      "options": ["Osiguranje od automobilske odgovornosti", "Puni kasko", "Osiguranje putnika od nezgode"],
+      "why": "Obvezno je samo osiguranje od odgovornosti: plaća štetu koju nanosiš drugima. Djelomični i puni kasko za vlastiti automobil su dobrovoljni."
+    }
+  }
+}

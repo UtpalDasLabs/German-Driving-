@@ -9,7 +9,8 @@
    "ar": "موضع خطر",
    "ru": "Опасный участок",
    "pl": "Niebezpieczeństwo",
-   "ro": "Pericol"
+   "ro": "Pericol",
+   "hr": "Opasnost na cesti"
   },
   "meaning": {
    "de": "Warnt vor einer Gefahr, die kein eigenes Zeichen hat. Ein Zusatzzeichen sagt oft, welche.",
@@ -18,7 +19,8 @@
    "ar": "تحذّر من خطر ليس له إشارة خاصة. وغالبًا ما تبيّن لوحة تحتها ما هو.",
    "ru": "Предупреждает об опасности, для которой нет отдельного знака. Табличка под ним часто уточняет, о какой.",
    "pl": "Ostrzega przed zagrożeniem, które nie ma własnego znaku. Tabliczka pod spodem często mówi, jakim.",
-   "ro": "Avertizează asupra unui pericol care nu are indicator propriu. Un panou de dedesubt spune adesea care."
+   "ro": "Avertizează asupra unui pericol care nu are indicator propriu. Un panou de dedesubt spune adesea care.",
+   "hr": "Upozorava na opasnost koja nema vlastiti znak. Ploča ispod često kaže koju."
   }
  },
  {
@@ -31,7 +33,8 @@
    "ar": "تقاطع بأولوية للقادم من اليمين",
    "ru": "Перекрёсток с преимуществом справа",
    "pl": "Skrzyżowanie z pierwszeństwem z prawej",
-   "ro": "Intersecție cu prioritate de dreapta"
+   "ro": "Intersecție cu prioritate de dreapta",
+   "hr": "Raskrižje s prednošću zdesna"
   },
   "meaning": {
    "de": "An der nächsten Kreuzung gilt „rechts vor links“.",
@@ -40,7 +43,8 @@
    "ar": "عند التقاطع التالي تسري قاعدة «اليمين قبل اليسار».",
    "ru": "На ближайшем перекрёстке действует «правый перед левым».",
    "pl": "Na najbliższym skrzyżowaniu obowiązuje „prawa przed lewą”.",
-   "ro": "La următoarea intersecție se aplică „dreapta înaintea stângii”."
+   "ro": "La următoarea intersecție se aplică „dreapta înaintea stângii”.",
+   "hr": "Na sljedećem raskrižju vrijedi „desni ima prednost”."
   }
  },
  {
@@ -53,7 +57,8 @@
    "ar": "منعطف (إلى اليسار)",
    "ru": "Поворот (налево)",
    "pl": "Zakręt (w lewo)",
-   "ro": "Curbă (la stânga)"
+   "ro": "Curbă (la stânga)",
+   "hr": "Zavoj (ulijevo)"
   },
   "meaning": {
    "de": "Eine Kurve nach links. Vorher bremsen.",
@@ -62,7 +67,8 @@
    "ar": "منعطف إلى اليسار. اكبح قبله.",
    "ru": "Поворот налево. Тормозите до него.",
    "pl": "Zakręt w lewo. Hamuj przed nim.",
-   "ro": "Curbă la stânga. Frânează înainte de ea."
+   "ro": "Curbă la stânga. Frânează înainte de ea.",
+   "hr": "Zavoj ulijevo. Koči prije njega."
   }
  },
  {
@@ -75,7 +81,8 @@
    "ar": "منعطف (إلى اليمين)",
    "ru": "Поворот (направо)",
    "pl": "Zakręt (w prawo)",
-   "ro": "Curbă (la dreapta)"
+   "ro": "Curbă (la dreapta)",
+   "hr": "Zavoj (udesno)"
   },
   "meaning": {
    "de": "Eine Kurve nach rechts. Vorher bremsen.",
@@ -84,7 +91,8 @@
    "ar": "منعطف إلى اليمين. اكبح قبله.",
    "ru": "Поворот направо. Тормозите до него.",
    "pl": "Zakręt w prawo. Hamuj przed nim.",
-   "ro": "Curbă la dreapta. Frânează înainte de ea."
+   "ro": "Curbă la dreapta. Frânează înainte de ea.",
+   "hr": "Zavoj udesno. Koči prije njega."
   }
  },
  {
@@ -97,7 +105,8 @@
    "ar": "منعطف مزدوج (اليمين أولًا)",
    "ru": "Двойной поворот (сначала направо)",
    "pl": "Podwójny zakręt (najpierw w prawo)",
-   "ro": "Curbă dublă (întâi la dreapta)"
+   "ro": "Curbă dublă (întâi la dreapta)",
+   "hr": "Dvostruki zavoj (prvo udesno)"
   },
   "meaning": {
    "de": "Zwei Kurven hintereinander, die erste nach rechts.",
@@ -106,7 +115,8 @@
    "ar": "منعطفان متتاليان، الأول إلى اليمين.",
    "ru": "Два поворота подряд, первый направо.",
    "pl": "Dwa zakręty po sobie, pierwszy w prawo.",
-   "ro": "Două curbe la rând, prima la dreapta."
+   "ro": "Două curbe la rând, prima la dreapta.",
+   "hr": "Dva zavoja zaredom, prvi udesno."
   }
  },
  {
@@ -119,7 +129,8 @@
    "ar": "انحدار شديد",
    "ru": "Крутой спуск",
    "pl": "Niebezpieczny zjazd",
-   "ro": "Coborâre periculoasă"
+   "ro": "Coborâre periculoasă",
+   "hr": "Opasna nizbrdica"
   },
   "meaning": {
    "de": "Steiles Gefälle. Kleinen Gang wählen und die Motorbremse nutzen.",
@@ -128,7 +139,8 @@
    "ar": "نزول شديد. اختر ترسًا منخفضًا واستخدم كبح المحرك.",
    "ru": "Крутой спуск. Выберите низкую передачу и тормозите двигателем.",
    "pl": "Stromy zjazd. Wybierz niski bieg i hamuj silnikiem.",
-   "ro": "Pantă abruptă la vale. Alege o treaptă mică și folosește frâna de motor."
+   "ro": "Pantă abruptă la vale. Alege o treaptă mică și folosește frâna de motor.",
+   "hr": "Strma nizbrdica. Odaberi niži stupanj i koči motorom."
   }
  },
  {
@@ -141,7 +153,8 @@
    "ar": "صعود شديد",
    "ru": "Крутой подъём",
    "pl": "Stromy podjazd",
-   "ro": "Urcare abruptă"
+   "ro": "Urcare abruptă",
+   "hr": "Strmi uspon"
   },
   "meaning": {
    "de": "Steile Steigung. Rechtzeitig herunterschalten.",
@@ -150,7 +163,8 @@
    "ar": "صعود شديد. خفّض الترس في الوقت المناسب.",
    "ru": "Крутой подъём. Заранее переключитесь вниз.",
    "pl": "Stromy podjazd. Zawczasu zredukuj bieg.",
-   "ro": "Pantă abruptă la deal. Schimbă din timp într-o treaptă inferioară."
+   "ro": "Pantă abruptă la deal. Schimbă din timp într-o treaptă inferioară.",
+   "hr": "Strma uzbrdica. Na vrijeme prebaci u niži stupanj."
   }
  },
  {
@@ -163,7 +177,8 @@
    "ar": "طريق غير مستوٍ",
    "ru": "Неровная дорога",
    "pl": "Nierówna droga",
-   "ro": "Drum denivelat"
+   "ro": "Drum denivelat",
+   "hr": "Neravan kolnik"
   },
   "meaning": {
    "de": "Die Fahrbahn ist uneben. Langsamer fahren.",
@@ -172,7 +187,8 @@
    "ar": "سطح الطريق غير مستوٍ. خفّف السرعة.",
    "ru": "Покрытие неровное. Снизьте скорость.",
    "pl": "Nawierzchnia jest nierówna. Zwolnij.",
-   "ro": "Carosabilul e denivelat. Încetinește."
+   "ro": "Carosabilul e denivelat. Încetinește.",
+   "hr": "Kolnik je neravan. Uspori."
   }
  },
  {
@@ -185,7 +201,8 @@
    "ar": "طريق زلق",
    "ru": "Скользкая дорога",
    "pl": "Śliska jezdnia",
-   "ro": "Drum alunecos"
+   "ro": "Drum alunecos",
+   "hr": "Sklizak kolnik"
   },
   "meaning": {
    "de": "Gefahr, ins Schleudern zu kommen – besonders bei Nässe oder Schmutz.",
@@ -194,7 +211,8 @@
    "ar": "خطر الانزلاق - خاصة عند البلل أو الاتساخ.",
    "ru": "Опасность заноса — особенно на мокрой или грязной дороге.",
    "pl": "Niebezpieczeństwo poślizgu — zwłaszcza gdy jest mokro lub brudno.",
-   "ro": "Pericol de derapaj — mai ales pe ud sau murdar."
+   "ro": "Pericol de derapaj — mai ales pe ud sau murdar.",
+   "hr": "Opasnost od zanošenja — osobito kad je mokro ili prljavo."
   }
  },
  {
@@ -207,7 +225,8 @@
    "ar": "رياح جانبية",
    "ru": "Боковой ветер",
    "pl": "Boczny wiatr",
-   "ro": "Vânt lateral"
+   "ro": "Vânt lateral",
+   "hr": "Bočni vjetar"
   },
   "meaning": {
    "de": "Mit starken Windböen von der Seite rechnen.",
@@ -216,7 +235,8 @@
    "ar": "توقّع هبّات قوية من الجانب.",
    "ru": "Ожидайте сильных порывов сбоку.",
    "pl": "Licz się z silnymi podmuchami z boku.",
-   "ro": "Așteaptă-te la rafale puternice din lateral."
+   "ro": "Așteaptă-te la rafale puternice din lateral.",
+   "hr": "Računaj s jakim udarima vjetra sa strane."
   }
  },
  {
@@ -229,7 +249,8 @@
    "ar": "الطريق يضيق",
    "ru": "Сужение дороги",
    "pl": "Zwężenie jezdni",
-   "ro": "Drum îngustat"
+   "ro": "Drum îngustat",
+   "hr": "Suženje ceste"
   },
   "meaning": {
    "de": "Die Fahrbahn wird auf beiden Seiten enger.",
@@ -238,7 +259,8 @@
    "ar": "الطريق يضيق من الجانبين.",
    "ru": "Дорога сужается с обеих сторон.",
    "pl": "Jezdnia zwęża się z obu stron.",
-   "ro": "Drumul se îngustează pe ambele părți."
+   "ro": "Drumul se îngustează pe ambele părți.",
+   "hr": "Cesta se sužava s obje strane."
   }
  },
  {
@@ -251,7 +273,8 @@
    "ar": "أشغال طرق",
    "ru": "Дорожные работы",
    "pl": "Roboty drogowe",
-   "ro": "Lucrări"
+   "ro": "Lucrări",
+   "hr": "Radovi na cesti"
   },
   "meaning": {
    "de": "Baustelle voraus. Mit Arbeitern und Fahrzeugen auf der Fahrbahn rechnen.",
@@ -260,7 +283,8 @@
    "ar": "أشغال طرق أمامك. توقّع عمالًا ومركبات على الطريق.",
    "ru": "Впереди дорожные работы. Ожидайте рабочих и технику на дороге.",
    "pl": "Przed tobą roboty drogowe. Licz się z pracownikami i maszynami na jezdni.",
-   "ro": "Lucrări în față. Așteaptă-te la muncitori și utilaje pe drum."
+   "ro": "Lucrări în față. Așteaptă-te la muncitori și utilaje pe drum.",
+   "hr": "Radovi na cesti ispred. Računaj s radnicima i strojevima na cesti."
   }
  },
  {
@@ -273,7 +297,8 @@
    "ar": "احتمال ازدحام",
    "ru": "Возможна пробка",
    "pl": "Możliwy korek",
-   "ro": "Posibile ambuteiaje"
+   "ro": "Posibile ambuteiaje",
+   "hr": "Moguć zastoj"
   },
   "meaning": {
    "de": "Mit Stau rechnen. Bremsbereit sein, am Stauende Warnblinklicht.",
@@ -282,7 +307,8 @@
    "ar": "توقّع طوابير. كن مستعدًا للكبح؛ أضواء التحذير عند النهاية.",
    "ru": "Ожидайте затора. Будьте готовы тормозить; в конце пробки — аварийка.",
    "pl": "Licz się z korkiem. Bądź w gotowości do hamowania; na końcu korka światła awaryjne.",
-   "ro": "Așteaptă-te la coloane. Fii gata de frânare; la coadă, avariile."
+   "ro": "Așteaptă-te la coloane. Fii gata de frânare; la coadă, avariile.",
+   "hr": "Računaj s kolonom. Budi spremno za kočenje; na kraju kolone sva četiri pokazivača."
   }
  },
  {
@@ -295,7 +321,8 @@
    "ar": "حركة في الاتجاهين",
    "ru": "Двустороннее движение",
    "pl": "Ruch dwukierunkowy",
-   "ro": "Circulație în ambele sensuri"
+   "ro": "Circulație în ambele sensuri",
+   "hr": "Dvosmjerni promet"
   },
   "meaning": {
    "de": "Ab hier Gegenverkehr, z. B. nach einer Einbahnstraße oder auf einer Baustellenfahrbahn.",
@@ -304,7 +331,8 @@
    "ar": "حركة في الاتجاهين من هنا، مثلًا بعد مقطع باتجاه واحد أو عند الأشغال.",
    "ru": "Отсюда движение в обе стороны, например после участка с односторонним движением или на ремонте.",
    "pl": "Od tego miejsca ruch w obu kierunkach, np. po odcinku jednokierunkowym lub przy robotach.",
-   "ro": "De aici, trafic în ambele sensuri, de exemplu după un tronson cu sens unic sau la lucrări."
+   "ro": "De aici, trafic în ambele sensuri, de exemplu după un tronson cu sens unic sau la lucrări.",
+   "hr": "Odavde promet u oba smjera, npr. nakon jednosmjerne dionice ili kod radova."
   }
  },
  {
@@ -317,7 +345,8 @@
    "ar": "إشارات ضوئية أمامك",
    "ru": "Светофор",
    "pl": "Sygnalizacja świetlna",
-   "ro": "Semafor"
+   "ro": "Semafor",
+   "hr": "Semafor"
   },
   "meaning": {
    "de": "Eine Ampel folgt, oft hinter einer Kurve.",
@@ -326,7 +355,8 @@
    "ar": "إشارات ضوئية أمامك، غالبًا خلف منعطف.",
    "ru": "Впереди светофор, часто за поворотом.",
    "pl": "Przed tobą sygnalizacja, często za zakrętem.",
-   "ro": "Semafor în față, adesea după o curbă."
+   "ro": "Semafor în față, adesea după o curbă.",
+   "hr": "Semafor ispred, često iza zavoja."
   }
  },
  {
@@ -339,7 +369,8 @@
    "ar": "مشاة",
    "ru": "Пешеходы",
    "pl": "Piesi",
-   "ro": "Pietoni"
+   "ro": "Pietoni",
+   "hr": "Pješaci"
   },
   "meaning": {
    "de": "Mit Fußgängern auf der Fahrbahn rechnen.",
@@ -348,7 +379,8 @@
    "ar": "توقّع مشاة على الطريق.",
    "ru": "Ожидайте пешеходов на дороге.",
    "pl": "Licz się z pieszymi na jezdni.",
-   "ro": "Așteaptă-te la pietoni pe drum."
+   "ro": "Așteaptă-te la pietoni pe drum.",
+   "hr": "Računaj s pješacima na cesti."
   }
  },
  {
@@ -361,7 +393,8 @@
    "ar": "أطفال",
    "ru": "Дети",
    "pl": "Dzieci",
-   "ro": "Copii"
+   "ro": "Copii",
+   "hr": "Djeca"
   },
   "meaning": {
    "de": "Mit Kindern rechnen, z. B. an Schulen und Spielplätzen. Langsam und bremsbereit.",
@@ -370,7 +403,8 @@
    "ar": "توقّع أطفالًا، مثلًا قرب المدارس والملاعب. ببطء واستعداد للكبح.",
    "ru": "Ожидайте детей, например у школ и площадок. Медленно и в готовности тормозить.",
    "pl": "Licz się z dziećmi, np. przy szkołach i placach zabaw. Wolno i w gotowości do hamowania.",
-   "ro": "Așteaptă-te la copii, de exemplu lângă școli și locuri de joacă. Încet și gata de frânare."
+   "ro": "Așteaptă-te la copii, de exemplu lângă școli și locuri de joacă. Încet și gata de frânare.",
+   "hr": "Računaj s djecom, npr. kod škola i igrališta. Polako i spremno za kočenje."
   }
  },
  {
@@ -383,7 +417,8 @@
    "ar": "راكبو الدراجات",
    "ru": "Велосипедисты",
    "pl": "Rowerzyści",
-   "ro": "Bicicliști"
+   "ro": "Bicicliști",
+   "hr": "Biciklisti"
   },
   "meaning": {
    "de": "Radfahrer kreuzen oder fahren auf der Fahrbahn.",
@@ -392,7 +427,8 @@
    "ar": "راكبو دراجات يعبرون الطريق أو يسيرون عليه.",
    "ru": "Велосипедисты пересекают дорогу или едут по ней.",
    "pl": "Rowerzyści przecinają jezdnię albo nią jadą.",
-   "ro": "Bicicliștii traversează sau circulă pe drum."
+   "ro": "Bicicliștii traversează sau circulă pe drum.",
+   "hr": "Biciklisti prelaze cestu ili voze po njoj."
   }
  },
  {
@@ -405,7 +441,8 @@
    "ar": "حيوانات برية",
    "ru": "Дикие животные",
    "pl": "Dzikie zwierzęta",
-   "ro": "Animale sălbatice"
+   "ro": "Animale sălbatice",
+   "hr": "Divljač"
   },
   "meaning": {
    "de": "Wild kann die Straße kreuzen, besonders in der Dämmerung.",
@@ -414,7 +451,8 @@
    "ar": "قد تعبر حيوانات برية، خاصة عند الفجر والغسق.",
    "ru": "Могут выходить дикие животные, особенно на рассвете и в сумерках.",
    "pl": "Mogą przebiegać dzikie zwierzęta, zwłaszcza o świcie i zmierzchu.",
-   "ro": "Pot traversa animale sălbatice, mai ales în zori și la amurg."
+   "ro": "Pot traversa animale sălbatice, mai ales în zori și la amurg.",
+   "hr": "Divlje životinje mogu prelaziti, osobito u zoru i sumrak."
   }
  },
  {
@@ -427,7 +465,8 @@
    "ar": "معبر سكة حديدية",
    "ru": "Железнодорожный переезд",
    "pl": "Przejazd kolejowy",
-   "ro": "Trecere la nivel"
+   "ro": "Trecere la nivel",
+   "hr": "Željeznički prijelaz"
   },
   "meaning": {
    "de": "Ein Bahnübergang folgt. Ab hier keine Kraftfahrzeuge mehr überholen.",
@@ -436,7 +475,8 @@
    "ar": "معبر سكة حديدية أمامك. من هنا لا تتجاوز المركبات الآلية.",
    "ru": "Впереди переезд. Отсюда не обгоняйте механические транспортные средства.",
    "pl": "Przed tobą przejazd kolejowy. Od tego miejsca nie wyprzedzaj pojazdów silnikowych.",
-   "ro": "Trecere la nivel în față. De aici nu mai depăși autovehicule."
+   "ro": "Trecere la nivel în față. De aici nu mai depăși autovehicule.",
+   "hr": "Željeznički prijelaz ispred. Odavde ne pretječi motorna vozila."
   }
  },
  {
@@ -449,7 +489,8 @@
    "ar": "علامة عد تنازلي، ثلاثة خطوط",
    "ru": "Отсчётный знак, три полосы",
    "pl": "Słupek wskaźnikowy, trzy kreski",
-   "ro": "Panou de numărătoare, trei benzi"
+   "ro": "Panou de numărătoare, trei benzi",
+   "hr": "Oznaka udaljenosti, tri crte"
   },
   "meaning": {
    "de": "Etwa 240 m bis zum Bahnübergang.",
@@ -458,7 +499,8 @@
    "ar": "نحو 240 م حتى معبر السكة الحديدية.",
    "ru": "Около 240 м до переезда.",
    "pl": "Ok. 240 m do przejazdu kolejowego.",
-   "ro": "Circa 240 m până la trecerea la nivel."
+   "ro": "Circa 240 m până la trecerea la nivel.",
+   "hr": "Oko 240 m do željezničkog prijelaza."
   }
  },
  {
@@ -471,7 +513,8 @@
    "ar": "علامة عد تنازلي، خطان",
    "ru": "Отсчётный знак, две полосы",
    "pl": "Słupek wskaźnikowy, dwie kreski",
-   "ro": "Panou de numărătoare, două benzi"
+   "ro": "Panou de numărătoare, două benzi",
+   "hr": "Oznaka udaljenosti, dvije crte"
   },
   "meaning": {
    "de": "Etwa 160 m bis zum Bahnübergang.",
@@ -480,7 +523,8 @@
    "ar": "نحو 160 م حتى معبر السكة الحديدية.",
    "ru": "Около 160 м до переезда.",
    "pl": "Ok. 160 m do przejazdu kolejowego.",
-   "ro": "Circa 160 m până la trecerea la nivel."
+   "ro": "Circa 160 m până la trecerea la nivel.",
+   "hr": "Oko 160 m do željezničkog prijelaza."
   }
  },
  {
@@ -493,7 +537,8 @@
    "ar": "علامة عد تنازلي، خط واحد",
    "ru": "Отсчётный знак, одна полоса",
    "pl": "Słupek wskaźnikowy, jedna kreska",
-   "ro": "Panou de numărătoare, o bandă"
+   "ro": "Panou de numărătoare, o bandă",
+   "hr": "Oznaka udaljenosti, jedna crta"
   },
   "meaning": {
    "de": "Etwa 80 m bis zum Bahnübergang.",
@@ -502,7 +547,8 @@
    "ar": "نحو 80 م حتى معبر السكة الحديدية.",
    "ru": "Около 80 м до переезда.",
    "pl": "Ok. 80 m do przejazdu kolejowego.",
-   "ro": "Circa 80 m până la trecerea la nivel."
+   "ro": "Circa 80 m până la trecerea la nivel.",
+   "hr": "Oko 80 m do željezničkog prijelaza."
   }
  },
  {
@@ -515,7 +561,8 @@
    "ar": "صليب القديس أندراوس",
    "ru": "Андреевский крест",
    "pl": "Krzyż św. Andrzeja",
-   "ro": "Crucea Sfântului Andrei"
+   "ro": "Crucea Sfântului Andrei",
+   "hr": "Andrijin križ"
   },
   "meaning": {
    "de": "Schienenfahrzeuge haben Vorrang. Vor dem Kreuz warten, wenn sich ein Zug nähert.",
@@ -524,7 +571,8 @@
    "ar": "للمركبات السككية الأولوية. انتظر قبل الصليب عندما يقترب قطار.",
    "ru": "У рельсового транспорта преимущество. Ждите перед крестом, когда приближается поезд.",
    "pl": "Pojazdy szynowe mają pierwszeństwo. Czekaj przed krzyżem, gdy zbliża się pociąg.",
-   "ro": "Vehiculele pe șine au prioritate. Așteaptă înaintea crucii când se apropie un tren."
+   "ro": "Vehiculele pe șine au prioritate. Așteaptă înaintea crucii când se apropie un tren.",
+   "hr": "Tračnička vozila imaju prednost. Čekaj prije križa kad se vlak približava."
   }
  },
  {
@@ -537,7 +585,8 @@
    "ar": "أعطِ الأولوية",
    "ru": "Уступите дорогу",
    "pl": "Ustąp pierwszeństwa",
-   "ro": "Cedează trecerea"
+   "ro": "Cedează trecerea",
+   "hr": "Obvezno ustupanje prednosti"
   },
   "meaning": {
    "de": "Dem Verkehr auf der kreuzenden Straße Vorfahrt gewähren.",
@@ -546,7 +595,8 @@
    "ar": "أعطِ الأولوية لحركة المرور على الطريق الذي تدخله أو تعبره.",
    "ru": "Уступите транспорту на дороге, на которую выезжаете или которую пересекаете.",
    "pl": "Ustąp pierwszeństwa pojazdom na drodze, na którą wjeżdżasz lub którą przecinasz.",
-   "ro": "Cedează trecerea traficului de pe drumul pe care intri sau pe care îl traversezi."
+   "ro": "Cedează trecerea traficului de pe drumul pe care intri sau pe care îl traversezi.",
+   "hr": "Ustupi prednost prometu na cesti na koju ulaziš ili koju prelaziš."
   }
  },
  {
@@ -559,7 +609,8 @@
    "ar": "قف. أعطِ الأولوية.",
    "ru": "Стоп. Уступите дорогу.",
    "pl": "Stop. Ustąp pierwszeństwa.",
-   "ro": "Stop. Cedează trecerea."
+   "ro": "Stop. Cedează trecerea.",
+   "hr": "Stop. Ustupi prednost."
   },
   "meaning": {
    "de": "Vollständig anhalten – an der Haltlinie oder wo die Straße einzusehen ist – und Vorfahrt gewähren.",
@@ -568,7 +619,8 @@
    "ar": "توقف تمامًا - عند الخط، أو حيث ترى - وأعطِ الأولوية.",
    "ru": "Полная остановка — у линии или там, откуда видно, — и уступите дорогу.",
    "pl": "Zatrzymaj się całkowicie — przy linii albo tam, skąd widać — i ustąp pierwszeństwa.",
-   "ro": "Oprește complet — la linie sau de unde vezi — și cedează trecerea."
+   "ro": "Oprește complet — la linie sau de unde vezi — și cedează trecerea.",
+   "hr": "Potpuno se zaustavi — na crti ili ondje odakle vidiš — i ustupi prednost."
   }
  },
  {
@@ -581,7 +633,8 @@
    "ar": "الأولوية لحركة المرور المقابلة",
    "ru": "Преимущество встречного движения",
    "pl": "Pierwszeństwo dla nadjeżdżających z przeciwka",
-   "ro": "Prioritate pentru circulația din sens invers"
+   "ro": "Prioritate pentru circulația din sens invers",
+   "hr": "Prednost vozila iz suprotnog smjera"
   },
   "meaning": {
    "de": "An der Engstelle hat der Gegenverkehr Vorrang. Wenn nötig, warten.",
@@ -590,7 +643,8 @@
    "ar": "لحركة المرور المقابلة الأولوية في المقطع الضيق. انتظر عند الحاجة.",
    "ru": "На узком участке преимущество у встречных. При необходимости ждите.",
    "pl": "Na zwężeniu pierwszeństwo mają pojazdy z naprzeciwka. W razie potrzeby czekaj.",
-   "ro": "La porțiunea îngustă are prioritate traficul din sens opus. Așteaptă la nevoie."
+   "ro": "La porțiunea îngustă are prioritate traficul din sens opus. Așteaptă la nevoie.",
+   "hr": "Na suženju prednost imaju vozila iz suprotnog smjera. Po potrebi čekaj."
   }
  },
  {
@@ -603,7 +657,8 @@
    "ar": "أولوية عند التقاطع التالي",
    "ru": "Преимущество на ближайшем перекрёстке",
    "pl": "Pierwszeństwo na najbliższym skrzyżowaniu",
-   "ro": "Prioritate la următoarea intersecție"
+   "ro": "Prioritate la următoarea intersecție",
+   "hr": "Prednost na sljedećem raskrižju"
   },
   "meaning": {
    "de": "Vorfahrt nur an der nächsten Kreuzung oder Einmündung.",
@@ -612,7 +667,8 @@
    "ar": "أولوية عند التقاطع التالي فقط.",
    "ru": "Преимущество только на ближайшем перекрёстке.",
    "pl": "Pierwszeństwo tylko na najbliższym skrzyżowaniu.",
-   "ro": "Prioritate doar la următoarea intersecție."
+   "ro": "Prioritate doar la următoarea intersecție.",
+   "hr": "Prednost samo na sljedećem raskrižju."
   }
  },
  {
@@ -625,7 +681,8 @@
    "ar": "طريق ذو أولوية",
    "ru": "Главная дорога",
    "pl": "Droga z pierwszeństwem",
-   "ro": "Drum cu prioritate"
+   "ro": "Drum cu prioritate",
+   "hr": "Cesta s prednošću"
   },
   "meaning": {
    "de": "Vorfahrt an allen folgenden Kreuzungen, bis Zeichen 307 oder 205 kommt.",
@@ -634,7 +691,8 @@
    "ar": "أولوية عند كل تقاطع حتى الإشارة 307 أو 205.",
    "ru": "Преимущество на каждом перекрёстке до знака 307 или 205.",
    "pl": "Pierwszeństwo na każdym skrzyżowaniu aż do znaku 307 lub 205.",
-   "ro": "Prioritate la fiecare intersecție până la indicatorul 307 sau 205."
+   "ro": "Prioritate la fiecare intersecție până la indicatorul 307 sau 205.",
+   "hr": "Prednost na svakom raskrižju do znaka 307 ili 205."
   }
  },
  {
@@ -647,7 +705,8 @@
    "ar": "نهاية الطريق ذي الأولوية",
    "ru": "Конец главной дороги",
    "pl": "Koniec drogi z pierwszeństwem",
-   "ro": "Sfârșitul drumului cu prioritate"
+   "ro": "Sfârșitul drumului cu prioritate",
+   "hr": "Kraj ceste s prednošću"
   },
   "meaning": {
    "de": "Die Vorfahrtstraße endet. Danach wieder auf Schilder oder „rechts vor links“ achten.",
@@ -656,7 +715,8 @@
    "ar": "ينتهي الطريق ذو الأولوية. تقرر الإشارات أو «اليمين قبل اليسار» من جديد.",
    "ru": "Главная дорога заканчивается. Снова решают знаки или «правый перед левым».",
    "pl": "Droga z pierwszeństwem się kończy. Znów decydują znaki albo „prawa przed lewą”.",
-   "ro": "Drumul cu prioritate se termină. Decid din nou indicatoarele sau „dreapta înaintea stângii”."
+   "ro": "Drumul cu prioritate se termină. Decid din nou indicatoarele sau „dreapta înaintea stângii”.",
+   "hr": "Cesta s prednošću završava. Ponovno odlučuju znakovi ili „desni ima prednost”."
   }
  },
  {
@@ -669,7 +729,8 @@
    "ar": "أولوية على حركة المرور المقابلة",
    "ru": "Преимущество перед встречным движением",
    "pl": "Pierwszeństwo przed nadjeżdżającymi z przeciwka",
-   "ro": "Prioritate față de circulația din sens invers"
+   "ro": "Prioritate față de circulația din sens invers",
+   "hr": "Prednost pred vozilima iz suprotnog smjera"
   },
   "meaning": {
    "de": "An der Engstelle haben Sie Vorrang – achten Sie trotzdem auf den Gegenverkehr.",
@@ -678,7 +739,8 @@
    "ar": "لك الأولوية في المقطع الضيق - ومع ذلك راقب حركة المرور المقابلة.",
    "ru": "На узком участке преимущество у вас — но следите за встречными.",
    "pl": "Na zwężeniu masz pierwszeństwo — mimo to uważaj na pojazdy z naprzeciwka.",
-   "ro": "Ai prioritate la porțiunea îngustă — dar fii atent la traficul din sens opus."
+   "ro": "Ai prioritate la porțiunea îngustă — dar fii atent la traficul din sens opus.",
+   "hr": "Na suženju imaš prednost — ali ipak pazi na promet iz suprotnog smjera."
   }
  },
  {
@@ -691,7 +753,8 @@
    "ar": "انعطف يمينًا",
    "ru": "Поворот направо",
    "pl": "Nakaz jazdy w prawo",
-   "ro": "Viraj obligatoriu la dreapta"
+   "ro": "Viraj obligatoriu la dreapta",
+   "hr": "Obvezan smjer udesno"
   },
   "meaning": {
    "de": "Hier nur nach rechts fahren.",
@@ -700,7 +763,8 @@
    "ar": "يجب أن تنعطف يمينًا هنا.",
    "ru": "Здесь нужно повернуть направо.",
    "pl": "Tu musisz skręcić w prawo.",
-   "ro": "Aici trebuie să virezi la dreapta."
+   "ro": "Aici trebuie să virezi la dreapta.",
+   "hr": "Ovdje moraš skrenuti udesno."
   }
  },
  {
@@ -713,7 +777,8 @@
    "ar": "انعطف يسارًا",
    "ru": "Поворот налево",
    "pl": "Nakaz jazdy w lewo",
-   "ro": "Viraj obligatoriu la stânga"
+   "ro": "Viraj obligatoriu la stânga",
+   "hr": "Obvezan smjer ulijevo"
   },
   "meaning": {
    "de": "Hier nur nach links fahren.",
@@ -722,7 +787,8 @@
    "ar": "يجب أن تنعطف يسارًا هنا.",
    "ru": "Здесь нужно повернуть налево.",
    "pl": "Tu musisz skręcić w lewo.",
-   "ro": "Aici trebuie să virezi la stânga."
+   "ro": "Aici trebuie să virezi la stânga.",
+   "hr": "Ovdje moraš skrenuti ulijevo."
   }
  },
  {
@@ -735,7 +801,8 @@
    "ar": "مستقيمًا فقط",
    "ru": "Только прямо",
    "pl": "Nakaz jazdy prosto",
-   "ro": "Înainte obligatoriu"
+   "ro": "Înainte obligatoriu",
+   "hr": "Obvezan smjer ravno"
   },
   "meaning": {
    "de": "Hier nur geradeaus fahren.",
@@ -744,7 +811,8 @@
    "ar": "يجب أن تسير مستقيمًا.",
    "ru": "Нужно ехать прямо.",
    "pl": "Musisz jechać prosto.",
-   "ro": "Trebuie să mergi înainte."
+   "ro": "Trebuie să mergi înainte.",
+   "hr": "Moraš voziti ravno."
   }
  },
  {
@@ -757,7 +825,8 @@
    "ar": "انعطف يمينًا هنا",
    "ru": "Поворот направо здесь",
    "pl": "Nakaz skrętu w prawo w tym miejscu",
-   "ro": "Viraj la dreapta aici"
+   "ro": "Viraj la dreapta aici",
+   "hr": "Skretanje udesno ovdje"
   },
   "meaning": {
    "de": "An dieser Stelle rechts abbiegen.",
@@ -766,7 +835,8 @@
    "ar": "انعطف يمينًا عند هذه النقطة.",
    "ru": "Поверните направо в этом месте.",
    "pl": "Skręć w prawo w tym miejscu.",
-   "ro": "Virează la dreapta în acest punct."
+   "ro": "Virează la dreapta în acest punct.",
+   "hr": "Skreni udesno na ovom mjestu."
   }
  },
  {
@@ -779,7 +849,8 @@
    "ar": "مستقيمًا أو يمينًا",
    "ru": "Прямо или направо",
    "pl": "Nakaz jazdy prosto lub w prawo",
-   "ro": "Înainte sau la dreapta"
+   "ro": "Înainte sau la dreapta",
+   "hr": "Ravno ili udesno"
   },
   "meaning": {
    "de": "Nur geradeaus oder nach rechts.",
@@ -788,7 +859,8 @@
    "ar": "مستقيمًا أو يمينًا فقط.",
    "ru": "Только прямо или направо.",
    "pl": "Tylko prosto lub w prawo.",
-   "ro": "Doar înainte sau la dreapta."
+   "ro": "Doar înainte sau la dreapta.",
+   "hr": "Samo ravno ili udesno."
   }
  },
  {
@@ -801,7 +873,8 @@
    "ar": "دوّار",
    "ru": "Круговое движение",
    "pl": "Ruch okrężny",
-   "ro": "Sens giratoriu"
+   "ro": "Sens giratoriu",
+   "hr": "Kružni tok"
   },
   "meaning": {
    "de": "Im Kreisverkehr nur rechts herum fahren. Mit Zeichen 205 hat der Kreis Vorfahrt.",
@@ -810,7 +883,8 @@
    "ar": "سِر عكس اتجاه عقارب الساعة فقط. مع الإشارة 205 تكون الأولوية لحركة المرور على الدوّار.",
    "ru": "Двигайтесь только против часовой стрелки. Со знаком 205 преимущество у транспорта на кольце.",
    "pl": "Jedź tylko przeciwnie do ruchu wskazówek zegara. Ze znakiem 205 pierwszeństwo ma ruch na rondzie.",
-   "ro": "Circulă doar în sens invers acelor de ceasornic. Cu indicatorul 205, traficul din sensul giratoriu are prioritate."
+   "ro": "Circulă doar în sens invers acelor de ceasornic. Cu indicatorul 205, traficul din sensul giratoriu are prioritate.",
+   "hr": "Vozi samo suprotno od kazaljki na satu. Uz znak 205 prednost ima promet u kružnom toku."
   }
  },
  {
@@ -823,7 +897,8 @@
    "ar": "شارع باتجاه واحد",
    "ru": "Одностороннее движение",
    "pl": "Droga jednokierunkowa",
-   "ro": "Stradă cu sens unic"
+   "ro": "Stradă cu sens unic",
+   "hr": "Jednosmjerna ulica"
   },
   "meaning": {
    "de": "Nur in Pfeilrichtung fahren. Halten und Parken auch links erlaubt.",
@@ -832,7 +907,8 @@
    "ar": "سِر في اتجاه السهم فقط. التوقف والوقوف مسموحان على اليسار أيضًا.",
    "ru": "Двигайтесь только по стрелке. Остановка и стоянка разрешены и слева.",
    "pl": "Jedź tylko w kierunku strzałki. Zatrzymanie i postój dozwolone także po lewej.",
-   "ro": "Circulă doar în direcția săgeții. Oprirea și parcarea sunt permise și pe stânga."
+   "ro": "Circulă doar în direcția săgeții. Oprirea și parcarea sunt permise și pe stânga.",
+   "hr": "Vozi samo u smjeru strelice. Zaustavljanje i parkiranje dopušteni i lijevo."
   }
  },
  {
@@ -845,7 +921,8 @@
    "ar": "الزم اليمين",
    "ru": "Объезд справа",
    "pl": "Nakaz jazdy z prawej strony",
-   "ro": "Ocolire pe dreapta"
+   "ro": "Ocolire pe dreapta",
+   "hr": "Obilaženje s desne strane"
   },
   "meaning": {
    "de": "Rechts am Hindernis oder der Insel vorbeifahren.",
@@ -854,7 +931,8 @@
    "ar": "مُرّ بالعائق أو الجزيرة من اليمين.",
    "ru": "Объезжайте препятствие или островок справа.",
    "pl": "Omiń przeszkodę lub wysepkę z prawej.",
-   "ro": "Ocolește obstacolul sau refugiul pe dreapta."
+   "ro": "Ocolește obstacolul sau refugiul pe dreapta.",
+   "hr": "Zaobiđi prepreku ili otok s desne strane."
   }
  },
  {
@@ -867,7 +945,8 @@
    "ar": "ممر دراجات",
    "ru": "Велодорожка",
    "pl": "Droga dla rowerów",
-   "ro": "Pistă pentru biciclete"
+   "ro": "Pistă pentru biciclete",
+   "hr": "Biciklistička staza"
   },
   "meaning": {
    "de": "Nur für Radfahrer (und E-Scooter). Radfahrer müssen ihn benutzen.",
@@ -876,7 +955,8 @@
    "ar": "لراكبي الدراجات (والسكوترات الكهربائية) فقط. يجب على راكبي الدراجات استخدامه.",
    "ru": "Только для велосипедистов (и электросамокатов). Велосипедисты обязаны ею пользоваться.",
    "pl": "Tylko dla rowerzystów (i hulajnóg elektrycznych). Rowerzyści muszą z niej korzystać.",
-   "ro": "Doar pentru bicicliști (și trotinete electrice). Bicicliștii sunt obligați s-o folosească."
+   "ro": "Doar pentru bicicliști (și trotinete electrice). Bicicliștii sunt obligați s-o folosească.",
+   "hr": "Samo za bicikliste (i električne romobile). Biciklisti je moraju koristiti."
   }
  },
  {
@@ -889,7 +969,8 @@
    "ar": "ممر مشاة",
    "ru": "Пешеходная дорожка",
    "pl": "Droga dla pieszych",
-   "ro": "Trotuar pentru pietoni"
+   "ro": "Trotuar pentru pietoni",
+   "hr": "Pješačka staza"
   },
   "meaning": {
    "de": "Nur für Fußgänger.",
@@ -898,7 +979,8 @@
    "ar": "للمشاة فقط.",
    "ru": "Только для пешеходов.",
    "pl": "Tylko dla pieszych.",
-   "ro": "Doar pentru pietoni."
+   "ro": "Doar pentru pietoni.",
+   "hr": "Samo za pješake."
   }
  },
  {
@@ -911,7 +993,8 @@
    "ar": "ممر مشترك للمشاة والدراجات",
    "ru": "Общая пешеходно-велосипедная дорожка",
    "pl": "Wspólna droga dla pieszych i rowerów",
-   "ro": "Pistă comună pietoni-biciclete"
+   "ro": "Pistă comună pietoni-biciclete",
+   "hr": "Zajednička pješačko-biciklistička staza"
   },
   "meaning": {
    "de": "Fußgänger und Radfahrer teilen sich den Weg. Kein Kfz-Verkehr.",
@@ -920,7 +1003,8 @@
    "ar": "المشاة وراكبو الدراجات يتقاسمون الممر. لا مركبات آلية.",
    "ru": "Пешеходы и велосипедисты делят дорожку. Без механического транспорта.",
    "pl": "Piesi i rowerzyści dzielą drogę. Bez pojazdów silnikowych.",
-   "ro": "Pietonii și bicicliștii împart pista. Fără autovehicule."
+   "ro": "Pietonii și bicicliștii împart pista. Fără autovehicule.",
+   "hr": "Pješaci i biciklisti dijele stazu. Bez motornih vozila."
   }
  },
  {
@@ -933,7 +1017,8 @@
    "ar": "ممر مقسوم للدراجات والمشاة",
    "ru": "Раздельная вело- и пешеходная дорожка",
    "pl": "Rozdzielona droga dla rowerów i pieszych",
-   "ro": "Pistă separată biciclete-pietoni"
+   "ro": "Pistă separată biciclete-pietoni",
+   "hr": "Odvojena biciklistička i pješačka staza"
   },
   "meaning": {
    "de": "Radfahrer und Fußgänger haben jeweils ihre Seite.",
@@ -942,7 +1027,8 @@
    "ar": "يلتزم كل من راكبي الدراجات والمشاة بجانبه.",
    "ru": "Велосипедисты и пешеходы держатся своей стороны.",
    "pl": "Rowerzyści i piesi trzymają się swojej strony.",
-   "ro": "Bicicliștii și pietonii își păstrează fiecare partea."
+   "ro": "Bicicliștii și pietonii își păstrează fiecare partea.",
+   "hr": "Biciklisti i pješaci drže se svoje strane."
   }
  },
  {
@@ -955,7 +1041,8 @@
    "ar": "منطقة مشاة",
    "ru": "Пешеходная зона",
    "pl": "Strefa ruchu pieszego",
-   "ro": "Zonă pietonală"
+   "ro": "Zonă pietonală",
+   "hr": "Pješačka zona"
   },
   "meaning": {
    "de": "Fußgängerzone. Fahrzeuge nur, wenn ein Zusatzzeichen es erlaubt, dann mit Schrittgeschwindigkeit.",
@@ -964,7 +1051,8 @@
    "ar": "منطقة مشاة. المركبات فقط إذا سمحت لوحة، وحينها بسرعة المشي.",
    "ru": "Пешеходная зона. Транспорт только если разрешает табличка, и тогда со скоростью пешехода.",
    "pl": "Strefa pieszych. Pojazdy tylko, jeśli pozwala tabliczka, i wtedy z prędkością pieszego.",
-   "ro": "Zonă pietonală. Vehicule doar dacă un panou permite, și atunci cu viteza pasului."
+   "ro": "Zonă pietonală. Vehicule doar dacă un panou permite, și atunci cu viteza pasului.",
+   "hr": "Pješačka zona. Vozila samo ako ploča dopušta, i tada brzinom hoda."
   }
  },
  {
@@ -977,7 +1065,8 @@
    "ar": "شارع الدراجات",
    "ru": "Велоулица",
    "pl": "Ulica rowerowa",
-   "ro": "Stradă pentru biciclete"
+   "ro": "Stradă pentru biciclete",
+   "hr": "Biciklistička ulica"
   },
   "meaning": {
    "de": "Fahrradstraße: andere Fahrzeuge nur mit Zusatzzeichen, höchstens 30 km/h, Radfahrer dürfen nebeneinander fahren.",
@@ -986,7 +1075,8 @@
    "ar": "شارع الدراجات: المركبات الأخرى فقط بلوحة، 30 كم/س كحد أقصى، ويجوز لراكبي الدراجات السير جنبًا إلى جنب.",
    "ru": "Велоулица: другой транспорт только по табличке, максимум 30 км/ч, велосипедисты могут ехать рядом.",
    "pl": "Ulica rowerowa: inne pojazdy tylko z tabliczką, maks. 30 km/h, rowerzyści mogą jechać obok siebie.",
-   "ro": "Stradă pentru biciclete: alte vehicule doar cu panou, maximum 30 km/h, bicicliștii pot merge alături."
+   "ro": "Stradă pentru biciclete: alte vehicule doar cu panou, maximum 30 km/h, bicicliștii pot merge alături.",
+   "hr": "Biciklistička ulica: ostala vozila samo uz ploču, najviše 30 km/h, biciklisti smiju voziti jedan pokraj drugoga."
   }
  },
  {
@@ -999,7 +1089,8 @@
    "ar": "مسار الحافلات",
    "ru": "Полоса для автобусов",
    "pl": "Pas autobusowy",
-   "ro": "Bandă de autobuz"
+   "ro": "Bandă de autobuz",
+   "hr": "Autobusni trak"
   },
   "meaning": {
    "de": "Nur für Linienbusse und, wenn ein Zusatzzeichen es erlaubt, z. B. Taxis oder Radfahrer.",
@@ -1008,7 +1099,8 @@
    "ar": "للحافلات فقط، ولغيرها كسيارات الأجرة أو راكبي الدراجات إذا سمحت لوحة.",
    "ru": "Только для автобусов, а также, если разрешает табличка, для такси или велосипедистов.",
    "pl": "Tylko dla autobusów, a jeśli pozwala tabliczka — także np. dla taksówek lub rowerzystów.",
-   "ro": "Doar pentru autobuze și, dacă un panou permite, și pentru taxiuri sau bicicliști."
+   "ro": "Doar pentru autobuze și, dacă un panou permite, și pentru taxiuri sau bicicliști.",
+   "hr": "Samo za autobuse, a ako ploča dopušta i za druge, npr. taksije ili bicikliste."
   }
  },
  {
@@ -1021,7 +1113,8 @@
    "ar": "حد أدنى للسرعة",
    "ru": "Минимальная скорость",
    "pl": "Prędkość minimalna",
-   "ro": "Viteză minimă"
+   "ro": "Viteză minimă",
+   "hr": "Najmanja dopuštena brzina"
   },
   "meaning": {
    "de": "Nicht langsamer fahren als angegeben, wenn Verkehr, Sicht und Wetter es zulassen.",
@@ -1030,7 +1123,8 @@
    "ar": "لا تسر أبطأ من المبيّن، ما لم تتطلب حركة المرور أو الرؤية أو الطقس ذلك.",
    "ru": "Не ехать медленнее указанного, если этого не требуют движение, видимость или погода.",
    "pl": "Nie jedź wolniej niż podano, chyba że wymaga tego ruch, widoczność lub pogoda.",
-   "ro": "Nu circula mai încet decât indicat, dacă traficul, vizibilitatea sau vremea nu o cer."
+   "ro": "Nu circula mai încet decât indicat, dacă traficul, vizibilitatea sau vremea nu o cer.",
+   "hr": "Ne vozi sporije od navedenog, osim ako to traže promet, vidljivost ili vrijeme."
   }
  },
  {
@@ -1043,7 +1137,8 @@
    "ar": "ممنوع مرور المركبات",
    "ru": "Движение запрещено",
    "pl": "Zakaz ruchu w obu kierunkach",
-   "ro": "Accesul interzis vehiculelor"
+   "ro": "Accesul interzis vehiculelor",
+   "hr": "Zabrana prometa svim vozilima"
   },
   "meaning": {
    "de": "Kein Fahrzeug darf fahren. Fahrräder und Krafträder schieben ist erlaubt.",
@@ -1052,7 +1147,8 @@
    "ar": "ممنوع مرور أي مركبات. دفع الدراجات والدراجات النارية باليد مسموح.",
    "ru": "Запрещён любой транспорт. Вести велосипеды и мотоциклы рядом можно.",
    "pl": "Zakaz wszelkich pojazdów. Prowadzenie rowerów i motocykli jest dozwolone.",
-   "ro": "Niciun vehicul. Bicicletele și motocicletele pot fi împinse."
+   "ro": "Niciun vehicul. Bicicletele și motocicletele pot fi împinse.",
+   "hr": "Nikakva vozila. Guranje bicikala i motocikala je dopušteno."
   }
  },
  {
@@ -1065,7 +1161,8 @@
    "ar": "ممنوع مرور السيارات",
    "ru": "Движение легковых запрещено",
    "pl": "Zakaz wjazdu samochodów",
-   "ro": "Accesul interzis autoturismelor"
+   "ro": "Accesul interzis autoturismelor",
+   "hr": "Zabrana prometa osobnim automobilima"
   },
   "meaning": {
    "de": "Verbot für Kraftwagen und sonstige mehrspurige Kraftfahrzeuge.",
@@ -1074,7 +1171,8 @@
    "ar": "ممنوع مرور السيارات والمركبات الآلية الأخرى متعددة المسارات.",
    "ru": "Запрещены легковые и другие многоколейные механические транспортные средства.",
    "pl": "Zakaz wjazdu samochodów i innych wielośladowych pojazdów silnikowych.",
-   "ro": "Fără autoturisme sau alte autovehicule pe mai multe urme."
+   "ro": "Fără autoturisme sau alte autovehicule pe mai multe urme.",
+   "hr": "Bez osobnih automobila i drugih višetragih motornih vozila."
   }
  },
  {
@@ -1087,7 +1185,8 @@
    "ar": "ممنوع مرور مركبات البضائع فوق 3.5 طن",
    "ru": "Грузовикам более 3,5 т запрещено",
    "pl": "Zakaz wjazdu pojazdów ciężarowych powyżej 3,5 t",
-   "ro": "Accesul interzis vehiculelor de marfă peste 3,5 t"
+   "ro": "Accesul interzis vehiculelor de marfă peste 3,5 t",
+   "hr": "Zabrana prometa teretnim vozilima iznad 3,5 t"
   },
   "meaning": {
    "de": "Verbot für Lkw und Zugmaschinen über 3,5 t zulässige Gesamtmasse, auch mit Anhänger.",
@@ -1096,7 +1195,8 @@
    "ar": "ممنوع مرور الشاحنات والجرارات فوق 3.5 طن من الوزن الإجمالي، بما في ذلك المقطورات.",
    "ru": "Запрещены грузовики и тягачи полной массой более 3,5 т, включая прицепы.",
    "pl": "Zakaz wjazdu ciężarówek i ciągników powyżej 3,5 t dopuszczalnej masy całkowitej, łącznie z przyczepami.",
-   "ro": "Fără camioane și tractoare de peste 3,5 t masă totală, inclusiv remorcile."
+   "ro": "Fără camioane și tractoare de peste 3,5 t masă totală, inclusiv remorcile.",
+   "hr": "Bez kamiona i traktora iznad 3,5 t najveće dopuštene mase, uključujući prikolice."
   }
  },
  {
@@ -1109,7 +1209,8 @@
    "ar": "ممنوع ركوب الدراجات",
    "ru": "Велосипедам запрещено",
    "pl": "Zakaz wjazdu rowerów",
-   "ro": "Accesul interzis bicicletelor"
+   "ro": "Accesul interzis bicicletelor",
+   "hr": "Zabrana prometa biciklima"
   },
   "meaning": {
    "de": "Radfahren verboten.",
@@ -1118,7 +1219,8 @@
    "ar": "ممنوع ركوب الدراجات.",
    "ru": "Ездить на велосипеде запрещено.",
    "pl": "Zakaz jazdy rowerem.",
-   "ro": "Mersul cu bicicleta interzis."
+   "ro": "Mersul cu bicicleta interzis.",
+   "hr": "Vožnja bicikla zabranjena."
   }
  },
  {
@@ -1131,7 +1233,8 @@
    "ar": "ممنوع مرور الدراجات النارية",
    "ru": "Мотоциклам запрещено",
    "pl": "Zakaz wjazdu motocykli",
-   "ro": "Accesul interzis motocicletelor"
+   "ro": "Accesul interzis motocicletelor",
+   "hr": "Zabrana prometa motociklima"
   },
   "meaning": {
    "de": "Verbot für Krafträder.",
@@ -1140,7 +1243,8 @@
    "ar": "ممنوع مرور الدراجات النارية.",
    "ru": "Мотоциклам запрещено.",
    "pl": "Zakaz wjazdu motocykli.",
-   "ro": "Fără motociclete."
+   "ro": "Fără motociclete.",
+   "hr": "Bez motocikala."
   }
  },
  {
@@ -1153,7 +1257,8 @@
    "ar": "ممنوع مرور المشاة",
    "ru": "Пешеходам запрещено",
    "pl": "Zakaz ruchu pieszych",
-   "ro": "Accesul interzis pietonilor"
+   "ro": "Accesul interzis pietonilor",
+   "hr": "Zabrana prometa pješacima"
   },
   "meaning": {
    "de": "Fußgänger dürfen hier nicht gehen.",
@@ -1162,7 +1267,8 @@
    "ar": "ممنوع مرور المشاة.",
    "ru": "Пешеходам запрещено.",
    "pl": "Zakaz ruchu pieszych.",
-   "ro": "Fără pietoni."
+   "ro": "Fără pietoni.",
+   "hr": "Bez pješaka."
   }
  },
  {
@@ -1175,7 +1281,8 @@
    "ar": "ممنوع مرور المركبات الآلية",
    "ru": "Механическому транспорту запрещено",
    "pl": "Zakaz wjazdu pojazdów silnikowych",
-   "ro": "Accesul interzis autovehiculelor"
+   "ro": "Accesul interzis autovehiculelor",
+   "hr": "Zabrana prometa motornim vozilima"
   },
   "meaning": {
    "de": "Verbot für Krafträder und alle anderen Kraftfahrzeuge.",
@@ -1184,7 +1291,8 @@
    "ar": "ممنوع مرور الدراجات النارية والمركبات الآلية الأخرى.",
    "ru": "Запрещены мотоциклы и другие механические транспортные средства.",
    "pl": "Zakaz wjazdu motocykli i innych pojazdów silnikowych.",
-   "ro": "Fără motociclete și alte autovehicule."
+   "ro": "Fără motociclete și alte autovehicule.",
+   "hr": "Bez motocikala i drugih motornih vozila."
   }
  },
  {
@@ -1197,7 +1305,8 @@
    "ar": "حد الوزن",
    "ru": "Ограничение массы",
    "pl": "Ograniczenie masy",
-   "ro": "Limită de masă"
+   "ro": "Limită de masă",
+   "hr": "Ograničenje mase"
   },
   "meaning": {
    "de": "Verbot für Fahrzeuge, die schwerer sind als angegeben.",
@@ -1206,7 +1315,8 @@
    "ar": "ممنوع مرور المركبات الأثقل من المبيّن.",
    "ru": "Запрещён транспорт тяжелее указанного.",
    "pl": "Zakaz wjazdu pojazdów cięższych niż podano.",
-   "ro": "Fără vehicule mai grele decât indicat."
+   "ro": "Fără vehicule mai grele decât indicat.",
+   "hr": "Bez vozila težih od navedenog."
   }
  },
  {
@@ -1219,7 +1329,8 @@
    "ar": "حد العرض",
    "ru": "Ограничение ширины",
    "pl": "Ograniczenie szerokości",
-   "ro": "Limită de lățime"
+   "ro": "Limită de lățime",
+   "hr": "Ograničenje širine"
   },
   "meaning": {
    "de": "Verbot für Fahrzeuge, die breiter sind als angegeben (einschließlich Ladung).",
@@ -1228,7 +1339,8 @@
    "ar": "ممنوع مرور المركبات الأعرض من المبيّن، بما في ذلك الحمولة.",
    "ru": "Запрещён транспорт шире указанного, включая груз.",
    "pl": "Zakaz wjazdu pojazdów szerszych niż podano, łącznie z ładunkiem.",
-   "ro": "Fără vehicule mai late decât indicat, inclusiv încărcătura."
+   "ro": "Fără vehicule mai late decât indicat, inclusiv încărcătura.",
+   "hr": "Bez vozila širih od navedenog, uključujući teret."
   }
  },
  {
@@ -1241,7 +1353,8 @@
    "ar": "حد الارتفاع",
    "ru": "Ограничение высоты",
    "pl": "Ograniczenie wysokości",
-   "ro": "Limită de înălțime"
+   "ro": "Limită de înălțime",
+   "hr": "Ograničenje visine"
   },
   "meaning": {
    "de": "Verbot für Fahrzeuge, die höher sind als angegeben (einschließlich Ladung).",
@@ -1250,7 +1363,8 @@
    "ar": "ممنوع مرور المركبات الأعلى من المبيّن، بما في ذلك الحمولة.",
    "ru": "Запрещён транспорт выше указанного, включая груз.",
    "pl": "Zakaz wjazdu pojazdów wyższych niż podano, łącznie z ładunkiem.",
-   "ro": "Fără vehicule mai înalte decât indicat, inclusiv încărcătura."
+   "ro": "Fără vehicule mai înalte decât indicat, inclusiv încărcătura.",
+   "hr": "Bez vozila viših od navedenog, uključujući teret."
   }
  },
  {
@@ -1263,7 +1377,8 @@
    "ar": "ممنوع الدخول",
    "ru": "Въезд запрещён",
    "pl": "Zakaz wjazdu",
-   "ro": "Accesul interzis"
+   "ro": "Accesul interzis",
+   "hr": "Zabrana ulaska"
   },
   "meaning": {
    "de": "Hier darf nicht eingefahren werden.",
@@ -1272,7 +1387,8 @@
    "ar": "لا تدخل.",
    "ru": "Не въезжать.",
    "pl": "Nie wjeżdżaj.",
-   "ro": "Nu intra."
+   "ro": "Nu intra.",
+   "hr": "Ne ulazi."
   }
  },
  {
@@ -1285,7 +1401,8 @@
    "ar": "منطقة انبعاثات منخفضة",
    "ru": "Экологическая зона",
    "pl": "Strefa niskiej emisji",
-   "ro": "Zonă cu emisii reduse"
+   "ro": "Zonă cu emisii reduse",
+   "hr": "Zona niskih emisija"
   },
   "meaning": {
    "de": "Nur Fahrzeuge mit der vorgeschriebenen Plakette dürfen einfahren.",
@@ -1294,7 +1411,8 @@
    "ar": "لا يدخل إلا المركبات التي تحمل الملصق المطلوب.",
    "ru": "Въезд только для автомобилей с нужной наклейкой.",
    "pl": "Wjazd tylko dla pojazdów z wymaganą naklejką.",
-   "ro": "Pot intra doar vehiculele cu abțibildul cerut."
+   "ro": "Pot intra doar vehiculele cu abțibildul cerut.",
+   "hr": "Ulaz samo za vozila s propisanom naljepnicom."
   }
  },
  {
@@ -1307,7 +1425,8 @@
    "ar": "ممنوع الالتفاف",
    "ru": "Разворот запрещён",
    "pl": "Zakaz zawracania",
-   "ro": "Întoarcerea interzisă"
+   "ro": "Întoarcerea interzisă",
+   "hr": "Zabrana okretanja"
   },
   "meaning": {
    "de": "Hier darf nicht gewendet werden.",
@@ -1316,7 +1435,8 @@
    "ar": "ممنوع الالتفاف هنا.",
    "ru": "Здесь нельзя разворачиваться.",
    "pl": "Tu nie wolno zawracać.",
-   "ro": "Aici nu se întoarce."
+   "ro": "Aici nu se întoarce.",
+   "hr": "Ovdje se ne smiješ okrenuti."
   }
  },
  {
@@ -1329,7 +1449,8 @@
    "ar": "حد السرعة 10",
    "ru": "Ограничение 10",
    "pl": "Ograniczenie prędkości 10",
-   "ro": "Limită de viteză 10"
+   "ro": "Limită de viteză 10",
+   "hr": "Ograničenje brzine 10"
   },
   "meaning": {
    "de": "Nicht schneller als 10 km/h.",
@@ -1338,7 +1459,8 @@
    "ar": "لا أسرع من 10 كم/س.",
    "ru": "Не быстрее 10 км/ч.",
    "pl": "Nie szybciej niż 10 km/h.",
-   "ro": "Nu mai repede de 10 km/h."
+   "ro": "Nu mai repede de 10 km/h.",
+   "hr": "Ne brže od 10 km/h."
   }
  },
  {
@@ -1351,7 +1473,8 @@
    "ar": "حد السرعة 20",
    "ru": "Ограничение 20",
    "pl": "Ograniczenie prędkości 20",
-   "ro": "Limită de viteză 20"
+   "ro": "Limită de viteză 20",
+   "hr": "Ograničenje brzine 20"
   },
   "meaning": {
    "de": "Nicht schneller als 20 km/h.",
@@ -1360,7 +1483,8 @@
    "ar": "لا أسرع من 20 كم/س.",
    "ru": "Не быстрее 20 км/ч.",
    "pl": "Nie szybciej niż 20 km/h.",
-   "ro": "Nu mai repede de 20 km/h."
+   "ro": "Nu mai repede de 20 km/h.",
+   "hr": "Ne brže od 20 km/h."
   }
  },
  {
@@ -1373,7 +1497,8 @@
    "ar": "حد السرعة 30",
    "ru": "Ограничение 30",
    "pl": "Ograniczenie prędkości 30",
-   "ro": "Limită de viteză 30"
+   "ro": "Limită de viteză 30",
+   "hr": "Ograničenje brzine 30"
   },
   "meaning": {
    "de": "Nicht schneller als 30 km/h.",
@@ -1382,7 +1507,8 @@
    "ar": "لا أسرع من 30 كم/س.",
    "ru": "Не быстрее 30 км/ч.",
    "pl": "Nie szybciej niż 30 km/h.",
-   "ro": "Nu mai repede de 30 km/h."
+   "ro": "Nu mai repede de 30 km/h.",
+   "hr": "Ne brže od 30 km/h."
   }
  },
  {
@@ -1395,7 +1521,8 @@
    "ar": "حد السرعة 50",
    "ru": "Ограничение 50",
    "pl": "Ograniczenie prędkości 50",
-   "ro": "Limită de viteză 50"
+   "ro": "Limită de viteză 50",
+   "hr": "Ograničenje brzine 50"
   },
   "meaning": {
    "de": "Nicht schneller als 50 km/h, bis ein Zeichen die Beschränkung aufhebt.",
@@ -1404,7 +1531,8 @@
    "ar": "لا أسرع من 50 كم/س حتى ترفع إشارة الحد.",
    "ru": "Не быстрее 50 км/ч, пока знак не снимет ограничение.",
    "pl": "Nie szybciej niż 50 km/h, dopóki znak nie odwoła ograniczenia.",
-   "ro": "Nu mai repede de 50 km/h până când un indicator ridică limita."
+   "ro": "Nu mai repede de 50 km/h până când un indicator ridică limita.",
+   "hr": "Ne brže od 50 km/h dok znak ne ukine ograničenje."
   }
  },
  {
@@ -1417,7 +1545,8 @@
    "ar": "حد السرعة 60",
    "ru": "Ограничение 60",
    "pl": "Ograniczenie prędkości 60",
-   "ro": "Limită de viteză 60"
+   "ro": "Limită de viteză 60",
+   "hr": "Ograničenje brzine 60"
   },
   "meaning": {
    "de": "Nicht schneller als 60 km/h.",
@@ -1426,7 +1555,8 @@
    "ar": "لا أسرع من 60 كم/س.",
    "ru": "Не быстрее 60 км/ч.",
    "pl": "Nie szybciej niż 60 km/h.",
-   "ro": "Nu mai repede de 60 km/h."
+   "ro": "Nu mai repede de 60 km/h.",
+   "hr": "Ne brže od 60 km/h."
   }
  },
  {
@@ -1439,7 +1569,8 @@
    "ar": "حد السرعة 70",
    "ru": "Ограничение 70",
    "pl": "Ograniczenie prędkości 70",
-   "ro": "Limită de viteză 70"
+   "ro": "Limită de viteză 70",
+   "hr": "Ograničenje brzine 70"
   },
   "meaning": {
    "de": "Nicht schneller als 70 km/h.",
@@ -1448,7 +1579,8 @@
    "ar": "لا أسرع من 70 كم/س.",
    "ru": "Не быстрее 70 км/ч.",
    "pl": "Nie szybciej niż 70 km/h.",
-   "ro": "Nu mai repede de 70 km/h."
+   "ro": "Nu mai repede de 70 km/h.",
+   "hr": "Ne brže od 70 km/h."
   }
  },
  {
@@ -1461,7 +1593,8 @@
    "ar": "حد السرعة 80",
    "ru": "Ограничение 80",
    "pl": "Ograniczenie prędkości 80",
-   "ro": "Limită de viteză 80"
+   "ro": "Limită de viteză 80",
+   "hr": "Ograničenje brzine 80"
   },
   "meaning": {
    "de": "Nicht schneller als 80 km/h.",
@@ -1470,7 +1603,8 @@
    "ar": "لا أسرع من 80 كم/س.",
    "ru": "Не быстрее 80 км/ч.",
    "pl": "Nie szybciej niż 80 km/h.",
-   "ro": "Nu mai repede de 80 km/h."
+   "ro": "Nu mai repede de 80 km/h.",
+   "hr": "Ne brže od 80 km/h."
   }
  },
  {
@@ -1483,7 +1617,8 @@
    "ar": "حد السرعة 100",
    "ru": "Ограничение 100",
    "pl": "Ograniczenie prędkości 100",
-   "ro": "Limită de viteză 100"
+   "ro": "Limită de viteză 100",
+   "hr": "Ograničenje brzine 100"
   },
   "meaning": {
    "de": "Nicht schneller als 100 km/h.",
@@ -1492,7 +1627,8 @@
    "ar": "لا أسرع من 100 كم/س.",
    "ru": "Не быстрее 100 км/ч.",
    "pl": "Nie szybciej niż 100 km/h.",
-   "ro": "Nu mai repede de 100 km/h."
+   "ro": "Nu mai repede de 100 km/h.",
+   "hr": "Ne brže od 100 km/h."
   }
  },
  {
@@ -1505,7 +1641,8 @@
    "ar": "حد السرعة 120",
    "ru": "Ограничение 120",
    "pl": "Ograniczenie prędkości 120",
-   "ro": "Limită de viteză 120"
+   "ro": "Limită de viteză 120",
+   "hr": "Ograničenje brzine 120"
   },
   "meaning": {
    "de": "Nicht schneller als 120 km/h.",
@@ -1514,7 +1651,8 @@
    "ar": "لا أسرع من 120 كم/س.",
    "ru": "Не быстрее 120 км/ч.",
    "pl": "Nie szybciej niż 120 km/h.",
-   "ro": "Nu mai repede de 120 km/h."
+   "ro": "Nu mai repede de 120 km/h.",
+   "hr": "Ne brže od 120 km/h."
   }
  },
  {
@@ -1527,7 +1665,8 @@
    "ar": "حد السرعة 130",
    "ru": "Ограничение 130",
    "pl": "Ograniczenie prędkości 130",
-   "ro": "Limită de viteză 130"
+   "ro": "Limită de viteză 130",
+   "hr": "Ograničenje brzine 130"
   },
   "meaning": {
    "de": "Nicht schneller als 130 km/h.",
@@ -1536,7 +1675,8 @@
    "ar": "لا أسرع من 130 كم/س.",
    "ru": "Не быстрее 130 км/ч.",
    "pl": "Nie szybciej niż 130 km/h.",
-   "ro": "Nu mai repede de 130 km/h."
+   "ro": "Nu mai repede de 130 km/h.",
+   "hr": "Ne brže od 130 km/h."
   }
  },
  {
@@ -1549,7 +1689,8 @@
    "ar": "منطقة 30",
    "ru": "Зона 30",
    "pl": "Strefa 30",
-   "ro": "Zonă 30"
+   "ro": "Zonă 30",
+   "hr": "Zona 30"
   },
   "meaning": {
    "de": "In der ganzen Zone höchstens 30 km/h, meist „rechts vor links“.",
@@ -1558,7 +1699,8 @@
    "ar": "30 كم/س في كامل المنطقة؛ وغالبًا «اليمين قبل اليسار».",
    "ru": "30 км/ч во всей зоне; обычно «правый перед левым».",
    "pl": "30 km/h w całej strefie; zwykle „prawa przed lewą”.",
-   "ro": "30 km/h în toată zona; de obicei „dreapta înaintea stângii”."
+   "ro": "30 km/h în toată zona; de obicei „dreapta înaintea stângii”.",
+   "hr": "30 km/h u cijeloj zoni; obično „desni ima prednost”."
   }
  },
  {
@@ -1571,7 +1713,8 @@
    "ar": "نهاية منطقة 30",
    "ru": "Конец зоны 30",
    "pl": "Koniec strefy 30",
-   "ro": "Sfârșitul zonei 30"
+   "ro": "Sfârșitul zonei 30",
+   "hr": "Kraj zone 30"
   },
   "meaning": {
    "de": "Die Tempo-30-Zone endet.",
@@ -1580,7 +1723,8 @@
    "ar": "تنتهي منطقة 30.",
    "ru": "Зона 30 заканчивается.",
    "pl": "Strefa 30 się kończy.",
-   "ro": "Zona 30 se termină."
+   "ro": "Zona 30 se termină.",
+   "hr": "Zona 30 završava."
   }
  },
  {
@@ -1593,7 +1737,8 @@
    "ar": "ممنوع التجاوز",
    "ru": "Обгон запрещён",
    "pl": "Zakaz wyprzedzania",
-   "ro": "Depășirea interzisă"
+   "ro": "Depășirea interzisă",
+   "hr": "Zabrana pretjecanja"
   },
   "meaning": {
    "de": "Mehrspurige Kraftfahrzeuge dürfen nicht überholt werden. Einspurige (Rad, Motorrad) schon.",
@@ -1602,7 +1747,8 @@
    "ar": "لا تتجاوز المركبات الآلية متعددة المسارات. أحادية المسار (الدراجات، الدراجات النارية) يجوز تجاوزها.",
    "ru": "Не обгонять многоколейные механические транспортные средства. Одноколейные (велосипеды, мотоциклы) можно.",
    "pl": "Nie wyprzedzaj wielośladowych pojazdów silnikowych. Jednoślady (rowery, motocykle) wolno.",
-   "ro": "Nu depăși autovehicule pe mai multe urme. Pe cele pe o urmă (biciclete, motociclete) poți."
+   "ro": "Nu depăși autovehicule pe mai multe urme. Pe cele pe o urmă (biciclete, motociclete) poți.",
+   "hr": "Ne pretječi višetraga motorna vozila. Jednotraga (bicikle, motocikle) smiješ."
   }
  },
  {
@@ -1615,7 +1761,8 @@
    "ar": "ممنوع التجاوز للشاحنات فوق 3.5 طن",
    "ru": "Обгон грузовикам более 3,5 т запрещён",
    "pl": "Zakaz wyprzedzania przez ciężarówki powyżej 3,5 t",
-   "ro": "Depășirea interzisă camioanelor peste 3,5 t"
+   "ro": "Depășirea interzisă camioanelor peste 3,5 t",
+   "hr": "Zabrana pretjecanja za kamione iznad 3,5 t"
   },
   "meaning": {
    "de": "Gilt für Kfz über 3,5 t und Zugmaschinen – nicht für Pkw und Busse, auch nicht mit Anhänger.",
@@ -1624,7 +1771,8 @@
    "ar": "يسري على المركبات فوق 3.5 طن والجرارات - لا على السيارات أو الحافلات، حتى مع مقطورة.",
    "ru": "Действует для транспорта более 3,5 т и тягачей — не для легковых и автобусов, даже с прицепом.",
    "pl": "Dotyczy pojazdów powyżej 3,5 t i ciągników — nie samochodów osobowych ani autobusów, nawet z przyczepą.",
-   "ro": "Se aplică vehiculelor peste 3,5 t și tractoarelor — nu autoturismelor sau autobuzelor, nici cu remorcă."
+   "ro": "Se aplică vehiculelor peste 3,5 t și tractoarelor — nu autoturismelor sau autobuzelor, nici cu remorcă.",
+   "hr": "Vrijedi za vozila iznad 3,5 t i traktore — ne za osobne automobile ni autobuse, čak ni s prikolicom."
   }
  },
  {
@@ -1637,7 +1785,8 @@
    "ar": "نهاية حد السرعة",
    "ru": "Конец ограничения скорости",
    "pl": "Koniec ograniczenia prędkości",
-   "ro": "Sfârșitul limitei de viteză"
+   "ro": "Sfârșitul limitei de viteză",
+   "hr": "Kraj ograničenja brzine"
   },
   "meaning": {
    "de": "Die angezeigte Beschränkung endet. Es gilt wieder das allgemeine Limit.",
@@ -1646,7 +1795,8 @@
    "ar": "ينتهي الحد المبيّن. يسري الحد العام من جديد.",
    "ru": "Указанное ограничение заканчивается. Снова действует общее ограничение.",
    "pl": "Podane ograniczenie się kończy. Znów obowiązuje ogólny limit.",
-   "ro": "Limita indicată se termină. Se aplică din nou limita generală."
+   "ro": "Limita indicată se termină. Se aplică din nou limita generală.",
+   "hr": "Navedeno ograničenje završava. Ponovno vrijedi opće ograničenje."
   }
  },
  {
@@ -1659,7 +1809,8 @@
    "ar": "نهاية منع التجاوز",
    "ru": "Конец запрета обгона",
    "pl": "Koniec zakazu wyprzedzania",
-   "ro": "Sfârșitul interdicției de depășire"
+   "ro": "Sfârșitul interdicției de depășire",
+   "hr": "Kraj zabrane pretjecanja"
   },
   "meaning": {
    "de": "Das Überholverbot endet.",
@@ -1668,7 +1819,8 @@
    "ar": "ينتهي منع التجاوز.",
    "ru": "Запрет обгона заканчивается.",
    "pl": "Zakaz wyprzedzania się kończy.",
-   "ro": "Interdicția de depășire se termină."
+   "ro": "Interdicția de depășire se termină.",
+   "hr": "Zabrana pretjecanja završava."
   }
  },
  {
@@ -1681,7 +1833,8 @@
    "ar": "نهاية كل القيود",
    "ru": "Конец всех ограничений",
    "pl": "Koniec zakazów",
-   "ro": "Sfârșitul tuturor restricțiilor"
+   "ro": "Sfârșitul tuturor restricțiilor",
+   "hr": "Kraj svih zabrana"
   },
   "meaning": {
    "de": "Alle vorher angeordneten Streckenverbote (Tempo, Überholen) enden.",
@@ -1690,7 +1843,8 @@
    "ar": "تنتهي كل القيود على امتداد المقطع (السرعة، التجاوز).",
    "ru": "Все ограничения на участке (скорость, обгон) заканчиваются.",
    "pl": "Kończą się wszystkie ograniczenia na odcinku (prędkość, wyprzedzanie).",
-   "ro": "Se termină toate restricțiile de pe tronson (viteză, depășire)."
+   "ro": "Se termină toate restricțiile de pe tronson (viteză, depășire).",
+   "hr": "Završavaju sva ograničenja na dionici (brzina, pretjecanje)."
   }
  },
  {
@@ -1703,7 +1857,8 @@
    "ar": "ممنوع التوقف",
    "ru": "Остановка запрещена",
    "pl": "Zakaz zatrzymywania się",
-   "ro": "Oprirea interzisă"
+   "ro": "Oprirea interzisă",
+   "hr": "Zabrana zaustavljanja"
   },
   "meaning": {
    "de": "Halten auf der Fahrbahn ist ganz verboten, auch kurz.",
@@ -1712,7 +1867,8 @@
    "ar": "ممنوع التوقف على الطريق إطلاقًا، ولا حتى لفترة قصيرة.",
    "ru": "Никакой остановки на проезжей части, даже короткой.",
    "pl": "Na jezdni nie wolno się zatrzymywać wcale, nawet na chwilę.",
-   "ro": "Nicio oprire pe carosabil, nici măcar scurtă."
+   "ro": "Nicio oprire pe carosabil, nici măcar scurtă.",
+   "hr": "Nikakvo zaustavljanje na kolniku, ni nakratko."
   }
  },
  {
@@ -1725,7 +1881,8 @@
    "ar": "توقف محدود",
    "ru": "Ограниченная остановка",
    "pl": "Zakaz postoju",
-   "ro": "Oprire restricționată"
+   "ro": "Oprire restricționată",
+   "hr": "Ograničeno zaustavljanje"
   },
   "meaning": {
    "de": "Halten höchstens 3 Minuten, außer zum Ein- und Aussteigen oder Be- und Entladen. Kein Parken.",
@@ -1734,7 +1891,8 @@
    "ar": "توقف 3 دقائق على الأكثر، إلا لإركاب الناس أو إنزالهم أو للتحميل. ممنوع الوقوف.",
    "ru": "Остановка не больше 3 минут, кроме посадки, высадки или погрузки. Стоянка запрещена.",
    "pl": "Zatrzymanie najwyżej 3 minuty, z wyjątkiem wsiadania, wysiadania lub załadunku. Postój zabroniony.",
-   "ro": "Oprire cel mult 3 minute, cu excepția urcării, coborârii sau încărcării. Staționarea interzisă."
+   "ro": "Oprire cel mult 3 minute, cu excepția urcării, coborârii sau încărcării. Staționarea interzisă.",
+   "hr": "Zaustavljanje najviše 3 minute, osim za ulazak, izlazak ili utovar. Parkiranje zabranjeno."
   }
  },
  {
@@ -1747,7 +1905,8 @@
    "ar": "منطقة توقف محدود",
    "ru": "Зона ограниченной остановки",
    "pl": "Strefa ograniczonego postoju",
-   "ro": "Zonă cu oprire restricționată"
+   "ro": "Zonă cu oprire restricționată",
+   "hr": "Zona ograničenog zaustavljanja"
   },
   "meaning": {
    "de": "In der ganzen Zone gilt das eingeschränkte Haltverbot, außer auf markierten Parkflächen.",
@@ -1756,7 +1915,8 @@
    "ar": "يسري التوقف المحدود في كامل المنطقة، إلا في الأماكن المخططة.",
    "ru": "Ограниченная остановка действует во всей зоне, кроме размеченных мест.",
    "pl": "W całej strefie obowiązuje ograniczony zakaz zatrzymywania, poza wyznaczonymi miejscami.",
-   "ro": "În toată zona se aplică oprirea restricționată, cu excepția locurilor marcate."
+   "ro": "În toată zona se aplică oprirea restricționată, cu excepția locurilor marcate.",
+   "hr": "U cijeloj zoni vrijedi ograničeno zaustavljanje, osim na označenim mjestima."
   }
  },
  {
@@ -1769,7 +1929,8 @@
    "ar": "موقف",
    "ru": "Парковка",
    "pl": "Parking",
-   "ro": "Parcare"
+   "ro": "Parcare",
+   "hr": "Parkiralište"
   },
   "meaning": {
    "de": "Hier ist Parken erlaubt; Zusatzzeichen können es beschränken.",
@@ -1778,7 +1939,8 @@
    "ar": "الوقوف مسموح هنا؛ وقد تقيّده لوحات.",
    "ru": "Здесь можно парковаться; таблички могут ограничивать.",
    "pl": "Tu wolno parkować; tabliczki mogą to ograniczać.",
-   "ro": "Aici se poate parca; panourile pot restrânge."
+   "ro": "Aici se poate parca; panourile pot restrânge.",
+   "hr": "Ovdje se smije parkirati; ploče mogu ograničiti."
   }
  },
  {
@@ -1791,7 +1953,8 @@
    "ar": "موقف حافلة أو ترام",
    "ru": "Остановка автобуса или трамвая",
    "pl": "Przystanek autobusowy lub tramwajowy",
-   "ro": "Stație de autobuz sau tramvai"
+   "ro": "Stație de autobuz sau tramvai",
+   "hr": "Autobusno ili tramvajsko stajalište"
   },
   "meaning": {
    "de": "Haltestelle. Bis zu je 15 m davor und dahinter nicht parken.",
@@ -1800,7 +1963,8 @@
    "ar": "موقف حافلة أو ترام. ممنوع الوقوف لمسافة 15 م على الجانبين.",
    "ru": "Остановка автобуса или трамвая. Стоянка запрещена в 15 м с обеих сторон.",
    "pl": "Przystanek autobusu lub tramwaju. Zakaz postoju 15 m po obu stronach.",
-   "ro": "Stație de autobuz sau tramvai. Parcarea interzisă pe 15 m de fiecare parte."
+   "ro": "Stație de autobuz sau tramvai. Parcarea interzisă pe 15 m de fiecare parte.",
+   "hr": "Autobusno ili tramvajsko stajalište. Zabrana parkiranja 15 m s obje strane."
   }
  },
  {
@@ -1813,7 +1977,8 @@
    "ar": "لوحة اسم البلدة",
    "ru": "Знак населённого пункта",
    "pl": "Tablica miejscowości",
-   "ro": "Intrare în localitate"
+   "ro": "Intrare în localitate",
+   "hr": "Znak naselja"
   },
   "meaning": {
    "de": "Beginn der geschlossenen Ortschaft: Ab hier 50 km/h, wenn nichts anderes gilt.",
@@ -1822,7 +1987,8 @@
    "ar": "بداية منطقة مأهولة: 50 كم/س من هنا ما لم يُذكر غير ذلك.",
    "ru": "Начало населённого пункта: отсюда 50 км/ч, если не указано иное.",
    "pl": "Początek obszaru zabudowanego: od tego miejsca 50 km/h, jeśli nie oznaczono inaczej.",
-   "ro": "Începutul zonei construite: de aici 50 km/h dacă nu se indică altfel."
+   "ro": "Începutul zonei construite: de aici 50 km/h dacă nu se indică altfel.",
+   "hr": "Početak naselja: odavde 50 km/h, osim ako je drukčije označeno."
   }
  },
  {
@@ -1835,7 +2001,8 @@
    "ar": "نهاية البلدة",
    "ru": "Конец населённого пункта",
    "pl": "Koniec miejscowości",
-   "ro": "Ieșire din localitate"
+   "ro": "Ieșire din localitate",
+   "hr": "Kraj naselja"
   },
   "meaning": {
    "de": "Ende der geschlossenen Ortschaft: Es gelten die Regeln für außerorts.",
@@ -1844,7 +2011,8 @@
    "ar": "نهاية المنطقة المأهولة: تسري قواعد خارج المدن.",
    "ru": "Конец населённого пункта: действуют правила вне населённых пунктов.",
    "pl": "Koniec obszaru zabudowanego: obowiązują zasady poza obszarem zabudowanym.",
-   "ro": "Sfârșitul zonei construite: se aplică regulile din afara localităților."
+   "ro": "Sfârșitul zonei construite: se aplică regulile din afara localităților.",
+   "hr": "Kraj naselja: vrijede pravila izvan naselja."
   }
  },
  {
@@ -1857,7 +2025,8 @@
    "ar": "منطقة مهدّأة المرور",
    "ru": "Жилая зона",
    "pl": "Strefa zamieszkania",
-   "ro": "Zonă rezidențială"
+   "ro": "Zonă rezidențială",
+   "hr": "Zona smirenog prometa"
   },
   "meaning": {
    "de": "Schrittgeschwindigkeit. Fußgänger dürfen die ganze Straße nutzen, Kinder überall spielen.",
@@ -1866,7 +2035,8 @@
    "ar": "سرعة المشي. يجوز للمشاة استخدام الشارع كله ويجوز للأطفال اللعب في أي مكان.",
    "ru": "Скорость пешехода. Пешеходы могут пользоваться всей улицей, дети могут играть везде.",
    "pl": "Prędkość pieszego. Piesi mogą korzystać z całej ulicy, dzieci mogą bawić się wszędzie.",
-   "ro": "Viteza pasului. Pietonii pot folosi toată strada, iar copiii se pot juca oriunde."
+   "ro": "Viteza pasului. Pietonii pot folosi toată strada, iar copiii se pot juca oriunde.",
+   "hr": "Brzina hoda. Pješaci smiju koristiti cijelu ulicu, djeca se smiju igrati bilo gdje."
   }
  },
  {
@@ -1879,7 +2049,8 @@
    "ar": "نهاية المنطقة المهدّأة المرور",
    "ru": "Конец жилой зоны",
    "pl": "Koniec strefy zamieszkania",
-   "ro": "Sfârșitul zonei rezidențiale"
+   "ro": "Sfârșitul zonei rezidențiale",
+   "hr": "Kraj zone smirenog prometa"
   },
   "meaning": {
    "de": "Wer hinausfährt, muss allen anderen Vorfahrt lassen.",
@@ -1888,7 +2059,8 @@
    "ar": "عند الخروج أعطِ الأولوية للجميع.",
    "ru": "При выезде уступите всем остальным.",
    "pl": "Wyjeżdżając, ustąp pierwszeństwa wszystkim.",
-   "ro": "La ieșire cedează trecerea tuturor."
+   "ro": "La ieșire cedează trecerea tuturor.",
+   "hr": "Pri izlasku ustupi prednost svima."
   }
  },
  {
@@ -1901,7 +2073,8 @@
    "ar": "طريق سريع",
    "ru": "Автобан",
    "pl": "Autostrada",
-   "ro": "Autostradă"
+   "ro": "Autostradă",
+   "hr": "Autocesta"
   },
   "meaning": {
    "de": "Nur für Kfz über 60 km/h bauartbedingt. Kein Halten, Wenden, Rückwärtsfahren.",
@@ -1910,7 +2083,8 @@
    "ar": "فقط للمركبات الآلية المصممة لأكثر من 60 كم/س. ممنوع التوقف والالتفاف والرجوع إلى الخلف.",
    "ru": "Только для механических транспортных средств быстрее 60 км/ч. Остановка, разворот и задний ход запрещены.",
    "pl": "Tylko dla pojazdów silnikowych szybszych niż 60 km/h. Zakaz zatrzymywania, zawracania i cofania.",
-   "ro": "Doar pentru autovehicule construite pentru peste 60 km/h. Oprirea, întoarcerea și mersul înapoi interzise."
+   "ro": "Doar pentru autovehicule construite pentru peste 60 km/h. Oprirea, întoarcerea și mersul înapoi interzise.",
+   "hr": "Samo za motorna vozila konstruirana za više od 60 km/h. Zabranjeni zaustavljanje, okretanje i vožnja unatrag."
   }
  },
  {
@@ -1923,7 +2097,8 @@
    "ar": "نهاية الطريق السريع",
    "ru": "Конец автобана",
    "pl": "Koniec autostrady",
-   "ro": "Sfârșitul autostrăzii"
+   "ro": "Sfârșitul autostrăzii",
+   "hr": "Kraj autoceste"
   },
   "meaning": {
    "de": "Die Autobahnregeln enden.",
@@ -1932,7 +2107,8 @@
    "ar": "تنتهي قواعد الطريق السريع.",
    "ru": "Правила автобана заканчиваются.",
    "pl": "Zasady autostrady przestają obowiązywać.",
-   "ro": "Regulile de autostradă se termină."
+   "ro": "Regulile de autostradă se termină.",
+   "hr": "Pravila autoceste prestaju vrijediti."
   }
  },
  {
@@ -1945,7 +2121,8 @@
    "ar": "طريق السيارات",
    "ru": "Автомагистраль",
    "pl": "Droga ekspresowa",
-   "ro": "Drum expres"
+   "ro": "Drum expres",
+   "hr": "Brza cesta"
   },
   "meaning": {
    "de": "Wie Autobahn: nur schnelle Kfz, kein Halten, kein Wenden. Vorfahrt an Einmündungen.",
@@ -1954,7 +2131,8 @@
    "ar": "مثل الطريق السريع: مركبات آلية سريعة فقط، ممنوع التوقف والالتفاف. أولوية عند التقاطعات.",
    "ru": "Как автобан: только быстрый механический транспорт, остановка и разворот запрещены. Преимущество на перекрёстках.",
    "pl": "Jak autostrada: tylko szybkie pojazdy silnikowe, zakaz zatrzymywania i zawracania. Pierwszeństwo na skrzyżowaniach.",
-   "ro": "Ca o autostradă: doar autovehicule rapide, fără oprire sau întoarcere. Prioritate la intersecții."
+   "ro": "Ca o autostradă: doar autovehicule rapide, fără oprire sau întoarcere. Prioritate la intersecții.",
+   "hr": "Kao autocesta: samo brza motorna vozila, bez zaustavljanja i okretanja. Prednost na raskrižjima."
   }
  },
  {
@@ -1967,7 +2145,8 @@
    "ar": "نهاية طريق السيارات",
    "ru": "Конец автомагистрали",
    "pl": "Koniec drogi ekspresowej",
-   "ro": "Sfârșitul drumului expres"
+   "ro": "Sfârșitul drumului expres",
+   "hr": "Kraj brze ceste"
   },
   "meaning": {
    "de": "Die Regeln der Kraftfahrstraße enden.",
@@ -1976,7 +2155,8 @@
    "ar": "تنتهي قواعد طريق السيارات.",
    "ru": "Правила автомагистрали заканчиваются.",
    "pl": "Zasady drogi ekspresowej przestają obowiązywać.",
-   "ro": "Regulile de drum expres se termină."
+   "ro": "Regulile de drum expres se termină.",
+   "hr": "Pravila brze ceste prestaju vrijediti."
   }
  },
  {
@@ -1989,7 +2169,8 @@
    "ar": "معبر مشاة مخطط",
    "ru": "Пешеходный переход",
    "pl": "Przejście dla pieszych",
-   "ro": "Trecere de pietoni"
+   "ro": "Trecere de pietoni",
+   "hr": "Pješački prijelaz"
   },
   "meaning": {
    "de": "Fußgänger, die erkennbar hinüber wollen, haben Vorrang. Nicht überholen, 5 m davor nicht halten.",
@@ -1998,7 +2179,8 @@
    "ar": "للمشاة الذين يريدون العبور بوضوح الأولوية. ممنوع التجاوز؛ ممنوع التوقف لمسافة 5 م قبله.",
    "ru": "Пешеходы, явно желающие перейти, имеют преимущество. Обгон запрещён; остановка запрещена за 5 м до него.",
    "pl": "Piesi, którzy wyraźnie chcą przejść, mają pierwszeństwo. Zakaz wyprzedzania; zakaz zatrzymywania 5 m przed przejściem.",
-   "ro": "Pietonii care vor clar să traverseze au prioritate. Depășirea interzisă; oprirea interzisă cu 5 m înainte."
+   "ro": "Pietonii care vor clar să traverseze au prioritate. Depășirea interzisă; oprirea interzisă cu 5 m înainte.",
+   "hr": "Pješaci koji očito žele prijeći imaju prednost. Zabrana pretjecanja; zabrana zaustavljanja 5 m prije prijelaza."
   }
  },
  {
@@ -2011,7 +2193,8 @@
    "ar": "طريق مسدود",
    "ru": "Тупик",
    "pl": "Droga bez przejazdu",
-   "ro": "Drum fără ieșire"
+   "ro": "Drum fără ieșire",
+   "hr": "Slijepa ulica"
   },
   "meaning": {
    "de": "Für Fahrzeuge geht es hier nicht weiter.",
@@ -2020,7 +2203,8 @@
    "ar": "لا منفذ للمركبات.",
    "ru": "Нет сквозного проезда для транспорта.",
    "pl": "Brak przejazdu dla pojazdów.",
-   "ro": "Fără trecere pentru vehicule."
+   "ro": "Fără trecere pentru vehicule.",
+   "hr": "Nema prolaza za vozila."
   }
  },
  {
@@ -2033,7 +2217,8 @@
    "ar": "علامة العد التنازلي للمخرج",
    "ru": "Отсчётный знак съезда",
    "pl": "Tablica odliczająca przed zjazdem",
-   "ro": "Panou de numărătoare la ieșire"
+   "ro": "Panou de numărătoare la ieșire",
+   "hr": "Ploča najave izlaza"
   },
   "meaning": {
    "de": "Etwa 300, 200 und 100 m bis zur Autobahnausfahrt.",
@@ -2042,7 +2227,8 @@
    "ar": "نحو 300 و200 و100 م حتى مخرج الطريق السريع.",
    "ru": "Около 300, 200 и 100 м до съезда с автобана.",
    "pl": "Ok. 300, 200 i 100 m do zjazdu z autostrady.",
-   "ro": "Circa 300, 200 și 100 m până la ieșirea de pe autostradă."
+   "ro": "Circa 300, 200 și 100 m până la ieșirea de pe autostradă.",
+   "hr": "Oko 300, 200 i 100 m do izlaza s autoceste."
   }
  },
  {
@@ -2055,7 +2241,8 @@
    "ar": "لوحة أسهم اتجاهية",
    "ru": "Направляющий щит",
    "pl": "Tablica kierunkowa",
-   "ro": "Panou direcțional"
+   "ro": "Panou direcțional",
+   "hr": "Ploča za označavanje zavoja"
   },
   "meaning": {
    "de": "Zeigt die Richtung einer Kurve an, die oft enger ist, als sie wirkt.",
@@ -2064,7 +2251,8 @@
    "ar": "تُظهر اتجاه المنعطف، الذي يكون غالبًا أضيق مما يبدو.",
    "ru": "Показывает направление поворота, часто более крутого, чем кажется.",
    "pl": "Pokazuje kierunek łuku, często ostrzejszego, niż się wydaje.",
-   "ro": "Arată direcția unei curbe, adesea mai strânsă decât pare."
+   "ro": "Arată direcția unei curbe, adesea mai strânsă decât pare.",
+   "hr": "Pokazuje smjer zavoja, često oštrijeg nego što izgleda."
   }
  },
  {
@@ -2077,7 +2265,8 @@
    "ar": "طول القيد («على امتداد 800 م»)",
    "ru": "Протяжённость («на 800 м»)",
    "pl": "Długość odcinka („na 800 m”)",
-   "ro": "Lungimea restricției („pe 800 m”)"
+   "ro": "Lungimea restricției („pe 800 m”)",
+   "hr": "Duljina dionice („na 800 m”)"
   },
   "meaning": {
    "de": "Das Zeichen darüber gilt auf der angegebenen Länge.",
@@ -2086,7 +2275,8 @@
    "ar": "الإشارة أعلاه تسري على المسافة المبيّنة.",
    "ru": "Знак выше действует на указанном протяжении.",
    "pl": "Znak powyżej obowiązuje na podanej długości.",
-   "ro": "Indicatorul de deasupra se aplică pe distanța indicată."
+   "ro": "Indicatorul de deasupra se aplică pe distanța indicată.",
+   "hr": "Znak iznad vrijedi na navedenoj duljini."
   }
  },
  {
@@ -2099,7 +2289,8 @@
    "ar": "المسافة («بعد 200 م»)",
    "ru": "Расстояние («через 200 м»)",
    "pl": "Odległość („za 200 m”)",
-   "ro": "Distanță („după 200 m”)"
+   "ro": "Distanță („după 200 m”)",
+   "hr": "Udaljenost („nakon 200 m”)"
   },
   "meaning": {
    "de": "Was das Zeichen darüber ankündigt, beginnt nach der angegebenen Entfernung.",
@@ -2108,7 +2299,8 @@
    "ar": "ما تعلنه الإشارة أعلاه يبدأ بعد المسافة المبيّنة.",
    "ru": "То, о чём сообщает знак выше, начинается через указанное расстояние.",
    "pl": "To, co zapowiada znak powyżej, zaczyna się po podanej odległości.",
-   "ro": "Ce anunță indicatorul de deasupra începe după distanța indicată."
+   "ro": "Ce anunță indicatorul de deasupra începe după distanța indicată.",
+   "hr": "Ono što najavljuje znak iznad počinje nakon navedene udaljenosti."
   }
  },
  {
@@ -2121,7 +2313,8 @@
    "ar": "للمعنيين فقط",
    "ru": "Только для имеющих там дела",
    "pl": "Nie dotyczy dojazdu",
-   "ro": "Cu excepția riveranilor"
+   "ro": "Cu excepția riveranilor",
+   "hr": "Osim za stanare i dostavu"
   },
   "meaning": {
    "de": "Wer dort ein Anliegen hat – Anwohner, Besucher, Lieferanten –, darf trotz Verbot einfahren.",
@@ -2130,7 +2323,8 @@
    "ar": "يجوز لكل من لديه شأن هناك - السكان والزوار والتوصيل - الدخول.",
    "ru": "Все, у кого есть дела, — жители, гости, доставка — могут въезжать.",
    "pl": "Każdy, kto ma tam sprawę — mieszkańcy, goście, dostawy — może wjechać.",
-   "ro": "Oricine are treabă acolo — riverani, vizitatori, livrări — poate intra."
+   "ro": "Oricine are treabă acolo — riverani, vizitatori, livrări — poate intra.",
+   "hr": "Svatko tko ondje ima posla — stanari, posjetitelji, dostava — smije ući."
   }
  },
  {
@@ -2143,7 +2337,8 @@
    "ar": "باستثناء راكبي الدراجات",
    "ru": "Кроме велосипедистов",
    "pl": "Nie dotyczy rowerzystów",
-   "ro": "Cu excepția bicicliștilor"
+   "ro": "Cu excepția bicicliștilor",
+   "hr": "Osim biciklista"
   },
   "meaning": {
    "de": "Das Verbot darüber gilt nicht für Radfahrer.",
@@ -2152,7 +2347,8 @@
    "ar": "المنع أعلاه لا يسري على راكبي الدراجات.",
    "ru": "Запрет выше не действует для велосипедистов.",
    "pl": "Zakaz powyżej nie dotyczy rowerzystów.",
-   "ro": "Interdicția de deasupra nu se aplică bicicliștilor."
+   "ro": "Interdicția de deasupra nu se aplică bicicliștilor.",
+   "hr": "Zabrana iznad ne vrijedi za bicikliste."
   }
  },
  {
@@ -2165,7 +2361,8 @@
    "ar": "أوقات السريان",
    "ru": "Время действия",
    "pl": "Godziny obowiązywania",
-   "ro": "Intervale orare"
+   "ro": "Intervale orare",
+   "hr": "Vrijeme važenja"
   },
   "meaning": {
    "de": "Das Zeichen darüber gilt nur zu den angegebenen Zeiten.",
@@ -2174,7 +2371,8 @@
    "ar": "الإشارة أعلاه تسري فقط في الأوقات المبيّنة.",
    "ru": "Знак выше действует только в указанное время.",
    "pl": "Znak powyżej obowiązuje tylko w podanych godzinach.",
-   "ro": "Indicatorul de deasupra se aplică doar în intervalele indicate."
+   "ro": "Indicatorul de deasupra se aplică doar în intervalele indicate.",
+   "hr": "Znak iznad vrijedi samo u navedeno vrijeme."
   }
  },
  {
@@ -2187,7 +2385,8 @@
    "ar": "عند البلل",
    "ru": "При влажном покрытии",
    "pl": "Przy mokrej nawierzchni",
-   "ro": "Pe carosabil ud"
+   "ro": "Pe carosabil ud",
+   "hr": "Kad je mokro"
   },
   "meaning": {
    "de": "Das Zeichen darüber gilt nur bei nasser Fahrbahn.",
@@ -2196,7 +2395,8 @@
    "ar": "الإشارة أعلاه تسري فقط عندما يكون الطريق مبتلًّا.",
    "ru": "Знак выше действует только на мокрой дороге.",
    "pl": "Znak powyżej obowiązuje tylko na mokrej jezdni.",
-   "ro": "Indicatorul de deasupra se aplică doar când drumul e ud."
+   "ro": "Indicatorul de deasupra se aplică doar când drumul e ud.",
+   "hr": "Znak iznad vrijedi samo kad je kolnik mokar."
   }
  },
  {
@@ -2209,7 +2409,8 @@
    "ar": "تسري على المركبات فوق 7.5 طن",
    "ru": "Для транспорта более 7,5 т",
    "pl": "Dotyczy pojazdów powyżej 7,5 t",
-   "ro": "Pentru vehicule peste 7,5 t"
+   "ro": "Pentru vehicule peste 7,5 t",
+   "hr": "Za vozila iznad 7,5 t"
   },
   "meaning": {
    "de": "Das Zeichen darüber gilt nur für Kfz über der angegebenen Masse.",
@@ -2218,7 +2419,8 @@
    "ar": "الإشارة أعلاه تسري فقط على المركبات فوق الوزن المبيّن.",
    "ru": "Знак выше действует только для транспорта тяжелее указанного.",
    "pl": "Znak powyżej dotyczy tylko pojazdów cięższych niż podano.",
-   "ro": "Indicatorul de deasupra se aplică doar vehiculelor mai grele decât masa indicată."
+   "ro": "Indicatorul de deasupra se aplică doar vehiculelor mai grele decât masa indicată.",
+   "hr": "Znak iznad vrijedi samo za vozila teža od navedene mase."
   }
  },
  {
@@ -2231,7 +2433,8 @@
    "ar": "طريق ذو أولوية منعطف",
    "ru": "Направление главной дороги",
    "pl": "Przebieg drogi z pierwszeństwem",
-   "ro": "Traseul drumului cu prioritate"
+   "ro": "Traseul drumului cu prioritate",
+   "hr": "Tijek ceste s prednošću"
   },
   "meaning": {
    "de": "Die dicke Linie zeigt, wie die Vorfahrtstraße verläuft. Wer ihr folgt, muss blinken.",
@@ -2240,7 +2443,8 @@
    "ar": "الخط العريض يُظهر مسار الطريق ذي الأولوية. أشر إذا تبعته.",
    "ru": "Толстая линия показывает направление главной дороги. Если следуете по ней — включайте поворотник.",
    "pl": "Gruba linia pokazuje przebieg drogi z pierwszeństwem. Jadąc nią, włącz kierunkowskaz.",
-   "ro": "Linia groasă arată traseul drumului cu prioritate. Semnalizează dacă îl urmezi."
+   "ro": "Linia groasă arată traseul drumului cu prioritate. Semnalizează dacă îl urmezi.",
+   "hr": "Debela crta pokazuje tijek ceste s prednošću. Ako je pratiš, pokaži smjer."
   }
  },
  {
@@ -2253,7 +2457,8 @@
    "ar": "معبر مشاة (علامة)",
    "ru": "Пешеходный переход (разметка)",
    "pl": "Przejście dla pieszych (oznakowanie)",
-   "ro": "Trecere de pietoni (marcaj)"
+   "ro": "Trecere de pietoni (marcaj)",
+   "hr": "Pješački prijelaz (oznaka)"
   },
   "meaning": {
    "de": "Zebrastreifen: Fußgänger haben Vorrang. Halten auf ihm und 5 m davor verboten.",
@@ -2262,7 +2467,8 @@
    "ar": "معبر مشاة: للمشاة الأولوية. ممنوع التوقف عليه ولمسافة 5 م قبله.",
    "ru": "«Зебра»: у пешеходов преимущество. Остановка на ней и за 5 м до неё запрещена.",
    "pl": "Przejście dla pieszych: piesi mają pierwszeństwo. Zakaz zatrzymywania na nim i 5 m przed nim.",
-   "ro": "Trecere de pietoni: pietonii au prioritate. Oprirea interzisă pe ea și cu 5 m înainte."
+   "ro": "Trecere de pietoni: pietonii au prioritate. Oprirea interzisă pe ea și cu 5 m înainte.",
+   "hr": "Pješački prijelaz: pješaci imaju prednost. Zabrana zaustavljanja na njemu i 5 m prije njega."
   }
  },
  {
@@ -2275,7 +2481,8 @@
    "ar": "خط التوقف",
    "ru": "Стоп-линия",
    "pl": "Linia zatrzymania",
-   "ro": "Linie de oprire"
+   "ro": "Linie de oprire",
+   "hr": "Crta zaustavljanja"
   },
   "meaning": {
    "de": "Hier halten, wenn Zeichen 206, eine Ampel oder die Polizei es verlangt.",
@@ -2284,7 +2491,8 @@
    "ar": "توقف هنا عندما تتطلب ذلك الإشارة 206 أو الإشارات الضوئية أو الشرطة.",
    "ru": "Остановитесь здесь, если этого требуют знак 206, светофор или полиция.",
    "pl": "Zatrzymaj się tu, gdy wymaga tego znak 206, sygnalizacja lub policja.",
-   "ro": "Oprește aici când o cer indicatorul 206, semaforul sau poliția."
+   "ro": "Oprește aici când o cer indicatorul 206, semaforul sau poliția.",
+   "hr": "Zaustavi se ovdje kad to traže znak 206, semafor ili policija."
   }
  },
  {
@@ -2297,7 +2505,8 @@
    "ar": "خط متصل",
    "ru": "Сплошная линия",
    "pl": "Linia ciągła",
-   "ro": "Linie continuă"
+   "ro": "Linie continuă",
+   "hr": "Puna crta"
   },
   "meaning": {
    "de": "Nicht überfahren und nicht auf ihr fahren. Links davon nicht halten.",
@@ -2306,7 +2515,8 @@
    "ar": "لا تعبره ولا تسر عليه. ممنوع التوقف على يساره.",
    "ru": "Не пересекать и не ехать по ней. Остановка слева от неё запрещена.",
    "pl": "Nie przekraczaj i nie najeżdżaj. Zakaz zatrzymywania po jej lewej stronie.",
-   "ro": "Nu o trece și nu circula pe ea. Oprirea interzisă în stânga ei."
+   "ro": "Nu o trece și nu circula pe ea. Oprirea interzisă în stânga ei.",
+   "hr": "Ne prelazi je i ne vozi po njoj. Zabrana zaustavljanja lijevo od nje."
   }
  },
  {
@@ -2319,7 +2529,8 @@
    "ar": "خط متصل ومتقطع",
    "ru": "Сплошная и прерывистая линия",
    "pl": "Linia ciągła i przerywana",
-   "ro": "Linie continuă și întreruptă"
+   "ro": "Linie continuă și întreruptă",
+   "hr": "Puna i isprekidana crta"
   },
   "meaning": {
    "de": "Von der unterbrochenen Seite darf überfahren werden, von der durchgehenden nicht.",
@@ -2328,7 +2539,8 @@
    "ar": "يجوز العبور من الجانب المتقطع، لا من الجانب المتصل.",
    "ru": "Пересекать можно со стороны прерывистой, но не сплошной.",
    "pl": "Przekraczać wolno od strony przerywanej, nie od ciągłej.",
-   "ro": "O poți trece dinspre partea întreruptă, nu dinspre cea continuă."
+   "ro": "O poți trece dinspre partea întreruptă, nu dinspre cea continuă.",
+   "hr": "Smiješ je prijeći s isprekidane strane, ne s pune."
   }
  },
  {
@@ -2341,7 +2553,8 @@
    "ar": "أسهم المسارات",
    "ru": "Стрелки на полосах",
    "pl": "Strzałki na pasach",
-   "ro": "Săgeți pe benzi"
+   "ro": "Săgeți pe benzi",
+   "hr": "Strelice na trakovima"
   },
   "meaning": {
    "de": "Die Pfeile geben die Fahrtrichtung für den Fahrstreifen vor.",
@@ -2350,7 +2563,8 @@
    "ar": "الأسهم تحدد اتجاه المسار.",
    "ru": "Стрелки задают направление полосы.",
    "pl": "Strzałki wyznaczają kierunek jazdy z pasa.",
-   "ro": "Săgețile stabilesc direcția benzii."
+   "ro": "Săgețile stabilesc direcția benzii.",
+   "hr": "Strelice određuju smjer traka."
   }
  },
  {
@@ -2363,7 +2577,8 @@
    "ar": "منطقة مخططة",
    "ru": "Заштрихованная область",
    "pl": "Powierzchnia wyłączona z ruchu",
-   "ro": "Zonă hașurată"
+   "ro": "Zonă hașurată",
+   "hr": "Šrafirana površina"
   },
   "meaning": {
    "de": "Darf nicht benutzt werden – weder befahren noch zum Halten.",
@@ -2372,7 +2587,8 @@
    "ar": "لا يجوز استخدامها - لا للسير ولا للتوقف.",
    "ru": "Использовать нельзя — ни ехать, ни останавливаться.",
    "pl": "Nie wolno z niej korzystać — ani jechać, ani się zatrzymywać.",
-   "ro": "Nu poate fi folosită — nici pentru circulație, nici pentru oprire."
+   "ro": "Nu poate fi folosită — nici pentru circulație, nici pentru oprire.",
+   "hr": "Ne smije se koristiti — ni za vožnju ni za zaustavljanje."
   }
  },
  {
@@ -2385,7 +2601,8 @@
    "ar": "خط متعرج",
    "ru": "Зигзагообразная линия",
    "pl": "Linia zygzakowa",
-   "ro": "Linie în zigzag"
+   "ro": "Linie în zigzag",
+   "hr": "Cik-cak crta"
   },
   "meaning": {
    "de": "Kennzeichnet oder verlängert ein Halt- oder Parkverbot.",
@@ -2394,7 +2611,8 @@
    "ar": "يحدد أو يمدّد منطقة منع توقف أو منع وقوف.",
    "ru": "Обозначает или продлевает зону запрета остановки или стоянки.",
    "pl": "Oznacza lub wydłuża obszar zakazu zatrzymywania lub postoju.",
-   "ro": "Marchează sau prelungește o zonă cu interdicție de oprire sau parcare."
+   "ro": "Marchează sau prelungește o zonă cu interdicție de oprire sau parcare.",
+   "hr": "Označava ili produljuje područje zabrane zaustavljanja ili parkiranja."
   }
  },
  {
@@ -2407,7 +2625,8 @@
    "ar": "خط متقطع",
    "ru": "Прерывистая линия",
    "pl": "Linia przerywana",
-   "ro": "Linie întreruptă"
+   "ro": "Linie întreruptă",
+   "hr": "Isprekidana crta"
   },
   "meaning": {
    "de": "Darf überfahren werden, wenn niemand gefährdet wird.",
@@ -2416,7 +2635,8 @@
    "ar": "يجوز عبوره إذا لم يتعرض أحد للخطر.",
    "ru": "Можно пересекать, если никто не окажется в опасности.",
    "pl": "Wolno ją przekroczyć, jeśli nikt nie zostanie narażony.",
-   "ro": "Poate fi trecută dacă nimeni nu e pus în pericol."
+   "ro": "Poate fi trecută dacă nimeni nu e pus în pericol.",
+   "hr": "Smije se prijeći ako nitko nije ugrožen."
   }
  }
 ]
