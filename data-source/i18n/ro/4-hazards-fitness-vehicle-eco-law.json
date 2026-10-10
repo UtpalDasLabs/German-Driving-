@@ -1,0 +1,317 @@
+{
+  "questions": {
+    "ha01": {
+      "prompt": "Pe ploaie torențială volanul devine brusc ușor — acvaplanare. Ce faci?",
+      "options": ["Apăs ambreiajul sau iau piciorul de pe accelerație", "Țin volanul drept", "Frânez puternic și trag de volan în sens opus"],
+      "why": "La acvaplanare anvelopele alunecă pe o peliculă de apă și nu mai transmit nicio forță. Ia piciorul de pe accelerație (sau apasă ambreiajul), nu frâna și ține volanul drept până când anvelopele prind din nou aderență, altfel mașina se rotește.",
+      "tip": "Piciorul jos de pe pedală, mâinile liniștite."
+    },
+    "ha02": {
+      "prompt": "Unde trebuie să te aștepți iarna mai ales la polei?",
+      "options": ["Pe poduri", "Pe porțiunile prin pădure și cele umbrite", "În parcările subterane încălzite"],
+      "why": "Podurile se răcesc de sus și de jos și îngheață primele. În pădure și la umbră gheața rezistă mai mult, chiar dacă drumul dinainte a fost uscat."
+    },
+    "ha03": {
+      "prompt": "După o lungă perioadă de secetă începe să plouă. Ce e adevărat?",
+      "options": ["Drumul poate fi acum deosebit de alunecos", "Ploaia curăță drumul și îmbunătățește aderența", "Sunt afectate doar pavelele"],
+      "why": "Prima ploaie transformă praful, cauciucul și uleiul într-o peliculă alunecoasă. Abia o ploaie mai lungă o spală."
+    },
+    "ha04": {
+      "prompt": "Când ai voie să aprinzi lampa de ceață spate?",
+      "options": ["Când ceața reduce vizibilitatea sub 50 m", "De fiecare dată când plouă", "Noaptea pe drumurile din afara localităților"],
+      "why": "Lampa de ceață spate e permisă doar când ceața reduce vizibilitatea sub 50 m — și atunci limita e 50 km/h (§ 17 alin. 3 StVO). La vizibilitate mai bună îi orbește pe cei din spate.",
+      "tip": "Lampa de ceață spate aprinsă = maximum 50."
+    },
+    "ha05": {
+      "prompt": "Noaptea te orbesc farurile din sens opus. Ce faci?",
+      "options": ["Mă uit la marginea dreaptă a drumului", "Încetinesc și, la nevoie, opresc", "Răspund cu faza lungă"],
+      "why": "Uită-te la marginea dreaptă și încetinește. După orbire ochii aproape nu văd câteva secunde, iar în acest timp parcurgi o distanță mare."
+    },
+    "ha06": {
+      "prompt": "Noaptea, o căprioară stă pe drum în lumina farurilor. Ce faci?",
+      "options": ["Trec pe faza scurtă, claxonez și frânez", "Dacă impactul nu poate fi evitat: țin volanul ferm și nu fac manevre periculoase", "Las faza lungă ca să plece"],
+      "why": "Faza lungă paralizează animalele sălbatice; faza scurtă și claxonul le alungă. Să te ferești într-un copac sau în traficul din sens opus e mai periculos decât să lovești animalul.",
+      "tip": "Faza scurtă, claxon, frână — fără smucitură de volan."
+    },
+    "ha07": {
+      "prompt": "Ai lovit o căprioară. Ce faci?",
+      "options": ["Asigur locul accidentului", "Anunț poliția sau gestionarul fondului de vânătoare", "Iau animalul cu mine"],
+      "why": "Avarii, vestă, triunghi — apoi sună la poliție, care îl contactează pe gestionarul fondului de vânătoare. Nu atinge și nu lua animalul: ar fi braconaj. Asigurătorul îți va cere o adeverință de accident cu animal sălbatic."
+    },
+    "ha08": {
+      "prompt": "Când frânezi pentru o curbă?",
+      "options": ["Înaintea curbei, cât încă merg drept", "La mijlocul curbei", "La ieșirea din curbă"],
+      "why": "În curbă anvelopele au nevoie de aderență ca să țină traiectoria. Frânarea acolo poate face mașina să meargă drept înainte. Întâi frânează, apoi treci curba uniform.",
+      "tip": "Încet în curbă, constant la ieșire."
+    },
+    "ha09": {
+      "prompt": "Pe un drum lung te cuprinde oboseala. Ce ajută cu adevărat?",
+      "options": ["O pauză și, dacă se poate, un somn scurt", "Fereastra deschisă și muzică tare", "Mers mai repede, ca să ajung mai devreme"],
+      "why": "Doar somnul vindecă oboseala. Aerul proaspăt și muzica aduc cel mult câteva minute. Un microsomn de trei secunde la 100 km/h înseamnă peste 80 de metri parcurși orbește."
+    },
+    "ha10": {
+      "prompt": "Pe un pod sau într-un gol dintre copaci te lovește vântul lateral. Ce faci?",
+      "options": ["Încetinesc și țin volanul ferm", "Mă aștept la o rafală când depășesc camioane", "Trag puternic de volan în sens opus de cum simt ceva"],
+      "why": "Vântul lateral vine în rafale. Mergând mai încet, cu priză calmă și fermă, corectezi prin mișcări mici; mișcările bruște de volan fac mașina să șerpuiască. Indicatorul 117 avertizează asupra locurilor tipice."
+    },
+    "ha11": {
+      "prompt": "Se apropie o motocicletă, iar tu vrei să virezi la stânga. Ce face situația dificilă?",
+      "options": ["Viteza ei e greu de apreciat", "E ușor de scăpat din vedere fiindcă e îngustă", "Motocicletele trebuie să cedeze celor care virează la stânga"],
+      "why": "Motocicletele sunt înguste și par mai departe și mai lente decât sunt. Multe accidente se petrec exact așa: cine virează la stânga nu vede motocicleta din sens opus. Dacă ai dubii, așteaptă."
+    },
+    "ha12": {
+      "prompt": "Îți sună telefonul în timp ce conduci. Ce ai voie să faci?",
+      "options": ["Să vorbesc hands-free fără să iau telefonul în mână", "Să-l iau scurt în mână cât aștept la roșu", "Să citesc un mesaj pe un drum drept"],
+      "why": "În timpul condusului nu ai voie să iei sau să ții telefonul în mână, nici la roșu și nici când sistemul start-stop a oprit motorul. Sunt permise doar comanda vocală sau o privire scurtă spre un telefon fixat în suport (§ 23 alin. 1a StVO).",
+      "tip": "Roșul tot condus se cheamă. Pauză e doar cu motorul complet oprit."
+    },
+    "ha13": {
+      "prompt": "Noaptea mergi pe un drum din afara localității cu faza lungă. Când trebuie să treci pe faza scurtă?",
+      "options": ["Când vine cineva din sens opus", "Când sunt aproape în spatele altui vehicul", "Doar pentru camioanele din sens opus"],
+      "why": "Treci pe faza scurtă când vine cineva din sens opus, când ești aproape în spatele altui vehicul și oriunde i-ai orbi pe alții (§ 17 alin. 2 StVO) — inclusiv pietoni și bicicliști."
+    },
+    "ha14": {
+      "prompt": "Când ai nevoie de anvelope de iarnă?",
+      "options": ["Pe polei, zăpadă bătătorită, zăpadă topită, gheață sau chiciură", "Între 1 octombrie și 31 martie, indiferent de vreme", "Doar pe autostradă"],
+      "why": "Germania are o regulă legată de vreme: în condiții de iarnă poți circula doar cu anvelope de iarnă sau all-season cu simbolul alpin (munte cu fulg de zăpadă). Anvelopele marcate doar M+S nu mai contează din octombrie 2024.",
+      "tip": "Regula practică: din octombrie până la Paște."
+    },
+    "ha15": {
+      "prompt": "În față, o mașină cu înghețată a oprit pe marginea drumului. La ce te aștepți?",
+      "options": ["La copii care traversează brusc", "Că mașina va pleca în curând", "La nimic deosebit"],
+      "why": "Oriunde ceva atrage copiii — mașini cu înghețată, locuri de joacă, școli — aceștia fug fără să se uite. Mergi încet și fii gata de frânare."
+    },
+    "ha16": {
+      "prompt": "Mergi în spatele unui camion pe un drum din afara localității. De ce păstrezi o distanță mai mare?",
+      "options": ["Ca să văd drumul pe lângă el", "Pentru că șoferul camionului s-ar putea să nu mă vadă", "Pentru că un camion nu frânează niciodată"],
+      "why": "Chiar în spatele unui camion nu vezi nimic din drumul din față și ești în unghiul mort al oglinzilor lui. O distanță mai mare îți dă vizibilitate și timp dacă frânează brusc."
+    },
+    "fi01": {
+      "prompt": "Cât alcool poți avea în sânge la volan în perioada de probă sau sub 21 de ani?",
+      "why": "În perioada de probă și înainte de împlinirea a 21 de ani se aplică interdicția absolută a alcoolului (§ 24c StVG): 0,0 la mie, nici măcar o bere mică. Încălcarea e o abatere gravă în perioada de probă, cu curs și prelungirea perioadei.",
+      "tip": "Șofer începător: zero virgulă zero."
+    },
+    "fi02": {
+      "prompt": "De la ce alcoolemie comiți o abatere, chiar fără semne de afectare?",
+      "options": ["0,5 ‰", "0,8 ‰", "1,1 ‰"],
+      "why": "De la 0,5 ‰ e contravenție (amendă, puncte, interdicție de a conduce). De la 0,3 ‰ e deja infracțiune dacă apar greșeli de condus sau semne de afectare. De la 1,1 ‰ inaptitudinea de a conduce e absolută — mereu infracțiune.",
+      "tip": "0,3 cu greșeli — 0,5 oricum — 1,1 infracțiune."
+    },
+    "fi03": {
+      "prompt": "Cam cât de repede elimină organismul alcoolul?",
+      "options": ["Cam 0,1 la mie pe oră", "Mai repede cu o cafea tare", "Mai repede cu un duș rece și aer proaspăt"],
+      "why": "Ficatul elimină cam 0,1 ‰ pe oră, nu mai repede. Cafeaua, dușul sau mișcarea nu schimbă nimic. După o seară lungă poți fi încă peste limită dimineața."
+    },
+    "fi04": {
+      "prompt": "Ce se aplică din 2024 la canabis și condus?",
+      "options": ["De la 3,5 ng/ml THC în serul sanguin e abatere", "În perioada de probă și sub 21 de ani orice THC e interzis", "Canabisul cu alcool e în regulă dacă amândouă sunt sub limită"],
+      "why": "Din august 2024 limita THC e 3,5 ng/ml în serul sanguin (§ 24a StVG). Șoferii în perioada de probă și sub 21 de ani nu au voie deloc să conducă sub influența canabisului. Cine combină canabisul cu alcoolul trebuie să aibă 0,0 ‰."
+    },
+    "fi05": {
+      "prompt": "Iei un medicament. Ce faci înainte să conduci?",
+      "options": ["Citesc prospectul și, dacă am dubii, întreb medicul sau farmacistul", "Nimic — medicamentele fără rețetă sunt mereu în regulă", "Beau puțin alcool ca să atenuez efectul"],
+      "why": "Multe medicamente, inclusiv cele fără rețetă pentru răceală și alergii, provoacă somnolență sau încetinesc reacțiile. Cu alcool, efectul e adesea mult mai puternic."
+    },
+    "fi06": {
+      "prompt": "Permisul tău are codul 01 (corectarea vederii). Ce înseamnă?",
+      "options": ["Trebuie să port ochelari sau lentile la volan", "Pot conduce doar ziua", "Trebuie să am mereu ochelari de rezervă"],
+      "why": "Condiția de corectare a vederii se aplică la fiecare drum. Condusul fără ochelari sau lentile încalcă condiția — amendă și probleme cu asigurătorul după un accident."
+    },
+    "fi07": {
+      "prompt": "Cum îți dai seama că oboseala nu mai permite condusul?",
+      "options": ["Căscat des și pleoape grele", "Nu-mi amintesc ultimii kilometri", "Simt multă energie"],
+      "why": "Căscatul, ochii care ard, frisoanele, golurile de memorie, ieșirea de pe bandă — sunt semne de avertizare. Cel târziu atunci oprește pentru o pauză."
+    },
+    "fi08": {
+      "prompt": "După o ceartă te stăpânește furia. Cum îți afectează asta condusul?",
+      "options": ["Tind să conduc mai riscant și mai agresiv", "Observ mai greu pericolele", "Deloc"],
+      "why": "Emoțiile puternice — furia, tristețea, chiar bucuria — distrag atenția și împing la riscuri. Întâi calmează-te, apoi pornește la drum."
+    },
+    "ve01": {
+      "prompt": "Care e adâncimea legală minimă a profilului anvelopelor?",
+      "why": "Minimul legal e 1,6 mm (§ 36 StVZO). Experții recomandă 3 mm pentru anvelopele de vară și 4 mm pentru cele de iarnă; sub aceste valori distanța de frânare pe ud și pe zăpadă crește vizibil."
+    },
+    "ve02": {
+      "prompt": "Când verifici corect presiunea în anvelope?",
+      "options": ["Cu anvelopele reci", "După valorile producătorului, mărită pentru încărcare completă", "Imediat după un drum lung pe autostradă"],
+      "why": "Anvelopele calde arată o presiune prea mare. Valorile se găsesc în manual, adesea și pe capacul rezervorului sau pe portiera șoferului. Presiunea prea mică lungește frânarea, crește consumul și poate distruge anvelopa."
+    },
+    "ve03": {
+      "prompt": "În timpul mersului se aprinde martorul roșu de presiune a uleiului. Ce faci?",
+      "options": ["Opresc de îndată ce e sigur și opresc motorul", "Merg până acasă și mă uit acolo", "Turez motorul ca să pompeze mai mult ulei"],
+      "why": "Martorii roșii înseamnă: acționează acum. Fără presiune de ulei motorul nu e uns și se poate distruge în câteva minute. Oprește, oprește motorul, verifică nivelul uleiului.",
+      "tip": "Roșu = oprește acum. Portocaliu = curând la service."
+    },
+    "ve04": {
+      "prompt": "Mașina ta are ABS. Cum frânezi în caz de urgență?",
+      "options": ["Calc frâna cu putere și o țin apăsată", "Pot vira în timpul frânării complete", "Pompez frâna ca să nu se blocheze roțile"],
+      "why": "ABS-ul împiedică blocarea roților — pulsațiile din pedală sunt normale. Apasă tare și ține apăsat; poți vira în continuare. Pomparea frânei avea sens doar fără ABS."
+    },
+    "ve05": {
+      "prompt": "Ce face controlul electronic al stabilității (ESP)?",
+      "options": ["Ajută la prevenirea derapajului frânând roți individuale", "Anulează limitele fizicii", "Scurtează frânarea pe gheață la normal"],
+      "why": "ESP frânează roți individuale și reduce puterea ca să țină mașina pe traiectorie. Nu e un remediu pentru viteza prea mare — fizica rămâne aceeași."
+    },
+    "ve06": {
+      "prompt": "Mașina ta are lumini de zi. Când trebuie totuși să aprinzi faza scurtă?",
+      "options": ["La amurg și pe întuneric", "În tuneluri și la vizibilitate redusă", "Niciodată — luminile de zi sunt mereu de ajuns"],
+      "why": "Luminile de zi luminează doar în față și abia luminează drumul; luminile spate rămân adesea stinse. La amurg, pe întuneric, în tuneluri și la vizibilitate redusă faza scurtă e obligatorie (§ 17 StVO)."
+    },
+    "ve07": {
+      "prompt": "Remorchezi o mașină cu o sufă. Ce e corect?",
+      "options": ["Ambele vehicule aprind luminile de avarie", "Distanța dintre vehicule e de cel mult 5 m", "Contactul mașinii remorcate rămâne oprit"],
+      "why": "La remorcare ambele vehicule au avariile aprinse (§ 15a StVO), distanța e de cel mult 5 m, iar sufa e semnalizată la mijloc. Contactul mașinii remorcate trebuie să fie pornit, altfel se blochează volanul; cu motorul oprit, direcția și frânele sunt grele."
+    },
+    "ve08": {
+      "prompt": "Vrei să transporți bagaje pe plafon. La ce ești atent?",
+      "options": ["Să nu depășesc sarcina pe plafon permisă din actele mașinii", "Mașina se comportă altfel: centru de greutate mai sus, mai sensibilă la vânt lateral", "Obiectele nefixate sunt în regulă dacă merg încet"],
+      "why": "Încărcătura trebuie asigurată astfel încât să nu se deplaseze sau să cadă nici la frânare de urgență sau la o manevră bruscă (§ 22 StVO). Sarcina pe plafon schimbă comportamentul și crește consumul."
+    },
+    "ve09": {
+      "prompt": "Ce remorci poți tracta cu permis de categoria B?",
+      "options": ["Remorci de până la 750 kg masă totală", "Remorci mai grele, dacă întregul ansamblu are cel mult 3.500 kg masă totală", "Orice remorcă pe care mașina mea are voie s-o tracteze"],
+      "why": "Categoria B permite remorci de până la 750 kg sau mai grele, cât timp ansamblul rămâne în 3.500 kg. Codul 96 (după un curs) permite până la 4.250 kg; peste asta ai nevoie de categoria BE."
+    },
+    "ve10": {
+      "prompt": "Cobori o pantă lungă și abruptă. Cum cruți frânele?",
+      "options": ["Folosesc o treaptă mică și frâna de motor", "Merg în punctul mort și frânez ușor tot drumul", "Opresc contactul"],
+      "why": "Frânarea continuă supraîncălzește frânele până aproape nu mai funcționează (fading). Regula practică: la vale folosește treapta pe care ai folosi-o la deal. Oprirea contactului e periculoasă — pierzi servodirecția și asistența la frânare."
+    },
+    "ve11": {
+      "prompt": "Ce trebuie să aibă orice autoturism?",
+      "options": ["O trusă de prim ajutor", "Un triunghi reflectorizant", "Cel puțin o vestă reflectorizantă"],
+      "why": "Trusa de prim ajutor, triunghiul reflectorizant și cel puțin o vestă reflectorizantă sunt obligatorii. Se recomandă câte o vestă pentru fiecare ocupant, la îndemână în habitaclu."
+    },
+    "ve12": {
+      "prompt": "Vrei să montezi un scaun pentru copii orientat spre spate pe locul pasagerului din față. Ce trebuie să faci?",
+      "options": ["Să dezactivez airbagul pasagerului", "Nimic — airbagul adaugă protecție", "Să împing scaunul complet în față"],
+      "why": "Un airbag care se declanșează lovește cu forță uriașă spătarul scaunului orientat spre spate — poate ucide. Cu un scaun pentru copii orientat spre spate, airbagul pasagerului trebuie dezactivat."
+    },
+    "ve13": {
+      "prompt": "Copiii sub 12 ani trebuie să folosească scaun pentru copii până ating ce înălțime?",
+      "why": "Copiii sub 12 ani mai scunzi de 150 cm pot călători doar într-un sistem de reținere pentru copii adecvat și omologat (§ 21 alin. 1a StVO).",
+      "tip": "12 ani sau 150 cm — oricare vine primul."
+    },
+    "ve14": {
+      "prompt": "Cât de des trebuie să meargă o mașină la inspecția tehnică principală („TÜV”)?",
+      "options": ["La doi ani; o mașină nouă prima dată după trei", "În fiecare an", "Doar după un accident"],
+      "why": "Autoturismele au nevoie de inspecție la fiecare 24 de luni, cele noi prima dată după 36. Abțibildul de pe numărul din spate arată luna și anul următoarei."
+    },
+    "ve15": {
+      "prompt": "Cum reglezi corect tetiera?",
+      "options": ["Marginea de sus cam la nivelul creștetului, cât mai aproape de cap", "Cât mai jos", "La nivelul cefei"],
+      "why": "La o tamponare din spate tetiera îți prinde capul. Reglată prea jos acționează ca o pârghie și îți poate răni gâtul."
+    },
+    "ve16": {
+      "prompt": "La ce trebuie să fii atent când mergi încet cu o mașină electrică?",
+      "options": ["Pietonii abia o aud și s-ar putea să nu se aștepte la mine", "Accelerează foarte puternic de pe loc", "Mașinile electrice au mereu prioritate în parcări"],
+      "why": "La viteză mică mașinile electrice sunt foarte silențioase; pietonii — mai ales nevăzătorii și copiii — le observă târziu. Cuplul instantaneu le face să țâșnească de pe loc."
+    },
+    "ec01": {
+      "prompt": "Cum conduci cel mai economic?",
+      "options": ["Schimb devreme în treapta superioară și țin turația joasă", "Anticipez și evit frânările inutile", "În trepte mici, la turații mari"],
+      "why": "Schimbarea devreme în sus (cam 2.000–2.500 rpm la benzină) și rularea anticipativă economisesc mult combustibil. Fiecare oprire inutilă irosește energie plătită în combustibil."
+    },
+    "ec02": {
+      "prompt": "Rulezi spre un semafor roșu cu treapta cuplată. Ce se întâmplă?",
+      "options": ["Alimentarea cu combustibil e întreruptă (tăierea injecției la decelerare)", "Motorul consumă mai mult decât la ralanti", "Motorul se oprește"],
+      "why": "Rulând cu treapta cuplată și piciorul ridicat, motoarele moderne taie injecția și nu consumă combustibil. În punctul mort motorul arde în continuare combustibil ca să meargă la ralanti."
+    },
+    "ec03": {
+      "prompt": "Ce e interzis, ca să se evite zgomotul și gazele inutile?",
+      "options": ["Încălzirea motorului pe loc", "Plimbatul fără rost încoace și încolo prin oraș", "Lăsarea motorului pornit la roșu"],
+      "why": "Zgomotul inutil și gazele evitabile sunt interzise, inclusiv încălzirea pe loc și plimbatul fără rost prin oraș (§ 30 alin. 1 StVO). La roșu motorul poate merge, dar la așteptări mai lungi merită oprit."
+    },
+    "ec04": {
+      "prompt": "Te așteaptă o așteptare lungă la o barieră de cale ferată închisă. Ce faci?",
+      "options": ["Opresc motorul", "Îl las pornit ca să rămână cald", "Turez ca să încarc bateria"],
+      "why": "La așteptări mai lungi la bariere, în coloane sau la semafoarele de șantier, oprirea motorului economisește combustibil și reduce zgomotul și gazele."
+    },
+    "ec05": {
+      "prompt": "Ce crește consumul de combustibil?",
+      "options": ["Un portbagaj de plafon gol", "Anvelope cu presiune prea mică", "Aerul condiționat"],
+      "why": "Echipamentele de pe plafon măresc rezistența aerului, presiunea mică mărește rezistența la rulare, iar aerul condiționat ia din puterea motorului. Demontează-le, verifică presiunea și folosește AC-ul doar la nevoie."
+    },
+    "ec06": {
+      "prompt": "De ce crește abrupt consumul la viteză mare?",
+      "options": ["Rezistența aerului crește cu pătratul vitezei", "Pentru că motorul e ineficient în treapta cea mai mare", "Nu crește — mersul repede economisește și timp, și combustibil"],
+      "why": "Viteză dublă înseamnă rezistență a aerului de patru ori mai mare. 120 în loc de 160 km/h pe autostradă economisesc adesea o treime din combustibil și costă doar cam douăsprezece minute la 100 km."
+    },
+    "ec07": {
+      "prompt": "Unde duci uleiul de motor uzat?",
+      "options": ["La un punct de colectare, de exemplu unde a fost cumpărat uleiul", "La gunoiul menajer, într-o sticlă închisă", "În canalizare"],
+      "why": "Un litru de ulei uzat poate contamina un milion de litri de apă potabilă. Magazinele care vând ulei de motor trebuie să primească gratuit înapoi aceeași cantitate de ulei uzat."
+    },
+    "ec08": {
+      "prompt": "Cine poate intra într-o zonă cu emisii reduse?",
+      "options": ["Vehiculele cu abțibildul de emisii cerut", "Orice vehicul care merge încet", "Doar mașinile electrice"],
+      "why": "Într-o zonă cu emisii reduse (indicatorul 270.1) pot intra doar vehiculele cu abțibildul corect — astăzi, aproape peste tot, cel verde. Fără el poți fi amendat."
+    },
+    "ec09": {
+      "prompt": "Ce drumuri solicită cel mai mult motorul și mediul?",
+      "options": ["Drumurile scurte cu motorul rece", "Drumurile lungi și constante", "Drumurile cu pilot automat"],
+      "why": "Un motor rece consumă mult mai mult și se uzează mai repede, iar catalizatorul nu s-a încălzit încă. Pentru distanțe scurte, mersul pe jos, bicicleta sau autobuzul sunt adesea mai bune."
+    },
+    "la01": {
+      "prompt": "Ce cere regula de bază din § 1 StVO?",
+      "options": ["Grijă permanentă și respect reciproc", "Nimeni nu poate fi vătămat, pus în pericol, împiedicat sau deranjat mai mult decât e inevitabil", "Cine are prioritate poate insista asupra ei"],
+      "why": "§ 1 StVO stă deasupra tuturor celorlalte reguli: grijă permanentă și respect reciproc. Prioritatea e un drept pe care nu ai voie să-l impui cu forța când celălalt îl ignoră vădit.",
+      "tip": "A avea dreptate nu înseamnă a o impune."
+    },
+    "la02": {
+      "prompt": "Dai peste un accident cu răniți. Ce faci întâi?",
+      "options": ["Asigur locul accidentului", "Sun la 112 și acord primul ajutor", "Merg mai departe — sigur va opri altcineva"],
+      "why": "Avarii, vestă, triunghi: întâi asigură locul, ca să nu mai lovească nimeni. Apoi 112 și primul ajutor. Să nu ajuți când ai putea în mod rezonabil e infracțiune (§ 323c StGB).",
+      "tip": "Asigură — sună — ajută."
+    },
+    "la03": {
+      "prompt": "Ieșind dintr-un loc de parcare ai lovit altă mașină. Proprietarul nu e acolo. Ce faci?",
+      "options": ["Aștept un timp rezonabil și, dacă nu vine nimeni, anunț poliția", "Las un bilet cu numărul meu sub ștergător și plec", "Plec — paguba e mică"],
+      "why": "Să părăsești locul fără să permiți constatarea faptelor e infracțiune (§ 142 StGB, părăsirea locului accidentului). Un bilet nu ajunge. Așteaptă un timp rezonabil, apoi anunță fără întârziere poliția.",
+      "tip": "Un bilet nu e o sesizare."
+    },
+    "la04": {
+      "prompt": "Ce documente trebuie să ai la tine când conduci?",
+      "options": ["Permisul de conducere", "Certificatul de înmatriculare partea I (Fahrzeugschein)", "Contractul de cumpărare al mașinii"],
+      "why": "Trebuie să ai la tine permisul și certificatul de înmatriculare partea I și să le prezinți la cerere. Partea a II-a (titlul de proprietate) nu se ține în mașină."
+    },
+    "la05": {
+      "prompt": "Câți ani durează de obicei perioada de probă pentru șoferii noi?",
+      "why": "Perioada de probă durează doi ani de la primul permis. După o abatere gravă (A) sau două mai puțin grave (B) trebuie urmat un curs de reabilitare, iar perioada se prelungește la patru ani (§ 2a StVG)."
+    },
+    "la06": {
+      "prompt": "Ce abatere e gravă (categoria A) în perioada de probă?",
+      "options": ["Depășirea limitei cu mai mult de 20 km/h", "Trecerea pe roșu", "Condusul fără vestă reflectorizantă în mașină"],
+      "why": "Categoria A cuprinde depășirea vitezei cu 21 km/h sau mai mult, trecerea pe roșu, încălcarea priorității, depășirea periculoasă, alcoolul sau canabisul la volan. Una singură înseamnă curs de reabilitare."
+    },
+    "la07": {
+      "prompt": "La câte puncte în registrul șoferilor ți se retrage permisul?",
+      "why": "Registrul șoferilor din Flensburg funcționează în trepte: 4–5 puncte o atenționare, 6–7 un avertisment, iar la 8 puncte permisul e retras."
+    },
+    "la08": {
+      "prompt": "Ce riști dacă treci pe un semafor roșu de mai mult de o secundă?",
+      "options": ["O interdicție de a conduce de o lună", "Două puncte în registrul șoferilor", "Doar un avertisment"],
+      "why": "O trecere „calificată” pe roșu (roșu de peste o secundă) costă, conform catalogului de amenzi, 200 €, 2 puncte și o lună de interdicție — plus curs și prelungire dacă ești în perioada de probă."
+    },
+    "la09": {
+      "prompt": "Cine răspunde ca vehiculul să fie în stare de funcționare când pornești?",
+      "options": ["Eu, ca persoană care conduce", "Doar deținătorul înmatriculat", "Service-ul"],
+      "why": "Conducătorul vehiculului răspunde ca vehiculul, încărcătura și ocupanții să fie în ordine și în stare de circulație (§ 23 alin. 1 StVO). Deținătorul răspunde și el."
+    },
+    "la10": {
+      "prompt": "Cine trebuie să poarte centura în mașină?",
+      "options": ["Oricine stă pe un loc cu centură", "Doar șoferul și pasagerul din față", "Doar pe autostradă"],
+      "why": "Centura trebuie purtată în timpul mersului, în față și în spate (§ 21a StVO). Ca persoană care conduce, răspunzi și de asigurarea corectă a copiilor."
+    },
+    "la11": {
+      "prompt": "Ce condiții trebuie să îndeplinească adultul însoțitor la condusul însoțit de la 17 ani?",
+      "options": ["Să aibă cel puțin 30 de ani", "Să aibă permis de categoria B de cel puțin 5 ani", "Să aibă cel mult un punct în registrul șoferilor"],
+      "why": "Însoțitorii trebuie să aibă cel puțin 30 de ani, categoria B de cel puțin 5 ani, cel mult un punct și să fie trecuți în certificat. Pentru ei se aplică limitele de 0,5 ‰ pentru alcool și cele pentru canabis."
+    },
+    "la12": {
+      "prompt": "Ce asigurare e obligatorie pentru orice mașină înmatriculată?",
+      "options": ["Asigurarea de răspundere civilă", "Asigurarea CASCO completă", "Asigurarea de accidente pentru pasageri"],
+      "why": "Doar răspunderea civilă e obligatorie: plătește pagubele pe care le provoci altora. CASCO parțială sau completă pentru propria mașină sunt opționale."
+    }
+  }
+}

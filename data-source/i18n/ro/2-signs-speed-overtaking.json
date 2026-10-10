@@ -1,0 +1,322 @@
+{
+  "questions": {
+    "si01": {
+      "prompt": "Unde se termină această limită de viteză?",
+      "options": ["La un indicator care îi arată sfârșitul (de exemplu 278 sau 282)", "Mereu la următoarea intersecție", "După exact 500 de metri"],
+      "why": "Restricțiile de pe un tronson durează până le ridică un indicator; nu se termină automat după o intersecție. Excepții: un panou adițional indică lungimea, sau limita stă împreună cu un indicator de avertizare și se termină evident odată cu pericolul.",
+      "tip": "Intersecțiile nu anulează limita de viteză."
+    },
+    "si02": {
+      "prompt": "Ce e permis pe partea carosabilă la acest indicator?",
+      "options": ["Nimic — oprirea e complet interzisă", "O oprire scurtă ca să coboare cineva", "Staționare până la trei minute"],
+      "why": "Indicatorul 283 e interdicția absolută de oprire: nu ai voie să oprești deloc pe partea carosabilă, nici măcar scurt ca să urce sau să coboare cineva.",
+      "tip": "X = niciodată. O singură bară = scurt."
+    },
+    "si03": {
+      "prompt": "Ce permite acest indicator?",
+      "options": ["Oprirea până la trei minute", "Oprirea mai lungă pentru încărcare sau pentru urcarea și coborârea pasagerilor", "Staționarea"],
+      "why": "Indicatorul 286, interdicția restrânsă de oprire, interzice oprirea mai lungă de trei minute, cu excepția urcării sau coborârii persoanelor ori a încărcării și descărcării. Staționarea nu e permisă."
+    },
+    "si04": {
+      "prompt": "Ce înseamnă acest indicator?",
+      "options": ["Accesul interzis vehiculelor de orice fel — bicicleta poate fi împinsă", "Doar pentru riverani", "Bicicliștii pot circula"],
+      "why": "Indicatorul 250 interzice vehiculele de orice fel. Nu se aplică cărucioarelor de mână și nici bicicletelor și motocicletelor împinse."
+    },
+    "si05": {
+      "prompt": "Ce înseamnă acest indicator?",
+      "options": ["Accesul interzis", "Circulația interzisă în ambele sensuri", "Oprirea interzisă"],
+      "why": "Indicatorul 267 înseamnă acces interzis. De obicei stă la capătul îndepărtat al unei străzi cu sens unic, pe care poți intra de la celălalt capăt."
+    },
+    "si06": {
+      "prompt": "Ce se aplică pe această stradă?",
+      "options": ["Pot circula doar în direcția săgeții", "Pot opri și parca și pe stânga", "Pot întoarce aici"],
+      "why": "Indicatorul 220 marchează o stradă cu sens unic. Vehiculele circulă doar în direcția săgeții; oprirea și parcarea sunt permise și pe stânga (§ 12 alin. 4 StVO). Întoarcerea ar însemna mers contrasens."
+    },
+    "si07": {
+      "prompt": "Ce îți spune acest indicator?",
+      "options": ["Drum fără ieșire", "Drum cu prioritate", "Parcarea interzisă"],
+      "why": "Indicatorul 357 arată un drum fără ieșire: vehiculele nu pot trece mai departe. Ia în calcul că va trebui să întorci."
+    },
+    "si08": {
+      "prompt": "Ce se aplică în această zonă?",
+      "options": ["Mers cu viteza pasului", "Pietonii pot folosi toată strada, iar copiii se pot juca oriunde", "Parcarea e permisă oriunde pe margine"],
+      "why": "Într-o zonă rezidențială (indicatorul 325.1) viteza e cea a pasului. Pietonii pot folosi toată lățimea, copiii se pot juca oriunde. Parcarea doar în locurile marcate.",
+      "tip": "Strada de joacă: aici ești musafir."
+    },
+    "si09": {
+      "prompt": "Ieși dintr-o zonă rezidențială pe un drum obișnuit. Cine are prioritate?",
+      "options": ["Toți cei de pe drumul pe care intru", "Eu, dacă vin din dreapta", "Eu, pentru că merg cu viteza pasului"],
+      "why": "La ieșirea dintr-o zonă rezidențială trebuie să-i lași pe toți ceilalți să treacă și să excluzi orice pericol (§ 10 StVO), ca la ieșirea dintr-o curte."
+    },
+    "si10": {
+      "prompt": "Ce se aplică de obicei în această zonă?",
+      "options": ["Maximum 30 km/h", "La intersecții, de obicei „dreapta înaintea stângii”", "Depășirea interzisă pentru toți"],
+      "why": "Într-o zonă 30 (indicatorul 274.1) limita e 30 km/h până când indicatorul 274.2 încheie zona. Aceste zone nu au drumuri cu prioritate, deci la intersecții se aplică de obicei „dreapta înaintea stângii”."
+    },
+    "si11": {
+      "prompt": "Ce limită de viteză se aplică unui autoturism de la acest indicator, dacă alte indicatoare nu spun altfel?",
+      "why": "Indicatorul de localitate (310) marchează începutul unei zone construite. În interior limita pentru toate autovehiculele e 50 km/h (§ 3 alin. 3 StVO).",
+      "tip": "Indicatorul galben de localitate = 50."
+    },
+    "si12": {
+      "prompt": "Cine poate folosi autostrada?",
+      "options": ["Autovehiculele construite pentru peste 60 km/h", "Toate autovehiculele", "Și mopedele limitate la 45 km/h"],
+      "why": "Autostrăzile (indicatorul 330.1) și drumurile expres sunt doar pentru autovehicule a căror viteză maximă constructivă depășește 60 km/h (§ 18 alin. 1 StVO)."
+    },
+    "si13": {
+      "prompt": "Ce arată acest indicator?",
+      "options": ["Sfârșitul drumului cu prioritate", "Începutul drumului cu prioritate", "Prioritate la următoarea intersecție"],
+      "why": "Indicatorul 307 încheie drumul cu prioritate. După el decid din nou indicatoarele sau „dreapta înaintea stângii”. Adesea urmează curând indicatorul 205."
+    },
+    "si14": {
+      "prompt": "Când se aplică avertismentul dat de aceste indicatoare?",
+      "options": ["Doar când drumul e ud", "Mereu", "Doar iarna"],
+      "why": "Indicatorul 114 avertizează asupra derapajului. Panoul adițional „bei Nässe” (pe carosabil ud) restrânge avertismentul la drumul ud."
+    },
+    "si15": {
+      "prompt": "La ce trebuie să te aștepți la acest indicator?",
+      "options": ["La copii care fug brusc pe drum", "La copii care se joacă pe marginea drumului", "La copii doar în orele de școală"],
+      "why": "Indicatorul 136 avertizează asupra copiilor la orice oră. Încetinește și fii gata de frânare (§ 3 alin. 2a StVO)."
+    },
+    "si16": {
+      "prompt": "Ce e adevărat la acest indicator?",
+      "options": ["Animalele apar mai ales la amurg și în zori", "Unde trece un animal, adesea urmează și altele", "Avertismentul e valabil doar toamna"],
+      "why": "Indicatorul 142 avertizează asupra animalelor sălbatice. Ele sunt cele mai active în zori și la amurg și se deplasează adesea în grupuri: după prima căprioară vine des a doua."
+    },
+    "si17": {
+      "prompt": "Cu aproximativ câți metri înainte de trecerea la nivel stă panoul de numărătoare cu trei benzi?",
+      "why": "Panourile stau la aproximativ 240 m (trei benzi), 160 m (două) și 80 m (una) înainte de trecere. Fiecare bandă înseamnă circa 80 de metri.",
+      "tip": "O bandă = 80 de metri."
+    },
+    "si18": {
+      "prompt": "Pe cine mai poți depăși la acest indicator?",
+      "options": ["Un biciclist", "O motocicletă fără ataș", "Un autoturism lent"],
+      "why": "Indicatorul 276 interzice depășirea autovehiculelor pe mai multe urme și a motocicletelor cu ataș. Vehiculele pe o singură urmă — biciclete, mopede, motociclete — pot fi depășite cu distanță suficientă."
+    },
+    "si19": {
+      "prompt": "Conduci un autoturism cu remorcă, împreună peste 3,5 t. Ai voie să depășești la acest indicator?",
+      "options": ["Da — autoturismele sunt exceptate de la această interdicție", "Nu — ansamblul e mai greu de 3,5 t", "Doar bicicliștii"],
+      "why": "Indicatorul 277 se aplică autovehiculelor de peste 3,5 t inclusiv remorcile lor, precum și tractoarelor. Autoturismele și autobuzele sunt exceptate explicit, cu sau fără remorcă."
+    },
+    "si20": {
+      "prompt": "Ce anulează acest indicator?",
+      "options": ["Toate restricțiile de pe tronsonul dinainte, cum ar fi limitele de viteză și interdicțiile de depășire", "Doar interdicția de depășire", "Drumul cu prioritate"],
+      "why": "Indicatorul 282 încheie toate restricțiile de pe tronson. După el se aplică din nou regulile generale — în afara localităților, de exemplu, 100 km/h pentru autoturisme."
+    },
+    "si21": {
+      "prompt": "Ce cere acest indicator?",
+      "options": ["Să nu circul mai încet de 30 km/h, dacă traficul, vizibilitatea sau vremea nu o cer", "Să circul cu cel mult 30 km/h", "Să circul cu exact 30 km/h"],
+      "why": "Indicatoarele rotunde albastre dau o obligație: indicatorul 275 e o viteză minimă. Vehiculele care nu pot merge atât de repede nu pot folosi drumul.",
+      "tip": "Albastru = obligatoriu. Chenar roșu = interzis."
+    },
+    "si22": {
+      "prompt": "Cine poate folosi aceste piste?",
+      "options": ["Bicicliștii (iar pe cele două din dreapta și pietonii)", "Autoturismele, când drumul e aglomerat", "Motocicletele"],
+      "why": "Indicatorul 237 e pistă pentru biciclete, 240 o pistă comună, iar 241 una separată pentru pietoni și biciclete. Pe niciuna nu ai voie cu mașina; trotinetele electrice, în schimb, trebuie să folosească pistele pentru biciclete."
+    },
+    "si23": {
+      "prompt": "Pe câți metri înainte și după acest indicator nu ai voie să parchezi?",
+      "why": "Indicatorul 224 marchează o stație de autobuz sau tramvai. Parcarea e interzisă pe 15 m de fiecare parte, ca autobuzele și tramvaiele să poată intra și ieși."
+    },
+    "si24": {
+      "prompt": "Cine poate totuși intra, în ciuda interdicției?",
+      "options": ["Riveranii și cei care au treabă acolo, cum ar fi vizitatorii și livrările", "Oricine caută o scurtătură", "Nimeni"],
+      "why": "„Anlieger frei” îi lasă să intre pe toți cei care au treabă pe acea stradă — riverani, vizitatori, livrări. Traficul de tranzit rămâne interzis."
+    },
+    "si25": {
+      "prompt": "Când se aplică această interdicție de oprire?",
+      "options": ["Doar între 16:00 și 18:00", "Toată ziua", "Doar dimineața în zilele lucrătoare"],
+      "why": "Un panou adițional restrânge indicatorul principal. Cu „16-18 h”, interdicția de oprire se aplică doar în acele două ore."
+    },
+    "si26": {
+      "prompt": "Ce înseamnă această linie continuă?",
+      "options": ["Nu are voie să fie depășită", "Nici nu se poate circula pe ea", "Depășirea e permisă dacă drumul e liber"],
+      "why": "Linia continuă de delimitare a benzii (295) nu poate fi trecută și nu se poate circula pe ea. Nici oprirea în stânga ei nu e permisă."
+    },
+    "si27": {
+      "prompt": "Ce se aplică acestei linii întrerupte?",
+      "options": ["O pot trece dacă nimeni nu e pus în pericol", "Nu o pot trece niciodată", "Marchează o bandă de parcare"],
+      "why": "Linia de ghidare (340) desparte benzile. Poate fi trecută, de exemplu pentru depășire, când traficul permite."
+    },
+    "si28": {
+      "prompt": "Ce înseamnă acest marcaj?",
+      "options": ["Zonă hașurată — nu se circulă pe ea", "Parcarea e permisă", "Doar autobuze"],
+      "why": "Zona hașurată (298) nu poate fi folosită deloc de vehicule — nici pentru circulație, nici pentru oprire sau parcare."
+    },
+    "si29": {
+      "prompt": "Ce arată acest marcaj în zigzag?",
+      "options": ["O zonă unde oprirea sau parcarea e interzisă", "O stradă de joacă", "O bandă pentru biciclete"],
+      "why": "Marcajul în zigzag (299) indică sau prelungește o zonă cu interdicție de oprire sau parcare, de exemplu în fața ieșirilor sau a stațiilor de autobuz."
+    },
+    "si30": {
+      "prompt": "Vezi acest indicator înaintea unei porțiuni înguste. Ce faci?",
+      "options": ["Acord prioritate traficului din sens opus, așteptând la nevoie", "Trec repede înainte să ajungă traficul din sens opus", "Claxonez și trec"],
+      "why": "Indicatorul 208 înseamnă „prioritate pentru circulația din sens invers”. Săgeata roșie ești tu: tu aștepți. Șoferii din sens opus văd indicatorul 308.",
+      "tip": "Săgeata roșie = eu aștept."
+    },
+    "si31": {
+      "prompt": "Ce înseamnă acest panou sub o limită de viteză?",
+      "options": ["Limita se aplică pe următorii 800 de metri", "Limita începe peste 800 de metri", "Următoarea benzinărie e la 800 de metri"],
+      "why": "„auf 800 m” arată lungimea pe care se aplică restricția; după ea nu mai urmează un indicator de sfârșit. „nach 200 m”, în schimb, îți spune unde începe ceva.",
+      "tip": "„auf” = pe ce distanță. „nach” = după ce distanță."
+    },
+    "si32": {
+      "prompt": "Ce arată aceste săgeți roșu cu alb?",
+      "options": ["Direcția unei curbe", "O ieșire de șantier", "O interdicție de depășire"],
+      "why": "Panourile direcționale (625) arată încotro merge curba. Acolo unde stau, curba e adesea mai strânsă decât pare."
+    },
+    "sp01": {
+      "prompt": "Ce limită de viteză are un autoturism în afara localităților, dacă nu există indicatoare (nu pe autostradă)?",
+      "why": "În afara localităților limita pentru autoturisme e 100 km/h (§ 3 alin. 3 StVO). Pe autostrăzi nu există limită generală pentru autoturisme, dar viteza maximă recomandată e 130 km/h.",
+      "tip": "Oraș 50, afară 100, autostradă 130 recomandat."
+    },
+    "sp02": {
+      "prompt": "Ce se aplică pe autostradă când nu e afișată nicio limită de viteză?",
+      "options": ["Se recomandă maximum 130 km/h", "130 km/h e limita legală", "Nu e nimic de luat în seamă"],
+      "why": "130 km/h e o recomandare, nu o limită. Dar dacă mergi mai repede și ești implicat într-un accident, poți purta o parte din răspundere, chiar dacă altfel nu ai vină."
+    },
+    "sp03": {
+      "prompt": "Care e viteza maximă a unui autoturism cu remorcă în afara localităților și pe autostradă (fără aprobare specială)?",
+      "why": "Cu remorcă, autoturismele sunt limitate la 80 km/h în afara localităților și pe autostrăzi. Cu o aprobare „Tempo 100” pentru ansamblu, pe autostrăzi și drumuri expres sunt permiși 100 km/h."
+    },
+    "sp04": {
+      "prompt": "Ceața, zăpada sau ploaia reduc vizibilitatea sub 50 m. Cu ce viteză maximă ai voie să circuli?",
+      "why": "Cu vizibilitate sub 50 m din cauza ceții, zăpezii sau ploii nu ai voie să depășești 50 km/h, iar adesea trebuie să mergi mai încet (§ 3 alin. 1 StVO). Stâlpii de ghidare de pe margine stau la 50 m unul de altul, ceea ce te ajută să apreciezi distanța.",
+      "tip": "Nu vezi următorul stâlp? Sub 50 km/h."
+    },
+    "sp05": {
+      "prompt": "Care e viteza maximă cu lanțuri de zăpadă montate?",
+      "why": "Cu lanțuri limita e 50 km/h, chiar și acolo unde altfel ar fi permis mai mult. Folosește lanțurile doar pe un strat continuu de zăpadă."
+    },
+    "sp06": {
+      "prompt": "Cât de repede poți merge când nu vezi departe înainte?",
+      "options": ["Atât încât să pot opri pe distanța pe care o văd", "Pe drumuri foarte înguste, atât încât să pot opri pe jumătate din acea distanță", "Cât permite indicatorul"],
+      "why": "Mers în limita vizibilității (§ 3 alin. 1 StVO): trebuie să poți opri pe distanța pe care o vezi. Pe un drum atât de îngust încât traficul din sens opus ar fi în pericol, pe jumătate din ea — pentru că și celălalt șofer are nevoie de loc să oprească."
+    },
+    "sp07": {
+      "prompt": "După regula practică, cât e distanța de reacție la 50 km/h?",
+      "why": "50 ÷ 10 = 5, ori 3 = 15 m. Reguli practice: distanța de reacție = (viteza ÷ 10) × 3. Distanța de frânare = (viteza ÷ 10) × (viteza ÷ 10). La frânarea de urgență distanța de frânare se înjumătățește. Distanța de oprire = distanța de reacție + distanța de frânare."
+    },
+    "sp08": {
+      "prompt": "După regula practică, cât e distanța normală de frânare la 50 km/h?",
+      "why": "50 ÷ 10 = 5, ori 5 = 25 m. Reguli practice: distanța de reacție = (viteza ÷ 10) × 3. Distanța de frânare = (viteza ÷ 10) × (viteza ÷ 10). La frânarea de urgență distanța de frânare se înjumătățește. Distanța de oprire = distanța de reacție + distanța de frânare."
+    },
+    "sp09": {
+      "prompt": "După regula practică, cât e distanța de oprire la 100 km/h (frânare normală)?",
+      "why": "Reacție 10 × 3 = 30 m, frânare 10 × 10 = 100 m, în total 130 m. Reguli practice: distanța de reacție = (viteza ÷ 10) × 3. Distanța de frânare = (viteza ÷ 10) × (viteza ÷ 10). La frânarea de urgență distanța de frânare se înjumătățește. Distanța de oprire = distanța de reacție + distanța de frânare."
+    },
+    "sp10": {
+      "prompt": "După regula practică, cât e distanța de frânare la o frânare de urgență de la 100 km/h?",
+      "why": "Frânare normală 10 × 10 = 100 m; frânarea de urgență o înjumătățește: 50 m. Reguli practice: distanța de reacție = (viteza ÷ 10) × 3. Distanța de frânare = (viteza ÷ 10) × (viteza ÷ 10). La frânarea de urgență distanța de frânare se înjumătățește. Distanța de oprire = distanța de reacție + distanța de frânare."
+    },
+    "sp11": {
+      "prompt": "După regula practică, cât e distanța de oprire la 70 km/h (frânare normală)?",
+      "why": "Reacție 7 × 3 = 21 m, frânare 7 × 7 = 49 m, în total 70 m. Reguli practice: distanța de reacție = (viteza ÷ 10) × 3. Distanța de frânare = (viteza ÷ 10) × (viteza ÷ 10). La frânarea de urgență distanța de frânare se înjumătățește. Distanța de oprire = distanța de reacție + distanța de frânare."
+    },
+    "sp12": {
+      "prompt": "Mergi de două ori mai repede. Ce se întâmplă cu distanțele de reacție și de frânare?",
+      "options": ["Distanța de reacție se dublează", "Distanța de frânare se împătrește", "Distanța de frânare se dublează"],
+      "why": "Distanța de reacție crește proporțional cu viteza; distanța de frânare crește cu pătratul ei. De două ori mai repede înseamnă de patru ori distanța de frânare.",
+      "tip": "Viteză dublă, frânare de patru ori."
+    },
+    "sp13": {
+      "prompt": "Mergi cu 80 km/h în afara localității. Ce distanță în metri trebuie să păstrezi cel puțin față de mașina din față (regula „jumătate din vitezometru”)?",
+      "why": "În afara localității regula e „jumătate din vitezometru”: jumătate din viteză, în metri — 40 m la 80 km/h, puțin sub două secunde. Mai puțin de trei zecimi din asta e considerat mers periculos bară la bară și se amendează.",
+      "tip": "Numără două secunde: „douăzeci și unu, douăzeci și doi”."
+    },
+    "sp14": {
+      "prompt": "Ce lungește distanța de oprire?",
+      "options": ["Oboseala, pentru că reacția vine mai târziu", "Un drum ud sau alunecos", "Anvelope noi cu profil adânc"],
+      "why": "Distanța de oprire e reacție plus frânare. Oboseala, distragerea și alcoolul o lungesc pe prima; umezeala, frunzele, zăpada, anvelopele uzate și încărcătura grea o lungesc pe a doua."
+    },
+    "sp15": {
+      "prompt": "Când trebuie să mergi mai încet decât permite limita?",
+      "options": ["Pe ceață, ploaie sau drumuri alunecoase", "Când sunt copii pe marginea drumului", "Când cineva mă urmărește bară la bară"],
+      "why": "Limita e un plafon. Viteza trebuie adaptată drumului, traficului, vizibilității și vremii (§ 3 alin. 1 StVO), cu grijă sporită lângă copii, vârstnici și oricine are nevoie de ajutor."
+    },
+    "sp16": {
+      "prompt": "Ai voie să mergi foarte încet fără motiv?",
+      "options": ["Nu, nu atât de încet încât să încurci fluxul traficului", "Da, încet e mereu sigur", "Da, dar doar pe autostradă"],
+      "why": "Fără motiv întemeiat, autovehiculele nu au voie să meargă atât de încet încât să împiedice traficul (§ 3 alin. 2 StVO). Mersul inutil de încet îi împinge pe alții la depășiri riscante."
+    },
+    "sp17": {
+      "prompt": "După regula practică, cât e distanța de frânare la o frânare de urgență de la 80 km/h?",
+      "why": "Frânare normală 8 × 8 = 64 m; jumătate înseamnă 32 m. Reguli practice: distanța de reacție = (viteza ÷ 10) × 3. Distanța de frânare = (viteza ÷ 10) × (viteza ÷ 10). La frânarea de urgență distanța de frânare se înjumătățește. Distanța de oprire = distanța de reacție + distanța de frânare."
+    },
+    "sp18": {
+      "prompt": "După regula practică, cât e distanța de reacție la 100 km/h?",
+      "why": "100 ÷ 10 = 10, ori 3 = 30 m — în acea secundă dinainte de a atinge frâna. Reguli practice: distanța de reacție = (viteza ÷ 10) × 3. Distanța de frânare = (viteza ÷ 10) × (viteza ÷ 10). La frânarea de urgență distanța de frânare se înjumătățește. Distanța de oprire = distanța de reacție + distanța de frânare."
+    },
+    "sp19": {
+      "prompt": "După regula practică, cât e distanța normală de frânare la 30 km/h?",
+      "why": "30 ÷ 10 = 3, ori 3 = 9 m. De la 50 km/h sunt deja 25 m — de aceea în fața școlilor e 30. Reguli practice: distanța de reacție = (viteza ÷ 10) × 3. Distanța de frânare = (viteza ÷ 10) × (viteza ÷ 10). La frânarea de urgență distanța de frânare se înjumătățește. Distanța de oprire = distanța de reacție + distanța de frânare."
+    },
+    "sp20": {
+      "prompt": "Mergi cu 50 km/h în oraș. Care e distanța minimă rezonabilă față de mașina din față?",
+      "options": ["Cam distanța parcursă într-o secundă (circa 15 m)", "O lungime de mașină", "Atât de aproape încât să nu intre nimeni"],
+      "why": "Distanța trebuie să-ți permită să oprești chiar dacă mașina din față frânează brusc (§ 4 alin. 1 StVO). În oraș minimul e distanța unei secunde; în afara orașului, „jumătate din vitezometru”."
+    },
+    "ov01": {
+      "prompt": "Când e interzisă depășirea?",
+      "options": ["Când situația din trafic e neclară", "Când viteza mea nu e mult mai mare decât a vehiculului pe care vreau să-l depășesc", "Când traficul din sens opus e departe"],
+      "why": "Poți depăși doar dacă vezi că traficul din sens opus nu va fi împiedicat și viteza ta e mult mai mare decât a vehiculului depășit. Într-o situație neclară depășirea e interzisă (§ 5 alin. 2 și 3 StVO).",
+      "tip": "Dacă ai dubii, nu depăși."
+    },
+    "ov02": {
+      "prompt": "Care e distanța laterală minimă la depășirea unui biciclist în afara localității?",
+      "why": "La depășirea pietonilor, bicicliștilor și utilizatorilor de trotinete electrice distanța minimă e 1,5 m în localitate și 2 m în afara ei (§ 5 alin. 4 StVO). Dacă nu încape, nu depășești.",
+      "tip": "Oraș 1,5 — afară 2."
+    },
+    "ov03": {
+      "prompt": "Cineva te depășește. Ce nu ai voie să faci?",
+      "options": ["Să accelerez", "Să mă trag mai la dreapta", "Să merg mai departe cu viteză constantă"],
+      "why": "În timpul unei depășiri, vehiculul depășit nu are voie să accelereze (§ 5 alin. 6 StVO). La nevoie, încetinește și ține dreapta."
+    },
+    "ov04": {
+      "prompt": "Vehiculul din față semnalizează la stânga și s-a deplasat spre mijloc. Cum treci de el?",
+      "options": ["Pe dreapta", "Pe stânga", "Deloc — trebuie mereu să aștept în spatele lui"],
+      "why": "Un vehicul care a semnalizat și s-a poziționat pentru viraj la stânga se depășește pe dreapta (§ 5 alin. 7 StVO), dacă e loc suficient."
+    },
+    "ov05": {
+      "prompt": "Unde e interzisă depășirea?",
+      "options": ["La apropierea de trecerile de pietoni și pe ele", "De la indicatoarele de avertizare dinaintea unei treceri la nivel până după șine", "Pe orice pod"],
+      "why": "Pe trecerile de pietoni nu ai voie să depășești (§ 26 alin. 3 StVO). De la indicatorul 151 sau 156 până treci de trecerea la nivel, autovehiculele nu au voie să depășească alte autovehicule (§ 19 alin. 1 StVO). Pentru poduri nu există o regulă generală."
+    },
+    "ov06": {
+      "prompt": "Ce trebuie să faci la depășire?",
+      "options": ["Să semnalizez la stânga și să mă uit peste umăr înainte de a ieși", "Să semnalizez la dreapta la revenire", "Să nu tai calea vehiculului depășit la revenire"],
+      "why": "Ieșirea și revenirea sunt schimbări de bandă: semnalizează din timp, verifică oglinda și peste umăr (§ 5 alin. 4a StVO). Revino doar când nu încurci vehiculul depășit."
+    },
+    "ov07": {
+      "prompt": "Pe autostradă banda din stânga înaintează încet, în coloană. Poți merge mai repede pe dreapta?",
+      "options": ["Da, cu cel mult 20 km/h mai repede și cu mare atenție, dacă banda din stânga merge cu 60 km/h sau mai puțin", "Da, oricât mai repede", "Nu, niciodată"],
+      "why": "Dacă vehiculele din stânga stau sau merg încet, poți trece pe lângă ele pe dreapta doar puțin mai repede și cu mare atenție (§ 7 alin. 2a StVO). Instanțele au stabilit cel mult 20 km/h în plus, cu banda din stânga la 60 km/h sau mai puțin."
+    },
+    "ov08": {
+      "prompt": "Pe partea ta de drum e un obstacol și din sens opus vine trafic. Cine trebuie să aștepte?",
+      "options": ["Eu", "Traficul din sens opus", "Cine ajunge primul"],
+      "why": "Cine are obstacolul pe partea sa trebuie să lase vehiculele din sens opus să treacă (§ 6 StVO). Semnalizează când ocolești obstacolul.",
+      "tip": "Cine are partea blocată așteaptă."
+    },
+    "ov09": {
+      "prompt": "Cum depășești un tramvai pe o stradă cu dublu sens?",
+      "options": ["Pe dreapta", "Pe stânga", "Pe oricare parte"],
+      "why": "Vehiculele pe șine se depășesc pe dreapta. Pe stânga doar pe străzile cu sens unic sau unde șinele sunt prea la dreapta (§ 5 alin. 7 StVO)."
+    },
+    "ov10": {
+      "prompt": "La ce trebuie să te aștepți când depășești un camion pe un drum în afara localității?",
+      "options": ["Distanța de depășire e foarte lungă", "Când ies din spatele lui, mă poate lovi vântul lateral", "Camionul îmi ascunde traficul din sens opus"],
+      "why": "Un camion e lung și adesea doar puțin mai lent decât tine, așa că depășirea poate dura câteva sute de metri. În spatele lui vezi puțin din traficul din sens opus, iar la ieșirea din umbra lui aerodinamică vântul lateral te poate împinge într-o parte."
+    },
+    "ov11": {
+      "prompt": "Când poți trece pe lângă alte vehicule pe dreapta în oraș?",
+      "options": ["Pe drumurile cu mai multe benzi marcate într-o direcție", "Oricând e loc pe dreapta", "Niciodată"],
+      "why": "În localitate, autovehiculele de până la 3,5 t pot alege orice bandă pe drumurile cu mai multe benzi marcate într-o direcție și pot merge atunci mai repede și pe dreapta (§ 7 alin. 3 StVO)."
+    },
+    "ov12": {
+      "prompt": "Ești în spatele unui biciclist, vine trafic din sens opus și nu e loc pentru 1,5 m distanță. Ce faci?",
+      "options": ["Rămân în spatele biciclistului până pot depăși cu distanță suficientă", "Depășesc strâns — biciclistul se poate trage", "Claxonez ca biciclistul să facă loc"],
+      "why": "Distanța minimă e lege, nu sfat. Dacă nu e loc, nu depășești. Claxonul e doar pentru avertizarea asupra unui pericol."
+    }
+  }
+}

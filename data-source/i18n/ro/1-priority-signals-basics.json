@@ -1,0 +1,233 @@
+{
+  "questions": {
+    "pr01": {
+      "prompt": "Vrei să mergi înainte. La această intersecție nu există niciun indicator. Cine are prioritate?",
+      "options": ["Mașina din dreapta", "Eu, pentru că merg înainte", "Cine ajunge primul la intersecție"],
+      "why": "Fără indicatoare sau semafoare se aplică regula „dreapta înaintea stângii” (rechts vor links, § 8 alin. 1 StVO). Mașina vine din dreapta ta, deci o lași să treacă — indiferent dacă mergi înainte sau virezi.",
+      "tip": "Rechts vor links: cine vine din dreapta trece primul."
+    },
+    "pr02": {
+      "prompt": "Vrei să mergi înainte. Nu există indicatoare. Trebuie să lași mașina aceasta să treacă?",
+      "options": ["Nu — vine din stânga și trebuie să mă lase pe mine", "Da — e mai aproape de intersecție", "Da — la intersecțiile fără indicatoare trebuie să opresc mereu"],
+      "why": "Mașina e în stânga ta. Conform regulii „dreapta înaintea stângii”, ea trebuie să te aștepte, nu invers. Totuși condu atent: nu e sigur că te-a văzut."
+    },
+    "pr03": {
+      "prompt": "Nu există indicatoare, toți merg înainte. În ce ordine trec vehiculele?",
+      "options": ["2, 3, 1", "1, 2, 3", "3, 1, 2"],
+      "why": "Mașina 2 nu are pe nimeni în dreapta, deci trece prima. Bicicleta 3 așteaptă doar mașina 2, aflată în dreapta ei. Tu (1) ai bicicleta în dreapta, deci treci la urmă.",
+      "tip": "Cu mai multe vehicule: caută întâi pe cel care are dreapta liberă."
+    },
+    "pr04": {
+      "prompt": "Vrei să virezi la stânga; mașina din față vrea să meargă înainte. Cine trece primul?",
+      "options": ["Mașina din sens opus", "Eu, pentru că semnalizarea mea a pornit prima", "Trecem în același timp"],
+      "why": "Când virezi la stânga trebuie să lași să treacă vehiculele din sens opus (§ 9 alin. 3 StVO). Asta se aplică la orice intersecție, chiar și pe drumul cu prioritate.",
+      "tip": "Cine virează la stânga așteaptă traficul din față."
+    },
+    "pr05": {
+      "prompt": "Tu și mașina din sens opus vreți amândouă să virați la stânga. Cum virați?",
+      "options": ["Prin fața celuilalt — fiecare virează înaintea celuilalt", "Prin spatele celuilalt — ocolindu-vă", "Cine semnalizează primul trece primul"],
+      "why": "Două vehicule față în față care virează la stânga virează prin fața celuilalt (§ 9 alin. 4 StVO), dacă traficul sau configurația intersecției nu impun altceva."
+    },
+    "pr06": {
+      "prompt": "Vrei să virezi la stânga. Pe cine trebuie să lași să treacă?",
+      "options": ["Mașina din stânga", "Mașina din dreapta", "Pe nimeni, pentru că semnalizez"],
+      "why": "Indicatorul 205 „Cedează trecerea” e valabil pentru drumul tău. Toți cei de pe drumul principal au prioritate, din stânga și din dreapta. Virând la stânga, traversezi ambele benzi."
+    },
+    "pr07": {
+      "prompt": "Ce trebuie să faci la acest indicator?",
+      "options": ["Să opresc la linia de oprire, chiar dacă drumul e liber", "Să cedez trecerea", "Să opresc doar dacă vine cineva"],
+      "why": "Indicatorul 206 „Stop. Cedează trecerea.” cere oprire completă — roțile nu se mai mișcă — la linia de oprire sau, dacă nu există, acolo de unde vezi drumul. Apoi cedezi trecerea.",
+      "tip": "STOP înseamnă roți nemișcate. Rularea încet nu ajunge."
+    },
+    "pr08": {
+      "prompt": "Mergi înainte. Cine are prioritate?",
+      "options": ["Eu", "Mașina din dreapta", "Cine ajunge primul"],
+      "why": "Ești pe un drum cu prioritate (indicatorul 306); drumul lateral are indicatorul 205. Regula „dreapta înaintea stângii” nu se aplică aici — mașina trebuie să aștepte."
+    },
+    "pr09": {
+      "prompt": "Până unde se întinde prioritatea dată de acest indicator?",
+      "options": ["Doar până la următoarea intersecție", "Până la ieșirea din localitate", "Până la indicatorul „sfârșitul drumului cu prioritate”"],
+      "why": "Indicatorul 301 îți dă prioritate doar la următoarea intersecție. Prioritate pe un întreg tronson dă doar indicatorul de drum cu prioritate (306).",
+      "tip": "301 = o dată. 306 = pe tot drumul."
+    },
+    "pr10": {
+      "prompt": "Urmezi drumul cu prioritate care cotește la stânga. Ce trebuie să faci?",
+      "options": ["Să semnalizez la stânga", "Să acord atenție pietonilor care traversează", "Să nu semnalizez, pentru că rămân pe drumul cu prioritate"],
+      "why": "Cine urmează un drum cu prioritate care cotește trebuie să semnalizeze din timp și să acorde atenție deosebită pietonilor, așteptând la nevoie (panoul adițional 1002 sub indicatorul 306).",
+      "tip": "Semnalizarea urmează curba drumului, nu indicatorul."
+    },
+    "pr11": {
+      "prompt": "Drumul cu prioritate cotește (marcat cu galben). Vrei să mergi înainte. Pe cine lași să treacă?",
+      "options": ["Mașina 1", "Pe nimeni — merg înainte", "Doar vehiculele din dreapta"],
+      "why": "Ești pe drumul lateral (indicatorul 205). Mașina 1 e pe drumul cu prioritate, îi urmează curba și îți taie calea. Mersul înainte nu îți dă prioritate."
+    },
+    "pr12": {
+      "prompt": "Ieși dintr-o curte pe drum. Ce se aplică?",
+      "options": ["Trebuie să las traficul de pe drum să treacă", "Orice pericol pentru ceilalți trebuie exclus", "„Dreapta înaintea stângii” se aplică și aici"],
+      "why": "Cine iese dintr-o proprietate, dintr-o zonă rezidențială sau de la marginea drumului trebuie să excludă orice pericol pentru ceilalți — la nevoie cu cineva care să dirijeze (§ 10 StVO). „Dreapta înaintea stângii” nu ajută aici."
+    },
+    "pr13": {
+      "prompt": "Ieși de pe un drum de câmp pe un drum fără indicatoare. Din stânga vine o mașină. Cine are prioritate?",
+      "options": ["Mașina", "Eu — vin din dreapta ei", "Cel mai lent"],
+      "why": "Cine iese de pe un drum de câmp sau de pădure nu are niciodată prioritate (§ 8 alin. 1 StVO), nici măcar față de traficul din stânga."
+    },
+    "pr14": {
+      "prompt": "Ce se aplică la acest sens giratoriu?",
+      "options": ["Vehiculele aflate deja în sensul giratoriu au prioritate", "La intrare nu se semnalizează", "La ieșire se semnalizează la dreapta"],
+      "why": "Cu indicatorul 215 sub indicatorul 205, prioritatea o are traficul din sensul giratoriu. Semnalizarea la intrare nu e permisă; la ieșire e obligatorie. Oprirea în sensul giratoriu e interzisă (§ 9a StVO).",
+      "tip": "Intrare fără semnalizare, ieșire cu semnalizare."
+    },
+    "pr15": {
+      "prompt": "La acest cerc nu există indicatoare. Cine are prioritate?",
+      "options": ["Eu — mașina din cerc vine din stânga mea", "Mașina din cerc", "Cine semnalizează primul"],
+      "why": "Fără indicatorul 215, acesta nu e un sens giratoriu în sensul § 9a StVO, ci o intersecție obișnuită. Se aplică „dreapta înaintea stângii” — traficul din cerc trebuie să te lase să intri.",
+      "tip": "Fără indicator albastru de sens giratoriu = dreapta înaintea stângii."
+    },
+    "pr16": {
+      "prompt": "Mergi înainte pe drumul care continuă drept. Nu există indicatoare. Cine are prioritate?",
+      "options": ["Mașina care iese din strada laterală din dreapta", "Eu — sunt pe drumul principal", "Cel mai rapid"],
+      "why": "Un drum care continuă drept nu e drum cu prioritate fără indicator. Și la intersecțiile în T se aplică „dreapta înaintea stângii”, iar mașina e în dreapta ta.",
+      "tip": "Mai lat sau mai drept nu înseamnă prioritate."
+    },
+    "pr17": {
+      "prompt": "În ce ordine trec vehiculele?",
+      "options": ["3, 1, 2", "1, 2, 3", "3, 2, 1"],
+      "why": "Camionul 3 e pe drumul cu prioritate și trece primul. 1 și 2 sunt față în față pe drumurile laterale; 2 virează la stânga și trebuie să-l lase pe 1, care vine din sens opus și merge înainte."
+    },
+    "pr18": {
+      "prompt": "Ești pe drumul cu prioritate și vrei să virezi la stânga. Cine trebuie să aștepte?",
+      "options": ["Eu", "Mașina din sens opus", "Nimeni, suntem amândoi pe drumul cu prioritate"],
+      "why": "Drumul cu prioritate reglementează doar relația cu drumurile laterale. Între vehiculele de pe el se aplică regulile de viraj: cine virează la stânga lasă traficul din sens opus să treacă (§ 9 alin. 3 StVO)."
+    },
+    "pr19": {
+      "prompt": "Vrei să virezi la dreapta. Ce înseamnă acest indicator pentru tine?",
+      "options": ["Trebuie să cedez trecerea traficului din stânga", "Am prioritate pentru că virez la dreapta", "Pot ieși fără să mă uit"],
+      "why": "Indicatorul 205 înseamnă „Cedează trecerea”. Virând la dreapta intri pe banda pe care circulă traficul din stânga ta, deci trebuie să-l lași să treacă."
+    },
+    "pr20": {
+      "prompt": "Nu există indicatoare. Vrei să virezi la stânga. În ce ordine trec vehiculele?",
+      "options": ["2, 1", "1, 2", "În același timp"],
+      "why": "Mașina 2 vine din dreapta ta și are prioritate după regula „dreapta înaintea stângii”. Faptul că virezi în loc să mergi înainte nu schimbă nimic: îți taie calea."
+    },
+    "sg01": {
+      "prompt": "Polițistul stă cu fața spre tine, cu ambele brațe întinse lateral. Ce înseamnă asta pentru tine?",
+      "options": ["Oprire înaintea intersecției — ca la roșu", "Trecere — ca la verde", "Eliberarea rapidă a intersecției"],
+      "why": "Brațele întinse transversal pe direcția ta înseamnă „stop” pentru traficul din fața și din spatele polițistului. Traficul care circulă pe direcția brațelor poate trece (§ 36 alin. 2 StVO).",
+      "tip": "Pieptul sau spatele spre tine = roșu. Brațul arată spre tine = verde."
+    },
+    "sg02": {
+      "prompt": "Te apropii de polițist din lateral. Brațele polițistului arată de-a lungul direcției tale. Ce înseamnă asta pentru tine?",
+      "options": ["Pot trece — ca la verde", "Stop — ca la roșu", "Trebuie să aștept până face semn polițistul"],
+      "why": "Polițistul stă cu profilul spre tine, cu brațele de-a lungul direcției tale: traficul tău are liber. Dacă virezi, regulile de viraj se aplică în continuare."
+    },
+    "sg03": {
+      "prompt": "Un polițist ridică un braț vertical. Ce înseamnă?",
+      "options": ["Cine e înaintea intersecției așteaptă semnalul următor", "Cine e deja în intersecție o eliberează", "Toți pot trece"],
+      "why": "Brațul ridicat corespunde galbenului: „Atenție, semnalul urmează să se schimbe”. Înaintea intersecției aștepți, în intersecție o eliberezi (§ 36 alin. 2 pct. 2 StVO)."
+    },
+    "sg04": {
+      "prompt": "Semaforul e verde. Un polițist îți face semn să oprești. Ce faci?",
+      "options": ["Opresc — poliția are întâietate", "Continui — verdele are întâietate", "Claxonez și continui încet"],
+      "why": "Semnalele și indicațiile polițiștilor au întâietate față de orice altceva, inclusiv semafoarele (§ 36 alin. 1 StVO)."
+    },
+    "sg05": {
+      "prompt": "Care ordine de întâietate e corectă?",
+      "options": ["Poliție, semafoare, indicatoare, reguli generale", "Semafoare, poliție, indicatoare, reguli generale", "Indicatoare, semafoare, poliție, reguli generale"],
+      "why": "Poliția are întâietate față de tot (§ 36), semafoarele față de indicatoarele și regulile de prioritate (§ 37), iar indicatoarele față de „dreapta înaintea stângii”.",
+      "tip": "Om, lumină, indicator, regulă."
+    },
+    "sg06": {
+      "prompt": "Ai roșu, iar lângă semafor e un panou cu săgeată verde. Vrei să virezi la dreapta. Ce se aplică?",
+      "options": ["Trebuie întâi să opresc la linia de oprire", "Apoi pot vira dacă nu împiedic și nu pun în pericol pe nimeni", "Pot vira fără să opresc"],
+      "why": "Panoul cu săgeată verde (720) permite virajul la dreapta pe roșu doar după oprire completă la linia de oprire și doar fără a împiedica sau pune în pericol pe cineva, mai ales pietonii și bicicliștii care au verde (§ 37 alin. 2 StVO).",
+      "tip": "Săgeata verde = un STOP care te lasă să virezi."
+    },
+    "sg07": {
+      "prompt": "Semaforul trece pe galben. Ce faci?",
+      "options": ["Opresc, dacă mai pot face asta în siguranță", "Accelerez ca să trec", "Frânez mereu imediat cât pot de tare"],
+      "why": "Galbenul înseamnă: înaintea intersecției aștepți semnalul următor. Dacă ești prea aproape ca să oprești în siguranță, continui — dar accelerarea nu face niciodată parte din asta."
+    },
+    "sg08": {
+      "prompt": "Semaforul arată roșu și galben împreună. Ce înseamnă?",
+      "options": ["Urmează verdele — încă aștept", "Pot porni deja", "Semaforul e defect"],
+      "why": "Roșu și galben împreună înseamnă „Atenție, urmează verdele”. Rămâi pe loc până se aprinde verdele."
+    },
+    "sg09": {
+      "prompt": "Semafoarele sunt defecte. Ce se aplică acum?",
+      "options": ["Indicatoarele de prioritate de la intersecție", "Dacă nu există indicatoare: dreapta înaintea stângii", "Primul venit, primul servit"],
+      "why": "Dacă semafoarele sunt stinse sau doar clipesc galben, se aplică indicatoarele. Dacă nu există, se aplică „dreapta înaintea stângii”."
+    },
+    "sg10": {
+      "prompt": "Ce înseamnă o singură lumină galbenă intermitentă la o intersecție?",
+      "options": ["Atenție — se aplică indicatoarele rutiere", "Toți pot trece", "Oprire ca la roșu"],
+      "why": "Galbenul intermitent e un avertisment (§ 37 alin. 2 pct. 5 StVO). Nu reglementează nimic; prioritatea vine din indicatoare."
+    },
+    "sg11": {
+      "prompt": "O ambulanță cu girofar albastru și sirenă se apropie din spate. Ce faci?",
+      "options": ["Fac loc imediat", "Continui până găsesc un refugiu", "Frânez brusc și opresc pe banda mea"],
+      "why": "Girofarul albastru împreună cu sirena înseamnă că toți ceilalți trebuie să facă loc imediat (§ 38 alin. 1 StVO). Oprirea în mijlocul benzii nu ajută."
+    },
+    "sg12": {
+      "prompt": "O mașină de poliție stă pe marginea drumului cu girofarul albastru pornit, dar fără sirenă. Ce înseamnă?",
+      "options": ["Avertizează asupra unui pericol, de exemplu un accident", "Trebuie să opresc imediat", "Trebuie să fac loc"],
+      "why": "Doar girofarul albastru e un avertisment la locul unui accident sau incident (§ 38 alin. 2 StVO). Treci încet și atent.",
+      "tip": "Albastru + sirenă = fă loc. Doar albastru = fii atent."
+    },
+    "sg13": {
+      "prompt": "Ai verde, dar după intersecție traficul e blocat. Ce faci?",
+      "options": ["Aștept înaintea intersecției", "Intru în intersecție pentru că am verde", "Înaintez încet în intersecție"],
+      "why": "Dacă ar trebui să oprești în intersecție, nu ai voie să intri, nici pe verde (§ 11 alin. 1 StVO). Altfel blochezi traficul transversal când i se schimbă semaforul."
+    },
+    "sg14": {
+      "prompt": "Ai verde și vrei să virezi la stânga. La ce trebuie să fii atent?",
+      "options": ["Să las să treacă traficul din sens opus", "La pietonii care traversează strada în care virez", "La nimic — verdele înseamnă că am prioritate"],
+      "why": "Verdele nu anulează regulile de viraj: lasă traficul din sens opus să treacă și acordă atenție deosebită pietonilor (§ 9 alin. 3 StVO). Doar o săgeată verde în semaforul însuși arată un viraj protejat."
+    },
+    "sg15": {
+      "prompt": "O mașină de gunoi stă pe drum cu o lumină galbenă intermitentă. Ce înseamnă lumina?",
+      "options": ["Avertizează asupra unui pericol", "Trebuie să fac loc", "Vehiculul are prioritate"],
+      "why": "Lumina galbenă intermitentă de pe vehicule avertizează asupra unui pericol (§ 38 alin. 3 StVO) — aici, asupra muncitorilor care pot apărea din spatele lui. Treci încet și cu distanță suficientă."
+    },
+    "ba01": {
+      "prompt": "Pe ce parte a drumului circuli?",
+      "options": ["Cât mai pe dreapta, în limite rezonabile", "Pe mijloc, ca să stau departe de margine", "Unde e mai comod"],
+      "why": "În Germania se circulă pe dreapta: cât de pe dreapta e rezonabil — nu doar când vine trafic din față sau când ești depășit, ci și pe drum gol și pe culmi (§ 2 alin. 2 StVO)."
+    },
+    "ba02": {
+      "prompt": "O bandă se termină. Cum schimbi banda?",
+      "options": ["Prin fermoar, chiar înainte de îngustare", "Cât mai devreme, chiar dacă banda mai continuă mult", "Șoferii de pe banda care continuă nu trebuie să lase pe nimeni"],
+      "why": "Unde o bandă se termină sau e blocată, vehiculele se intercalează alternativ, câte unul, chiar la începutul îngustării (§ 7 alin. 4 StVO). Banda care continuă trebuie să permită asta.",
+      "tip": "Mergi până la capăt, apoi câte unul."
+    },
+    "ba03": {
+      "prompt": "Ce trebuie să faci înainte de a schimba banda?",
+      "options": ["Să mă uit în oglindă și peste umăr", "Să semnalizez din timp", "Să claxonez scurt"],
+      "why": "Schimbarea benzii e permisă doar dacă nimeni nu poate fi pus în pericol și trebuie semnalizată clar și din timp (§ 7 alin. 5 StVO). Doar privirea peste umăr acoperă unghiul mort."
+    },
+    "ba04": {
+      "prompt": "Când ai voie să claxonezi?",
+      "options": ["Ca să avertizez pe alții asupra unui pericol", "În afara localităților, ca să anunț o depășire", "Ca să salut un prieten"],
+      "why": "Claxonul și semnalele luminoase servesc doar pentru anunțarea depășirii în afara localităților sau când tu ori alții sunteți în pericol (§ 16 alin. 1 StVO). Salutul, grăbirea altora sau descărcarea nervilor nu se pun."
+    },
+    "ba05": {
+      "prompt": "Când ai voie să pornești luminile de avarie?",
+      "options": ["Când am o pană sau mașina e remorcată", "Ca să avertizez asupra unui pericol, de exemplu la coada unei coloane", "Când opresc scurt pe al doilea rând"],
+      "why": "Luminile de avarie sunt pentru pene, remorcare, autobuze școlare în stații și pentru avertizarea asupra pericolelor, cum ar fi o coloană în față (§ 16 alin. 2 StVO). Nu dau dreptul la parcare ilegală."
+    },
+    "ba06": {
+      "prompt": "În localitate, pe un drum cu două benzi marcate pe direcția ta, poți alege oricare bandă?",
+      "options": ["Da, cu autoturismul", "Nu, trebuie să merg mereu pe dreapta", "Doar pentru depășire"],
+      "why": "În localități, vehiculele de până la 3,5 t pot alege liber banda pe drumurile cu mai multe benzi marcate într-o direcție (§ 7 alin. 3 StVO). Zigzagul între benzi rămâne interzis."
+    },
+    "ba07": {
+      "prompt": "Ce înseamnă o situație de trafic neclară?",
+      "options": ["Nu pot ști sigur ce vor face ceilalți", "E noapte", "Drumul e lat"],
+      "why": "O situație e neclară când nu poți aprecia sigur ce vor face ceilalți — de exemplu o mașină semnalizează la stânga, dar nu se deplasează. Atunci depășirea e interzisă și trebuie să fii gata de frânare."
+    },
+    "ba08": {
+      "prompt": "Ce face parte din condusul preventiv?",
+      "options": ["Privirea departe înainte, nu doar la mașina din față", "Verificarea regulată a oglinzilor", "Mersul cât mai aproape, ca să reacționez mai repede"],
+      "why": "Cine privește departe și știe ce e în spate vede pericolele devreme și reacționează calm. Mersul bară la bară îți ia exact acest timp."
+    }
+  }
+}
