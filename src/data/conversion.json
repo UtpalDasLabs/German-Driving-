@@ -12,7 +12,8 @@
    "hr": "Vozačka dozvola iz EU-a ili EGP-a",
    "el": "Δίπλωμα από ΕΕ ή ΕΟΧ",
    "it": "Patente dell’UE o del SEE",
-   "es": "Permiso de la UE o del EEE"
+   "es": "Permiso de la UE o del EEE",
+   "pt": "Carta da UE ou do EEE"
   },
   "body": [
    {
@@ -26,7 +27,8 @@
     "hr": "Važeća vozačka dozvola iz zemlje EU-a ili EGP-a (EU uz Island, Lihtenštajn i Norvešku) ostaje važeća u Njemačkoj. Ne treba je mijenjati.",
     "el": "Ένα έγκυρο δίπλωμα από χώρα της ΕΕ ή του ΕΟΧ (ΕΕ συν Ισλανδία, Λιχτενστάιν και Νορβηγία) παραμένει έγκυρο στη Γερμανία. Δεν χρειάζεται μετατροπή.",
     "it": "Una patente valida di un paese UE o SEE (UE più Islanda, Liechtenstein e Norvegia) resta valida in Germania. Non serve convertirla.",
-    "es": "Un permiso válido de un país de la UE o del EEE (la UE más Islandia, Liechtenstein y Noruega) sigue siendo válido en Alemania. No hace falta canjearlo."
+    "es": "Un permiso válido de un país de la UE o del EEE (la UE más Islandia, Liechtenstein y Noruega) sigue siendo válido en Alemania. No hace falta canjearlo.",
+    "pt": "Uma carta válida de um país da UE ou do EEE (a UE mais a Islândia, o Liechtenstein e a Noruega) continua válida na Alemanha. Não é preciso trocá-la."
    },
    {
     "de": "Befristete Führerscheine verlängern Sie nach dem Umzug bei der deutschen Fahrerlaubnisbehörde.",
@@ -39,7 +41,8 @@
     "hr": "Ako dozvola ima datum isteka, obnavljaš je u njemačkom uredu za vozačke dozvole kad ovdje živiš.",
     "el": "Αν το δίπλωμα έχει ημερομηνία λήξης, το ανανεώνεις στο γερμανικό γραφείο διπλωμάτων όταν ζεις εδώ.",
     "it": "Se la patente ha una scadenza, la rinnovi presso l’ufficio patenti tedesco una volta che vivi qui.",
-    "es": "Si tu permiso tiene fecha de caducidad, lo renuevas en la oficina alemana de permisos cuando ya vivas aquí."
+    "es": "Si tu permiso tiene fecha de caducidad, lo renuevas en la oficina alemana de permisos cuando ya vivas aquí.",
+    "pt": "Se a tua carta tiver data de validade, renovas no serviço alemão de cartas de condução quando já viveres cá."
    }
   ]
  },
@@ -56,7 +59,8 @@
    "hr": "Svi ostali: šest mjeseci",
    "el": "Όλοι οι άλλοι: έξι μήνες",
    "it": "Tutti gli altri: sei mesi",
-   "es": "Todos los demás: seis meses"
+   "es": "Todos los demás: seis meses",
+   "pt": "Todos os outros: seis meses"
   },
   "body": [
    {
@@ -70,7 +74,8 @@
     "hr": "S dozvolom iz bilo koje druge zemlje smiješ voziti šest mjeseci od dana prijave boravka u Njemačkoj. Ako boraviš samo privremeno, možeš zatražiti još najviše šest mjeseci.",
     "el": "Με δίπλωμα από οποιαδήποτε άλλη χώρα μπορείς να οδηγείς για έξι μήνες από την ημέρα που εγκαθίστασαι στη Γερμανία. Αν μένεις μόνο προσωρινά, μπορείς να ζητήσεις έως έξι μήνες ακόμη.",
     "it": "Con una patente di qualsiasi altro paese puoi guidare per sei mesi dal giorno in cui stabilisci la residenza in Germania. Se il soggiorno è solo temporaneo, puoi chiedere fino a sei mesi in più.",
-    "es": "Con un permiso de cualquier otro país puedes conducir seis meses desde el día en que fijas tu residencia en Alemania. Si solo estás de forma temporal, puedes solicitar hasta seis meses más."
+    "es": "Con un permiso de cualquier otro país puedes conducir seis meses desde el día en que fijas tu residencia en Alemania. Si solo estás de forma temporal, puedes solicitar hasta seis meses más.",
+    "pt": "Com uma carta de qualquer outro país podes conduzir seis meses a partir do dia em que fixas residência na Alemanha. Se a estadia for só temporária, podes pedir até mais seis meses."
    },
    {
     "de": "Danach brauchen Sie einen deutschen Führerschein. Wer nach Ablauf der Frist mit dem ausländischen Führerschein fährt, fährt ohne Fahrerlaubnis – das ist eine Straftat.",
@@ -83,7 +88,8 @@
     "hr": "Nakon toga treba njemačka dozvola. Vožnja sa stranom dozvolom nakon roka smatra se vožnjom bez dozvole, a to je kazneno djelo.",
     "el": "Μετά χρειάζεσαι γερμανικό δίπλωμα. Η οδήγηση με το ξένο μετά την προθεσμία θεωρείται οδήγηση χωρίς δίπλωμα, που είναι ποινικό αδίκημα.",
     "it": "Dopo serve una patente tedesca. Guidare con quella estera dopo la scadenza equivale a guidare senza patente, ed è reato.",
-    "es": "Después necesitas un permiso alemán. Conducir con el extranjero pasado el plazo cuenta como conducir sin permiso, que es delito."
+    "es": "Después necesitas un permiso alemán. Conducir con el extranjero pasado el plazo cuenta como conducir sin permiso, que es delito.",
+    "pt": "Depois precisas de uma carta alemã. Conduzir com a estrangeira depois do prazo conta como conduzir sem carta, o que é crime."
    },
    {
     "de": "Ist Ihr Führerschein nicht auf Deutsch und entspricht keinem internationalen Muster, brauchen Sie während der sechs Monate eine Übersetzung oder einen internationalen Führerschein.",
@@ -96,7 +102,8 @@
     "hr": "Ako dozvola nije na njemačkom i ne slijedi međunarodni obrazac, tijekom tih šest mjeseci treba prijevod ili međunarodna vozačka dozvola.",
     "el": "Αν το δίπλωμα δεν είναι στα γερμανικά και δεν ακολουθεί διεθνές πρότυπο, σε αυτούς τους έξι μήνες χρειάζεσαι μετάφραση ή διεθνή άδεια οδήγησης.",
     "it": "Se la patente non è in tedesco e non segue un modello internazionale, in quei sei mesi serve una traduzione o un permesso internazionale di guida.",
-    "es": "Si tu permiso no está en alemán y no sigue un modelo internacional, durante esos seis meses necesitas una traducción o un permiso internacional de conducción."
+    "es": "Si tu permiso no está en alemán y no sigue un modelo internacional, durante esos seis meses necesitas una traducción o un permiso internacional de conducción.",
+    "pt": "Se a tua carta não estiver em alemão e não seguir um modelo internacional, durante esses seis meses precisas de uma tradução ou de uma licença internacional de condução."
    }
   ]
  },
@@ -113,7 +120,8 @@
    "hr": "Koji ispiti trebaju",
    "el": "Ποιες εξετάσεις χρειάζεσαι",
    "it": "Quali esami servono",
-   "es": "Qué exámenes necesitas"
+   "es": "Qué exámenes necesitas",
+   "pt": "Que exames precisas de fazer"
   },
   "body": [
    {
@@ -127,7 +135,8 @@
     "hr": "Ovisi o tome je li zemlja izdavanja navedena u Prilogu 11. Uredbe o vozačkim dozvolama i za koju kategoriju. Postoje tri slučaja:",
     "el": "Εξαρτάται από το αν η χώρα έκδοσης περιλαμβάνεται στο Παράρτημα 11 του Κανονισμού Αδειών Οδήγησης και για ποια κατηγορία. Υπάρχουν τρεις περιπτώσεις:",
     "it": "Dipende dal fatto che il paese di rilascio sia nell’allegato 11 del Regolamento sulle patenti e per quale categoria. Ci sono tre casi:",
-    "es": "Depende de si tu país de expedición figura en el anexo 11 del Reglamento de Permisos de Conducir, y para qué categoría. Hay tres casos:"
+    "es": "Depende de si tu país de expedición figura en el anexo 11 del Reglamento de Permisos de Conducir, y para qué categoría. Hay tres casos:",
+    "pt": "Depende de o teu país de emissão constar do anexo 11 do Regulamento das Cartas de Condução, e para que categoria. Há três casos:"
    },
    {
     "de": "1. Ihr Staat steht für Klasse B ohne Prüfung in der Liste (zum Beispiel Japan, die Schweiz, das Vereinigte Königreich und seit August 2026 die Ukraine): Sie beantragen die Umschreibung, Prüfungen entfallen.",
@@ -140,7 +149,8 @@
     "hr": "1. Tvoja zemlja navedena je za kategoriju B bez ispita (npr. Japan, Švicarska, Ujedinjeno Kraljevstvo i od kolovoza 2026. Ukrajina): podnosiš zahtjev i ispiti otpadaju.",
     "el": "1. Η χώρα σου περιλαμβάνεται για την κατηγορία B χωρίς εξετάσεις (π.χ. Ιαπωνία, Ελβετία, Ηνωμένο Βασίλειο και, από τον Αύγουστο του 2026, Ουκρανία): κάνεις αίτηση και οι εξετάσεις παραλείπονται.",
     "it": "1. Il tuo paese è elencato per la patente B senza esami (ad esempio Giappone, Svizzera, Regno Unito e, da agosto 2026, Ucraina): presenti la domanda e gli esami non servono.",
-    "es": "1. Tu país figura para el permiso B sin exámenes (por ejemplo, Japón, Suiza, el Reino Unido y, desde agosto de 2026, Ucrania): lo solicitas y no hay que examinarse."
+    "es": "1. Tu país figura para el permiso B sin exámenes (por ejemplo, Japón, Suiza, el Reino Unido y, desde agosto de 2026, Ucrania): lo solicitas y no hay que examinarse.",
+    "pt": "1. O teu país consta para a carta B sem exames (por exemplo, o Japão, a Suíça, o Reino Unido e, desde agosto de 2026, a Ucrânia): fazes o pedido e não há exames."
    },
    {
     "de": "2. Ihr Staat steht mit „nur theoretische Prüfung“ in der Liste: Sie legen die Theorieprüfung ab, die Fahrprüfung entfällt.",
@@ -153,7 +163,8 @@
     "hr": "2. Tvoja zemlja navedena je kao „samo teorijski ispit”: polažeš teoriju, a ispit vožnje otpada.",
     "el": "2. Η χώρα σου περιλαμβάνεται ως «μόνο θεωρητική εξέταση»: δίνεις θεωρία και η πρακτική παραλείπεται.",
     "it": "2. Il tuo paese è elencato come «solo esame di teoria»: sostieni la teoria e la pratica non serve.",
-    "es": "2. Tu país figura con «solo examen teórico»: haces la teoría y la práctica no hace falta."
+    "es": "2. Tu país figura con «solo examen teórico»: haces la teoría y la práctica no hace falta.",
+    "pt": "2. O teu país consta com «só exame teórico»: fazes a teoria e a prática não é precisa."
    },
    {
     "de": "3. Ihr Staat steht nicht in der Liste (das betrifft viele Länder, darunter auch einige US-Bundesstaaten und kanadische Provinzen, die einzeln aufgeführt sind): Sie legen Theorie- und Fahrprüfung ab. Fahrstunden sind dann nicht vorgeschrieben – die Prüfung machen Sie aber im Auto einer Fahrschule.",
@@ -166,7 +177,8 @@
     "hr": "3. Tvoja zemlja nije navedena (vrijedi za mnoge zemlje te neke savezne države SAD-a i kanadske pokrajine, koje su navedene pojedinačno): polažeš i teoriju i vožnju. Sati nisu obvezni, ali ispit se polaže automobilom autoškole.",
     "el": "3. Η χώρα σου δεν περιλαμβάνεται (ισχύει για πολλές χώρες, και για ορισμένες πολιτείες των ΗΠΑ και επαρχίες του Καναδά, που αναφέρονται χωριστά): δίνεις και θεωρία και πρακτική. Τα μαθήματα δεν είναι υποχρεωτικά, αλλά η εξέταση γίνεται με αυτοκίνητο σχολής οδηγών.",
     "it": "3. Il tuo paese non è elencato (vale per molti paesi, e per alcuni stati USA e province canadesi, elencati singolarmente): sostieni sia la teoria sia la pratica. Le lezioni non sono obbligatorie, ma l’esame si fa con l’auto di un’autoscuola.",
-    "es": "3. Tu país no figura (es el caso de muchos países, y de algunos estados de EE. UU. y provincias de Canadá, que aparecen por separado): haces teoría y práctica. Las clases no son obligatorias, pero el examen se hace con un coche de autoescuela."
+    "es": "3. Tu país no figura (es el caso de muchos países, y de algunos estados de EE. UU. y provincias de Canadá, que aparecen por separado): haces teoría y práctica. Las clases no son obligatorias, pero el examen se hace con un coche de autoescuela.",
+    "pt": "3. O teu país não consta (é o caso de muitos países, e de alguns estados dos EUA e províncias do Canadá, que aparecem separadamente): fazes teoria e prática. As aulas não são obrigatórias, mas o exame faz-se com um carro de escola de condução."
    },
    {
     "de": "Die Liste ändert sich. Prüfen Sie den aktuellen Text der Anlage 11 und fragen Sie Ihre Fahrerlaubnisbehörde, bevor Sie etwas buchen.",
@@ -179,7 +191,8 @@
     "hr": "Popis se mijenja. Prije bilo kakvog dogovora provjeri aktualni tekst Priloga 11. i pitaj u lokalnom uredu za vozačke dozvole.",
     "el": "Η λίστα αλλάζει. Έλεγξε το τρέχον κείμενο του Παραρτήματος 11 και ρώτα το τοπικό γραφείο διπλωμάτων πριν κλείσεις οτιδήποτε.",
     "it": "L’elenco cambia. Controlla il testo attuale dell’allegato 11 e chiedi all’ufficio patenti locale prima di prenotare qualsiasi cosa.",
-    "es": "La lista cambia. Consulta el texto actual del anexo 11 y pregunta en tu oficina local de permisos antes de reservar nada."
+    "es": "La lista cambia. Consulta el texto actual del anexo 11 y pregunta en tu oficina local de permisos antes de reservar nada.",
+    "pt": "A lista muda. Consulta o texto atual do anexo 11 e pergunta no teu serviço local de cartas de condução antes de marcar seja o que for."
    }
   ]
  },
@@ -196,7 +209,8 @@
    "hr": "Zahtjev i što ponijeti",
    "el": "Αίτηση και τι να φέρεις",
    "it": "La domanda e cosa portare",
-   "es": "La solicitud y qué llevar"
+   "es": "La solicitud y qué llevar",
+   "pt": "O pedido e o que levar"
   },
   "body": [
    {
@@ -210,7 +224,8 @@
     "hr": "Zahtjev se podnosi uredu za vozačke dozvole (Führerscheinstelle) u mjestu prebivališta, što ranije; obrada često traje tjednima.",
     "el": "Κάνεις αίτηση στο γραφείο διπλωμάτων (Führerscheinstelle) του τόπου κατοικίας σου, όσο πιο νωρίς γίνεται· η διεκπεραίωση συχνά κρατά εβδομάδες.",
     "it": "Presenti la domanda all’ufficio patenti (Führerscheinstelle) del luogo di residenza, il prima possibile; la pratica richiede spesso settimane.",
-    "es": "Lo solicitas en la oficina de permisos (Führerscheinstelle) de tu lugar de residencia, cuanto antes; la tramitación suele llevar semanas."
+    "es": "Lo solicitas en la oficina de permisos (Führerscheinstelle) de tu lugar de residencia, cuanto antes; la tramitación suele llevar semanas.",
+    "pt": "Fazes o pedido no serviço de cartas de condução (Führerscheinstelle) da tua área de residência, o mais cedo possível; o processo costuma levar semanas."
    },
    {
     "de": "Üblich sind: Ihr ausländischer Führerschein im Original, eine Übersetzung (z. B. von ADAC oder einem vereidigten Übersetzer), Pass oder Ausweis, Meldebescheinigung, ein biometrisches Passfoto, ein Sehtest und meist ein Nachweis über einen Erste-Hilfe-Kurs. Welche Unterlagen genau nötig sind, sagt Ihnen die Behörde.",
@@ -223,7 +238,8 @@
     "hr": "Obično: izvornik strane dozvole, prijevod (npr. od ADAC-a ili sudskog tumača), putovnica ili osobna iskaznica, potvrda o prijavi boravišta (Meldebescheinigung), biometrijska fotografija, provjera vida i obično potvrda o tečaju prve pomoći. Ured će reći točno što treba.",
     "el": "Συνήθως: το πρωτότυπο ξένο δίπλωμα, μετάφραση (π.χ. από τον ADAC ή ορκωτό μεταφραστή), διαβατήριο ή ταυτότητα, βεβαίωση εγγραφής κατοικίας (Meldebescheinigung), βιομετρική φωτογραφία, εξέταση όρασης και συνήθως βεβαίωση σεμιναρίου πρώτων βοηθειών. Το γραφείο θα σου πει ακριβώς τι χρειάζεται.",
     "it": "Di solito: la patente estera originale, una traduzione (ad esempio dell’ADAC o di un traduttore giurato), passaporto o carta d’identità, certificato di residenza (Meldebescheinigung), una foto biometrica, un test della vista e di solito un attestato di corso di primo soccorso. L’ufficio ti dirà esattamente cosa serve.",
-    "es": "Normalmente: tu permiso extranjero original, una traducción (por ejemplo, del ADAC o de un traductor jurado), pasaporte o documento de identidad, certificado de empadronamiento (Meldebescheinigung), una foto biométrica, un examen de la vista y normalmente un certificado de curso de primeros auxilios. La oficina te dirá exactamente qué necesita."
+    "es": "Normalmente: tu permiso extranjero original, una traducción (por ejemplo, del ADAC o de un traductor jurado), pasaporte o documento de identidad, certificado de empadronamiento (Meldebescheinigung), una foto biométrica, un examen de la vista y normalmente un certificado de curso de primeros auxilios. La oficina te dirá exactamente qué necesita.",
+    "pt": "Normalmente: a tua carta estrangeira original, uma tradução (por exemplo, do ADAC ou uma tradução ajuramentada), passaporte ou documento de identificação, certificado de residência (Meldebescheinigung), uma fotografia biométrica, um exame à vista e normalmente um certificado de curso de primeiros socorros. O serviço diz-te exatamente o que precisa."
    },
    {
     "de": "Mit dem deutschen Führerschein geben Sie den ausländischen ab.",
@@ -236,7 +252,8 @@
     "hr": "Kad preuzmeš njemačku dozvolu, predaješ stranu.",
     "el": "Όταν παραλάβεις το γερμανικό δίπλωμα, παραδίδεις το ξένο.",
     "it": "Quando ricevi la patente tedesca, consegni quella estera.",
-    "es": "Cuando recibes el permiso alemán, entregas el extranjero."
+    "es": "Cuando recibes el permiso alemán, entregas el extranjero.",
+    "pt": "Quando recebes a carta alemã, entregas a estrangeira."
    }
   ]
  },
@@ -253,7 +270,8 @@
    "hr": "Ako treba polagati ispite",
    "el": "Αν πρέπει να δώσεις εξετάσεις",
    "it": "Se devi sostenere gli esami",
-   "es": "Si tienes que examinarte"
+   "es": "Si tienes que examinarte",
+   "pt": "Se tiveres de fazer exames"
   },
   "body": [
    {
@@ -267,7 +285,8 @@
     "hr": "Upiši se u autoškolu; ona te prijavljuje na ispit u TÜV ili DEKRA. Teoriju možeš polagati na njemačkom ili na jednom od dvanaest drugih jezika — istima kao u ovoj aplikaciji.",
     "el": "Γράψου σε σχολή οδηγών· αυτή σε δηλώνει για εξέταση στον TÜV ή στην DEKRA. Τη θεωρία μπορείς να τη δώσεις στα γερμανικά ή σε μία από δώδεκα άλλες γλώσσες — τις ίδιες με αυτή την εφαρμογή.",
     "it": "Iscriviti a un’autoscuola; sarà lei a iscriverti all’esame presso TÜV o DEKRA. La teoria si può fare in tedesco o in una delle altre dodici lingue — le stesse di questa app.",
-    "es": "Apúntate en una autoescuela; ella te inscribe para el examen en TÜV o DEKRA. Puedes hacer la teoría en alemán o en uno de otros doce idiomas — los mismos que esta app."
+    "es": "Apúntate en una autoescuela; ella te inscribe para el examen en TÜV o DEKRA. Puedes hacer la teoría en alemán o en uno de otros doce idiomas — los mismos que esta app.",
+    "pt": "Inscreve-te numa escola de condução; ela faz a tua inscrição para o exame no TÜV ou na DEKRA. Podes fazer a teoria em alemão ou numa de outras doze línguas — as mesmas desta app."
    },
    {
     "de": "Auch erfahrene Fahrer sollten ein paar Fahrstunden nehmen: Die Prüfung achtet auf Dinge, die anderswo anders laufen – „rechts vor links“, der Schulterblick bei jedem Abbiegen, Tempo-30-Zonen und das genaue Halten am Stoppschild.",
@@ -280,7 +299,8 @@
     "hr": "I iskusni vozači trebali bi uzeti nekoliko sati: ispit provjerava ono što drugdje funkcionira drukčije — „desni ima prednost”, pogled preko ramena pri svakom skretanju, zone 30 i potpuno zaustavljanje kod svakog znaka STOP.",
     "el": "Ακόμη και έμπειροι οδηγοί καλό είναι να κάνουν μερικά μαθήματα: η εξέταση ελέγχει πράγματα που αλλού λειτουργούν διαφορετικά — «προτεραιότητα από δεξιά», ματιά από τον ώμο σε κάθε στροφή, ζώνες 30 και πλήρη στάση σε κάθε STOP.",
     "it": "Anche chi guida da anni farebbe bene a prendere qualche lezione: l’esame guarda a cose che altrove funzionano diversamente — «la destra ha la precedenza», sguardo sopra la spalla a ogni svolta, zone 30 e arresto completo a ogni STOP.",
-    "es": "Incluso con mucha experiencia conviene dar algunas clases: el examen se fija en cosas que en otros sitios funcionan distinto — «prioridad a la derecha», mirar por encima del hombro en cada giro, zonas 30 y detenerse del todo en cada STOP."
+    "es": "Incluso con mucha experiencia conviene dar algunas clases: el examen se fija en cosas que en otros sitios funcionan distinto — «prioridad a la derecha», mirar por encima del hombro en cada giro, zonas 30 y detenerse del todo en cada STOP.",
+    "pt": "Mesmo com muita experiência vale a pena ter algumas aulas: o exame foca-se em coisas que noutros sítios funcionam de outra maneira — «prioridade à direita», olhar por cima do ombro em cada viragem, zonas 30 e parar por completo em cada STOP."
    }
   ]
  },
@@ -297,7 +317,8 @@
    "hr": "Koliko to otprilike stoji",
    "el": "Πόσο κοστίζει περίπου",
    "it": "Quanto costa più o meno",
-   "es": "Cuánto cuesta más o menos"
+   "es": "Cuánto cuesta más o menos",
+   "pt": "Quanto custa, mais ou menos"
   },
   "body": [
    {
@@ -311,7 +332,8 @@
     "hr": "Troškovi ovise o gradu i autoškoli. Okvirno: pristojba ureda oko 40–50 €, prijevod 30–60 €, teorijski ispit u TÜV-u ili DEKRA-i oko 25 €, ispit vožnje oko 130 €, uz troškove autoškole za prijavu, sate i automobil na dan ispita.",
     "el": "Το κόστος διαφέρει ανά πόλη και σχολή. Ενδεικτικά: παράβολο γραφείου περίπου 40–50 €, μετάφραση 30–60 €, θεωρητική εξέταση σε TÜV ή DEKRA περίπου 25 €, πρακτική περίπου 130 €, συν το κόστος της σχολής για εγγραφή, μαθήματα και αυτοκίνητο την ημέρα της εξέτασης.",
     "it": "I costi variano per città e autoscuola. Indicativamente: tassa dell’ufficio circa 40–50 €, traduzione 30–60 €, esame di teoria presso TÜV o DEKRA circa 25 €, esame pratico circa 130 €, più i costi dell’autoscuola per iscrizione, lezioni e auto il giorno dell’esame.",
-    "es": "Los precios varían según la ciudad y la autoescuela. Como orientación: tasa de la oficina unos 40–50 €, traducción 30–60 €, examen teórico en TÜV o DEKRA unos 25 €, examen práctico unos 130 €, más los costes de la autoescuela por inscripción, clases y el coche el día del examen."
+    "es": "Los precios varían según la ciudad y la autoescuela. Como orientación: tasa de la oficina unos 40–50 €, traducción 30–60 €, examen teórico en TÜV o DEKRA unos 25 €, examen práctico unos 130 €, más los costes de la autoescuela por inscripción, clases y el coche el día del examen.",
+    "pt": "Os preços variam conforme a cidade e a escola de condução. Como referência: taxa do serviço cerca de 40–50 €, tradução 30–60 €, exame teórico no TÜV ou na DEKRA cerca de 25 €, exame prático cerca de 130 €, mais os custos da escola de condução com inscrição, aulas e o carro no dia do exame."
    }
   ]
  }

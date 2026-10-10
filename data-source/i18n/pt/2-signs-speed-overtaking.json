@@ -1,0 +1,322 @@
+{
+  "questions": {
+    "si01": {
+      "prompt": "Onde termina este limite de velocidade?",
+      "options": ["Num sinal que indique o fim (por exemplo, o 278 ou o 282)", "Sempre no cruzamento seguinte", "Ao fim de exatamente 500 metros"],
+      "why": "As limitações de um troço valem até um sinal as levantar; não terminam sozinhas depois de um cruzamento. Exceções: um painel adicional indica a extensão, ou o limite está junto a um sinal de perigo e termina claramente com o perigo.",
+      "tip": "Os cruzamentos não anulam o limite de velocidade."
+    },
+    "si02": {
+      "prompt": "O que é permitido na faixa de rodagem com este sinal?",
+      "options": ["Nada — parar é totalmente proibido", "Uma paragem breve para alguém sair", "Estacionar até três minutos"],
+      "why": "O sinal 283 é a proibição absoluta de paragem: na faixa de rodagem não podes parar de todo, nem por um momento para alguém entrar ou sair.",
+      "tip": "Cruz = nunca. Uma barra = um momento."
+    },
+    "si03": {
+      "prompt": "O que permite este sinal?",
+      "options": ["Parar até três minutos", "Parar mais tempo para carregar ou para passageiros entrarem e saírem", "Estacionar"],
+      "why": "O sinal 286, proibição de paragem limitada, proíbe parar mais de três minutos, salvo para pessoas entrarem ou saírem ou para carregar e descarregar. Estacionar não é permitido."
+    },
+    "si04": {
+      "prompt": "O que significa este sinal?",
+      "options": ["Proibido o trânsito de veículos de qualquer tipo — pode-se levar a bicicleta à mão", "Só residentes", "As bicicletas podem circular"],
+      "why": "O sinal 250 proíbe veículos de qualquer tipo. Não se aplica a carrinhos de mão nem a bicicletas e motos levadas à mão."
+    },
+    "si05": {
+      "prompt": "O que significa este sinal?",
+      "options": ["Sentido proibido", "Trânsito proibido nos dois sentidos", "Proibido parar"],
+      "why": "O sinal 267 significa sentido proibido. Costuma estar no extremo de uma rua de sentido único onde se pode entrar pelo outro lado."
+    },
+    "si06": {
+      "prompt": "O que se aplica nesta rua?",
+      "options": ["Só posso circular no sentido da seta", "Também posso parar e estacionar à esquerda", "Posso inverter o sentido de marcha aqui"],
+      "why": "O sinal 220 indica uma rua de sentido único. Só se circula no sentido da seta; parar e estacionar também é permitido à esquerda (§ 12 n.º 4 StVO). Inverter o sentido seria circular em contramão."
+    },
+    "si07": {
+      "prompt": "O que te indica este sinal?",
+      "options": ["Rua sem saída", "Via com prioridade", "Proibido estacionar"],
+      "why": "O sinal 357 indica uma rua sem saída: os veículos não conseguem passar. Conta com ter de dar a volta."
+    },
+    "si08": {
+      "prompt": "O que se aplica dentro desta zona?",
+      "options": ["Circular a passo de pessoa", "Os peões podem usar a rua toda e as crianças brincar em qualquer lado", "Pode-se estacionar em qualquer ponto da berma"],
+      "why": "Numa zona residencial (sinal 325.1) circula-se a passo. Os peões podem usar toda a largura e as crianças brincar em qualquer lado. Só se estaciona em lugares assinalados.",
+      "tip": "Rua de brincar: aqui estás de visita."
+    },
+    "si09": {
+      "prompt": "Sais de uma zona residencial para uma via normal. Quem tem prioridade?",
+      "options": ["Todos os que circulam na via onde entro", "Eu, se vier da direita", "Eu, porque vou a passo"],
+      "why": "Ao sair de uma zona residencial tens de deixar passar todos e excluir qualquer perigo (§ 10 StVO), tal como ao sair de uma entrada de garagem."
+    },
+    "si10": {
+      "prompt": "O que se aplica normalmente dentro desta zona?",
+      "options": ["Um máximo de 30 km/h", "Nos cruzamentos, normalmente «prioridade à direita»", "Proibido ultrapassar quem quer que seja"],
+      "why": "Numa zona 30 (sinal 274.1) o limite é 30 km/h até o sinal 274.2 fechar a zona. Estas zonas não têm vias com prioridade, por isso nos cruzamentos costuma valer a «prioridade à direita»."
+    },
+    "si11": {
+      "prompt": "Qual é o limite de velocidade para um ligeiro de passageiros a partir deste sinal, se outros sinais não disserem o contrário?",
+      "why": "O sinal de localidade (310) marca o início de uma zona urbana. Dentro, o limite para todos os veículos a motor é 50 km/h (§ 3 n.º 3 StVO).",
+      "tip": "Placa amarela de localidade = 50."
+    },
+    "si12": {
+      "prompt": "Quem pode circular na autoestrada?",
+      "options": ["Os veículos a motor construídos para mais de 60 km/h", "Todos os veículos a motor", "Também os ciclomotores limitados a 45 km/h"],
+      "why": "As autoestradas (sinal 330.1) e as vias reservadas a automóveis são só para veículos a motor cuja velocidade máxima de construção ultrapassa os 60 km/h (§ 18 n.º 1 StVO)."
+    },
+    "si13": {
+      "prompt": "O que indica este sinal?",
+      "options": ["Fim da via com prioridade", "Início da via com prioridade", "Prioridade no próximo cruzamento"],
+      "why": "O sinal 307 põe fim à via com prioridade. Depois voltam a decidir os sinais ou a «prioridade à direita». Muitas vezes, pouco depois, vem o sinal 205."
+    },
+    "si14": {
+      "prompt": "Quando se aplica o aviso destes sinais?",
+      "options": ["Só com o piso molhado", "Sempre", "Só no inverno"],
+      "why": "O sinal 114 avisa de piso escorregadio. O painel adicional «bei Nässe» (com piso molhado) limita o aviso ao piso molhado."
+    },
+    "si15": {
+      "prompt": "O que deves esperar perante este sinal?",
+      "options": ["Crianças que de repente correm para a faixa de rodagem", "Crianças a brincar junto à via", "Crianças só no horário escolar"],
+      "why": "O sinal 136 avisa de crianças a qualquer hora do dia. Reduz a velocidade e prepara-te para travar (§ 3 n.º 2a StVO)."
+    },
+    "si16": {
+      "prompt": "O que é verdade perante este sinal?",
+      "options": ["Os animais aparecem sobretudo ao anoitecer e ao amanhecer", "Onde atravessa um animal, muitas vezes seguem-se outros", "O aviso só vale no outono"],
+      "why": "O sinal 142 avisa da passagem de animais selvagens. Estão mais ativos ao amanhecer e ao anoitecer e costumam andar em grupo: a seguir ao primeiro corço vem muitas vezes um segundo."
+    },
+    "si17": {
+      "prompt": "Mais ou menos quantos metros antes da passagem de nível está a baliza de três faixas?",
+      "why": "As balizas estão a cerca de 240 m (três faixas), 160 m (duas) e 80 m (uma) antes da passagem. Cada faixa são uns 80 metros.",
+      "tip": "Uma faixa = 80 metros."
+    },
+    "si18": {
+      "prompt": "Quem podes continuar a ultrapassar perante este sinal?",
+      "options": ["Um ciclista", "Uma mota sem sidecar", "Um ligeiro de passageiros lento"],
+      "why": "O sinal 276 proíbe ultrapassar veículos a motor de mais de duas rodas em linha e motas com sidecar. Os de duas rodas — bicicletas, ciclomotores, motas — podem continuar a ser ultrapassados com espaço suficiente."
+    },
+    "si19": {
+      "prompt": "Conduzes um ligeiro com reboque, com mais de 3,5 t no conjunto. Podes ultrapassar com este sinal?",
+      "options": ["Sim — os ligeiros de passageiros ficam excluídos desta proibição", "Não — o conjunto pesa mais de 3,5 t", "Só ciclistas"],
+      "why": "O sinal 277 aplica-se a veículos a motor com mais de 3,5 t, reboques incluídos, e a tratores. Ligeiros de passageiros e autocarros ficam expressamente excluídos, com ou sem reboque."
+    },
+    "si20": {
+      "prompt": "O que anula este sinal?",
+      "options": ["Todas as limitações do troço anterior, como limites de velocidade e proibições de ultrapassar", "Só a proibição de ultrapassar", "A via com prioridade"],
+      "why": "O sinal 282 põe fim a todas as limitações do troço. Depois voltam a valer as regras gerais — fora das localidades, por exemplo, 100 km/h para ligeiros."
+    },
+    "si21": {
+      "prompt": "O que exige este sinal?",
+      "options": ["Não circular a menos de 30 km/h, salvo se o trânsito, a visibilidade ou o tempo o exigirem", "Circular no máximo a 30 km/h", "Circular exatamente a 30 km/h"],
+      "why": "Os sinais redondos azuis são obrigações: o sinal 275 é uma velocidade mínima. Os veículos que não conseguem ir tão depressa não podem usar essa via.",
+      "tip": "Azul = obrigação. Orla vermelha = proibição."
+    },
+    "si22": {
+      "prompt": "Quem pode usar estas vias?",
+      "options": ["Os ciclistas (e, nas duas da direita, também os peões)", "Os carros, quando a faixa está cheia", "As motas"],
+      "why": "O sinal 237 é uma ciclovia, o 240 uma via partilhada e o 241 uma via separada para peões e bicicletas. Em nenhuma se pode andar de carro; as trotinetes elétricas, pelo contrário, têm de usar as ciclovias."
+    },
+    "si23": {
+      "prompt": "Quantos metros antes e depois deste sinal não se pode estacionar?",
+      "why": "O sinal 224 indica uma paragem de autocarro ou elétrico. É proibido estacionar 15 m de cada lado, para que autocarros e elétricos possam entrar e sair."
+    },
+    "si24": {
+      "prompt": "Quem pode entrar apesar da proibição?",
+      "options": ["Residentes e quem tem algo a fazer lá, como visitas e entregas", "Qualquer pessoa à procura de um atalho", "Ninguém"],
+      "why": "«Anlieger frei» deixa entrar qualquer pessoa que tenha algo a fazer nessa rua — residentes, visitas, entregas. O trânsito de passagem continua proibido."
+    },
+    "si25": {
+      "prompt": "Quando se aplica esta proibição de paragem?",
+      "options": ["Só entre as 16 e as 18 h", "O dia todo", "Só de manhã nos dias úteis"],
+      "why": "Um painel adicional restringe o sinal principal. Com «16-18 h», a proibição de paragem vale só nessas duas horas."
+    },
+    "si26": {
+      "prompt": "O que significa esta linha contínua?",
+      "options": ["Não pode ser transposta", "Também não se pode circular sobre ela", "Pode-se ultrapassar se a via estiver livre"],
+      "why": "A linha contínua de separação de faixas (295) não pode ser transposta nem pisada. Também não se pode parar à esquerda dela."
+    },
+    "si27": {
+      "prompt": "O que se aplica a esta linha tracejada?",
+      "options": ["Posso transpô-la se ninguém ficar em perigo", "Nunca a posso transpor", "Marca uma faixa de estacionamento"],
+      "why": "A linha tracejada (340) separa as faixas. Pode ser transposta, por exemplo para ultrapassar, quando o trânsito o permite."
+    },
+    "si28": {
+      "prompt": "O que significa esta marca rodoviária?",
+      "options": ["Zona de raias oblíquas — não se circula sobre ela", "Estacionamento permitido", "Só autocarros"],
+      "why": "A zona de raias oblíquas (298) não pode de todo ser usada pelos veículos — nem para circular, nem para parar ou estacionar."
+    },
+    "si29": {
+      "prompt": "O que indica esta linha em ziguezague?",
+      "options": ["Uma zona onde é proibido parar ou estacionar", "Uma rua de brincar", "Uma ciclovia"],
+      "why": "A linha em ziguezague (299) marca ou prolonga uma zona de proibição de paragem ou de estacionamento, por exemplo em frente a saídas ou paragens de autocarro."
+    },
+    "si30": {
+      "prompt": "Vês este sinal antes de um estreitamento. O que fazes?",
+      "options": ["Dou prioridade ao trânsito em sentido contrário, esperando se for preciso", "Passo depressa antes de chegar o trânsito em sentido contrário", "Buzino e passo"],
+      "why": "O sinal 208 significa «prioridade ao trânsito em sentido contrário». A seta vermelha és tu: esperas. Quem vem de frente vê o sinal 308.",
+      "tip": "Seta vermelha = espero eu."
+    },
+    "si31": {
+      "prompt": "O que significa este painel sob um limite de velocidade?",
+      "options": ["O limite vale nos próximos 800 metros", "O limite começa daqui a 800 metros", "O próximo posto de combustível fica a 800 metros"],
+      "why": "«auf 800 m» indica a extensão em que vale a limitação; não se segue nenhum sinal de fim. «nach 200 m», pelo contrário, diz-te onde algo começa.",
+      "tip": "«auf» = durante quanto. «nach» = a que distância."
+    },
+    "si32": {
+      "prompt": "O que indicam estas setas vermelhas e brancas?",
+      "options": ["A direção de uma curva", "Uma saída de obras", "Uma proibição de ultrapassar"],
+      "why": "Os painéis de direção (625) mostram para onde vai a curva. Onde estão, a curva costuma ser mais apertada do que parece."
+    },
+    "sp01": {
+      "prompt": "Qual é o limite de velocidade para um ligeiro de passageiros fora das localidades sem sinais (não em autoestrada)?",
+      "why": "Fora das localidades o limite para ligeiros é 100 km/h (§ 3 n.º 3 StVO). Na autoestrada não há limite geral para ligeiros, mas a velocidade máxima recomendada é 130 km/h.",
+      "tip": "Cidade 50, estrada 100, autoestrada 130 recomendados."
+    },
+    "sp02": {
+      "prompt": "O que se aplica na autoestrada se não houver limite assinalado?",
+      "options": ["Recomenda-se um máximo de 130 km/h", "130 km/h é o limite legal", "Não há nada a ter em conta"],
+      "why": "Os 130 km/h são uma recomendação, não um limite. Mas se fores mais depressa e te envolveres num acidente, podem atribuir-te parte da responsabilidade mesmo sem outra culpa."
+    },
+    "sp03": {
+      "prompt": "Qual é a velocidade máxima de um ligeiro com reboque fora das localidades e na autoestrada (sem homologação especial)?",
+      "why": "Com reboque, os ligeiros estão limitados a 80 km/h fora das localidades e na autoestrada. Com a homologação «Tempo 100» para o conjunto são permitidos 100 km/h em autoestradas e vias reservadas a automóveis."
+    },
+    "sp04": {
+      "prompt": "O nevoeiro, a neve ou a chuva reduzem a visibilidade para menos de 50 m. A quanto podes ir no máximo?",
+      "why": "Com visibilidade inferior a 50 m por nevoeiro, neve ou chuva não podes ultrapassar os 50 km/h, e muitas vezes tens de ir mais devagar (§ 3 n.º 1 StVO). Os delineadores da berma estão a 50 m uns dos outros, o que ajuda a avaliar a distância.",
+      "tip": "Não vês o delineador seguinte? Menos de 50 km/h."
+    },
+    "sp05": {
+      "prompt": "Qual é a velocidade máxima com correntes de neve?",
+      "why": "Com correntes o limite é 50 km/h, mesmo onde normalmente seria permitido mais. Usa as correntes só sobre uma camada contínua de neve."
+    },
+    "sp06": {
+      "prompt": "A que velocidade podes ir quando não vês longe?",
+      "options": ["De forma a conseguir parar dentro da distância que vejo", "Em vias muito estreitas, de forma a conseguir parar em metade dessa distância", "À que o sinal permitir"],
+      "why": "Conduzir dentro do alcance da vista (§ 3 n.º 1 StVO): tens de conseguir parar dentro da distância que vês. Numa via tão estreita que o trânsito em sentido contrário ficaria em perigo, em metade — porque a outra pessoa também precisa de espaço para parar."
+    },
+    "sp07": {
+      "prompt": "Pela regra prática, quanto é a distância de reação a 50 km/h?",
+      "why": "50 ÷ 10 = 5, vezes 3 = 15 m. Regras práticas: distância de reação = (velocidade ÷ 10) × 3. Distância de travagem = (velocidade ÷ 10) × (velocidade ÷ 10). Numa travagem de emergência a distância de travagem reduz-se a metade. Distância de paragem = reação + travagem."
+    },
+    "sp08": {
+      "prompt": "Pela regra prática, quanto é a distância de travagem normal a 50 km/h?",
+      "why": "50 ÷ 10 = 5, vezes 5 = 25 m. Regras práticas: distância de reação = (velocidade ÷ 10) × 3. Distância de travagem = (velocidade ÷ 10) × (velocidade ÷ 10). Numa travagem de emergência a distância de travagem reduz-se a metade. Distância de paragem = reação + travagem."
+    },
+    "sp09": {
+      "prompt": "Pela regra prática, quanto é a distância de paragem a 100 km/h (travagem normal)?",
+      "why": "Reação 10 × 3 = 30 m, travagem 10 × 10 = 100 m, no total 130 m. Regras práticas: distância de reação = (velocidade ÷ 10) × 3. Distância de travagem = (velocidade ÷ 10) × (velocidade ÷ 10). Numa travagem de emergência a distância de travagem reduz-se a metade. Distância de paragem = reação + travagem."
+    },
+    "sp10": {
+      "prompt": "Pela regra prática, quanto é a distância de travagem numa travagem de emergência a partir de 100 km/h?",
+      "why": "Travagem normal 10 × 10 = 100 m; a travagem de emergência reduz para metade: 50 m. Regras práticas: distância de reação = (velocidade ÷ 10) × 3. Distância de travagem = (velocidade ÷ 10) × (velocidade ÷ 10). Numa travagem de emergência a distância de travagem reduz-se a metade. Distância de paragem = reação + travagem."
+    },
+    "sp11": {
+      "prompt": "Pela regra prática, quanto é a distância de paragem a 70 km/h (travagem normal)?",
+      "why": "Reação 7 × 3 = 21 m, travagem 7 × 7 = 49 m, no total 70 m. Regras práticas: distância de reação = (velocidade ÷ 10) × 3. Distância de travagem = (velocidade ÷ 10) × (velocidade ÷ 10). Numa travagem de emergência a distância de travagem reduz-se a metade. Distância de paragem = reação + travagem."
+    },
+    "sp12": {
+      "prompt": "Vais ao dobro da velocidade. O que acontece às distâncias de reação e de travagem?",
+      "options": ["A distância de reação duplica", "A distância de travagem quadruplica", "A distância de travagem duplica"],
+      "why": "A distância de reação cresce na proporção da velocidade; a de travagem, com o quadrado. O dobro da velocidade significa quatro vezes a distância de travagem.",
+      "tip": "Dobro da velocidade, quádruplo da travagem."
+    },
+    "sp13": {
+      "prompt": "Vais a 80 km/h fora das localidades. Que distância em metros deves manter no mínimo para o veículo da frente (regra da «metade do velocímetro»)?",
+      "why": "Fora das localidades vale a «metade do velocímetro»: metade da tua velocidade, em metros — 40 m a 80 km/h, pouco menos de dois segundos. Menos de três décimas disso conta como ir colado de forma perigosa e é multado.",
+      "tip": "Conta dois segundos: «vinte e um, vinte e dois»."
+    },
+    "sp14": {
+      "prompt": "O que aumenta a distância de paragem?",
+      "options": ["O cansaço, porque a reação chega mais tarde", "Um piso molhado ou escorregadio", "Pneus novos com piso profundo"],
+      "why": "A distância de paragem é reação mais travagem. O cansaço, as distrações e o álcool aumentam a primeira; a água, as folhas, a neve, os pneus gastos e a carga pesada, a segunda."
+    },
+    "sp15": {
+      "prompt": "Quando tens de ir mais devagar do que o limite permite?",
+      "options": ["Com nevoeiro, chuva ou piso escorregadio", "Quando há crianças junto à via", "Quando alguém vai colado atrás de mim"],
+      "why": "O limite é um teto. A velocidade tem de se adaptar à via, ao trânsito, à visibilidade e ao tempo (§ 3 n.º 1 StVO), com cuidado especial perto de crianças, pessoas idosas e de quem precise de ajuda."
+    },
+    "sp16": {
+      "prompt": "Podes ir muito devagar sem motivo?",
+      "options": ["Não, não tão devagar que atrapalhe o trânsito", "Sim, devagar é sempre seguro", "Sim, mas só na autoestrada"],
+      "why": "Sem motivo justificado, os veículos a motor não podem ir tão devagar que atrapalhem o trânsito (§ 3 n.º 2 StVO). Ir devagar sem necessidade leva outras pessoas a ultrapassagens arriscadas."
+    },
+    "sp17": {
+      "prompt": "Pela regra prática, quanto é a distância de travagem numa travagem de emergência a partir de 80 km/h?",
+      "why": "Travagem normal 8 × 8 = 64 m; metade são 32 m. Regras práticas: distância de reação = (velocidade ÷ 10) × 3. Distância de travagem = (velocidade ÷ 10) × (velocidade ÷ 10). Numa travagem de emergência a distância de travagem reduz-se a metade. Distância de paragem = reação + travagem."
+    },
+    "sp18": {
+      "prompt": "Pela regra prática, quanto é a distância de reação a 100 km/h?",
+      "why": "100 ÷ 10 = 10, vezes 3 = 30 m — nesse segundo antes sequer de tocares no travão. Regras práticas: distância de reação = (velocidade ÷ 10) × 3. Distância de travagem = (velocidade ÷ 10) × (velocidade ÷ 10). Numa travagem de emergência a distância de travagem reduz-se a metade. Distância de paragem = reação + travagem."
+    },
+    "sp19": {
+      "prompt": "Pela regra prática, quanto é a distância de travagem normal a 30 km/h?",
+      "why": "30 ÷ 10 = 3, vezes 3 = 9 m. A partir de 50 km/h já são 25 m — por isso em frente às escolas há 30. Regras práticas: distância de reação = (velocidade ÷ 10) × 3. Distância de travagem = (velocidade ÷ 10) × (velocidade ÷ 10). Numa travagem de emergência a distância de travagem reduz-se a metade. Distância de paragem = reação + travagem."
+    },
+    "sp20": {
+      "prompt": "Vais a 50 km/h na cidade. Qual é a distância mínima sensata para o veículo da frente?",
+      "options": ["Mais ou menos o que percorro num segundo (cerca de 15 m)", "O comprimento de um carro", "Tão perto que ninguém se meta à frente"],
+      "why": "A distância tem de te permitir parar mesmo que o veículo da frente trave de repente (§ 4 n.º 1 StVO). Na cidade o mínimo é a distância de um segundo; fora, a «metade do velocímetro»."
+    },
+    "ov01": {
+      "prompt": "Quando é proibido ultrapassar?",
+      "options": ["Quando a situação do trânsito não é clara", "Quando a minha velocidade não é muito maior do que a do veículo que quero ultrapassar", "Quando o trânsito em sentido contrário está longe"],
+      "why": "Só podes ultrapassar se vires que não vais atrapalhar o trânsito em sentido contrário e se a tua velocidade for claramente maior do que a do veículo ultrapassado. Com uma situação pouco clara, ultrapassar é proibido (§ 5 n.os 2 e 3 StVO).",
+      "tip": "Na dúvida, não ultrapasses."
+    },
+    "ov02": {
+      "prompt": "Qual é a distância lateral mínima ao ultrapassar um ciclista fora das localidades?",
+      "why": "Ao ultrapassar peões, ciclistas e pessoas em trotinete elétrica a distância mínima é de 1,5 m dentro das localidades e 2 m fora (§ 5 n.º 4 StVO). Se não couber, não ultrapassas.",
+      "tip": "Cidade 1,5 — estrada 2."
+    },
+    "ov03": {
+      "prompt": "Alguém te está a ultrapassar. O que não podes fazer?",
+      "options": ["Acelerar", "Encostar mais à direita", "Manter a velocidade constante"],
+      "why": "Enquanto alguém te ultrapassa, não podes acelerar (§ 5 n.º 6 StVO). Se for preciso, reduz a velocidade e mantém-te à direita."
+    },
+    "ov04": {
+      "prompt": "O veículo da frente liga o pisca esquerdo e desviou-se para o meio. Como passas por ele?",
+      "options": ["Pela direita", "Pela esquerda", "De forma nenhuma — tenho sempre de esperar atrás"],
+      "why": "Um veículo que sinalizou e se posicionou para virar à esquerda é ultrapassado pela direita (§ 5 n.º 7 StVO), se houver espaço suficiente."
+    },
+    "ov05": {
+      "prompt": "Onde é proibido ultrapassar?",
+      "options": ["Ao aproximar-se de uma passadeira e sobre ela", "Desde os sinais de perigo antes de uma passagem de nível até ter passado a linha", "Em qualquer ponte"],
+      "why": "Nas passadeiras não se ultrapassa (§ 26 n.º 3 StVO). Desde o sinal 151 ou 156 até ter passado a passagem de nível, os veículos a motor não podem ultrapassar outros veículos a motor (§ 19 n.º 1 StVO). Para as pontes não há regra geral."
+    },
+    "ov06": {
+      "prompt": "O que tens de fazer ao ultrapassar?",
+      "options": ["Antes de sair, pisca esquerdo e olhar por cima do ombro", "Ao regressar, pisca direito", "Ao regressar, não cortar a frente ao veículo ultrapassado"],
+      "why": "Sair e regressar são mudanças de faixa: pisca com antecedência, espelho e olhar por cima do ombro (§ 5 n.º 4a StVO). Regressa só quando não atrapalhares o veículo ultrapassado."
+    },
+    "ov07": {
+      "prompt": "Na autoestrada a faixa da esquerda avança devagar em fila. Podes ir mais depressa pela direita?",
+      "options": ["Sim, no máximo 20 km/h mais depressa e com muito cuidado, se a esquerda for a 60 km/h ou menos", "Sim, tão depressa quanto quiser", "Não, nunca"],
+      "why": "Se os veículos da esquerda estiverem parados ou forem devagar, podes passá-los pela direita só um pouco mais depressa e com muito cuidado (§ 7 n.º 2a StVO). Os tribunais fixam isto em não mais de 20 km/h de diferença, com a faixa da esquerda a 60 km/h ou menos."
+    },
+    "ov08": {
+      "prompt": "Do teu lado da faixa há um obstáculo e vem trânsito em sentido contrário. Quem tem de esperar?",
+      "options": ["Eu", "O trânsito em sentido contrário", "Quem chegar primeiro"],
+      "why": "Quem tem o obstáculo do seu lado tem de deixar passar os veículos em sentido contrário (§ 6 StVO). Liga o pisca ao sair para o contornar.",
+      "tip": "Quem tem o lado bloqueado espera."
+    },
+    "ov09": {
+      "prompt": "Como ultrapassas um elétrico numa rua de dois sentidos?",
+      "options": ["Pela direita", "Pela esquerda", "Por qualquer lado"],
+      "why": "Os veículos sobre carris ultrapassam-se pela direita. Pela esquerda só em ruas de sentido único ou onde os carris estão demasiado à direita (§ 5 n.º 7 StVO)."
+    },
+    "ov10": {
+      "prompt": "Para que te deves preparar ao ultrapassar um camião na estrada?",
+      "options": ["A distância de ultrapassagem é muito longa", "Ao sair de trás dele o vento lateral pode atingir-me", "O camião tapa-me a vista do trânsito em sentido contrário"],
+      "why": "Um camião é comprido e muitas vezes pouco mais lento do que tu, por isso a ultrapassagem pode levar várias centenas de metros. Atrás dele vês pouco do trânsito em sentido contrário, e ao sair do abrigo dele o vento lateral pode desviar-te."
+    },
+    "ov11": {
+      "prompt": "Quando podes passar outros pela direita na cidade?",
+      "options": ["Em vias com várias faixas marcadas num sentido", "Sempre que houver espaço à direita", "Nunca"],
+      "why": "Dentro das localidades, os veículos a motor até 3,5 t podem escolher qualquer faixa em vias com várias faixas marcadas num sentido, e então também podem ir mais depressa pela direita (§ 7 n.º 3 StVO)."
+    },
+    "ov12": {
+      "prompt": "Vais atrás de um ciclista, vem trânsito em sentido contrário e não há espaço para 1,5 m de distância. O que fazes?",
+      "options": ["Fico atrás do ciclista até poder ultrapassar com espaço suficiente", "Ultrapasso à justa — o ciclista pode desviar-se", "Buzino para o ciclista dar espaço"],
+      "why": "A distância mínima é lei, não um conselho. Se não houver espaço, não ultrapassas. A buzina serve só para avisar de um perigo."
+    }
+  }
+}

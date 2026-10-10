@@ -1,0 +1,317 @@
+{
+  "questions": {
+    "ha01": {
+      "prompt": "Com chuva forte a direção fica de repente leve — aquaplaning. O que fazes?",
+      "options": ["Carrego na embraiagem ou tiro o pé do acelerador", "Mantenho o volante direito", "Travo a fundo e contra-viro"],
+      "why": "Com aquaplaning os pneus andam sobre uma película de água e não transmitem força nenhuma. Larga o acelerador (ou carrega na embraiagem), não traves e mantém o volante direito até os pneus voltarem a agarrar, senão o carro roda.",
+      "tip": "Pé fora do acelerador, mãos quietas."
+    },
+    "ha02": {
+      "prompt": "Onde deves esperar gelo sobretudo no inverno?",
+      "options": ["Nas pontes", "Em troços de floresta e de sombra", "Em parques de estacionamento subterrâneos aquecidos"],
+      "why": "As pontes arrefecem por cima e por baixo e gelam primeiro. Na floresta e à sombra o gelo dura mais, mesmo que a estrada antes estivesse seca."
+    },
+    "ha03": {
+      "prompt": "Começa a chover depois de um longo período seco. O que é verdade?",
+      "options": ["O piso pode agora estar especialmente escorregadio", "A chuva limpa o piso e melhora a aderência", "Só afeta a calçada"],
+      "why": "A primeira chuva transforma o pó, a borracha e o óleo numa película escorregadia. Só uma chuva mais longa a lava."
+    },
+    "ha04": {
+      "prompt": "Quando podes ligar a luz de nevoeiro traseira?",
+      "options": ["Quando o nevoeiro reduz a visibilidade para menos de 50 m", "Sempre que chove", "À noite na estrada"],
+      "why": "A luz de nevoeiro traseira só é permitida quando o nevoeiro reduz a visibilidade para menos de 50 m — e então o limite é 50 km/h (§ 17 n.º 3 StVO). Com melhor visibilidade encandeia quem vem atrás.",
+      "tip": "Nevoeiro traseiro ligado = 50 no máximo."
+    },
+    "ha05": {
+      "prompt": "À noite os faróis de quem vem em sentido contrário encandeiam-te. O que fazes?",
+      "options": ["Olho para a berma direita da faixa", "Reduzo a velocidade e paro se for preciso", "Respondo com os máximos"],
+      "why": "Olha para a berma direita e reduz a velocidade. Depois de um encandeamento os olhos quase não veem durante alguns segundos, e nesse tempo percorres muito caminho."
+    },
+    "ha06": {
+      "prompt": "À noite um corço está na faixa à luz dos teus faróis. O que fazes?",
+      "options": ["Passo para os médios, buzino e travo", "Se o choque for inevitável: seguro bem o volante e não faço manobras perigosas", "Deixo os máximos para ele fugir"],
+      "why": "Os máximos paralisam os animais selvagens; os médios e a buzina afugentam-nos. Desviar contra uma árvore ou para o trânsito em sentido contrário é mais perigoso do que bater no animal.",
+      "tip": "Médios, buzina, travão — sem guinadas."
+    },
+    "ha07": {
+      "prompt": "Atropelaste um corço. O que fazes?",
+      "options": ["Sinalizo e protejo o local do acidente", "Aviso a polícia ou a pessoa responsável pela zona de caça", "Levo o animal"],
+      "why": "Emergência, colete, triângulo — depois liga à polícia, que avisa quem gere a zona de caça. Não toques nem leves o animal: seria caça furtiva. O teu seguro vai querer um certificado de acidente com animal selvagem."
+    },
+    "ha08": {
+      "prompt": "Quando travas para uma curva?",
+      "options": ["Antes da curva, ainda na reta", "A meio da curva", "À saída da curva"],
+      "why": "Na curva os pneus precisam da aderência para manter a trajetória. Travar aí pode fazer o carro seguir a direito. Trava primeiro e depois faz a curva de forma regular.",
+      "tip": "Devagar à entrada, firme à saída."
+    },
+    "ha09": {
+      "prompt": "Numa viagem longa começas a sentir cansaço. O que ajuda mesmo?",
+      "options": ["Fazer uma pausa e, se possível, dormir um pouco", "Abrir a janela e pôr música alta", "Ir mais depressa para chegar mais cedo"],
+      "why": "Só o sono cura o cansaço. O ar fresco e a música dão no máximo uns minutos. Um microssono de três segundos a 100 km/h são mais de 80 metros às cegas."
+    },
+    "ha10": {
+      "prompt": "Numa ponte ou numa clareira entre árvores apanhas vento lateral. O que fazes?",
+      "options": ["Reduzo a velocidade e seguro bem o volante", "Conto com uma rajada ao ultrapassar camiões", "Contra-viro com força assim que sinto alguma coisa"],
+      "why": "O vento lateral chega em rajadas. Mais devagar e com uma pega calma e firme corriges com movimentos pequenos; as guinadas fazem o carro serpentear. O sinal 117 avisa de locais típicos."
+    },
+    "ha11": {
+      "prompt": "Aproxima-se uma mota e queres virar à esquerda. O que complica?",
+      "options": ["A velocidade dela é difícil de avaliar", "É fácil não a ver porque é estreita", "As motas têm de dar prioridade a quem vira à esquerda"],
+      "why": "As motas são estreitas e parecem mais distantes e lentas do que são. Muitos acidentes acontecem exatamente assim: quem vira à esquerda não vê a mota que vem de frente. Na dúvida, espera."
+    },
+    "ha12": {
+      "prompt": "Enquanto conduzes o telemóvel toca. O que podes fazer?",
+      "options": ["Falar em mãos-livres sem pegar no telemóvel", "Pegar nele um momento enquanto espero no vermelho", "Ler uma mensagem numa reta"],
+      "why": "Enquanto conduzes não podes pegar nem segurar o telemóvel, nem no vermelho nem quando o start-stop desligou o motor. Só é permitido o comando por voz ou um olhar rápido para um telemóvel fixo num suporte (§ 23 n.º 1a StVO).",
+      "tip": "No vermelho continuas a conduzir. Só com o motor totalmente desligado é uma pausa."
+    },
+    "ha13": {
+      "prompt": "À noite vais na estrada com os máximos. Quando tens de passar para os médios?",
+      "options": ["Quando vem alguém em sentido contrário", "Quando vou perto atrás de outro veículo", "Só com camiões em sentido contrário"],
+      "why": "Passa para os médios quando vem alguém em sentido contrário, quando vais perto atrás de outro veículo e sempre que encandearias outras pessoas (§ 17 n.º 2 StVO) — peões e ciclistas incluídos."
+    },
+    "ha14": {
+      "prompt": "Quando precisas de pneus de inverno?",
+      "options": ["Com gelo, neve compactada, neve derretida, placas de gelo ou geada", "De 1 de outubro a 31 de março, faça o tempo que fizer", "Só na autoestrada"],
+      "why": "Na Alemanha a regra depende do tempo: em condições de inverno só se pode circular com pneus de inverno ou para todas as estações com o símbolo alpino (montanha com floco de neve). Os pneus só M+S já não valem desde outubro de 2024.",
+      "tip": "Regra prática: de outubro à Páscoa."
+    },
+    "ha15": {
+      "prompt": "À tua frente parou uma carrinha de gelados junto à via. O que esperas?",
+      "options": ["Crianças que atravessam a correr de repente", "Que a carrinha arranque em breve", "Nada de especial"],
+      "why": "Onde algo atrai crianças — carrinhas de gelados, parques, escolas — elas correm sem olhar. Vai devagar e prepara-te para travar."
+    },
+    "ha16": {
+      "prompt": "Vais atrás de um camião na estrada. Porque guardas mais distância?",
+      "options": ["Para ver a estrada para lá do camião", "Porque quem conduz o camião talvez não me veja", "Porque os camiões nunca travam"],
+      "why": "Mesmo atrás de um camião não vês nada da estrada à frente e estás no ângulo morto dos espelhos dele. Mais distância dá-te visão, e tempo se ele travar de repente."
+    },
+    "fi01": {
+      "prompt": "Quanto álcool no sangue podes ter ao conduzir no período probatório ou antes dos 21 anos?",
+      "why": "No período probatório e antes de fazer 21 anos vale a proibição absoluta de álcool (§ 24c StVG): 0,0 por mil, nem sequer uma cerveja pequena. Desrespeitá-la é uma infração grave do período probatório, com curso e prolongamento do período.",
+      "tip": "Condução recente: zero vírgula zero."
+    },
+    "fi02": {
+      "prompt": "A partir de que taxa de álcool no sangue cometes uma infração, mesmo sem sinais de alteração?",
+      "options": ["0,5 ‰", "0,8 ‰", "1,1 ‰"],
+      "why": "A partir de 0,5 ‰ é uma contraordenação (coima, pontos, proibição de conduzir). A partir de 0,3 ‰ já é crime se houver erros de condução ou sinais de alteração. A partir de 1,1 ‰ considera-se incapacidade absoluta de conduzir — sempre crime.",
+      "tip": "0,3 com erros — 0,5 sempre — 1,1 crime."
+    },
+    "fi03": {
+      "prompt": "Mais ou menos a que ritmo o corpo elimina o álcool?",
+      "options": ["Cerca de 0,1 por mil por hora", "Mais depressa com um café forte", "Mais depressa com um duche frio e ar fresco"],
+      "why": "O fígado elimina cerca de 0,1 ‰ por hora, não mais depressa. O café, o duche ou o exercício não mudam nada. Depois de uma noite longa pode-se continuar acima do limite na manhã seguinte."
+    },
+    "fi04": {
+      "prompt": "O que se aplica desde 2024 sobre canábis e condução?",
+      "options": ["A partir de 3,5 ng/ml de THC no soro sanguíneo é infração", "No período probatório e antes dos 21 anos é proibido qualquer THC", "Canábis com álcool não há problema se ambos estiverem abaixo do limite"],
+      "why": "Desde agosto de 2024 o limite de THC é 3,5 ng/ml no soro sanguíneo (§ 24a StVG). Quem está no período probatório ou tem menos de 21 anos não pode de todo conduzir sob efeito de canábis. Quem combina canábis e álcool tem de estar a 0,0 ‰."
+    },
+    "fi05": {
+      "prompt": "Tomas um medicamento. O que fazes antes de conduzir?",
+      "options": ["Leio o folheto e, na dúvida, pergunto no consultório médico ou na farmácia", "Nada — os medicamentos sem receita estão sempre bem", "Bebo um pouco de álcool para suavizar o efeito"],
+      "why": "Muitos medicamentos, incluindo os de venda livre para a constipação e a alergia, dão sono ou tornam as reações mais lentas. Com álcool o efeito costuma ser muito mais forte."
+    },
+    "fi06": {
+      "prompt": "A tua carta tem o código 01 (correção da visão). O que significa?",
+      "options": ["Ao conduzir tenho de usar óculos ou lentes de contacto", "Só posso conduzir de dia", "Tenho sempre de levar óculos de reserva"],
+      "why": "A condição de correção da visão vale em cada viagem. Conduzir sem óculos nem lentes desrespeita a condição — coima e problemas com o seguro após um acidente."
+    },
+    "fi07": {
+      "prompt": "Como percebes que o cansaço já não te permite conduzir?",
+      "options": ["Bocejos frequentes e pálpebras pesadas", "Não me lembro dos últimos quilómetros", "Sinto uma energia especial"],
+      "why": "Bocejos, olhos a arder, arrepios, falhas de memória, sair da faixa — são sinais de alarme. O mais tardar aí, para e descansa."
+    },
+    "fi08": {
+      "prompt": "Depois de uma discussão a raiva domina-te. Como afeta a tua condução?",
+      "options": ["Tendência para conduzir de forma mais arriscada e agressiva", "Noto pior os perigos", "Em nada"],
+      "why": "As emoções fortes — raiva, tristeza, até alegria — distraem e levam a arriscar. Primeiro acalma-te e depois põe-te a caminho."
+    },
+    "ve01": {
+      "prompt": "Qual é a profundidade mínima legal do piso dos pneus?",
+      "why": "O mínimo legal é 1,6 mm (§ 36 StVZO). Os especialistas recomendam 3 mm para pneus de verão e 4 mm para os de inverno; abaixo disso, a distância de travagem em piso molhado e na neve aumenta muito."
+    },
+    "ve02": {
+      "prompt": "Quando se verifica bem a pressão dos pneus?",
+      "options": ["Com os pneus frios", "Segundo os valores do fabricante, aumentados com carga completa", "Logo depois de uma viagem longa na autoestrada"],
+      "why": "Os pneus quentes mostram uma pressão alta demais. Os valores estão no manual, muitas vezes também na tampa do depósito ou na porta do condutor. Uma pressão baixa aumenta a travagem, sobe o consumo e pode destruir o pneu."
+    },
+    "ve03": {
+      "prompt": "Enquanto conduzes acende-se a luz vermelha da pressão do óleo. O que fazes?",
+      "options": ["Paro assim que for seguro e desligo o motor", "Sigo até casa e vejo lá", "Subo as rotações para bombear mais óleo"],
+      "why": "As luzes vermelhas significam: age já. Sem pressão do óleo o motor não é lubrificado e pode avariar em minutos. Para, desliga o motor e verifica o nível do óleo.",
+      "tip": "Vermelho = para já. Laranja = oficina em breve."
+    },
+    "ve04": {
+      "prompt": "O teu carro tem ABS. Como travas numa emergência?",
+      "options": ["Carrego a fundo no travão e mantenho", "Durante a travagem a fundo posso virar o volante", "Bombeio o travão para as rodas não bloquearem"],
+      "why": "O ABS impede que as rodas bloqueiem — as vibrações no pedal são normais. Carrega com força e mantém; ainda consegues virar. Bombear o travão só fazia sentido sem ABS."
+    },
+    "ve05": {
+      "prompt": "O que faz o controlo eletrónico de estabilidade (ESP)?",
+      "options": ["Ajuda a evitar derrapagens travando rodas individualmente", "Ultrapassa os limites da física", "Reduz a travagem no gelo à normal"],
+      "why": "O ESP trava rodas individualmente e reduz a potência para manter o carro na trajetória. Não é remédio para o excesso de velocidade — a física continua a mesma."
+    },
+    "ve06": {
+      "prompt": "O teu carro tem luzes diurnas. Quando tens mesmo assim de ligar os médios?",
+      "options": ["Ao anoitecer e à noite", "Em túneis e com má visibilidade", "Nunca — as luzes diurnas chegam sempre"],
+      "why": "As luzes diurnas só acendem à frente e quase não iluminam a via; as traseiras muitas vezes ficam apagadas. Ao anoitecer, à noite, em túneis e com má visibilidade os médios são obrigatórios (§ 17 StVO)."
+    },
+    "ve07": {
+      "prompt": "Rebocas um carro com uma corda. O que está certo?",
+      "options": ["Os dois veículos ligam as luzes de emergência", "A distância entre os veículos é no máximo 5 m", "A ignição do carro rebocado fica desligada"],
+      "why": "Ao rebocar, ambos os veículos levam as luzes de emergência (§ 15a StVO), a distância é de 5 m no máximo e a corda vai sinalizada ao meio. A ignição do carro rebocado tem de estar ligada, senão o volante bloqueia; com o motor desligado, direção e travões ficam pesados."
+    },
+    "ve08": {
+      "prompt": "Queres levar bagagem no tejadilho. Em que pensas?",
+      "options": ["Não ultrapassar a carga de tejadilho permitida nos documentos", "O carro comporta-se de outra maneira: centro de gravidade mais alto, mais sensível ao vento lateral", "Objetos soltos não têm mal se for devagar"],
+      "why": "A carga tem de ir presa para não se deslocar nem cair mesmo numa travagem de emergência ou numa guinada (§ 22 StVO). A carga no tejadilho muda o comportamento e sobe o consumo."
+    },
+    "ve09": {
+      "prompt": "Que reboques podes levar com a carta B?",
+      "options": ["Reboques até 750 kg de massa máxima", "Reboques mais pesados, se o conjunto não ultrapassar 3500 kg de massa máxima", "Qualquer reboque que o meu carro esteja homologado para puxar"],
+      "why": "A carta B permite reboques até 750 kg, ou mais pesados desde que o conjunto não passe de 3500 kg. O código 96 (depois de um curso) permite até 4250 kg; acima disso é precisa a carta BE."
+    },
+    "ve10": {
+      "prompt": "Desces uma descida longa e acentuada. Como poupas os travões?",
+      "options": ["Com uma mudança baixa e travão-motor", "Em ponto morto, travando suavemente o tempo todo", "Desligando a ignição"],
+      "why": "Travar sem parar sobreaquece os travões até quase deixarem de funcionar (fading). Regra prática: a descer, a mudança que usarias a subir. Desligar a ignição é perigoso — perdes a assistência da direção e do travão."
+    },
+    "ve11": {
+      "prompt": "O que tem de levar qualquer ligeiro de passageiros?",
+      "options": ["Um estojo de primeiros socorros", "Um triângulo de sinalização", "Pelo menos um colete refletor"],
+      "why": "Estojo de primeiros socorros, triângulo e pelo menos um colete refletor são obrigatórios. Recomenda-se um colete por ocupante, à mão dentro do habitáculo."
+    },
+    "ve12": {
+      "prompt": "Queres montar uma cadeira de criança virada para trás no banco do passageiro. O que tens de fazer?",
+      "options": ["Desativar o airbag do passageiro", "Nada — o airbag dá proteção extra", "Puxar o banco todo para a frente"],
+      "why": "Um airbag a abrir bate com uma força enorme nas costas de uma cadeira virada para trás — pode matar. Com uma cadeira virada para trás, o airbag do passageiro tem de estar desativado."
+    },
+    "ve13": {
+      "prompt": "Até que altura têm as crianças com menos de 12 anos de usar cadeira de criança?",
+      "why": "As crianças com menos de 12 anos e menos de 150 cm só podem viajar num sistema de retenção para crianças adequado e homologado (§ 21 n.º 1a StVO).",
+      "tip": "12 anos ou 150 cm — o que chegar primeiro."
+    },
+    "ve14": {
+      "prompt": "De quanto em quanto tempo tem um carro de passar a inspeção técnica («TÜV»)?",
+      "options": ["De dois em dois anos; um carro novo a primeira vez aos três", "Todos os anos", "Só depois de um acidente"],
+      "why": "Os ligeiros passam a inspeção de 24 em 24 meses, os novos a primeira vez aos 36. O autocolante na matrícula traseira indica o mês e o ano da seguinte."
+    },
+    "ve15": {
+      "prompt": "Como se ajusta bem o apoio de cabeça?",
+      "options": ["Bordo superior à altura do topo da cabeça, o mais perto possível", "O mais baixo possível", "À altura da nuca"],
+      "why": "Numa colisão traseira o apoio de cabeça segura a cabeça. Se estiver baixo demais faz de alavanca e pode lesionar o pescoço."
+    },
+    "ve16": {
+      "prompt": "Em que tens de pensar ao conduzir devagar um carro elétrico?",
+      "options": ["Os peões quase não o ouvem e podem não contar com ele", "Acelera com muita força a partir de parado", "Os elétricos têm sempre prioridade nos parques de estacionamento"],
+      "why": "A baixa velocidade os carros elétricos são muito silenciosos; os peões — sobretudo pessoas cegas e crianças — notam-nos tarde. O binário imediato fá-los arrancar disparados."
+    },
+    "ec01": {
+      "prompt": "Como conduzes da forma mais económica?",
+      "options": ["Subo cedo de mudança e mantenho as rotações baixas", "Antecipo e evito travagens desnecessárias", "Em mudanças baixas a rotações altas"],
+      "why": "Subir cedo de mudança (cerca de 2000–2500 rpm a gasolina) e deixar rolar com antecipação poupa muito combustível. Cada paragem desnecessária desperdiça energia paga em combustível."
+    },
+    "ec02": {
+      "prompt": "Aproximas-te de um semáforo vermelho em roda livre com uma mudança engatada. O que acontece?",
+      "options": ["A injeção de combustível é cortada (corte em desaceleração)", "O motor gasta mais do que ao ralenti", "O motor vai abaixo"],
+      "why": "A rolar com mudança engatada e sem carregar no acelerador, os motores modernos cortam a injeção e não gastam combustível. Em ponto morto o motor continua a queimar combustível para se manter ao ralenti."
+    },
+    "ec03": {
+      "prompt": "O que é proibido para evitar ruído e gases desnecessários?",
+      "options": ["Aquecer o motor parado", "Andar às voltas sem motivo pela cidade", "Deixar o motor ligado num semáforo"],
+      "why": "O ruído desnecessário e os gases evitáveis são proibidos, incluindo aquecer o motor parado e andar às voltas sem sentido pela cidade (§ 30 n.º 1 StVO). No semáforo o motor pode estar ligado, mas em esperas longas compensa desligá-lo."
+    },
+    "ec04": {
+      "prompt": "Espera-te uma longa espera na cancela fechada de uma passagem de nível. O que fazes?",
+      "options": ["Desligo o motor", "Deixo-o ligado para não arrefecer", "Acelero para carregar a bateria"],
+      "why": "Em esperas longas em cancelas, filas ou semáforos de obras, desligar o motor poupa combustível e reduz ruído e gases."
+    },
+    "ec05": {
+      "prompt": "O que aumenta o consumo de combustível?",
+      "options": ["Um porta-bagagens de tejadilho vazio", "Pneus com pouca pressão", "O ar condicionado"],
+      "why": "Os acessórios no tejadilho aumentam a resistência do ar, a pressão baixa aumenta a resistência ao rolamento e o ar condicionado tira potência ao motor. Retira-os, verifica as pressões e usa o ar condicionado só quando for preciso."
+    },
+    "ec06": {
+      "prompt": "Porque é que o consumo sobe tanto a alta velocidade?",
+      "options": ["A resistência do ar cresce com o quadrado da velocidade", "Porque o motor é ineficiente na mudança mais alta", "Não sobe — ir depressa poupa tempo e combustível"],
+      "why": "O dobro da velocidade significa quatro vezes a resistência do ar. Ir a 120 em vez de 160 km/h na autoestrada poupa muitas vezes um terço do combustível e custa só uns doze minutos por 100 km."
+    },
+    "ec07": {
+      "prompt": "Onde entregas o óleo de motor usado?",
+      "options": ["Num ponto de recolha, por exemplo onde o óleo foi comprado", "No lixo doméstico numa garrafa fechada", "No esgoto"],
+      "why": "Um litro de óleo usado pode contaminar um milhão de litros de água potável. As lojas que vendem óleo de motor têm de receber gratuitamente a mesma quantidade de óleo usado."
+    },
+    "ec08": {
+      "prompt": "Quem pode entrar numa zona de emissões reduzidas?",
+      "options": ["Os veículos com o dístico ambiental exigido", "Qualquer veículo que vá devagar", "Só os carros elétricos"],
+      "why": "Numa zona de emissões reduzidas (sinal 270.1) só podem entrar veículos com o dístico certo — hoje quase em todo o lado, o verde. Sem ele podes levar uma coima."
+    },
+    "ec09": {
+      "prompt": "Que viagens castigam mais o motor e o ambiente?",
+      "options": ["As viagens curtas com o motor frio", "As viagens longas e regulares", "As viagens com cruise control"],
+      "why": "Um motor frio gasta muito mais e desgasta-se mais depressa, e o catalisador ainda não aqueceu. Para distâncias curtas costuma ser melhor ir a pé, de bicicleta ou de autocarro."
+    },
+    "la01": {
+      "prompt": "O que exige a regra fundamental do § 1 StVO?",
+      "options": ["Cuidado constante e consideração mútua", "Que ninguém sofra dano, perigo, nem mais incómodo do que o inevitável", "Que quem tem prioridade a possa impor"],
+      "why": "O § 1 StVO está acima de todas as outras regras: cuidado constante e consideração mútua. A prioridade é um direito que não podes impor à força quando a outra pessoa o ignora claramente.",
+      "tip": "Ter razão não é impô-la."
+    },
+    "la02": {
+      "prompt": "Chegas a um acidente com feridos. O que fazes primeiro?",
+      "options": ["Sinalizo e protejo o local do acidente", "Ligo para o 112 e presto primeiros socorros", "Sigo — alguém há de parar"],
+      "why": "Emergência, colete, triângulo: primeiro protege o local para que mais ninguém bata. Depois 112 e primeiros socorros. Não prestar ajuda quando é razoavelmente possível é crime (§ 323c StGB).",
+      "tip": "Proteger — ligar — ajudar."
+    },
+    "la03": {
+      "prompt": "Ao sair de um lugar danificaste outro carro. A pessoa dona não está. O que fazes?",
+      "options": ["Espero um tempo razoável e, se não vier ninguém, aviso a polícia", "Deixo um bilhete com o meu número no para-brisas e vou-me embora", "Vou-me embora — o dano é pequeno"],
+      "why": "Ir embora sem permitir o registo dos factos é crime (§ 142 StGB, abandono do local do acidente). Um bilhete não chega. Espera um tempo razoável e depois comunica à polícia sem demora.",
+      "tip": "Um bilhete não é uma participação."
+    },
+    "la04": {
+      "prompt": "Que documentos tens de levar ao conduzir?",
+      "options": ["A carta de condução", "O certificado de matrícula parte I (Fahrzeugschein)", "O contrato de compra do carro"],
+      "why": "Tens de levar a carta de condução e o certificado de matrícula parte I e mostrá-los se te pedirem. A parte II (título de propriedade) não se guarda no carro."
+    },
+    "la05": {
+      "prompt": "Quantos anos dura normalmente o período probatório para quem tem a carta há pouco tempo?",
+      "why": "O período probatório dura dois anos a partir da primeira carta. Depois de uma infração grave (A) ou duas menos graves (B) é preciso fazer um curso de reeducação e o período passa a quatro anos (§ 2a StVG)."
+    },
+    "la06": {
+      "prompt": "Que infração é grave (categoria A) no período probatório?",
+      "options": ["Ultrapassar o limite em mais de 20 km/h", "Passar um semáforo vermelho", "Conduzir sem colete refletor no carro"],
+      "why": "Na categoria A estão o excesso de velocidade de 21 km/h ou mais, passar o vermelho, desrespeitar a prioridade, ultrapassar de forma perigosa, e o álcool ou a canábis ao volante. Uma só basta para o curso de reeducação."
+    },
+    "la07": {
+      "prompt": "Com quantos pontos no registo de condutores é retirada a carta?",
+      "why": "O registo de condutores de Flensburg funciona por escalões: 4–5 pontos um lembrete, 6–7 uma advertência, e com 8 pontos a carta é retirada."
+    },
+    "la08": {
+      "prompt": "O que te espera por passar um semáforo que está vermelho há mais de um segundo?",
+      "options": ["Um mês de proibição de conduzir", "Dois pontos no registo de condutores", "Só uma advertência"],
+      "why": "Uma passagem no vermelho «qualificada» (vermelho há mais de um segundo) custa, segundo a tabela de coimas, 200 €, 2 pontos e um mês de proibição — mais curso e prolongamento se estiveres no período probatório."
+    },
+    "la09": {
+      "prompt": "Quem responde por o veículo estar em condições de circular à partida?",
+      "options": ["Eu, como pessoa que conduz", "Só a pessoa titular do registo", "A oficina"],
+      "why": "Quem conduz responde por o veículo, a carga e os ocupantes estarem em ordem e por o veículo estar em condições de circular (§ 23 n.º 1 StVO). A pessoa titular também responde."
+    },
+    "la10": {
+      "prompt": "Quem tem de usar o cinto no carro?",
+      "options": ["Qualquer pessoa num lugar com cinto", "Só quem conduz e quem vai ao lado à frente", "Só na autoestrada"],
+      "why": "O cinto é obrigatório em andamento, à frente e atrás (§ 21a StVO). Como pessoa que conduz, também respondes por as crianças irem bem presas."
+    },
+    "la11": {
+      "prompt": "Que requisitos tem de cumprir a pessoa adulta que acompanha na condução acompanhada a partir dos 17?",
+      "options": ["Ter pelo menos 30 anos", "Ter a carta B há pelo menos 5 anos", "Ter no máximo um ponto no registo de condutores"],
+      "why": "As pessoas acompanhantes têm de ter pelo menos 30 anos, a carta B há pelo menos 5, no máximo um ponto e constar do certificado. Para elas valem os limites de 0,5 ‰ de álcool e os de canábis."
+    },
+    "la12": {
+      "prompt": "Que seguro é obrigatório para qualquer carro matriculado?",
+      "options": ["O seguro de responsabilidade civil", "O seguro contra todos os riscos", "O seguro de acidentes para ocupantes"],
+      "why": "Só é obrigatório o seguro de responsabilidade civil: paga os danos que causas a outras pessoas. As coberturas parciais e contra todos os riscos do teu próprio carro são opcionais."
+    }
+  }
+}
