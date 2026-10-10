@@ -1,0 +1,271 @@
+import { q, t } from './_q.mjs';
+
+/**
+ * Technik und Betrieb (catalogue sections 2.6 and 2.7): tyres, brakes,
+ * lights, warning lamps, loading, towing, trailers. Class B extra material.
+ */
+export default [
+  q('ve01', {
+    pts: 3, sec: '2.7', basic: false,
+    de: 'Wie tief muss das Reifenprofil gesetzlich mindestens sein?',
+    en: 'What is the legal minimum tyre tread depth?',
+    kind: 'number', num: 1.6, unit: 'mm',
+    why: t(
+      'Gesetzlich vorgeschrieben sind 1,6 mm (§ 36 StVZO). Empfohlen werden für Sommerreifen 3 mm, für Winterreifen 4 mm – darunter wird der Bremsweg auf Nässe und Schnee deutlich länger.',
+      'The legal minimum is 1.6 mm (§ 36 StVZO). Experts recommend 3 mm for summer and 4 mm for winter tyres; below that, braking distances on wet and snow grow markedly.',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('ve02', {
+    pts: 3, sec: '2.7', basic: false,
+    de: 'Wann prüfen Sie den Reifendruck richtig?',
+    en: 'When do you check tyre pressure correctly?',
+    opts: [
+      t('Bei kalten Reifen', 'With the tyres cold'),
+      t('Nach den Angaben des Herstellers, bei voller Beladung erhöht', 'To the maker’s figures, raised for a full load'),
+      t('Direkt nach einer langen Autobahnfahrt', 'Straight after a long motorway drive'),
+    ],
+    ok: [0, 1],
+    why: t(
+      'Warme Reifen zeigen zu hohen Druck. Die Werte stehen in der Betriebsanleitung, oft auch in der Tankklappe oder an der Fahrertür. Zu wenig Druck verlängert den Bremsweg, erhöht den Verbrauch und kann den Reifen zerstören.',
+      'Warm tyres read too high. The figures are in the handbook, often also inside the fuel flap or on the driver’s door. Under-inflation lengthens braking, raises fuel use and can destroy the tyre.',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('ve03', {
+    pts: 4, sec: '2.7', basic: false,
+    de: 'Während der Fahrt leuchtet die rote Öldruck-Kontrollleuchte auf. Was tun Sie?',
+    en: 'While driving, the red oil-pressure warning light comes on. What do you do?',
+    opts: [
+      t('Sofort an sicherer Stelle anhalten und den Motor abstellen', 'Stop as soon as it is safe and switch off the engine'),
+      t('Bis nach Hause weiterfahren und dann nachsehen', 'Carry on home and look then'),
+      t('Höher drehen, damit mehr Öl gepumpt wird', 'Rev higher to pump more oil'),
+    ],
+    ok: [0],
+    why: t(
+      'Rote Warnleuchten bedeuten: sofort handeln. Ohne Öldruck wird der Motor nicht geschmiert und kann in kurzer Zeit zerstört werden. Anhalten, Motor aus, Ölstand prüfen.',
+      'Red warning lights mean act now. Without oil pressure the engine is not lubricated and can be wrecked within minutes. Stop, engine off, check the oil level.',
+    ),
+    tip: t('Rot = sofort anhalten. Gelb = bald in die Werkstatt.', 'Red = stop now. Amber = garage soon.'),
+    scene: null,
+  }),
+  q('ve04', {
+    pts: 4, sec: '2.7', basic: false,
+    de: 'Ihr Auto hat ABS. Wie bremsen Sie in einer Notsituation?',
+    en: 'Your car has ABS. How do you brake in an emergency?',
+    opts: [
+      t('Voll auf die Bremse treten und gedrückt halten', 'Stamp on the brake and keep it pressed'),
+      t('Ich kann während der Vollbremsung lenken', 'I can steer during the full stop'),
+      t('Stotternd bremsen, damit die Räder nicht blockieren', 'Pump the brake so the wheels do not lock'),
+    ],
+    ok: [0, 1],
+    why: t(
+      'ABS verhindert das Blockieren der Räder – das Pulsieren im Pedal ist normal. Treten Sie voll und bleiben Sie drauf; das Auto bleibt lenkbar. Stotterbremsen ist nur ohne ABS sinnvoll.',
+      'ABS stops the wheels locking - the pulsing in the pedal is normal. Press hard and stay on it; you can still steer. Pumping the brake only made sense without ABS.',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('ve05', {
+    pts: 3, sec: '2.7', basic: false,
+    de: 'Was leistet ein Fahrstabilitätsprogramm (ESP)?',
+    en: 'What does electronic stability control (ESP) do?',
+    opts: [
+      t('Es hilft, ein Schleudern zu verhindern, indem es einzelne Räder abbremst', 'It helps prevent skids by braking individual wheels'),
+      t('Es hebt die Grenzen der Fahrphysik auf', 'It lifts the limits of physics'),
+      t('Es verkürzt den Bremsweg auf Eis auf Normalmaß', 'It shortens braking on ice to normal'),
+    ],
+    ok: [0],
+    why: t(
+      'ESP bremst einzelne Räder und nimmt Motorleistung zurück, um das Auto auf Kurs zu halten. Gegen zu hohe Geschwindigkeit hilft es nicht – die Physik bleibt dieselbe.',
+      'ESP brakes individual wheels and cuts power to keep the car on its line. It is no cure for too much speed - physics stays the same.',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('ve06', {
+    pts: 3, sec: '2.7', basic: false,
+    de: 'Ihr Auto hat Tagfahrlicht. Wann müssen Sie trotzdem das Abblendlicht einschalten?',
+    en: 'Your car has daytime running lights. When must you switch on dipped headlights anyway?',
+    opts: [
+      t('In der Dämmerung und bei Dunkelheit', 'At dusk and in the dark'),
+      t('In Tunneln und bei schlechter Sicht', 'In tunnels and in poor visibility'),
+      t('Nie, das Tagfahrlicht reicht immer', 'Never - daytime lights are always enough'),
+    ],
+    ok: [0, 1],
+    why: t(
+      'Tagfahrlicht leuchtet nur vorne und beleuchtet die Straße kaum; die Rückleuchten bleiben oft aus. Bei Dämmerung, Dunkelheit, in Tunneln und bei schlechter Sicht ist Abblendlicht vorgeschrieben (§ 17 StVO).',
+      'Daytime running lights shine only at the front and barely light the road; the rear lights often stay off. At dusk, in the dark, in tunnels and in poor visibility, dipped beam is required (§ 17 StVO).',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('ve07', {
+    pts: 4, sec: '2.6', basic: false,
+    de: 'Sie schleppen ein Auto mit einem Abschleppseil ab. Was ist richtig?',
+    en: 'You are towing a car with a tow rope. What is correct?',
+    opts: [
+      t('Beide Fahrzeuge schalten das Warnblinklicht ein', 'Both vehicles switch on their hazard lights'),
+      t('Der Abstand zwischen den Fahrzeugen beträgt höchstens 5 m', 'The gap between the vehicles is no more than 5 m'),
+      t('Im geschleppten Auto bleibt die Zündung aus', 'The ignition stays off in the towed car'),
+    ],
+    ok: [0, 1],
+    why: t(
+      'Beim Abschleppen haben beide Fahrzeuge Warnblinklicht an (§ 15a StVO), der Abstand darf höchstens 5 m betragen, und das Seil wird in der Mitte gekennzeichnet. Im geschleppten Auto muss die Zündung an sein, sonst blockiert das Lenkradschloss. Ohne laufenden Motor sind Lenkung und Bremse schwergängig.',
+      'When towing, both vehicles show hazard lights (§ 15a StVO), the gap is at most 5 m and the rope is flagged in the middle. The towed car’s ignition must be on, or the steering lock engages; with the engine off, steering and brakes are heavy.',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('ve08', {
+    pts: 4, sec: '2.6', basic: false,
+    de: 'Sie wollen Gepäck auf dem Dach transportieren. Was beachten Sie?',
+    en: 'You want to carry luggage on the roof. What do you bear in mind?',
+    opts: [
+      t('Die zulässige Dachlast laut Fahrzeugpapieren nicht überschreiten', 'Not to exceed the permitted roof load in the vehicle papers'),
+      t('Das Auto reagiert anders: höherer Schwerpunkt, mehr Seitenwindempfindlichkeit', 'The car handles differently: higher centre of gravity, more sensitive to crosswind'),
+      t('Lose Ladung reicht, wenn ich langsam fahre', 'Loose items are fine if I drive slowly'),
+    ],
+    ok: [0, 1],
+    why: t(
+      'Ladung muss so gesichert sein, dass sie auch bei Vollbremsung oder Ausweichen nicht verrutscht oder herabfällt (§ 22 StVO). Eine Dachlast verändert das Fahrverhalten und erhöht den Verbrauch.',
+      'Loads must be secured so they cannot shift or fall even under emergency braking or a swerve (§ 22 StVO). A roof load changes the handling and raises fuel use.',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('ve09', {
+    pts: 4, sec: '2.6', basic: false,
+    de: 'Welche Anhänger dürfen Sie mit Führerscheinklasse B ziehen?',
+    en: 'Which trailers may you tow on a class B licence?',
+    opts: [
+      t('Anhänger bis 750 kg zulässiger Gesamtmasse', 'Trailers up to 750 kg gross weight'),
+      t('Schwerere Anhänger, wenn das ganze Gespann höchstens 3.500 kg zulässige Gesamtmasse hat', 'Heavier trailers, if the whole combination is at most 3,500 kg gross'),
+      t('Jeden Anhänger, den mein Auto ziehen darf', 'Any trailer my car is rated to tow'),
+    ],
+    ok: [0, 1],
+    why: t(
+      'Mit Klasse B: Anhänger bis 750 kg, oder schwerer, solange das Gespann 3.500 kg nicht überschreitet. Mit der Schlüsselzahl 96 (nach einer Fahrerschulung) bis 4.250 kg, darüber braucht es Klasse BE.',
+      'Class B allows trailers up to 750 kg, or heavier as long as the combination stays within 3,500 kg. Code 96 (after a training course) allows up to 4,250 kg; beyond that you need class BE.',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('ve10', {
+    pts: 3, sec: '2.7', basic: false,
+    de: 'Sie fahren eine lange, steile Strecke bergab. Wie schonen Sie die Bremsen?',
+    en: 'You are driving down a long, steep hill. How do you spare the brakes?',
+    opts: [
+      t('In einem niedrigen Gang fahren und die Motorbremse nutzen', 'Use a low gear and engine braking'),
+      t('Im Leerlauf rollen und dauernd leicht bremsen', 'Coast in neutral and brake lightly all the way'),
+      t('Die Zündung ausschalten', 'Switch off the ignition'),
+    ],
+    ok: [0],
+    why: t(
+      'Dauerbremsen überhitzt die Bremsen, bis sie kaum noch wirken (Fading). Faustregel: bergab den Gang nehmen, den Sie bergauf brauchen würden. Zündung aus ist gefährlich – Lenkung und Bremskraftverstärker fallen aus.',
+      'Constant braking overheats the brakes until they barely work (fade). Rule of thumb: going down, use the gear you would need going up. Switching off is dangerous - you lose power steering and brake assistance.',
+    ),
+    tip: null,
+    scene: null,
+    signs: ['108'],
+  }),
+  q('ve11', {
+    pts: 3, sec: '2.6', basic: false,
+    de: 'Was muss in jedem Pkw mitgeführt werden?',
+    en: 'What must every car carry?',
+    opts: [
+      t('Ein Verbandkasten', 'A first-aid kit'),
+      t('Ein Warndreieck', 'A warning triangle'),
+      t('Mindestens eine Warnweste', 'At least one hi-vis vest'),
+    ],
+    ok: [0, 1, 2],
+    why: t(
+      'Pflicht sind ein Verbandkasten, ein Warndreieck und mindestens eine Warnweste. Empfohlen ist eine Weste für jeden Insassen, griffbereit im Innenraum.',
+      'A first-aid kit, a warning triangle and at least one hi-vis vest are required. One vest per occupant, within reach inside the car, is recommended.',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('ve12', {
+    pts: 4, sec: '2.6', basic: false,
+    de: 'Sie wollen einen rückwärts gerichteten Kindersitz auf dem Beifahrersitz anbringen. Was ist zu tun?',
+    en: 'You want to fit a rear-facing child seat in the front passenger seat. What must you do?',
+    opts: [
+      t('Den Beifahrerairbag abschalten', 'Switch off the passenger airbag'),
+      t('Nichts, der Airbag schützt das Kind zusätzlich', 'Nothing - the airbag adds protection'),
+      t('Den Sitz ganz nach vorne schieben', 'Slide the seat fully forward'),
+    ],
+    ok: [0],
+    why: t(
+      'Ein auslösender Airbag trifft die Rückseite des Kindersitzes mit großer Wucht – das kann tödlich sein. Bei rückwärts gerichteten Kindersitzen muss der Beifahrerairbag deaktiviert sein.',
+      'A deploying airbag hits the back of a rear-facing seat with enormous force - it can kill. With a rear-facing child seat the passenger airbag must be off.',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('ve13', {
+    pts: 3, sec: '2.6', basic: false,
+    de: 'Bis zu welcher Körpergröße müssen Kinder unter 12 Jahren in einem Kindersitz gesichert werden?',
+    en: 'Children under 12 must use a child seat until they reach what height?',
+    kind: 'number', num: 150, unit: 'cm',
+    why: t(
+      'Kinder unter 12 Jahren, die kleiner als 150 cm sind, dürfen nur in einer geeigneten, für sie zugelassenen Rückhalteeinrichtung mitfahren (§ 21 Abs. 1a StVO).',
+      'Children under 12 who are shorter than 150 cm may only travel in a suitable approved child restraint (§ 21(1a) StVO).',
+    ),
+    tip: t('12 Jahre oder 150 cm – was zuerst kommt.', '12 years or 150 cm - whichever comes first.'),
+    scene: null,
+  }),
+  q('ve14', {
+    pts: 3, sec: '2.6', basic: false,
+    de: 'Wie oft muss ein Pkw zur Hauptuntersuchung („TÜV“)?',
+    en: 'How often must a car go for its main inspection (the "TÜV")?',
+    opts: [
+      t('Alle zwei Jahre, bei Neuwagen zum ersten Mal nach drei Jahren', 'Every two years; a new car first after three'),
+      t('Jedes Jahr', 'Every year'),
+      t('Nur nach einem Unfall', 'Only after an accident'),
+    ],
+    ok: [0],
+    why: t(
+      'Pkw müssen alle 24 Monate zur Hauptuntersuchung, neue Pkw das erste Mal nach 36 Monaten. Die Plakette am hinteren Kennzeichen zeigt Monat und Jahr der nächsten Prüfung.',
+      'Cars need a main inspection every 24 months, new cars the first time after 36. The sticker on the rear number plate shows the month and year of the next one.',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('ve15', {
+    pts: 3, sec: '2.7', basic: false,
+    de: 'Wie stellen Sie die Kopfstütze richtig ein?',
+    en: 'How do you set the head restraint correctly?',
+    opts: [
+      t('Die Oberkante etwa auf Höhe des Scheitels, möglichst nah am Kopf', 'Top edge at about the top of your head, as close to it as possible'),
+      t('So tief wie möglich', 'As low as possible'),
+      t('Auf Höhe des Nackens', 'Level with your neck'),
+    ],
+    ok: [0],
+    why: t(
+      'Bei einem Auffahrunfall fängt die Kopfstütze den Kopf ab. Zu tief eingestellt, wirkt sie wie ein Hebel und kann die Halswirbelsäule verletzen.',
+      'In a rear-end crash the head restraint catches your head. Set too low it acts as a lever and can injure your neck.',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('ve16', {
+    pts: 3, sec: '2.7', basic: false,
+    de: 'Was müssen Sie bei einem Elektroauto beim langsamen Fahren beachten?',
+    en: 'What do you need to bear in mind when driving an electric car slowly?',
+    opts: [
+      t('Fußgänger hören es kaum und rechnen nicht mit mir', 'Pedestrians can barely hear it and may not expect me'),
+      t('Es beschleunigt sehr stark aus dem Stand', 'It accelerates very hard from standstill'),
+      t('Elektroautos haben auf Parkplätzen immer Vorrang', 'Electric cars always have priority in car parks'),
+    ],
+    ok: [0, 1],
+    why: t(
+      'Bei niedriger Geschwindigkeit sind Elektroautos sehr leise – Fußgänger, besonders blinde Menschen und Kinder, bemerken sie spät. Das hohe Drehmoment lässt sie aus dem Stand sehr schnell beschleunigen.',
+      'At low speed electric cars are very quiet; pedestrians - blind people and children especially - notice them late. Their instant torque makes them leap away from standstill.',
+    ),
+    tip: null,
+    scene: null,
+  }),
+];

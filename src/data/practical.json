@@ -1,0 +1,471 @@
+[
+ {
+  "key": "overview",
+  "icon": "map",
+  "diagram": null,
+  "title": {
+   "de": "So läuft die Prüfung ab",
+   "en": "How the test works"
+  },
+  "body": [
+   {
+    "de": "Die Prüfung dauert insgesamt 55 Minuten, davon mindestens 30 Minuten reine Fahrzeit. Sie fahren das Fahrschulauto, Ihr Fahrlehrer sitzt neben Ihnen, der Prüfer (TÜV oder DEKRA) sitzt hinten.",
+    "en": "The test lasts 55 minutes in total, at least 30 of them actual driving. You drive the driving school car with your instructor beside you; the examiner (from TÜV or DEKRA) sits in the back."
+   },
+   {
+    "de": "Zuerst prüft der Prüfer Ihren Ausweis. Dann folgen die Fahrtvorbereitung und Abfahrtkontrolle, die Fahrt durch Stadt, über Land und meist auf Autobahn oder Kraftfahrstraße, und die Grundfahraufgaben.",
+    "en": "First the examiner checks your ID. Then come the preparation and vehicle checks, the drive through town, on country roads and usually on a motorway or expressway, and the set manoeuvres."
+   },
+   {
+    "de": "Am Ende bekommen Sie sofort das Ergebnis und eine Rückmeldung zu jedem der fünf Kompetenzbereiche. Haben Sie bestanden, erhalten Sie Ihren Führerschein oder eine vorläufige Bescheinigung direkt nach der Prüfung.",
+    "en": "At the end you get the result straight away, with feedback on each of the five competence areas. If you pass, you receive your licence - or a provisional certificate - right after the test."
+   },
+   {
+    "de": "Die praktische Prüfung muss innerhalb von 12 Monaten nach der bestandenen Theorieprüfung abgelegt werden. Nicht bestanden? Eine Wiederholung ist in der Regel frühestens nach zwei Wochen möglich.",
+    "en": "The practical test must be taken within 12 months of passing the theory test. Failed? You can usually retake it after two weeks at the earliest."
+   }
+  ],
+  "checklist": [
+   {
+    "de": "Personalausweis oder Reisepass dabei",
+    "en": "ID card or passport with me"
+   },
+   {
+    "de": "Brille oder Kontaktlinsen, falls im Führerschein vorgeschrieben",
+    "en": "Glasses or contacts, if my licence requires them"
+   },
+   {
+    "de": "Bequeme, flache Schuhe",
+    "en": "Comfortable, flat shoes"
+   },
+   {
+    "de": "Ausgeschlafen und 0,0 Promille",
+    "en": "Well rested and 0.0 alcohol"
+   },
+   {
+    "de": "15 Minuten vor dem Termin bei der Fahrschule",
+    "en": "At the driving school 15 minutes early"
+   }
+  ],
+  "pitfalls": [
+   {
+    "de": "Ohne gültiges Ausweisdokument findet die Prüfung nicht statt – und die Gebühr ist meist trotzdem weg.",
+    "en": "Without valid ID the test does not go ahead - and the fee is usually lost anyway."
+   }
+  ],
+  "phrases": []
+ },
+ {
+  "key": "checks",
+  "icon": "build",
+  "diagram": null,
+  "title": {
+   "de": "Fahrtvorbereitung und Abfahrtkontrolle",
+   "en": "Preparation and vehicle checks"
+  },
+  "body": [
+   {
+    "de": "Vor der Fahrt stellen Sie Sitz, Lenkrad, Spiegel und Kopfstütze ein und legen den Gurt an. Der Prüfer bittet Sie meist, einige Punkte am Fahrzeug zu zeigen oder zu erklären.",
+    "en": "Before driving off you adjust the seat, steering wheel, mirrors and head restraint and fasten your belt. The examiner will usually ask you to show or explain a few things on the car."
+   },
+   {
+    "de": "Typisch sind: Beleuchtung einschalten und prüfen, Reifen (Profil, Beschädigungen, wo steht der Luftdruck), Flüssigkeitsstände (Motoröl, Kühlmittel, Scheibenwaschwasser, Bremsflüssigkeit), Hupe, Warnleuchten im Display.",
+    "en": "Typical items: switch on and check the lights; the tyres (tread, damage, where the pressures are listed); fluid levels (engine oil, coolant, screen wash, brake fluid); the horn; the warning lamps on the dashboard."
+   }
+  ],
+  "checklist": [
+   {
+    "de": "Sitz so, dass das Kupplungs- bzw. Bremspedal ganz durchgetreten werden kann",
+    "en": "Seat set so the clutch or brake pedal goes fully down"
+   },
+   {
+    "de": "Innen- und Außenspiegel eingestellt",
+    "en": "Interior and door mirrors adjusted"
+   },
+   {
+    "de": "Kopfstütze: Oberkante etwa auf Scheitelhöhe",
+    "en": "Head restraint: top edge at about the top of my head"
+   },
+   {
+    "de": "Abblendlicht, Fernlicht, Blinker, Warnblinker, Nebelschlussleuchte zeigen können",
+    "en": "Can show dipped and main beam, indicators, hazards, rear fog light"
+   },
+   {
+    "de": "Ölmessstab finden und Ölstand ablesen können",
+    "en": "Can find the dipstick and read the oil level"
+   },
+   {
+    "de": "Wissen, wo der vorgeschriebene Reifendruck steht",
+    "en": "Know where the correct tyre pressures are listed"
+   }
+  ],
+  "pitfalls": [
+   {
+    "de": "Losfahren, ohne die Spiegel einzustellen oder sich anzuschnallen.",
+    "en": "Setting off without adjusting the mirrors or fastening the belt."
+   }
+  ],
+  "phrases": []
+ },
+ {
+  "key": "parallel",
+  "icon": "car",
+  "diagram": "parallel",
+  "title": {
+   "de": "Rückwärts einparken (längs)",
+   "en": "Reverse parallel parking"
+  },
+  "body": [
+   {
+    "de": "Sie parken rückwärts in eine Lücke am rechten Fahrbahnrand zwischen zwei Fahrzeugen. Die Lücke sollte mindestens etwa anderthalb Autolängen lang sein.",
+    "en": "You reverse into a space at the right-hand kerb between two vehicles. The space should be at least about one and a half car lengths."
+   },
+   {
+    "de": "Halten Sie etwa 50 cm seitlich neben dem vorderen Auto, Heck auf Höhe von dessen Heck. Langsam zurück, bis Ihre Hinterachse auf Höhe von dessen Heck ist, dann voll rechts einschlagen. Wenn das Auto etwa 45° steht, geradeaus zurück, dann voll links einschlagen, bis Sie parallel stehen.",
+    "en": "Stop about 50 cm beside the car in front, your rear level with its rear. Reverse slowly until your rear axle is level with its back bumper, then steer full right. At about 45°, straighten up and reverse, then steer full left until you are parallel."
+   }
+  ],
+  "checklist": [
+   {
+    "de": "Rechts blinken, bevor ich anhalte",
+    "en": "Signal right before stopping"
+   },
+   {
+    "de": "Rundumblick, bevor ich zurücksetze",
+    "en": "All-round check before reversing"
+   },
+   {
+    "de": "Ständig nach hinten und zur Seite schauen, nicht nur in den Spiegel",
+    "en": "Keep looking behind and to the side, not only in the mirror"
+   },
+   {
+    "de": "Am Ende höchstens etwa 30 cm vom Bordstein, Räder gerade",
+    "en": "Finish no more than about 30 cm from the kerb, wheels straight"
+   }
+  ],
+  "pitfalls": [
+   {
+    "de": "Mit dem Hinterrad auf den Bordstein fahren.",
+    "en": "Mounting the kerb with the rear wheel."
+   },
+   {
+    "de": "Den Verkehr nicht beobachten, während die Front ausschwenkt.",
+    "en": "Not watching traffic while the front swings out."
+   },
+   {
+    "de": "Zu viele Korrekturzüge.",
+    "en": "Too many corrections."
+   }
+  ],
+  "phrases": []
+ },
+ {
+  "key": "bay",
+  "icon": "grid",
+  "diagram": "bay",
+  "title": {
+   "de": "Einparken quer oder schräg",
+   "en": "Bay parking (straight or angled)"
+  },
+  "body": [
+   {
+    "de": "Sie parken vorwärts oder rückwärts in eine Parkbucht quer oder schräg zur Fahrbahn, z. B. auf einem Parkplatz. Das Auto soll mittig und gerade stehen, ohne die Linien zu überfahren.",
+    "en": "You park forwards or backwards in a bay at right angles or diagonally to the road, for instance in a car park. The car should end up centred and straight, without crossing the lines."
+   },
+   {
+    "de": "Rückwärts ist meist leichter, weil die Vorderräder lenken: Fahren Sie an der Lücke vorbei, schlagen Sie ein, wenn Ihr Heck etwa an der zweiten Linie vorbei ist, und richten Sie das Auto an den Linien aus.",
+    "en": "Reversing in is usually easier, because the front wheels do the steering: drive past the space, steer in once your rear is about past the far line, and line the car up with the markings."
+   }
+  ],
+  "checklist": [
+   {
+    "de": "Blinken, bevor ich in die Lücke fahre",
+    "en": "Signal before turning into the space"
+   },
+   {
+    "de": "Auf Fußgänger auf dem Parkplatz achten",
+    "en": "Watch for pedestrians in the car park"
+   },
+   {
+    "de": "Mittig zwischen den Linien, Räder gerade",
+    "en": "Centred between the lines, wheels straight"
+   }
+  ],
+  "pitfalls": [
+   {
+    "de": "Ein Nachbarfahrzeug fast berühren, ohne zu stoppen.",
+    "en": "Almost touching a neighbouring car without stopping."
+   }
+  ],
+  "phrases": []
+ },
+ {
+  "key": "corner",
+  "icon": "return-down-back",
+  "diagram": "corner",
+  "title": {
+   "de": "Rückwärts um eine Ecke",
+   "en": "Reversing round a corner"
+  },
+  "body": [
+   {
+    "de": "Sie fahren rückwärts nach rechts in eine Einmündung, Kreuzung oder Einfahrt und folgen dabei dem Bordstein in gleichmäßigem Abstand.",
+    "en": "You reverse to the right into a side road, junction or entrance, following the kerb at an even distance."
+   },
+   {
+    "de": "Fahren Sie an der Einmündung vorbei und halten Sie nahe am Bordstein. Langsam zurück; wenn der Bordstein im rechten Spiegel abknickt, rechts einlenken. Nach der Ecke geradeaus zurück, bis der Prüfer stoppt.",
+    "en": "Drive past the opening and stop close to the kerb. Reverse slowly; when you see the kerb curve away in the right mirror, start steering right. After the corner, straighten and reverse until the examiner stops you."
+   }
+  ],
+  "checklist": [
+   {
+    "de": "Vor und während des Zurücksetzens rundum beobachten",
+    "en": "Look all round before and while reversing"
+   },
+   {
+    "de": "Fußgänger an der Ecke durchlassen",
+    "en": "Let pedestrians at the corner go first"
+   },
+   {
+    "de": "Gleichmäßiger Abstand zum Bordstein",
+    "en": "Even distance from the kerb"
+   }
+  ],
+  "pitfalls": [
+   {
+    "de": "Die Front schwenkt in den Gegenverkehr aus, ohne dass ich es bemerke.",
+    "en": "The front swings out into oncoming traffic without my noticing."
+   }
+  ],
+  "phrases": []
+ },
+ {
+  "key": "turnround",
+  "icon": "repeat",
+  "diagram": "turnround",
+  "title": {
+   "de": "Umkehren",
+   "en": "Turning round"
+  },
+  "body": [
+   {
+    "de": "Sie wenden das Auto auf einer Straße in die Gegenrichtung, durch Vorwärts- und Rückwärtsfahren. Der Bordstein darf dabei nicht berührt werden.",
+    "en": "You turn the car to face the other way on a road, using forward and reverse. You must not touch the kerbs."
+   }
+  ],
+  "checklist": [
+   {
+    "de": "Nur, wo es erlaubt und übersichtlich ist",
+    "en": "Only where it is allowed and you can see well"
+   },
+   {
+    "de": "Vor jedem Zug in beide Richtungen schauen",
+    "en": "Look both ways before each move"
+   },
+   {
+    "de": "Langsam fahren, schnell lenken",
+    "en": "Move slowly, steer quickly"
+   }
+  ],
+  "pitfalls": [
+   {
+    "de": "Den Verkehr behindern, statt ihn vorbeizulassen.",
+    "en": "Holding traffic up instead of letting it pass."
+   }
+  ],
+  "phrases": []
+ },
+ {
+  "key": "emergency",
+  "icon": "hand-left",
+  "diagram": "emergency",
+  "title": {
+   "de": "Gefahrbremsung",
+   "en": "Emergency stop"
+  },
+  "body": [
+   {
+    "de": "Aus etwa 30 km/h bremsen Sie auf Kommando des Prüfers so stark wie möglich bis zum Stillstand. Das Fahrzeug soll dabei in der Spur bleiben.",
+    "en": "From about 30 km/h you brake as hard as possible to a standstill when the examiner gives the signal. The car should stay straight."
+   },
+   {
+    "de": "Mit ABS: Bremse und Kupplung voll durchtreten und halten. Das Rattern im Pedal ist normal. Vorher prüft der Prüfer, dass niemand hinter Ihnen fährt.",
+    "en": "With ABS: press brake and clutch fully down and hold them. The juddering in the pedal is normal. The examiner checks beforehand that nobody is behind you."
+   }
+  ],
+  "checklist": [
+   {
+    "de": "Erst auf das Kommando reagieren, nicht vorher",
+    "en": "React on the command, not before"
+   },
+   {
+    "de": "Voll durchtreten, nicht zögerlich steigern",
+    "en": "Press fully, not gradually"
+   },
+   {
+    "de": "Danach Warnblinker oder Spiegelblick, bevor ich weiterfahre",
+    "en": "Afterwards, hazards or a mirror check before moving on"
+   }
+  ],
+  "pitfalls": [
+   {
+    "de": "Zu zaghaft bremsen.",
+    "en": "Braking too gently."
+   }
+  ],
+  "phrases": []
+ },
+ {
+  "key": "competences",
+  "icon": "eye",
+  "diagram": null,
+  "title": {
+   "de": "Die fünf Kompetenzbereiche",
+   "en": "The five competence areas"
+  },
+  "body": [
+   {
+    "de": "Der Prüfer bewertet nicht einzelne „Fehler“ für sich, sondern wie Sie in fünf Bereichen fahren – über die ganze Prüfung hinweg und in Situationen wie Kreuzungen, Kreisverkehren, Fahrstreifenwechseln, Autobahnauffahrten, Kurven und Fußgängerüberwegen.",
+    "en": "The examiner does not just tally individual \"mistakes\" but judges how you drive in five areas - across the whole test and in situations such as junctions, roundabouts, lane changes, motorway slip roads, bends and zebra crossings."
+   }
+  ],
+  "checklist": [
+   {
+    "de": "Verkehrsbeobachtung: Spiegel, Schulterblick, vorausschauen",
+    "en": "Observation: mirrors, shoulder checks, looking ahead"
+   },
+   {
+    "de": "Fahrzeugpositionierung: richtige Spur, Abstand nach vorne und zur Seite",
+    "en": "Positioning: the right lane, distance ahead and to the side"
+   },
+   {
+    "de": "Geschwindigkeitsanpassung: Tempo passend zu Limit, Sicht und Situation",
+    "en": "Speed: matched to the limit, the view and the situation"
+   },
+   {
+    "de": "Kommunikation: rechtzeitig blinken, Blickkontakt, klare Absichten",
+    "en": "Communication: signal in time, eye contact, clear intentions"
+   },
+   {
+    "de": "Fahrzeugbedienung und umweltbewusstes Fahren: Schalten, Lenken, sanftes Bremsen",
+    "en": "Vehicle control and eco driving: gear changes, steering, smooth braking"
+   }
+  ],
+  "pitfalls": [],
+  "phrases": []
+ },
+ {
+  "key": "fail",
+  "icon": "close-circle",
+  "diagram": null,
+  "title": {
+   "de": "Woran Prüflinge am häufigsten scheitern",
+   "en": "What people most often fail for"
+  },
+  "body": [
+   {
+    "de": "Kleine Unsicherheiten führen nicht zum Nichtbestehen. Eine Prüfung ist nicht bestanden bei einem erheblichen Fehler – etwa wenn jemand gefährdet wird – oder wenn sich viele kleinere Fehler wiederholen.",
+    "en": "Small slips do not fail you. You fail for a serious mistake - for example when someone is put in danger - or when smaller mistakes keep repeating."
+   }
+  ],
+  "checklist": [],
+  "pitfalls": [
+   {
+    "de": "Vorfahrt missachtet, besonders „rechts vor links“ in Tempo-30-Zonen",
+    "en": "Ignoring right of way, especially \"right before left\" in 30 zones"
+   },
+   {
+    "de": "Kein Schulterblick beim Abbiegen, Anfahren oder Spurwechsel",
+    "en": "No shoulder check when turning, pulling away or changing lanes"
+   },
+   {
+    "de": "Am Stoppschild nicht vollständig angehalten",
+    "en": "Not coming to a full stop at a STOP sign"
+   },
+   {
+    "de": "Fußgänger am Zebrastreifen nicht durchgelassen",
+    "en": "Not letting pedestrians cross at a zebra"
+   },
+   {
+    "de": "Deutlich zu schnell, z. B. in einer 30-Zone",
+    "en": "Clearly speeding, for example in a 30 zone"
+   },
+   {
+    "de": "Rote Ampel überfahren",
+    "en": "Running a red light"
+   },
+   {
+    "de": "Der Fahrlehrer muss eingreifen (Doppelbremse oder Lenkrad)",
+    "en": "The instructor has to intervene (dual brake or steering)"
+   }
+  ],
+  "phrases": []
+ },
+ {
+  "key": "phrases",
+  "icon": "chatbubbles",
+  "diagram": null,
+  "title": {
+   "de": "Was der Prüfer sagt",
+   "en": "What the examiner says"
+  },
+  "body": [
+   {
+    "de": "Die praktische Prüfung findet auf Deutsch statt. Der Prüfer gibt die Richtung rechtzeitig an. Haben Sie etwas nicht verstanden, fragen Sie nach – das ist kein Fehler.",
+    "en": "The practical test is in German. The examiner gives directions in good time. If you do not understand, ask - that is not a mistake."
+   }
+  ],
+  "checklist": [],
+  "pitfalls": [],
+  "phrases": [
+   {
+    "de": "An der nächsten Kreuzung bitte rechts abbiegen.",
+    "en": "At the next junction, please turn right."
+   },
+   {
+    "de": "Bitte biegen Sie links ab.",
+    "en": "Please turn left."
+   },
+   {
+    "de": "Fahren Sie bitte geradeaus weiter.",
+    "en": "Please carry straight on."
+   },
+   {
+    "de": "Folgen Sie bitte dem Straßenverlauf.",
+    "en": "Please follow the road."
+   },
+   {
+    "de": "Folgen Sie der Beschilderung Richtung Autobahn.",
+    "en": "Follow the signs for the motorway."
+   },
+   {
+    "de": "Im Kreisverkehr bitte die zweite Ausfahrt nehmen.",
+    "en": "At the roundabout, please take the second exit."
+   },
+   {
+    "de": "Halten Sie bitte hier rechts am Fahrbahnrand an.",
+    "en": "Please pull over here on the right."
+   },
+   {
+    "de": "Parken Sie bitte hinter dem blauen Auto rückwärts ein.",
+    "en": "Please reverse park behind the blue car."
+   },
+   {
+    "de": "Bitte wenden Sie hier.",
+    "en": "Please turn round here."
+   },
+   {
+    "de": "Wenn ich „Stopp“ sage, machen Sie bitte eine Gefahrbremsung.",
+    "en": "When I say \"Stopp\", please do an emergency stop."
+   },
+   {
+    "de": "Fahren Sie bitte wieder an, wenn es die Verkehrslage erlaubt.",
+    "en": "Please move off again when traffic allows."
+   },
+   {
+    "de": "Die Prüfung ist beendet. Sie haben bestanden.",
+    "en": "The test is over. You have passed."
+   }
+  ]
+ }
+]

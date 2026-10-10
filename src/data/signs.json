@@ -1,0 +1,1322 @@
+[
+ {
+  "id": "101",
+  "category": "danger",
+  "name": {
+   "de": "Gefahrstelle",
+   "en": "Danger point"
+  },
+  "meaning": {
+   "de": "Warnt vor einer Gefahr, die kein eigenes Zeichen hat. Ein Zusatzzeichen sagt oft, welche.",
+   "en": "Warns of a hazard that has no sign of its own. A plate underneath often says what it is."
+  }
+ },
+ {
+  "id": "102",
+  "category": "danger",
+  "name": {
+   "de": "Kreuzung oder Einmündung mit Vorfahrt von rechts",
+   "en": "Junction with priority from the right"
+  },
+  "meaning": {
+   "de": "An der nächsten Kreuzung gilt „rechts vor links“.",
+   "en": "At the next junction, \"right before left\" applies."
+  }
+ },
+ {
+  "id": "103-10",
+  "category": "danger",
+  "name": {
+   "de": "Kurve (links)",
+   "en": "Bend (left)"
+  },
+  "meaning": {
+   "de": "Eine Kurve nach links. Vorher bremsen.",
+   "en": "A bend to the left. Brake before it."
+  }
+ },
+ {
+  "id": "103-20",
+  "category": "danger",
+  "name": {
+   "de": "Kurve (rechts)",
+   "en": "Bend (right)"
+  },
+  "meaning": {
+   "de": "Eine Kurve nach rechts. Vorher bremsen.",
+   "en": "A bend to the right. Brake before it."
+  }
+ },
+ {
+  "id": "105-20",
+  "category": "danger",
+  "name": {
+   "de": "Doppelkurve (zunächst rechts)",
+   "en": "Double bend (right first)"
+  },
+  "meaning": {
+   "de": "Zwei Kurven hintereinander, die erste nach rechts.",
+   "en": "Two bends in a row, the first to the right."
+  }
+ },
+ {
+  "id": "108",
+  "category": "danger",
+  "name": {
+   "de": "Gefälle",
+   "en": "Steep descent"
+  },
+  "meaning": {
+   "de": "Steiles Gefälle. Kleinen Gang wählen und die Motorbremse nutzen.",
+   "en": "Steep downhill. Choose a low gear and use engine braking."
+  }
+ },
+ {
+  "id": "110",
+  "category": "danger",
+  "name": {
+   "de": "Steigung",
+   "en": "Steep climb"
+  },
+  "meaning": {
+   "de": "Steile Steigung. Rechtzeitig herunterschalten.",
+   "en": "Steep uphill. Change down in good time."
+  }
+ },
+ {
+  "id": "112",
+  "category": "danger",
+  "name": {
+   "de": "Unebene Fahrbahn",
+   "en": "Uneven road"
+  },
+  "meaning": {
+   "de": "Die Fahrbahn ist uneben. Langsamer fahren.",
+   "en": "The surface is uneven. Slow down."
+  }
+ },
+ {
+  "id": "114",
+  "category": "danger",
+  "name": {
+   "de": "Schleuder- oder Rutschgefahr",
+   "en": "Slippery road"
+  },
+  "meaning": {
+   "de": "Gefahr, ins Schleudern zu kommen – besonders bei Nässe oder Schmutz.",
+   "en": "Risk of skidding - especially when wet or dirty."
+  }
+ },
+ {
+  "id": "117",
+  "category": "danger",
+  "name": {
+   "de": "Seitenwind",
+   "en": "Crosswind"
+  },
+  "meaning": {
+   "de": "Mit starken Windböen von der Seite rechnen.",
+   "en": "Expect strong gusts from the side."
+  }
+ },
+ {
+  "id": "120",
+  "category": "danger",
+  "name": {
+   "de": "Verengte Fahrbahn",
+   "en": "Road narrows"
+  },
+  "meaning": {
+   "de": "Die Fahrbahn wird auf beiden Seiten enger.",
+   "en": "The road narrows on both sides."
+  }
+ },
+ {
+  "id": "123",
+  "category": "danger",
+  "name": {
+   "de": "Arbeitsstelle",
+   "en": "Roadworks"
+  },
+  "meaning": {
+   "de": "Baustelle voraus. Mit Arbeitern und Fahrzeugen auf der Fahrbahn rechnen.",
+   "en": "Roadworks ahead. Expect workers and vehicles on the road."
+  }
+ },
+ {
+  "id": "124",
+  "category": "danger",
+  "name": {
+   "de": "Stau",
+   "en": "Queues likely"
+  },
+  "meaning": {
+   "de": "Mit Stau rechnen. Bremsbereit sein, am Stauende Warnblinklicht.",
+   "en": "Expect queues. Be ready to brake; hazard lights at the tail."
+  }
+ },
+ {
+  "id": "125",
+  "category": "danger",
+  "name": {
+   "de": "Gegenverkehr",
+   "en": "Two-way traffic"
+  },
+  "meaning": {
+   "de": "Ab hier Gegenverkehr, z. B. nach einer Einbahnstraße oder auf einer Baustellenfahrbahn.",
+   "en": "Two-way traffic from here, for example after a one-way section or at roadworks."
+  }
+ },
+ {
+  "id": "131",
+  "category": "danger",
+  "name": {
+   "de": "Lichtzeichenanlage",
+   "en": "Traffic lights ahead"
+  },
+  "meaning": {
+   "de": "Eine Ampel folgt, oft hinter einer Kurve.",
+   "en": "Traffic lights ahead, often round a bend."
+  }
+ },
+ {
+  "id": "133",
+  "category": "danger",
+  "name": {
+   "de": "Fußgänger",
+   "en": "Pedestrians"
+  },
+  "meaning": {
+   "de": "Mit Fußgängern auf der Fahrbahn rechnen.",
+   "en": "Expect pedestrians on the road."
+  }
+ },
+ {
+  "id": "136",
+  "category": "danger",
+  "name": {
+   "de": "Kinder",
+   "en": "Children"
+  },
+  "meaning": {
+   "de": "Mit Kindern rechnen, z. B. an Schulen und Spielplätzen. Langsam und bremsbereit.",
+   "en": "Expect children, for example near schools and playgrounds. Slow and ready to brake."
+  }
+ },
+ {
+  "id": "138",
+  "category": "danger",
+  "name": {
+   "de": "Radverkehr",
+   "en": "Cyclists"
+  },
+  "meaning": {
+   "de": "Radfahrer kreuzen oder fahren auf der Fahrbahn.",
+   "en": "Cyclists cross or ride on the road."
+  }
+ },
+ {
+  "id": "142",
+  "category": "danger",
+  "name": {
+   "de": "Wildwechsel",
+   "en": "Wild animals"
+  },
+  "meaning": {
+   "de": "Wild kann die Straße kreuzen, besonders in der Dämmerung.",
+   "en": "Wild animals may cross, especially at dawn and dusk."
+  }
+ },
+ {
+  "id": "151",
+  "category": "danger",
+  "name": {
+   "de": "Bahnübergang",
+   "en": "Level crossing"
+  },
+  "meaning": {
+   "de": "Ein Bahnübergang folgt. Ab hier keine Kraftfahrzeuge mehr überholen.",
+   "en": "A level crossing ahead. From here, do not overtake motor vehicles."
+  }
+ },
+ {
+  "id": "153",
+  "category": "danger",
+  "name": {
+   "de": "Dreistreifige Bake (rechts)",
+   "en": "Countdown marker, three stripes"
+  },
+  "meaning": {
+   "de": "Etwa 240 m bis zum Bahnübergang.",
+   "en": "About 240 m to the level crossing."
+  }
+ },
+ {
+  "id": "156",
+  "category": "danger",
+  "name": {
+   "de": "Zweistreifige Bake (rechts)",
+   "en": "Countdown marker, two stripes"
+  },
+  "meaning": {
+   "de": "Etwa 160 m bis zum Bahnübergang.",
+   "en": "About 160 m to the level crossing."
+  }
+ },
+ {
+  "id": "159",
+  "category": "danger",
+  "name": {
+   "de": "Einstreifige Bake (rechts)",
+   "en": "Countdown marker, one stripe"
+  },
+  "meaning": {
+   "de": "Etwa 80 m bis zum Bahnübergang.",
+   "en": "About 80 m to the level crossing."
+  }
+ },
+ {
+  "id": "201",
+  "category": "priority",
+  "name": {
+   "de": "Andreaskreuz",
+   "en": "St Andrew’s cross"
+  },
+  "meaning": {
+   "de": "Schienenfahrzeuge haben Vorrang. Vor dem Kreuz warten, wenn sich ein Zug nähert.",
+   "en": "Rail vehicles have priority. Wait before the cross when a train approaches."
+  }
+ },
+ {
+  "id": "205",
+  "category": "priority",
+  "name": {
+   "de": "Vorfahrt gewähren",
+   "en": "Give way"
+  },
+  "meaning": {
+   "de": "Dem Verkehr auf der kreuzenden Straße Vorfahrt gewähren.",
+   "en": "Give way to traffic on the road you are joining or crossing."
+  }
+ },
+ {
+  "id": "206",
+  "category": "priority",
+  "name": {
+   "de": "Halt. Vorfahrt gewähren.",
+   "en": "Stop. Give way."
+  },
+  "meaning": {
+   "de": "Vollständig anhalten – an der Haltlinie oder wo die Straße einzusehen ist – und Vorfahrt gewähren.",
+   "en": "Come to a complete stop - at the line, or where you can see - and give way."
+  }
+ },
+ {
+  "id": "208",
+  "category": "priority",
+  "name": {
+   "de": "Vorrang des Gegenverkehrs",
+   "en": "Give way to oncoming traffic"
+  },
+  "meaning": {
+   "de": "An der Engstelle hat der Gegenverkehr Vorrang. Wenn nötig, warten.",
+   "en": "Oncoming traffic has priority at the narrow section. Wait if necessary."
+  }
+ },
+ {
+  "id": "301",
+  "category": "priority",
+  "name": {
+   "de": "Vorfahrt",
+   "en": "Priority at the next junction"
+  },
+  "meaning": {
+   "de": "Vorfahrt nur an der nächsten Kreuzung oder Einmündung.",
+   "en": "Priority at the next junction only."
+  }
+ },
+ {
+  "id": "306",
+  "category": "priority",
+  "name": {
+   "de": "Vorfahrtstraße",
+   "en": "Priority road"
+  },
+  "meaning": {
+   "de": "Vorfahrt an allen folgenden Kreuzungen, bis Zeichen 307 oder 205 kommt.",
+   "en": "Priority at every junction until sign 307 or 205."
+  }
+ },
+ {
+  "id": "307",
+  "category": "priority",
+  "name": {
+   "de": "Ende der Vorfahrtstraße",
+   "en": "End of priority road"
+  },
+  "meaning": {
+   "de": "Die Vorfahrtstraße endet. Danach wieder auf Schilder oder „rechts vor links“ achten.",
+   "en": "The priority road ends. Signs or \"right before left\" decide again."
+  }
+ },
+ {
+  "id": "308",
+  "category": "priority",
+  "name": {
+   "de": "Vorrang vor dem Gegenverkehr",
+   "en": "Priority over oncoming traffic"
+  },
+  "meaning": {
+   "de": "An der Engstelle haben Sie Vorrang – achten Sie trotzdem auf den Gegenverkehr.",
+   "en": "You have priority at the narrow section - still watch the oncoming traffic."
+  }
+ },
+ {
+  "id": "209",
+  "category": "mandatory",
+  "name": {
+   "de": "Vorgeschriebene Fahrtrichtung rechts",
+   "en": "Turn right"
+  },
+  "meaning": {
+   "de": "Hier nur nach rechts fahren.",
+   "en": "You must turn right here."
+  }
+ },
+ {
+  "id": "209-10",
+  "category": "mandatory",
+  "name": {
+   "de": "Vorgeschriebene Fahrtrichtung links",
+   "en": "Turn left"
+  },
+  "meaning": {
+   "de": "Hier nur nach links fahren.",
+   "en": "You must turn left here."
+  }
+ },
+ {
+  "id": "209-30",
+  "category": "mandatory",
+  "name": {
+   "de": "Vorgeschriebene Fahrtrichtung geradeaus",
+   "en": "Straight on only"
+  },
+  "meaning": {
+   "de": "Hier nur geradeaus fahren.",
+   "en": "You must go straight on."
+  }
+ },
+ {
+  "id": "211",
+  "category": "mandatory",
+  "name": {
+   "de": "Hier rechts",
+   "en": "Turn right here"
+  },
+  "meaning": {
+   "de": "An dieser Stelle rechts abbiegen.",
+   "en": "Turn right at this point."
+  }
+ },
+ {
+  "id": "214",
+  "category": "mandatory",
+  "name": {
+   "de": "Geradeaus oder rechts",
+   "en": "Straight on or right"
+  },
+  "meaning": {
+   "de": "Nur geradeaus oder nach rechts.",
+   "en": "Only straight on or right."
+  }
+ },
+ {
+  "id": "215",
+  "category": "mandatory",
+  "name": {
+   "de": "Kreisverkehr",
+   "en": "Roundabout"
+  },
+  "meaning": {
+   "de": "Im Kreisverkehr nur rechts herum fahren. Mit Zeichen 205 hat der Kreis Vorfahrt.",
+   "en": "Drive anticlockwise only. With sign 205, traffic on the roundabout has priority."
+  }
+ },
+ {
+  "id": "220-20",
+  "category": "mandatory",
+  "name": {
+   "de": "Einbahnstraße",
+   "en": "One-way street"
+  },
+  "meaning": {
+   "de": "Nur in Pfeilrichtung fahren. Halten und Parken auch links erlaubt.",
+   "en": "Drive only in the direction of the arrow. Stopping and parking also allowed on the left."
+  }
+ },
+ {
+  "id": "222",
+  "category": "mandatory",
+  "name": {
+   "de": "Rechts vorbei",
+   "en": "Keep right"
+  },
+  "meaning": {
+   "de": "Rechts am Hindernis oder der Insel vorbeifahren.",
+   "en": "Pass the obstacle or island on the right."
+  }
+ },
+ {
+  "id": "237",
+  "category": "mandatory",
+  "name": {
+   "de": "Radweg",
+   "en": "Cycle path"
+  },
+  "meaning": {
+   "de": "Nur für Radfahrer (und E-Scooter). Radfahrer müssen ihn benutzen.",
+   "en": "For cyclists (and e-scooters) only. Cyclists must use it."
+  }
+ },
+ {
+  "id": "239",
+  "category": "mandatory",
+  "name": {
+   "de": "Gehweg",
+   "en": "Footpath"
+  },
+  "meaning": {
+   "de": "Nur für Fußgänger.",
+   "en": "For pedestrians only."
+  }
+ },
+ {
+  "id": "240",
+  "category": "mandatory",
+  "name": {
+   "de": "Gemeinsamer Geh- und Radweg",
+   "en": "Shared foot and cycle path"
+  },
+  "meaning": {
+   "de": "Fußgänger und Radfahrer teilen sich den Weg. Kein Kfz-Verkehr.",
+   "en": "Pedestrians and cyclists share the path. No motor vehicles."
+  }
+ },
+ {
+  "id": "241",
+  "category": "mandatory",
+  "name": {
+   "de": "Getrennter Rad- und Gehweg",
+   "en": "Split cycle and footpath"
+  },
+  "meaning": {
+   "de": "Radfahrer und Fußgänger haben jeweils ihre Seite.",
+   "en": "Cyclists and pedestrians each keep to their side."
+  }
+ },
+ {
+  "id": "242.1",
+  "category": "mandatory",
+  "name": {
+   "de": "Beginn eines Fußgängerbereichs",
+   "en": "Pedestrian zone"
+  },
+  "meaning": {
+   "de": "Fußgängerzone. Fahrzeuge nur, wenn ein Zusatzzeichen es erlaubt, dann mit Schrittgeschwindigkeit.",
+   "en": "Pedestrian zone. Vehicles only if a plate allows, then at walking pace."
+  }
+ },
+ {
+  "id": "244.1",
+  "category": "mandatory",
+  "name": {
+   "de": "Beginn einer Fahrradstraße",
+   "en": "Cycle street"
+  },
+  "meaning": {
+   "de": "Fahrradstraße: andere Fahrzeuge nur mit Zusatzzeichen, höchstens 30 km/h, Radfahrer dürfen nebeneinander fahren.",
+   "en": "Cycle street: other vehicles only with a plate, 30 km/h max, cyclists may ride side by side."
+  }
+ },
+ {
+  "id": "245",
+  "category": "mandatory",
+  "name": {
+   "de": "Bussonderfahrstreifen",
+   "en": "Bus lane"
+  },
+  "meaning": {
+   "de": "Nur für Linienbusse und, wenn ein Zusatzzeichen es erlaubt, z. B. Taxis oder Radfahrer.",
+   "en": "For buses only, and others such as taxis or cyclists if a plate allows."
+  }
+ },
+ {
+  "id": "275",
+  "category": "mandatory",
+  "name": {
+   "de": "Vorgeschriebene Mindestgeschwindigkeit",
+   "en": "Minimum speed"
+  },
+  "meaning": {
+   "de": "Nicht langsamer fahren als angegeben, wenn Verkehr, Sicht und Wetter es zulassen.",
+   "en": "Do not drive slower than shown, unless traffic, visibility or weather require it."
+  }
+ },
+ {
+  "id": "250",
+  "category": "prohibition",
+  "name": {
+   "de": "Verbot für Fahrzeuge aller Art",
+   "en": "No vehicles"
+  },
+  "meaning": {
+   "de": "Kein Fahrzeug darf fahren. Fahrräder und Krafträder schieben ist erlaubt.",
+   "en": "No vehicles at all. Pushing bicycles and motorbikes is allowed."
+  }
+ },
+ {
+  "id": "251",
+  "category": "prohibition",
+  "name": {
+   "de": "Verbot für Kraftwagen",
+   "en": "No cars"
+  },
+  "meaning": {
+   "de": "Verbot für Kraftwagen und sonstige mehrspurige Kraftfahrzeuge.",
+   "en": "No cars or other multi-track motor vehicles."
+  }
+ },
+ {
+  "id": "253",
+  "category": "prohibition",
+  "name": {
+   "de": "Verbot für Kfz über 3,5 t",
+   "en": "No goods vehicles over 3.5 t"
+  },
+  "meaning": {
+   "de": "Verbot für Lkw und Zugmaschinen über 3,5 t zulässige Gesamtmasse, auch mit Anhänger.",
+   "en": "No lorries or tractors over 3.5 t gross weight, trailers included."
+  }
+ },
+ {
+  "id": "254",
+  "category": "prohibition",
+  "name": {
+   "de": "Verbot für Radverkehr",
+   "en": "No cycling"
+  },
+  "meaning": {
+   "de": "Radfahren verboten.",
+   "en": "No cycling."
+  }
+ },
+ {
+  "id": "255",
+  "category": "prohibition",
+  "name": {
+   "de": "Verbot für Krafträder",
+   "en": "No motorbikes"
+  },
+  "meaning": {
+   "de": "Verbot für Krafträder.",
+   "en": "No motorbikes."
+  }
+ },
+ {
+  "id": "259",
+  "category": "prohibition",
+  "name": {
+   "de": "Verbot für Fußgänger",
+   "en": "No pedestrians"
+  },
+  "meaning": {
+   "de": "Fußgänger dürfen hier nicht gehen.",
+   "en": "No pedestrians."
+  }
+ },
+ {
+  "id": "260",
+  "category": "prohibition",
+  "name": {
+   "de": "Verbot für Kraftfahrzeuge",
+   "en": "No motor vehicles"
+  },
+  "meaning": {
+   "de": "Verbot für Krafträder und alle anderen Kraftfahrzeuge.",
+   "en": "No motorbikes or other motor vehicles."
+  }
+ },
+ {
+  "id": "262",
+  "category": "prohibition",
+  "name": {
+   "de": "Tatsächliche Masse",
+   "en": "Weight limit"
+  },
+  "meaning": {
+   "de": "Verbot für Fahrzeuge, die schwerer sind als angegeben.",
+   "en": "No vehicles weighing more than shown."
+  }
+ },
+ {
+  "id": "264",
+  "category": "prohibition",
+  "name": {
+   "de": "Tatsächliche Breite",
+   "en": "Width limit"
+  },
+  "meaning": {
+   "de": "Verbot für Fahrzeuge, die breiter sind als angegeben (einschließlich Ladung).",
+   "en": "No vehicles wider than shown, load included."
+  }
+ },
+ {
+  "id": "265",
+  "category": "prohibition",
+  "name": {
+   "de": "Tatsächliche Höhe",
+   "en": "Height limit"
+  },
+  "meaning": {
+   "de": "Verbot für Fahrzeuge, die höher sind als angegeben (einschließlich Ladung).",
+   "en": "No vehicles taller than shown, load included."
+  }
+ },
+ {
+  "id": "267",
+  "category": "prohibition",
+  "name": {
+   "de": "Verbot der Einfahrt",
+   "en": "No entry"
+  },
+  "meaning": {
+   "de": "Hier darf nicht eingefahren werden.",
+   "en": "Do not enter."
+  }
+ },
+ {
+  "id": "270.1",
+  "category": "prohibition",
+  "name": {
+   "de": "Beginn einer Verkehrsverbotszone (Umweltzone)",
+   "en": "Low-emission zone"
+  },
+  "meaning": {
+   "de": "Nur Fahrzeuge mit der vorgeschriebenen Plakette dürfen einfahren.",
+   "en": "Only vehicles with the required sticker may enter."
+  }
+ },
+ {
+  "id": "272",
+  "category": "prohibition",
+  "name": {
+   "de": "Verbot des Wendens",
+   "en": "No U-turns"
+  },
+  "meaning": {
+   "de": "Hier darf nicht gewendet werden.",
+   "en": "No turning round here."
+  }
+ },
+ {
+  "id": "274-10",
+  "category": "prohibition",
+  "name": {
+   "de": "Zulässige Höchstgeschwindigkeit 10",
+   "en": "Speed limit 10"
+  },
+  "meaning": {
+   "de": "Nicht schneller als 10 km/h.",
+   "en": "No faster than 10 km/h."
+  }
+ },
+ {
+  "id": "274-20",
+  "category": "prohibition",
+  "name": {
+   "de": "Zulässige Höchstgeschwindigkeit 20",
+   "en": "Speed limit 20"
+  },
+  "meaning": {
+   "de": "Nicht schneller als 20 km/h.",
+   "en": "No faster than 20 km/h."
+  }
+ },
+ {
+  "id": "274-30",
+  "category": "prohibition",
+  "name": {
+   "de": "Zulässige Höchstgeschwindigkeit 30",
+   "en": "Speed limit 30"
+  },
+  "meaning": {
+   "de": "Nicht schneller als 30 km/h.",
+   "en": "No faster than 30 km/h."
+  }
+ },
+ {
+  "id": "274-50",
+  "category": "prohibition",
+  "name": {
+   "de": "Zulässige Höchstgeschwindigkeit 50",
+   "en": "Speed limit 50"
+  },
+  "meaning": {
+   "de": "Nicht schneller als 50 km/h, bis ein Zeichen die Beschränkung aufhebt.",
+   "en": "No faster than 50 km/h until a sign lifts the limit."
+  }
+ },
+ {
+  "id": "274-60",
+  "category": "prohibition",
+  "name": {
+   "de": "Zulässige Höchstgeschwindigkeit 60",
+   "en": "Speed limit 60"
+  },
+  "meaning": {
+   "de": "Nicht schneller als 60 km/h.",
+   "en": "No faster than 60 km/h."
+  }
+ },
+ {
+  "id": "274-70",
+  "category": "prohibition",
+  "name": {
+   "de": "Zulässige Höchstgeschwindigkeit 70",
+   "en": "Speed limit 70"
+  },
+  "meaning": {
+   "de": "Nicht schneller als 70 km/h.",
+   "en": "No faster than 70 km/h."
+  }
+ },
+ {
+  "id": "274-80",
+  "category": "prohibition",
+  "name": {
+   "de": "Zulässige Höchstgeschwindigkeit 80",
+   "en": "Speed limit 80"
+  },
+  "meaning": {
+   "de": "Nicht schneller als 80 km/h.",
+   "en": "No faster than 80 km/h."
+  }
+ },
+ {
+  "id": "274-100",
+  "category": "prohibition",
+  "name": {
+   "de": "Zulässige Höchstgeschwindigkeit 100",
+   "en": "Speed limit 100"
+  },
+  "meaning": {
+   "de": "Nicht schneller als 100 km/h.",
+   "en": "No faster than 100 km/h."
+  }
+ },
+ {
+  "id": "274-120",
+  "category": "prohibition",
+  "name": {
+   "de": "Zulässige Höchstgeschwindigkeit 120",
+   "en": "Speed limit 120"
+  },
+  "meaning": {
+   "de": "Nicht schneller als 120 km/h.",
+   "en": "No faster than 120 km/h."
+  }
+ },
+ {
+  "id": "274-130",
+  "category": "prohibition",
+  "name": {
+   "de": "Zulässige Höchstgeschwindigkeit 130",
+   "en": "Speed limit 130"
+  },
+  "meaning": {
+   "de": "Nicht schneller als 130 km/h.",
+   "en": "No faster than 130 km/h."
+  }
+ },
+ {
+  "id": "274.1",
+  "category": "prohibition",
+  "name": {
+   "de": "Beginn einer Tempo-30-Zone",
+   "en": "30 zone"
+  },
+  "meaning": {
+   "de": "In der ganzen Zone höchstens 30 km/h, meist „rechts vor links“.",
+   "en": "30 km/h throughout the zone; usually \"right before left\"."
+  }
+ },
+ {
+  "id": "274.2",
+  "category": "prohibition",
+  "name": {
+   "de": "Ende einer Tempo-30-Zone",
+   "en": "End of 30 zone"
+  },
+  "meaning": {
+   "de": "Die Tempo-30-Zone endet.",
+   "en": "The 30 zone ends."
+  }
+ },
+ {
+  "id": "276",
+  "category": "prohibition",
+  "name": {
+   "de": "Überholverbot für Kraftfahrzeuge aller Art",
+   "en": "No overtaking"
+  },
+  "meaning": {
+   "de": "Mehrspurige Kraftfahrzeuge dürfen nicht überholt werden. Einspurige (Rad, Motorrad) schon.",
+   "en": "Do not overtake multi-track motor vehicles. Single-track ones (bikes, motorbikes) you may."
+  }
+ },
+ {
+  "id": "277",
+  "category": "prohibition",
+  "name": {
+   "de": "Überholverbot für Kfz über 3,5 t",
+   "en": "No overtaking for lorries over 3.5 t"
+  },
+  "meaning": {
+   "de": "Gilt für Kfz über 3,5 t und Zugmaschinen – nicht für Pkw und Busse, auch nicht mit Anhänger.",
+   "en": "Applies to vehicles over 3.5 t and tractors - not to cars or buses, even with a trailer."
+  }
+ },
+ {
+  "id": "278-60",
+  "category": "prohibition",
+  "name": {
+   "de": "Ende der zulässigen Höchstgeschwindigkeit",
+   "en": "End of speed limit"
+  },
+  "meaning": {
+   "de": "Die angezeigte Beschränkung endet. Es gilt wieder das allgemeine Limit.",
+   "en": "The limit shown ends. The general limit applies again."
+  }
+ },
+ {
+  "id": "280",
+  "category": "prohibition",
+  "name": {
+   "de": "Ende des Überholverbots",
+   "en": "End of no overtaking"
+  },
+  "meaning": {
+   "de": "Das Überholverbot endet.",
+   "en": "The overtaking ban ends."
+  }
+ },
+ {
+  "id": "282",
+  "category": "prohibition",
+  "name": {
+   "de": "Ende sämtlicher Streckenverbote",
+   "en": "End of all restrictions"
+  },
+  "meaning": {
+   "de": "Alle vorher angeordneten Streckenverbote (Tempo, Überholen) enden.",
+   "en": "All restrictions along the stretch (speed, overtaking) end."
+  }
+ },
+ {
+  "id": "283",
+  "category": "parking",
+  "name": {
+   "de": "Absolutes Haltverbot",
+   "en": "No stopping"
+  },
+  "meaning": {
+   "de": "Halten auf der Fahrbahn ist ganz verboten, auch kurz.",
+   "en": "No stopping on the carriageway at all, not even briefly."
+  }
+ },
+ {
+  "id": "286",
+  "category": "parking",
+  "name": {
+   "de": "Eingeschränktes Haltverbot",
+   "en": "Limited stopping"
+  },
+  "meaning": {
+   "de": "Halten höchstens 3 Minuten, außer zum Ein- und Aussteigen oder Be- und Entladen. Kein Parken.",
+   "en": "Stop for 3 minutes at most, except to let people in or out or to load. No parking."
+  }
+ },
+ {
+  "id": "290.1",
+  "category": "parking",
+  "name": {
+   "de": "Beginn eines eingeschränkten Haltverbots für eine Zone",
+   "en": "Limited-stopping zone"
+  },
+  "meaning": {
+   "de": "In der ganzen Zone gilt das eingeschränkte Haltverbot, außer auf markierten Parkflächen.",
+   "en": "Limited stopping applies throughout the zone, except in marked spaces."
+  }
+ },
+ {
+  "id": "314",
+  "category": "parking",
+  "name": {
+   "de": "Parken",
+   "en": "Parking"
+  },
+  "meaning": {
+   "de": "Hier ist Parken erlaubt; Zusatzzeichen können es beschränken.",
+   "en": "Parking is allowed here; plates may restrict it."
+  }
+ },
+ {
+  "id": "224",
+  "category": "parking",
+  "name": {
+   "de": "Haltestelle",
+   "en": "Bus or tram stop"
+  },
+  "meaning": {
+   "de": "Haltestelle. Bis zu je 15 m davor und dahinter nicht parken.",
+   "en": "Bus or tram stop. No parking for 15 m either side."
+  }
+ },
+ {
+  "id": "310",
+  "category": "info",
+  "name": {
+   "de": "Ortstafel (Vorderseite)",
+   "en": "Town sign"
+  },
+  "meaning": {
+   "de": "Beginn der geschlossenen Ortschaft: Ab hier 50 km/h, wenn nichts anderes gilt.",
+   "en": "Start of a built-up area: 50 km/h from here unless signed otherwise."
+  }
+ },
+ {
+  "id": "311",
+  "category": "info",
+  "name": {
+   "de": "Ortstafel (Rückseite)",
+   "en": "End of town"
+  },
+  "meaning": {
+   "de": "Ende der geschlossenen Ortschaft: Es gelten die Regeln für außerorts.",
+   "en": "End of the built-up area: the rules for outside towns apply."
+  }
+ },
+ {
+  "id": "325.1",
+  "category": "info",
+  "name": {
+   "de": "Beginn eines verkehrsberuhigten Bereichs",
+   "en": "Traffic-calmed area"
+  },
+  "meaning": {
+   "de": "Schrittgeschwindigkeit. Fußgänger dürfen die ganze Straße nutzen, Kinder überall spielen.",
+   "en": "Walking pace. Pedestrians may use the whole street and children may play anywhere."
+  }
+ },
+ {
+  "id": "325.2",
+  "category": "info",
+  "name": {
+   "de": "Ende eines verkehrsberuhigten Bereichs",
+   "en": "End of traffic-calmed area"
+  },
+  "meaning": {
+   "de": "Wer hinausfährt, muss allen anderen Vorfahrt lassen.",
+   "en": "When leaving, give way to everyone else."
+  }
+ },
+ {
+  "id": "330.1",
+  "category": "info",
+  "name": {
+   "de": "Autobahn",
+   "en": "Motorway"
+  },
+  "meaning": {
+   "de": "Nur für Kfz über 60 km/h bauartbedingt. Kein Halten, Wenden, Rückwärtsfahren.",
+   "en": "Only for motor vehicles built for over 60 km/h. No stopping, turning round or reversing."
+  }
+ },
+ {
+  "id": "330.2",
+  "category": "info",
+  "name": {
+   "de": "Ende der Autobahn",
+   "en": "End of motorway"
+  },
+  "meaning": {
+   "de": "Die Autobahnregeln enden.",
+   "en": "Motorway rules end."
+  }
+ },
+ {
+  "id": "331.1",
+  "category": "info",
+  "name": {
+   "de": "Kraftfahrstraße",
+   "en": "Expressway"
+  },
+  "meaning": {
+   "de": "Wie Autobahn: nur schnelle Kfz, kein Halten, kein Wenden. Vorfahrt an Einmündungen.",
+   "en": "Like a motorway: fast motor vehicles only, no stopping or turning round. Priority at junctions."
+  }
+ },
+ {
+  "id": "331.2",
+  "category": "info",
+  "name": {
+   "de": "Ende der Kraftfahrstraße",
+   "en": "End of expressway"
+  },
+  "meaning": {
+   "de": "Die Regeln der Kraftfahrstraße enden.",
+   "en": "Expressway rules end."
+  }
+ },
+ {
+  "id": "350",
+  "category": "info",
+  "name": {
+   "de": "Fußgängerüberweg",
+   "en": "Zebra crossing"
+  },
+  "meaning": {
+   "de": "Fußgänger, die erkennbar hinüber wollen, haben Vorrang. Nicht überholen, 5 m davor nicht halten.",
+   "en": "Pedestrians who clearly want to cross have priority. No overtaking; no stopping for 5 m before it."
+  }
+ },
+ {
+  "id": "357",
+  "category": "info",
+  "name": {
+   "de": "Sackgasse",
+   "en": "Dead end"
+  },
+  "meaning": {
+   "de": "Für Fahrzeuge geht es hier nicht weiter.",
+   "en": "No through road for vehicles."
+  }
+ },
+ {
+  "id": "450",
+  "category": "info",
+  "name": {
+   "de": "Ankündigungsbake",
+   "en": "Exit countdown marker"
+  },
+  "meaning": {
+   "de": "Etwa 300, 200 und 100 m bis zur Autobahnausfahrt.",
+   "en": "About 300, 200 and 100 m to the motorway exit."
+  }
+ },
+ {
+  "id": "625",
+  "category": "info",
+  "name": {
+   "de": "Richtungstafel in Kurven",
+   "en": "Chevron board"
+  },
+  "meaning": {
+   "de": "Zeigt die Richtung einer Kurve an, die oft enger ist, als sie wirkt.",
+   "en": "Shows the direction of a bend, often tighter than it looks."
+  }
+ },
+ {
+  "id": "1001-30",
+  "category": "extra",
+  "name": {
+   "de": "Länge einer Strecke („auf 800 m“)",
+   "en": "Length of restriction (\"for 800 m\")"
+  },
+  "meaning": {
+   "de": "Das Zeichen darüber gilt auf der angegebenen Länge.",
+   "en": "The sign above applies for the distance shown."
+  }
+ },
+ {
+  "id": "1004-30",
+  "category": "extra",
+  "name": {
+   "de": "Entfernung („nach 200 m“)",
+   "en": "Distance (\"in 200 m\")"
+  },
+  "meaning": {
+   "de": "Was das Zeichen darüber ankündigt, beginnt nach der angegebenen Entfernung.",
+   "en": "What the sign above announces begins after the distance shown."
+  }
+ },
+ {
+  "id": "1020-30",
+  "category": "extra",
+  "name": {
+   "de": "Anlieger frei",
+   "en": "Access only"
+  },
+  "meaning": {
+   "de": "Wer dort ein Anliegen hat – Anwohner, Besucher, Lieferanten –, darf trotz Verbot einfahren.",
+   "en": "Anyone with business there - residents, visitors, deliveries - may still enter."
+  }
+ },
+ {
+  "id": "1022-10",
+  "category": "extra",
+  "name": {
+   "de": "Radverkehr frei",
+   "en": "Cyclists excepted"
+  },
+  "meaning": {
+   "de": "Das Verbot darüber gilt nicht für Radfahrer.",
+   "en": "The ban above does not apply to cyclists."
+  }
+ },
+ {
+  "id": "1040-30",
+  "category": "extra",
+  "name": {
+   "de": "Zeitliche Beschränkung",
+   "en": "Times of operation"
+  },
+  "meaning": {
+   "de": "Das Zeichen darüber gilt nur zu den angegebenen Zeiten.",
+   "en": "The sign above applies only at the times shown."
+  }
+ },
+ {
+  "id": "1052-36",
+  "category": "extra",
+  "name": {
+   "de": "bei Nässe",
+   "en": "When wet"
+  },
+  "meaning": {
+   "de": "Das Zeichen darüber gilt nur bei nasser Fahrbahn.",
+   "en": "The sign above applies only when the road is wet."
+  }
+ },
+ {
+  "id": "1053-35",
+  "category": "extra",
+  "name": {
+   "de": "Gilt für Kfz über 7,5 t",
+   "en": "Applies to vehicles over 7.5 t"
+  },
+  "meaning": {
+   "de": "Das Zeichen darüber gilt nur für Kfz über der angegebenen Masse.",
+   "en": "The sign above applies only to vehicles over the weight shown."
+  }
+ },
+ {
+  "id": "1002",
+  "category": "extra",
+  "name": {
+   "de": "Verlauf der Vorfahrtstraße",
+   "en": "Bending priority road"
+  },
+  "meaning": {
+   "de": "Die dicke Linie zeigt, wie die Vorfahrtstraße verläuft. Wer ihr folgt, muss blinken.",
+   "en": "The thick line shows the course of the priority road. Signal if you follow it."
+  }
+ },
+ {
+  "id": "293",
+  "category": "marking",
+  "name": {
+   "de": "Fußgängerüberweg (Markierung)",
+   "en": "Zebra crossing (marking)"
+  },
+  "meaning": {
+   "de": "Zebrastreifen: Fußgänger haben Vorrang. Halten auf ihm und 5 m davor verboten.",
+   "en": "Zebra crossing: pedestrians have priority. No stopping on it or for 5 m before."
+  }
+ },
+ {
+  "id": "294",
+  "category": "marking",
+  "name": {
+   "de": "Haltlinie",
+   "en": "Stop line"
+  },
+  "meaning": {
+   "de": "Hier halten, wenn Zeichen 206, eine Ampel oder die Polizei es verlangt.",
+   "en": "Stop here when sign 206, lights or the police require it."
+  }
+ },
+ {
+  "id": "295",
+  "category": "marking",
+  "name": {
+   "de": "Fahrstreifenbegrenzung",
+   "en": "Solid line"
+  },
+  "meaning": {
+   "de": "Nicht überfahren und nicht auf ihr fahren. Links davon nicht halten.",
+   "en": "Do not cross or drive on it. No stopping to its left."
+  }
+ },
+ {
+  "id": "296",
+  "category": "marking",
+  "name": {
+   "de": "Einseitige Fahrstreifenbegrenzung",
+   "en": "Solid and broken line"
+  },
+  "meaning": {
+   "de": "Von der unterbrochenen Seite darf überfahren werden, von der durchgehenden nicht.",
+   "en": "You may cross from the broken side, not from the solid side."
+  }
+ },
+ {
+  "id": "297",
+  "category": "marking",
+  "name": {
+   "de": "Pfeilmarkierung",
+   "en": "Lane arrows"
+  },
+  "meaning": {
+   "de": "Die Pfeile geben die Fahrtrichtung für den Fahrstreifen vor.",
+   "en": "The arrows set the direction for the lane."
+  }
+ },
+ {
+  "id": "298",
+  "category": "marking",
+  "name": {
+   "de": "Sperrfläche",
+   "en": "Hatched area"
+  },
+  "meaning": {
+   "de": "Darf nicht benutzt werden – weder befahren noch zum Halten.",
+   "en": "May not be used - not driven on, not stopped on."
+  }
+ },
+ {
+  "id": "299",
+  "category": "marking",
+  "name": {
+   "de": "Grenzmarkierung für Halt- und Parkverbote",
+   "en": "Zigzag line"
+  },
+  "meaning": {
+   "de": "Kennzeichnet oder verlängert ein Halt- oder Parkverbot.",
+   "en": "Marks or extends a no-stopping or no-parking area."
+  }
+ },
+ {
+  "id": "340",
+  "category": "marking",
+  "name": {
+   "de": "Leitlinie",
+   "en": "Broken line"
+  },
+  "meaning": {
+   "de": "Darf überfahren werden, wenn niemand gefährdet wird.",
+   "en": "May be crossed if nobody is endangered."
+  }
+ }
+]

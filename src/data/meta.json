@@ -1,0 +1,271 @@
+{
+ "topics": [
+  {
+   "key": "priority",
+   "order": 1,
+   "icon": "git-merge",
+   "color": "#FF4B4B",
+   "title": {
+    "de": "Vorfahrt",
+    "en": "Right of way"
+   },
+   "blurb": {
+    "de": "Rechts vor links, Schilder, Abbiegen, Kreisverkehr",
+    "en": "Right before left, signs, turning, roundabouts"
+   }
+  },
+  {
+   "key": "signals",
+   "order": 2,
+   "icon": "stopwatch",
+   "color": "#F59E0B",
+   "title": {
+    "de": "Ampel & Polizei",
+    "en": "Lights & police"
+   },
+   "blurb": {
+    "de": "Wer wen überstimmt, Blaulicht, Grünpfeil",
+    "en": "Who overrules whom, blue lights, green arrow"
+   }
+  },
+  {
+   "key": "signs",
+   "order": 3,
+   "icon": "warning",
+   "color": "#2BB3F3",
+   "title": {
+    "de": "Verkehrszeichen",
+    "en": "Road signs"
+   },
+   "blurb": {
+    "de": "Gefahr, Gebot, Verbot, Markierungen",
+    "en": "Warning, mandatory, prohibition, markings"
+   }
+  },
+  {
+   "key": "basics",
+   "order": 4,
+   "icon": "compass",
+   "color": "#5B7CF5",
+   "title": {
+    "de": "Grundregeln",
+    "en": "Ground rules"
+   },
+   "blurb": {
+    "de": "Rechtsfahren, Spurwechsel, Reißverschluss",
+    "en": "Keeping right, lane changes, zip merge"
+   }
+  },
+  {
+   "key": "speed",
+   "order": 5,
+   "icon": "speedometer",
+   "color": "#A472F0",
+   "title": {
+    "de": "Tempo & Abstand",
+    "en": "Speed & distance"
+   },
+   "blurb": {
+    "de": "Limits, Anhalteweg, Faustformeln",
+    "en": "Limits, stopping distance, rules of thumb"
+   }
+  },
+  {
+   "key": "overtaking",
+   "order": 6,
+   "icon": "swap-horizontal",
+   "color": "#0FA3B1",
+   "title": {
+    "de": "Überholen",
+    "en": "Overtaking"
+   },
+   "blurb": {
+    "de": "Wann, wie, mit wie viel Abstand",
+    "en": "When, how, with how much room"
+   }
+  },
+  {
+   "key": "turning",
+   "order": 7,
+   "icon": "return-up-forward",
+   "color": "#18B98A",
+   "title": {
+    "de": "Abbiegen & Wenden",
+    "en": "Turning & reversing"
+   },
+   "blurb": {
+    "de": "Schulterblick, Einordnen, Rückwärtsfahren",
+    "en": "Shoulder checks, positioning, reversing"
+   }
+  },
+  {
+   "key": "people",
+   "order": 8,
+   "icon": "walk",
+   "color": "#F45D9C",
+   "title": {
+    "de": "Fußgänger & Radfahrer",
+    "en": "Pedestrians & cyclists"
+   },
+   "blurb": {
+    "de": "Kinder, Zebrastreifen, Seitenabstand",
+    "en": "Children, zebra crossings, clearance"
+   }
+  },
+  {
+   "key": "rail",
+   "order": 9,
+   "icon": "train",
+   "color": "#FF9F1C",
+   "title": {
+    "de": "Bahn & Bus",
+    "en": "Trains & buses"
+   },
+   "blurb": {
+    "de": "Bahnübergang, Straßenbahn, Haltestellen",
+    "en": "Level crossings, trams, bus stops"
+   }
+  },
+  {
+   "key": "parking",
+   "order": 10,
+   "icon": "car",
+   "color": "#4CC93F",
+   "title": {
+    "de": "Halten & Parken",
+    "en": "Stopping & parking"
+   },
+   "blurb": {
+    "de": "Wo nicht, wie lange, Parkscheibe",
+    "en": "Where not, how long, parking disc"
+   }
+  },
+  {
+   "key": "motorway",
+   "order": 11,
+   "icon": "trail-sign",
+   "color": "#2E7DD7",
+   "title": {
+    "de": "Autobahn",
+    "en": "Motorway"
+   },
+   "blurb": {
+    "de": "Auffahren, Rettungsgasse, Panne",
+    "en": "Joining, emergency corridor, breakdowns"
+   }
+  },
+  {
+   "key": "hazards",
+   "order": 12,
+   "icon": "rainy",
+   "color": "#3B82C4",
+   "title": {
+    "de": "Gefahren",
+    "en": "Hazards"
+   },
+   "blurb": {
+    "de": "Nässe, Glätte, Nacht, Wild, Ablenkung",
+    "en": "Wet, ice, night, animals, distraction"
+   }
+  },
+  {
+   "key": "fitness",
+   "order": 13,
+   "icon": "wine",
+   "color": "#E5484D",
+   "title": {
+    "de": "Alkohol & Müdigkeit",
+    "en": "Alcohol & fatigue"
+   },
+   "blurb": {
+    "de": "Promille, Cannabis, Medikamente",
+    "en": "Alcohol limits, cannabis, medicines"
+   }
+  },
+  {
+   "key": "vehicle",
+   "order": 14,
+   "icon": "construct",
+   "color": "#8E6BE8",
+   "title": {
+    "de": "Fahrzeug & Technik",
+    "en": "Car & technology"
+   },
+   "blurb": {
+    "de": "Reifen, Warnleuchten, Ladung, Anhänger",
+    "en": "Tyres, warning lights, loads, trailers"
+   }
+  },
+  {
+   "key": "eco",
+   "order": 15,
+   "icon": "leaf",
+   "color": "#3DBB6E",
+   "title": {
+    "de": "Umwelt",
+    "en": "Environment"
+   },
+   "blurb": {
+    "de": "Sparsam fahren, Lärm, Umweltzone",
+    "en": "Economical driving, noise, low-emission zones"
+   }
+  },
+  {
+   "key": "law",
+   "order": 16,
+   "icon": "document-text",
+   "color": "#64748B",
+   "title": {
+    "de": "Pflichten & Recht",
+    "en": "Duties & the law"
+   },
+   "blurb": {
+    "de": "Unfall, Probezeit, Punkte, Papiere",
+    "en": "Accidents, probation, points, papers"
+   }
+  }
+ ],
+ "counts": {
+  "questions": 220,
+  "basic": 168,
+  "classB": 52,
+  "signs": 110,
+  "byTopic": {
+   "priority": 20,
+   "signals": 15,
+   "signs": 32,
+   "basics": 8,
+   "speed": 20,
+   "overtaking": 12,
+   "turning": 10,
+   "people": 12,
+   "rail": 8,
+   "parking": 12,
+   "motorway": 10,
+   "hazards": 16,
+   "fitness": 8,
+   "vehicle": 16,
+   "eco": 9,
+   "law": 12
+  }
+ },
+ "coverage": {
+  "de": 1,
+  "en": 1,
+  "tr": 0,
+  "ar": 0,
+  "ru": 0,
+  "pl": 0,
+  "ro": 0,
+  "hr": 0,
+  "el": 0,
+  "it": 0,
+  "es": 0,
+  "pt": 0,
+  "fr": 0
+ },
+ "catalogue": {
+  "validFrom": "2025-04-01",
+  "officialQuestionsB": 1169
+ }
+}
