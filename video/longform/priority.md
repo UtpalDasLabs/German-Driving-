@@ -1,4 +1,7 @@
 ---
+lesson: 1
+youtube: "German Driving Test 1: Right of Way — Rechts vor links & Every Priority Rule (20 Questions)"
+thumb: ["Vorfahrt", "Right of Way", "scene:pr03"]
 title: "Right of Way in Germany — Rechts vor links and Every Rule That Decides Who Goes First"
 topic: priority
 questions: ["pr01", "pr02", "pr16", "pr03", "pr20", "pr13", "pr19", "pr06", "pr07", "pr08", "pr17", "pr09", "pr04", "pr18", "pr05", "pr10", "pr11", "pr14", "pr15", "pr12"]

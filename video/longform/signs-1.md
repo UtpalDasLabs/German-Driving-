@@ -1,4 +1,7 @@
 ---
+lesson: 3
+youtube: "German Driving Test 3: Road Signs Part 1 — Warning, Priority & Zone Signs (16 Questions)"
+thumb: ["Verkehrszeichen", "Part 1 · Warning & Priority", "signs:101,205,306"]
 title: "Road Signs, part 1 — Warning Signs, Priority, Places and Zones"
 topic: signs-1
 questions: ["si15", "si16", "si14", "si32", "si17", "si30", "si13", "si11", "si10", "si08", "si09", "si06", "si05", "si07", "si23", "si12"]

@@ -1,4 +1,7 @@
 ---
+lesson: 9
+youtube: "German Driving Test 9: The Autobahn & Hazards — Emergency Corridor, Ice, Wildlife (26 Questions)"
+thumb: ["Autobahn", "Motorway & Hazards", "signs:330.1"]
 title: "The German Autobahn — Motorway Rules, the Emergency Corridor and Hazards on the Road"
 topic: motorway
 questions: ["mw01", "mw10", "mw07", "mw08", "mw03", "mw09", "mw05", "mw02", "mw04", "mw06", "ha03", "ha01", "ha02", "ha14", "ha10", "ha04", "ha13", "ha05", "ha06", "ha07", "ha08", "ha16", "ha11", "ha15", "ha12", "ha09"]

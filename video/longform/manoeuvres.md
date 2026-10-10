@@ -1,4 +1,7 @@
 ---
+lesson: 13
+youtube: "German Driving Test 13: The Five Manoeuvres — Parking, Reversing, Turning & Emergency Stop"
+thumb: ["Grundfahraufgaben", "The Five Manoeuvres", "manoeuvre:parallel"]
 title: "The Five Manoeuvres — Parking, Reversing, Turning Round and the Emergency Stop"
 topic: manoeuvres
 questions: []

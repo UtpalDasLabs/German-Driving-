@@ -1,4 +1,7 @@
 ---
+lesson: 7
+youtube: "German Driving Test 7: Turning, Reversing & Parking — Shoulder Check to Parking Disc (22 Questions)"
+thumb: ["Abbiegen & Parken", "Turning, Reversing & Parking", "scene:tu01"]
 title: "Turning, Reversing & Parking in Germany — The Shoulder Check, the Parking Disc and Every Rule in Between"
 topic: turning
 questions: ["tu08", "tu10", "tu01", "tu02", "tu09", "tu03", "tu04", "tu05", "tu06", "tu07", "pa01", "pa02", "pa03", "pa04", "pa05", "pa12", "pa11", "pa07", "pa06", "pa08", "pa09", "pa10"]

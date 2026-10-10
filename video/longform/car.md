@@ -1,4 +1,7 @@
 ---
+lesson: 11
+youtube: "German Driving Test 11: Your Car & the Environment — Tyres, Warning Lights, Eco (25 Questions)"
+thumb: ["Auto & Umwelt", "Your Car & the Environment", "signs:270.1"]
 title: "Your Car & the Environment — Warning Lights, Child Seats, Trailers and Driving Green"
 topic: car
 questions: ["ve01", "ve02", "ve15", "ve11", "ve14", "ve03", "ve04", "ve05", "ve06", "ve12", "ve13", "ve08", "ve09", "ve07", "ve10", "ve16", "ec01", "ec02", "ec06", "ec05", "ec09", "ec03", "ec04", "ec08", "ec07"]
