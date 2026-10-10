@@ -14,7 +14,8 @@
    "el": "Κίνδυνος",
    "it": "Altri pericoli",
    "es": "Otros peligros",
-   "pt": "Outros perigos"
+   "pt": "Outros perigos",
+   "fr": "Autres dangers"
   },
   "meaning": {
    "de": "Warnt vor einer Gefahr, die kein eigenes Zeichen hat. Ein Zusatzzeichen sagt oft, welche.",
@@ -28,7 +29,8 @@
    "el": "Προειδοποιεί για κίνδυνο που δεν έχει δική του πινακίδα. Μια πινακίδα από κάτω λέει συχνά ποιος.",
    "it": "Avverte di un pericolo che non ha un segnale proprio. Un pannello sotto spesso dice quale.",
    "es": "Avisa de un peligro que no tiene señal propia. Un panel debajo suele decir cuál.",
-   "pt": "Avisa de um perigo que não tem sinal próprio. Um painel por baixo costuma dizer qual."
+   "pt": "Avisa de um perigo que não tem sinal próprio. Um painel por baixo costuma dizer qual.",
+   "fr": "Signale un danger qui n'a pas de panneau propre. Un panonceau en dessous indique souvent lequel."
   }
  },
  {
@@ -46,7 +48,8 @@
    "el": "Διασταύρωση με προτεραιότητα από δεξιά",
    "it": "Incrocio con precedenza a destra",
    "es": "Intersección con prioridad a la derecha",
-   "pt": "Cruzamento com prioridade à direita"
+   "pt": "Cruzamento com prioridade à direita",
+   "fr": "Intersection avec priorité à droite"
   },
   "meaning": {
    "de": "An der nächsten Kreuzung gilt „rechts vor links“.",
@@ -60,7 +63,8 @@
    "el": "Στην επόμενη διασταύρωση ισχύει η «προτεραιότητα από δεξιά».",
    "it": "Al prossimo incrocio vale «la destra ha la precedenza».",
    "es": "En el próximo cruce rige la «prioridad a la derecha».",
-   "pt": "No próximo cruzamento vale a «prioridade à direita»."
+   "pt": "No próximo cruzamento vale a «prioridade à direita».",
+   "fr": "Au prochain carrefour, c'est la « priorité à droite »."
   }
  },
  {
@@ -78,7 +82,8 @@
    "el": "Στροφή (αριστερά)",
    "it": "Curva (a sinistra)",
    "es": "Curva (a la izquierda)",
-   "pt": "Curva (à esquerda)"
+   "pt": "Curva (à esquerda)",
+   "fr": "Virage (à gauche)"
   },
   "meaning": {
    "de": "Eine Kurve nach links. Vorher bremsen.",
@@ -92,7 +97,8 @@
    "el": "Στροφή αριστερά. Φρενάρισε πριν από αυτήν.",
    "it": "Curva a sinistra. Frena prima.",
    "es": "Curva a la izquierda. Frena antes.",
-   "pt": "Curva à esquerda. Trava antes."
+   "pt": "Curva à esquerda. Trava antes.",
+   "fr": "Virage à gauche. Freine avant."
   }
  },
  {
@@ -110,7 +116,8 @@
    "el": "Στροφή (δεξιά)",
    "it": "Curva (a destra)",
    "es": "Curva (a la derecha)",
-   "pt": "Curva (à direita)"
+   "pt": "Curva (à direita)",
+   "fr": "Virage (à droite)"
   },
   "meaning": {
    "de": "Eine Kurve nach rechts. Vorher bremsen.",
@@ -124,7 +131,8 @@
    "el": "Στροφή δεξιά. Φρενάρισε πριν από αυτήν.",
    "it": "Curva a destra. Frena prima.",
    "es": "Curva a la derecha. Frena antes.",
-   "pt": "Curva à direita. Trava antes."
+   "pt": "Curva à direita. Trava antes.",
+   "fr": "Virage à droite. Freine avant."
   }
  },
  {
@@ -142,7 +150,8 @@
    "el": "Διπλή στροφή (πρώτα δεξιά)",
    "it": "Doppia curva (prima a destra)",
    "es": "Curvas peligrosas (primero a la derecha)",
-   "pt": "Curvas perigosas (primeira à direita)"
+   "pt": "Curvas perigosas (primeira à direita)",
+   "fr": "Succession de virages (d'abord à droite)"
   },
   "meaning": {
    "de": "Zwei Kurven hintereinander, die erste nach rechts.",
@@ -156,7 +165,8 @@
    "el": "Δύο στροφές στη σειρά, η πρώτη δεξιά.",
    "it": "Due curve di seguito, la prima a destra.",
    "es": "Dos curvas seguidas, la primera a la derecha.",
-   "pt": "Duas curvas seguidas, a primeira à direita."
+   "pt": "Duas curvas seguidas, a primeira à direita.",
+   "fr": "Deux virages à la suite, le premier à droite."
   }
  },
  {
@@ -174,7 +184,8 @@
    "el": "Επικίνδυνη κατωφέρεια",
    "it": "Discesa pericolosa",
    "es": "Bajada pronunciada",
-   "pt": "Descida acentuada"
+   "pt": "Descida acentuada",
+   "fr": "Descente dangereuse"
   },
   "meaning": {
    "de": "Steiles Gefälle. Kleinen Gang wählen und die Motorbremse nutzen.",
@@ -188,7 +199,8 @@
    "el": "Απότομη κατηφόρα. Διάλεξε χαμηλή σχέση και χρησιμοποίησε φρένο κινητήρα.",
    "it": "Discesa ripida. Scegli una marcia bassa e usa il freno motore.",
    "es": "Pendiente fuerte cuesta abajo. Elige una marcha corta y usa el freno motor.",
-   "pt": "Inclinação forte a descer. Escolhe uma mudança baixa e usa o travão-motor."
+   "pt": "Inclinação forte a descer. Escolhe uma mudança baixa e usa o travão-motor.",
+   "fr": "Forte pente en descente. Choisis un rapport court et utilise le frein moteur."
   }
  },
  {
@@ -206,7 +218,8 @@
    "el": "Απότομη ανωφέρεια",
    "it": "Salita ripida",
    "es": "Subida pronunciada",
-   "pt": "Subida acentuada"
+   "pt": "Subida acentuada",
+   "fr": "Montée raide"
   },
   "meaning": {
    "de": "Steile Steigung. Rechtzeitig herunterschalten.",
@@ -220,7 +233,8 @@
    "el": "Απότομη ανηφόρα. Κατέβασε έγκαιρα ταχύτητα.",
    "it": "Salita ripida. Scala marcia per tempo.",
    "es": "Pendiente fuerte cuesta arriba. Reduce de marcha a tiempo.",
-   "pt": "Inclinação forte a subir. Reduz de mudança a tempo."
+   "pt": "Inclinação forte a subir. Reduz de mudança a tempo.",
+   "fr": "Forte pente en montée. Rétrograde à temps."
   }
  },
  {
@@ -238,7 +252,8 @@
    "el": "Ανώμαλο οδόστρωμα",
    "it": "Strada deformata",
    "es": "Perfil irregular",
-   "pt": "Piso irregular"
+   "pt": "Piso irregular",
+   "fr": "Chaussée déformée"
   },
   "meaning": {
    "de": "Die Fahrbahn ist uneben. Langsamer fahren.",
@@ -252,7 +267,8 @@
    "el": "Η επιφάνεια είναι ανώμαλη. Μείωσε ταχύτητα.",
    "it": "Il fondo è irregolare. Rallenta.",
    "es": "El firme es irregular. Reduce la velocidad.",
-   "pt": "O piso é irregular. Reduz a velocidade."
+   "pt": "O piso é irregular. Reduz a velocidade.",
+   "fr": "Le revêtement est irrégulier. Ralentis."
   }
  },
  {
@@ -270,7 +286,8 @@
    "el": "Ολισθηρό οδόστρωμα",
    "it": "Strada sdrucciolevole",
    "es": "Pavimento deslizante",
-   "pt": "Piso escorregadio"
+   "pt": "Piso escorregadio",
+   "fr": "Chaussée glissante"
   },
   "meaning": {
    "de": "Gefahr, ins Schleudern zu kommen – besonders bei Nässe oder Schmutz.",
@@ -284,7 +301,8 @@
    "el": "Κίνδυνος ολίσθησης — ιδίως όταν είναι βρεγμένο ή βρόμικο.",
    "it": "Pericolo di sbandare — soprattutto con fondo bagnato o sporco.",
    "es": "Peligro de derrape — sobre todo con la calzada mojada o sucia.",
-   "pt": "Perigo de derrapagem — sobretudo com o piso molhado ou sujo."
+   "pt": "Perigo de derrapagem — sobretudo com o piso molhado ou sujo.",
+   "fr": "Risque de dérapage — surtout sur chaussée mouillée ou sale."
   }
  },
  {
@@ -302,7 +320,8 @@
    "el": "Πλευρικός άνεμος",
    "it": "Vento laterale",
    "es": "Viento lateral",
-   "pt": "Vento lateral"
+   "pt": "Vento lateral",
+   "fr": "Vent latéral"
   },
   "meaning": {
    "de": "Mit starken Windböen von der Seite rechnen.",
@@ -316,7 +335,8 @@
    "el": "Περίμενε δυνατές ριπές από το πλάι.",
    "it": "Aspettati forti raffiche di lato.",
    "es": "Cuenta con fuertes ráfagas laterales.",
-   "pt": "Conta com fortes rajadas laterais."
+   "pt": "Conta com fortes rajadas laterais.",
+   "fr": "Attends-toi à de fortes rafales latérales."
   }
  },
  {
@@ -334,7 +354,8 @@
    "el": "Στένωση οδού",
    "it": "Strettoia",
    "es": "Estrechamiento de calzada",
-   "pt": "Estreitamento da faixa"
+   "pt": "Estreitamento da faixa",
+   "fr": "Chaussée rétrécie"
   },
   "meaning": {
    "de": "Die Fahrbahn wird auf beiden Seiten enger.",
@@ -348,7 +369,8 @@
    "el": "Ο δρόμος στενεύει και από τις δύο πλευρές.",
    "it": "La strada si restringe su entrambi i lati.",
    "es": "La calzada se estrecha por ambos lados.",
-   "pt": "A faixa estreita-se dos dois lados."
+   "pt": "A faixa estreita-se dos dois lados.",
+   "fr": "La chaussée se rétrécit des deux côtés."
   }
  },
  {
@@ -366,7 +388,8 @@
    "el": "Έργα",
    "it": "Lavori",
    "es": "Obras",
-   "pt": "Obras"
+   "pt": "Obras",
+   "fr": "Travaux"
   },
   "meaning": {
    "de": "Baustelle voraus. Mit Arbeitern und Fahrzeugen auf der Fahrbahn rechnen.",
@@ -380,7 +403,8 @@
    "el": "Έργα μπροστά. Περίμενε εργάτες και μηχανήματα στον δρόμο.",
    "it": "Lavori in corso. Aspettati operai e mezzi sulla strada.",
    "es": "Obras más adelante. Cuenta con operarios y máquinas en la vía.",
-   "pt": "Obras à frente. Conta com trabalhadores e máquinas na via."
+   "pt": "Obras à frente. Conta com trabalhadores e máquinas na via.",
+   "fr": "Travaux plus loin. Attends-toi à du personnel et à des engins sur la route."
   }
  },
  {
@@ -398,7 +422,8 @@
    "el": "Πιθανή συμφόρηση",
    "it": "Possibili code",
    "es": "Posibles retenciones",
-   "pt": "Possíveis filas"
+   "pt": "Possíveis filas",
+   "fr": "Risque de bouchons"
   },
   "meaning": {
    "de": "Mit Stau rechnen. Bremsbereit sein, am Stauende Warnblinklicht.",
@@ -412,7 +437,8 @@
    "el": "Περίμενε ουρές. Ετοιμότητα για φρενάρισμα· στο τέλος της ουράς αλάρμ.",
    "it": "Aspettati code. Preparati a frenare; in fondo alla coda quattro frecce.",
    "es": "Cuenta con retenciones. Prepárate para frenar; al final, luces de emergencia.",
-   "pt": "Conta com filas. Prepara-te para travar; no fim, luzes de emergência."
+   "pt": "Conta com filas. Prepara-te para travar; no fim, luzes de emergência.",
+   "fr": "Attends-toi à des bouchons. Sois en mesure de freiner ; en fin de bouchon, feux de détresse."
   }
  },
  {
@@ -430,7 +456,8 @@
    "el": "Κυκλοφορία διπλής κατεύθυνσης",
    "it": "Doppio senso di circolazione",
    "es": "Circulación en los dos sentidos",
-   "pt": "Trânsito nos dois sentidos"
+   "pt": "Trânsito nos dois sentidos",
+   "fr": "Circulation dans les deux sens"
   },
   "meaning": {
    "de": "Ab hier Gegenverkehr, z. B. nach einer Einbahnstraße oder auf einer Baustellenfahrbahn.",
@@ -444,7 +471,8 @@
    "el": "Από εδώ κυκλοφορία προς δύο κατευθύνσεις, π.χ. μετά από μονόδρομο τμήμα ή σε έργα.",
    "it": "Da qui traffico nei due sensi, ad esempio dopo un tratto a senso unico o ai lavori.",
    "es": "Desde aquí, tráfico en ambos sentidos, por ejemplo tras un tramo de sentido único o en obras.",
-   "pt": "A partir daqui, trânsito nos dois sentidos, por exemplo depois de um troço de sentido único ou em obras."
+   "pt": "A partir daqui, trânsito nos dois sentidos, por exemplo depois de um troço de sentido único ou em obras.",
+   "fr": "À partir d'ici, circulation dans les deux sens, par exemple après un tronçon à sens unique ou dans des travaux."
   }
  },
  {
@@ -462,7 +490,8 @@
    "el": "Φωτεινή σηματοδότηση",
    "it": "Semaforo",
    "es": "Semáforo",
-   "pt": "Semáforo"
+   "pt": "Semáforo",
+   "fr": "Feux tricolores"
   },
   "meaning": {
    "de": "Eine Ampel folgt, oft hinter einer Kurve.",
@@ -476,7 +505,8 @@
    "el": "Φανάρια μπροστά, συχνά μετά από στροφή.",
    "it": "Semaforo più avanti, spesso dopo una curva.",
    "es": "Semáforo más adelante, a menudo tras una curva.",
-   "pt": "Semáforo à frente, muitas vezes depois de uma curva."
+   "pt": "Semáforo à frente, muitas vezes depois de uma curva.",
+   "fr": "Feux plus loin, souvent après un virage."
   }
  },
  {
@@ -494,7 +524,8 @@
    "el": "Πεζοί",
    "it": "Pedoni",
    "es": "Peatones",
-   "pt": "Peões"
+   "pt": "Peões",
+   "fr": "Piétons"
   },
   "meaning": {
    "de": "Mit Fußgängern auf der Fahrbahn rechnen.",
@@ -508,7 +539,8 @@
    "el": "Περίμενε πεζούς στον δρόμο.",
    "it": "Aspettati pedoni sulla strada.",
    "es": "Cuenta con peatones en la vía.",
-   "pt": "Conta com peões na via."
+   "pt": "Conta com peões na via.",
+   "fr": "Attends-toi à des piétons sur la route."
   }
  },
  {
@@ -526,7 +558,8 @@
    "el": "Παιδιά",
    "it": "Bambini",
    "es": "Niños",
-   "pt": "Crianças"
+   "pt": "Crianças",
+   "fr": "Enfants"
   },
   "meaning": {
    "de": "Mit Kindern rechnen, z. B. an Schulen und Spielplätzen. Langsam und bremsbereit.",
@@ -540,7 +573,8 @@
    "el": "Περίμενε παιδιά, π.χ. κοντά σε σχολεία και παιδικές χαρές. Αργά και σε ετοιμότητα για φρενάρισμα.",
    "it": "Aspettati bambini, ad esempio vicino a scuole e parchi giochi. Piano e con il piede pronto sul freno.",
    "es": "Cuenta con niños, por ejemplo cerca de colegios y parques. Despacio y con el pie listo para frenar.",
-   "pt": "Conta com crianças, por exemplo perto de escolas e parques. Devagar e com o pé pronto a travar."
+   "pt": "Conta com crianças, por exemplo perto de escolas e parques. Devagar e com o pé pronto a travar.",
+   "fr": "Attends-toi à des enfants, par exemple près des écoles et des parcs. Lentement et le pied prêt à freiner."
   }
  },
  {
@@ -558,7 +592,8 @@
    "el": "Ποδηλάτες",
    "it": "Ciclisti",
    "es": "Ciclistas",
-   "pt": "Ciclistas"
+   "pt": "Ciclistas",
+   "fr": "Cyclistes"
   },
   "meaning": {
    "de": "Radfahrer kreuzen oder fahren auf der Fahrbahn.",
@@ -572,7 +607,8 @@
    "el": "Ποδηλάτες διασχίζουν ή κινούνται στον δρόμο.",
    "it": "Ciclisti che attraversano o percorrono la strada.",
    "es": "Ciclistas que cruzan o circulan por la vía.",
-   "pt": "Ciclistas que atravessam ou circulam na via."
+   "pt": "Ciclistas que atravessam ou circulam na via.",
+   "fr": "Cyclistes qui traversent ou circulent sur la route."
   }
  },
  {
@@ -590,7 +626,8 @@
    "el": "Άγρια ζώα",
    "it": "Animali selvatici",
    "es": "Animales salvajes",
-   "pt": "Animais selvagens"
+   "pt": "Animais selvagens",
+   "fr": "Animaux sauvages"
   },
   "meaning": {
    "de": "Wild kann die Straße kreuzen, besonders in der Dämmerung.",
@@ -604,7 +641,8 @@
    "el": "Μπορεί να περάσουν άγρια ζώα, ιδίως την αυγή και το σούρουπο.",
    "it": "Possono attraversare animali selvatici, soprattutto all’alba e al tramonto.",
    "es": "Pueden cruzar animales salvajes, sobre todo al amanecer y al anochecer.",
-   "pt": "Podem atravessar animais selvagens, sobretudo ao amanhecer e ao anoitecer."
+   "pt": "Podem atravessar animais selvagens, sobretudo ao amanhecer e ao anoitecer.",
+   "fr": "Des animaux sauvages peuvent traverser, surtout à l'aube et au crépuscule."
   }
  },
  {
@@ -622,7 +660,8 @@
    "el": "Ισόπεδη διάβαση",
    "it": "Passaggio a livello",
    "es": "Paso a nivel",
-   "pt": "Passagem de nível"
+   "pt": "Passagem de nível",
+   "fr": "Passage à niveau"
   },
   "meaning": {
    "de": "Ein Bahnübergang folgt. Ab hier keine Kraftfahrzeuge mehr überholen.",
@@ -636,7 +675,8 @@
    "el": "Ισόπεδη διάβαση μπροστά. Από εδώ μην προσπερνάς μηχανοκίνητα.",
    "it": "Passaggio a livello più avanti. Da qui non sorpassare veicoli a motore.",
    "es": "Paso a nivel más adelante. Desde aquí no adelantes a vehículos de motor.",
-   "pt": "Passagem de nível à frente. A partir daqui não ultrapasses veículos a motor."
+   "pt": "Passagem de nível à frente. A partir daqui não ultrapasses veículos a motor.",
+   "fr": "Passage à niveau plus loin. À partir d'ici, ne dépasse pas de véhicules à moteur."
   }
  },
  {
@@ -654,7 +694,8 @@
    "el": "Πινακίδα αντίστροφης μέτρησης, τρεις λωρίδες",
    "it": "Pannello distanziometrico, tre strisce",
    "es": "Baliza de paso a nivel, tres franjas",
-   "pt": "Baliza de passagem de nível, três faixas"
+   "pt": "Baliza de passagem de nível, três faixas",
+   "fr": "Balise de passage à niveau, trois bandes"
   },
   "meaning": {
    "de": "Etwa 240 m bis zum Bahnübergang.",
@@ -668,7 +709,8 @@
    "el": "Περίπου 240 m μέχρι την ισόπεδη διάβαση.",
    "it": "Circa 240 m al passaggio a livello.",
    "es": "Unos 240 m hasta el paso a nivel.",
-   "pt": "Cerca de 240 m até à passagem de nível."
+   "pt": "Cerca de 240 m até à passagem de nível.",
+   "fr": "Environ 240 m jusqu'au passage à niveau."
   }
  },
  {
@@ -686,7 +728,8 @@
    "el": "Πινακίδα αντίστροφης μέτρησης, δύο λωρίδες",
    "it": "Pannello distanziometrico, due strisce",
    "es": "Baliza de paso a nivel, dos franjas",
-   "pt": "Baliza de passagem de nível, duas faixas"
+   "pt": "Baliza de passagem de nível, duas faixas",
+   "fr": "Balise de passage à niveau, deux bandes"
   },
   "meaning": {
    "de": "Etwa 160 m bis zum Bahnübergang.",
@@ -700,7 +743,8 @@
    "el": "Περίπου 160 m μέχρι την ισόπεδη διάβαση.",
    "it": "Circa 160 m al passaggio a livello.",
    "es": "Unos 160 m hasta el paso a nivel.",
-   "pt": "Cerca de 160 m até à passagem de nível."
+   "pt": "Cerca de 160 m até à passagem de nível.",
+   "fr": "Environ 160 m jusqu'au passage à niveau."
   }
  },
  {
@@ -718,7 +762,8 @@
    "el": "Πινακίδα αντίστροφης μέτρησης, μία λωρίδα",
    "it": "Pannello distanziometrico, una striscia",
    "es": "Baliza de paso a nivel, una franja",
-   "pt": "Baliza de passagem de nível, uma faixa"
+   "pt": "Baliza de passagem de nível, uma faixa",
+   "fr": "Balise de passage à niveau, une bande"
   },
   "meaning": {
    "de": "Etwa 80 m bis zum Bahnübergang.",
@@ -732,7 +777,8 @@
    "el": "Περίπου 80 m μέχρι την ισόπεδη διάβαση.",
    "it": "Circa 80 m al passaggio a livello.",
    "es": "Unos 80 m hasta el paso a nivel.",
-   "pt": "Cerca de 80 m até à passagem de nível."
+   "pt": "Cerca de 80 m até à passagem de nível.",
+   "fr": "Environ 80 m jusqu'au passage à niveau."
   }
  },
  {
@@ -750,7 +796,8 @@
    "el": "Σταυρός του Αγίου Ανδρέα",
    "it": "Croce di Sant’Andrea",
    "es": "Cruz de San Andrés",
-   "pt": "Cruz de Santo André"
+   "pt": "Cruz de Santo André",
+   "fr": "Croix de Saint-André"
   },
   "meaning": {
    "de": "Schienenfahrzeuge haben Vorrang. Vor dem Kreuz warten, wenn sich ein Zug nähert.",
@@ -764,7 +811,8 @@
    "el": "Τα σιδηροτροχιά έχουν προτεραιότητα. Περίμενε πριν από τον σταυρό όταν πλησιάζει τρένο.",
    "it": "I veicoli su rotaia hanno la precedenza. Aspetta davanti alla croce quando arriva un treno.",
    "es": "Los vehículos sobre raíles tienen prioridad. Espera antes de la cruz cuando se acerca un tren.",
-   "pt": "Os veículos sobre carris têm prioridade. Espera antes da cruz quando se aproxima um comboio."
+   "pt": "Os veículos sobre carris têm prioridade. Espera antes da cruz quando se aproxima um comboio.",
+   "fr": "Les véhicules sur rails ont la priorité. Attends avant la croix quand un train approche."
   }
  },
  {
@@ -782,7 +830,8 @@
    "el": "Παραχώρηση προτεραιότητας",
    "it": "Dare precedenza",
    "es": "Ceda el paso",
-   "pt": "Dê prioridade"
+   "pt": "Dê prioridade",
+   "fr": "Cédez le passage"
   },
   "meaning": {
    "de": "Dem Verkehr auf der kreuzenden Straße Vorfahrt gewähren.",
@@ -796,7 +845,8 @@
    "el": "Δώσε προτεραιότητα στην κυκλοφορία του δρόμου όπου μπαίνεις ή που διασχίζεις.",
    "it": "Dai la precedenza al traffico della strada in cui entri o che attraversi.",
    "es": "Cede el paso al tráfico de la vía a la que entras o que cruzas.",
-   "pt": "Dá prioridade ao trânsito da via onde entras ou que atravessas."
+   "pt": "Dá prioridade ao trânsito da via onde entras ou que atravessas.",
+   "fr": "Cède le passage à la circulation de la route dans laquelle tu entres ou que tu traverses."
   }
  },
  {
@@ -814,7 +864,8 @@
    "el": "Stop. Παραχώρηση προτεραιότητας.",
    "it": "Stop. Dare precedenza.",
    "es": "Stop. Ceda el paso.",
-   "pt": "Stop. Dê prioridade."
+   "pt": "Stop. Dê prioridade.",
+   "fr": "Stop. Cédez le passage."
   },
   "meaning": {
    "de": "Vollständig anhalten – an der Haltlinie oder wo die Straße einzusehen ist – und Vorfahrt gewähren.",
@@ -828,7 +879,8 @@
    "el": "Σταμάτα εντελώς — στη γραμμή ή εκεί από όπου βλέπεις — και δώσε προτεραιότητα.",
    "it": "Fermati del tutto — alla linea o dove vedi — e dai la precedenza.",
    "es": "Detente del todo — en la línea o donde veas — y cede el paso.",
-   "pt": "Para por completo — na linha ou onde vês — e dá prioridade."
+   "pt": "Para por completo — na linha ou onde vês — e dá prioridade.",
+   "fr": "Arrête-toi complètement — à la ligne ou là où tu vois — et cède le passage."
   }
  },
  {
@@ -846,7 +898,8 @@
    "el": "Προτεραιότητα στην αντίθετη κυκλοφορία",
    "it": "Dare precedenza nei sensi unici alternati",
    "es": "Prioridad al sentido contrario",
-   "pt": "Prioridade ao trânsito em sentido contrário"
+   "pt": "Prioridade ao trânsito em sentido contrário",
+   "fr": "Priorité au sens inverse"
   },
   "meaning": {
    "de": "An der Engstelle hat der Gegenverkehr Vorrang. Wenn nötig, warten.",
@@ -860,7 +913,8 @@
    "el": "Στο στενό τμήμα προτεραιότητα έχουν οι αντίθετοι. Περίμενε αν χρειαστεί.",
    "it": "Nella strettoia ha la precedenza il traffico di fronte. Aspetta se serve.",
    "es": "En el estrechamiento tiene prioridad el tráfico de frente. Espera si hace falta.",
-   "pt": "No estreitamento tem prioridade o trânsito que vem de frente. Espera se for preciso."
+   "pt": "No estreitamento tem prioridade o trânsito que vem de frente. Espera se for preciso.",
+   "fr": "Dans le rétrécissement, la circulation d'en face a la priorité. Attends si nécessaire."
   }
  },
  {
@@ -878,7 +932,8 @@
    "el": "Προτεραιότητα στην επόμενη διασταύρωση",
    "it": "Precedenza al prossimo incrocio",
    "es": "Prioridad en el próximo cruce",
-   "pt": "Prioridade no próximo cruzamento"
+   "pt": "Prioridade no próximo cruzamento",
+   "fr": "Priorité au prochain carrefour"
   },
   "meaning": {
    "de": "Vorfahrt nur an der nächsten Kreuzung oder Einmündung.",
@@ -892,7 +947,8 @@
    "el": "Προτεραιότητα μόνο στην επόμενη διασταύρωση.",
    "it": "Precedenza solo al prossimo incrocio.",
    "es": "Prioridad solo en el próximo cruce.",
-   "pt": "Prioridade só no próximo cruzamento."
+   "pt": "Prioridade só no próximo cruzamento.",
+   "fr": "Priorité seulement au prochain carrefour."
   }
  },
  {
@@ -910,7 +966,8 @@
    "el": "Οδός προτεραιότητας",
    "it": "Diritto di precedenza",
    "es": "Vía con prioridad",
-   "pt": "Via com prioridade"
+   "pt": "Via com prioridade",
+   "fr": "Route prioritaire"
   },
   "meaning": {
    "de": "Vorfahrt an allen folgenden Kreuzungen, bis Zeichen 307 oder 205 kommt.",
@@ -924,7 +981,8 @@
    "el": "Προτεραιότητα σε κάθε διασταύρωση μέχρι την πινακίδα 307 ή 205.",
    "it": "Precedenza a ogni incrocio fino al segnale 307 o 205.",
    "es": "Prioridad en cada cruce hasta la señal 307 o 205.",
-   "pt": "Prioridade em cada cruzamento até ao sinal 307 ou 205."
+   "pt": "Prioridade em cada cruzamento até ao sinal 307 ou 205.",
+   "fr": "Priorité à chaque carrefour jusqu'au panneau 307 ou 205."
   }
  },
  {
@@ -942,7 +1000,8 @@
    "el": "Τέλος οδού προτεραιότητας",
    "it": "Fine del diritto di precedenza",
    "es": "Fin de vía con prioridad",
-   "pt": "Fim de via com prioridade"
+   "pt": "Fim de via com prioridade",
+   "fr": "Fin de route prioritaire"
   },
   "meaning": {
    "de": "Die Vorfahrtstraße endet. Danach wieder auf Schilder oder „rechts vor links“ achten.",
@@ -956,7 +1015,8 @@
    "el": "Η οδός προτεραιότητας τελειώνει. Αποφασίζουν ξανά οι πινακίδες ή η «προτεραιότητα από δεξιά».",
    "it": "La strada principale finisce. Decidono di nuovo i segnali o «la destra ha la precedenza».",
    "es": "La vía con prioridad termina. Vuelven a decidir las señales o la «prioridad a la derecha».",
-   "pt": "A via com prioridade acaba. Voltam a decidir os sinais ou a «prioridade à direita»."
+   "pt": "A via com prioridade acaba. Voltam a decidir os sinais ou a «prioridade à direita».",
+   "fr": "La route prioritaire se termine. Ce sont de nouveau les panneaux ou la « priorité à droite » qui décident."
   }
  },
  {
@@ -974,7 +1034,8 @@
    "el": "Προτεραιότητα έναντι της αντίθετης κυκλοφορίας",
    "it": "Diritto di precedenza nei sensi unici alternati",
    "es": "Prioridad respecto al sentido contrario",
-   "pt": "Prioridade sobre o trânsito em sentido contrário"
+   "pt": "Prioridade sobre o trânsito em sentido contrário",
+   "fr": "Priorité par rapport au sens inverse"
   },
   "meaning": {
    "de": "An der Engstelle haben Sie Vorrang – achten Sie trotzdem auf den Gegenverkehr.",
@@ -988,7 +1049,8 @@
    "el": "Στο στενό τμήμα έχεις προτεραιότητα — πρόσεχε όμως τους αντίθετους.",
    "it": "Nella strettoia hai la precedenza — ma guarda comunque il traffico di fronte.",
    "es": "En el estrechamiento tienes prioridad — aun así, vigila el tráfico de frente.",
-   "pt": "No estreitamento tens prioridade — mesmo assim, atenção ao trânsito de frente."
+   "pt": "No estreitamento tens prioridade — mesmo assim, atenção ao trânsito de frente.",
+   "fr": "Dans le rétrécissement, tu as la priorité — surveille tout de même la circulation d'en face."
   }
  },
  {
@@ -1006,7 +1068,8 @@
    "el": "Υποχρεωτική στροφή δεξιά",
    "it": "Direzione obbligatoria a destra",
    "es": "Giro obligatorio a la derecha",
-   "pt": "Viragem obrigatória à direita"
+   "pt": "Viragem obrigatória à direita",
+   "fr": "Obligation de tourner à droite"
   },
   "meaning": {
    "de": "Hier nur nach rechts fahren.",
@@ -1020,7 +1083,8 @@
    "el": "Εδώ πρέπει να στρίψεις δεξιά.",
    "it": "Qui devi svoltare a destra.",
    "es": "Aquí debes girar a la derecha.",
-   "pt": "Aqui tens de virar à direita."
+   "pt": "Aqui tens de virar à direita.",
+   "fr": "Ici, tu dois tourner à droite."
   }
  },
  {
@@ -1038,7 +1102,8 @@
    "el": "Υποχρεωτική στροφή αριστερά",
    "it": "Direzione obbligatoria a sinistra",
    "es": "Giro obligatorio a la izquierda",
-   "pt": "Viragem obrigatória à esquerda"
+   "pt": "Viragem obrigatória à esquerda",
+   "fr": "Obligation de tourner à gauche"
   },
   "meaning": {
    "de": "Hier nur nach links fahren.",
@@ -1052,7 +1117,8 @@
    "el": "Εδώ πρέπει να στρίψεις αριστερά.",
    "it": "Qui devi svoltare a sinistra.",
    "es": "Aquí debes girar a la izquierda.",
-   "pt": "Aqui tens de virar à esquerda."
+   "pt": "Aqui tens de virar à esquerda.",
+   "fr": "Ici, tu dois tourner à gauche."
   }
  },
  {
@@ -1070,7 +1136,8 @@
    "el": "Υποχρεωτικά ευθεία",
    "it": "Direzione obbligatoria diritto",
    "es": "Sentido obligatorio recto",
-   "pt": "Sentido obrigatório em frente"
+   "pt": "Sentido obrigatório em frente",
+   "fr": "Direction obligatoire tout droit"
   },
   "meaning": {
    "de": "Hier nur geradeaus fahren.",
@@ -1084,7 +1151,8 @@
    "el": "Πρέπει να πας ευθεία.",
    "it": "Devi andare dritto.",
    "es": "Debes seguir recto.",
-   "pt": "Tens de seguir em frente."
+   "pt": "Tens de seguir em frente.",
+   "fr": "Tu dois continuer tout droit."
   }
  },
  {
@@ -1102,7 +1170,8 @@
    "el": "Στροφή δεξιά εδώ",
    "it": "Svolta a destra qui",
    "es": "Giro a la derecha aquí",
-   "pt": "Virar à direita aqui"
+   "pt": "Virar à direita aqui",
+   "fr": "Tourner à droite ici"
   },
   "meaning": {
    "de": "An dieser Stelle rechts abbiegen.",
@@ -1116,7 +1185,8 @@
    "el": "Στρίψε δεξιά σε αυτό το σημείο.",
    "it": "Svolta a destra in questo punto.",
    "es": "Gira a la derecha en este punto.",
-   "pt": "Vira à direita neste ponto."
+   "pt": "Vira à direita neste ponto.",
+   "fr": "Tourne à droite à cet endroit."
   }
  },
  {
@@ -1134,7 +1204,8 @@
    "el": "Ευθεία ή δεξιά",
    "it": "Diritto o a destra",
    "es": "Recto o a la derecha",
-   "pt": "Em frente ou à direita"
+   "pt": "Em frente ou à direita",
+   "fr": "Tout droit ou à droite"
   },
   "meaning": {
    "de": "Nur geradeaus oder nach rechts.",
@@ -1148,7 +1219,8 @@
    "el": "Μόνο ευθεία ή δεξιά.",
    "it": "Solo dritto o a destra.",
    "es": "Solo recto o a la derecha.",
-   "pt": "Só em frente ou à direita."
+   "pt": "Só em frente ou à direita.",
+   "fr": "Seulement tout droit ou à droite."
   }
  },
  {
@@ -1166,7 +1238,8 @@
    "el": "Κυκλικός κόμβος",
    "it": "Rotatoria",
    "es": "Glorieta",
-   "pt": "Rotunda"
+   "pt": "Rotunda",
+   "fr": "Giratoire"
   },
   "meaning": {
    "de": "Im Kreisverkehr nur rechts herum fahren. Mit Zeichen 205 hat der Kreis Vorfahrt.",
@@ -1180,7 +1253,8 @@
    "el": "Κινήσου μόνο αντίθετα από τους δείκτες του ρολογιού. Με την πινακίδα 205 προτεραιότητα έχει η κυκλοφορία στον κόμβο.",
    "it": "Circola solo in senso antiorario. Con il segnale 205 ha la precedenza chi è nella rotatoria.",
    "es": "Circula solo en sentido antihorario. Con la señal 205, tiene prioridad el tráfico de la glorieta.",
-   "pt": "Circula só no sentido contrário ao dos ponteiros do relógio. Com o sinal 205, o trânsito da rotunda tem prioridade."
+   "pt": "Circula só no sentido contrário ao dos ponteiros do relógio. Com o sinal 205, o trânsito da rotunda tem prioridade.",
+   "fr": "Circule uniquement dans le sens inverse des aiguilles d'une montre. Avec le panneau 205, la circulation dans le giratoire a la priorité."
   }
  },
  {
@@ -1198,7 +1272,8 @@
    "el": "Μονόδρομος",
    "it": "Senso unico",
    "es": "Sentido único",
-   "pt": "Sentido único"
+   "pt": "Sentido único",
+   "fr": "Sens unique"
   },
   "meaning": {
    "de": "Nur in Pfeilrichtung fahren. Halten und Parken auch links erlaubt.",
@@ -1212,7 +1287,8 @@
    "el": "Κινήσου μόνο προς το βέλος. Στάση και στάθμευση επιτρέπονται και αριστερά.",
    "it": "Circola solo nella direzione della freccia. Fermata e sosta consentite anche a sinistra.",
    "es": "Circula solo en el sentido de la flecha. Parar y estacionar también a la izquierda.",
-   "pt": "Circula só no sentido da seta. Parar e estacionar também à esquerda."
+   "pt": "Circula só no sentido da seta. Parar e estacionar também à esquerda.",
+   "fr": "Circule uniquement dans le sens de la flèche. S'arrêter et stationner est aussi permis à gauche."
   }
  },
  {
@@ -1230,7 +1306,8 @@
    "el": "Παράκαμψη από δεξιά",
    "it": "Passaggio obbligatorio a destra",
    "es": "Paso obligatorio por la derecha",
-   "pt": "Passagem obrigatória pela direita"
+   "pt": "Passagem obrigatória pela direita",
+   "fr": "Contournement obligatoire par la droite"
   },
   "meaning": {
    "de": "Rechts am Hindernis oder der Insel vorbeifahren.",
@@ -1244,7 +1321,8 @@
    "el": "Πέρνα το εμπόδιο ή τη νησίδα από δεξιά.",
    "it": "Supera l’ostacolo o l’isola a destra.",
    "es": "Rebasa el obstáculo o la isleta por la derecha.",
-   "pt": "Contorna o obstáculo ou a ilha pela direita."
+   "pt": "Contorna o obstáculo ou a ilha pela direita.",
+   "fr": "Contourne l'obstacle ou l'îlot par la droite."
   }
  },
  {
@@ -1262,7 +1340,8 @@
    "el": "Ποδηλατόδρομος",
    "it": "Pista ciclabile",
    "es": "Vía ciclista",
-   "pt": "Ciclovia"
+   "pt": "Ciclovia",
+   "fr": "Piste cyclable"
   },
   "meaning": {
    "de": "Nur für Radfahrer (und E-Scooter). Radfahrer müssen ihn benutzen.",
@@ -1276,7 +1355,8 @@
    "el": "Μόνο για ποδηλάτες (και ηλεκτρικά πατίνια). Οι ποδηλάτες πρέπει να τον χρησιμοποιούν.",
    "it": "Solo per ciclisti (e monopattini elettrici). I ciclisti devono usarla.",
    "es": "Solo para ciclistas (y patinetes eléctricos). Los ciclistas deben usarla.",
-   "pt": "Só para ciclistas (e trotinetes elétricas). Os ciclistas têm de a usar."
+   "pt": "Só para ciclistas (e trotinetes elétricas). Os ciclistas têm de a usar.",
+   "fr": "Réservée aux cyclistes (et aux trottinettes électriques). Les cyclistes doivent l'utiliser."
   }
  },
  {
@@ -1294,7 +1374,8 @@
    "el": "Πεζόδρομος",
    "it": "Percorso pedonale",
    "es": "Vía peatonal",
-   "pt": "Via pedonal"
+   "pt": "Via pedonal",
+   "fr": "Chemin piéton"
   },
   "meaning": {
    "de": "Nur für Fußgänger.",
@@ -1308,7 +1389,8 @@
    "el": "Μόνο για πεζούς.",
    "it": "Solo per pedoni.",
    "es": "Solo para peatones.",
-   "pt": "Só para peões."
+   "pt": "Só para peões.",
+   "fr": "Réservé aux piétons."
   }
  },
  {
@@ -1326,7 +1408,8 @@
    "el": "Κοινός διάδρομος πεζών και ποδηλάτων",
    "it": "Percorso pedonale e ciclabile promiscuo",
    "es": "Vía compartida peatones y bicis",
-   "pt": "Via partilhada peões e bicicletas"
+   "pt": "Via partilhada peões e bicicletas",
+   "fr": "Voie partagée piétons et vélos"
   },
   "meaning": {
    "de": "Fußgänger und Radfahrer teilen sich den Weg. Kein Kfz-Verkehr.",
@@ -1340,7 +1423,8 @@
    "el": "Πεζοί και ποδηλάτες μοιράζονται τον διάδρομο. Χωρίς μηχανοκίνητα.",
    "it": "Pedoni e ciclisti condividono il percorso. Niente veicoli a motore.",
    "es": "Peatones y ciclistas comparten la vía. Sin vehículos de motor.",
-   "pt": "Peões e ciclistas partilham a via. Sem veículos a motor."
+   "pt": "Peões e ciclistas partilham a via. Sem veículos a motor.",
+   "fr": "Piétons et cyclistes partagent la voie. Pas de véhicules à moteur."
   }
  },
  {
@@ -1358,7 +1442,8 @@
    "el": "Χωρισμένος διάδρομος ποδηλάτων και πεζών",
    "it": "Percorso ciclabile e pedonale separato",
    "es": "Vía separada bicis y peatones",
-   "pt": "Via separada bicicletas e peões"
+   "pt": "Via separada bicicletas e peões",
+   "fr": "Voie séparée vélos et piétons"
   },
   "meaning": {
    "de": "Radfahrer und Fußgänger haben jeweils ihre Seite.",
@@ -1372,7 +1457,8 @@
    "el": "Ποδηλάτες και πεζοί μένουν ο καθένας στη δική του πλευρά.",
    "it": "Ciclisti e pedoni restano ciascuno dal proprio lato.",
    "es": "Ciclistas y peatones van cada uno por su lado.",
-   "pt": "Ciclistas e peões vão cada um do seu lado."
+   "pt": "Ciclistas e peões vão cada um do seu lado.",
+   "fr": "Cyclistes et piétons circulent chacun de leur côté."
   }
  },
  {
@@ -1390,7 +1476,8 @@
    "el": "Ζώνη πεζών",
    "it": "Zona pedonale",
    "es": "Zona peatonal",
-   "pt": "Zona pedonal"
+   "pt": "Zona pedonal",
+   "fr": "Zone piétonne"
   },
   "meaning": {
    "de": "Fußgängerzone. Fahrzeuge nur, wenn ein Zusatzzeichen es erlaubt, dann mit Schrittgeschwindigkeit.",
@@ -1404,7 +1491,8 @@
    "el": "Ζώνη πεζών. Οχήματα μόνο αν το επιτρέπει πινακίδα, και τότε με ταχύτητα βαδίσματος.",
    "it": "Zona pedonale. Veicoli solo se un pannello lo consente, e allora a passo d’uomo.",
    "es": "Zona peatonal. Vehículos solo si un panel lo permite, y entonces al paso.",
-   "pt": "Zona pedonal. Veículos só se um painel o permitir, e então a passo."
+   "pt": "Zona pedonal. Veículos só se um painel o permitir, e então a passo.",
+   "fr": "Zone piétonne. Véhicules seulement si un panonceau le permet, et alors au pas."
   }
  },
  {
@@ -1422,7 +1510,8 @@
    "el": "Οδός ποδηλάτων",
    "it": "Strada ciclabile",
    "es": "Calle ciclista",
-   "pt": "Rua para bicicletas"
+   "pt": "Rua para bicicletas",
+   "fr": "Rue cyclable"
   },
   "meaning": {
    "de": "Fahrradstraße: andere Fahrzeuge nur mit Zusatzzeichen, höchstens 30 km/h, Radfahrer dürfen nebeneinander fahren.",
@@ -1436,7 +1525,8 @@
    "el": "Οδός ποδηλάτων: άλλα οχήματα μόνο με πινακίδα, το πολύ 30 km/h, οι ποδηλάτες μπορούν να κινούνται δίπλα-δίπλα.",
    "it": "Strada ciclabile: altri veicoli solo con pannello, al massimo 30 km/h, i ciclisti possono andare affiancati.",
    "es": "Calle ciclista: otros vehículos solo con panel, máximo 30 km/h, los ciclistas pueden ir en paralelo.",
-   "pt": "Rua para bicicletas: outros veículos só com painel, máximo 30 km/h, os ciclistas podem andar lado a lado."
+   "pt": "Rua para bicicletas: outros veículos só com painel, máximo 30 km/h, os ciclistas podem andar lado a lado.",
+   "fr": "Rue cyclable : autres véhicules seulement avec panonceau, 30 km/h au maximum, les cyclistes peuvent rouler côte à côte."
   }
  },
  {
@@ -1454,7 +1544,8 @@
    "el": "Λεωφορειολωρίδα",
    "it": "Corsia riservata agli autobus",
    "es": "Carril bus",
-   "pt": "Faixa BUS"
+   "pt": "Faixa BUS",
+   "fr": "Voie de bus"
   },
   "meaning": {
    "de": "Nur für Linienbusse und, wenn ein Zusatzzeichen es erlaubt, z. B. Taxis oder Radfahrer.",
@@ -1468,7 +1559,8 @@
    "el": "Μόνο για λεωφορεία, και για άλλους όπως ταξί ή ποδηλάτες αν το επιτρέπει πινακίδα.",
    "it": "Solo per autobus e, se un pannello lo consente, anche per altri come taxi o ciclisti.",
    "es": "Solo para autobuses y, si un panel lo permite, para otros como taxis o bicis.",
-   "pt": "Só para autocarros e, se um painel o permitir, para outros como táxis ou bicicletas."
+   "pt": "Só para autocarros e, se um painel o permitir, para outros como táxis ou bicicletas.",
+   "fr": "Réservée aux bus et, si un panonceau le permet, à d'autres comme les taxis ou les vélos."
   }
  },
  {
@@ -1486,7 +1578,8 @@
    "el": "Ελάχιστη ταχύτητα",
    "it": "Limite minimo di velocità",
    "es": "Velocidad mínima",
-   "pt": "Velocidade mínima"
+   "pt": "Velocidade mínima",
+   "fr": "Vitesse minimale"
   },
   "meaning": {
    "de": "Nicht langsamer fahren als angegeben, wenn Verkehr, Sicht und Wetter es zulassen.",
@@ -1500,7 +1593,8 @@
    "el": "Μην πηγαίνεις πιο αργά από την ένδειξη, εκτός αν το απαιτούν η κυκλοφορία, η ορατότητα ή ο καιρός.",
    "it": "Non andare più piano dell’indicato, salvo che traffico, visibilità o meteo lo richiedano.",
    "es": "No circules más despacio de lo indicado, salvo que lo exijan el tráfico, la visibilidad o el tiempo.",
-   "pt": "Não circules mais devagar do que o indicado, salvo se o trânsito, a visibilidade ou o tempo o exigirem."
+   "pt": "Não circules mais devagar do que o indicado, salvo se o trânsito, a visibilidade ou o tempo o exigirem.",
+   "fr": "Ne roule pas plus lentement qu'indiqué, sauf si la circulation, la visibilité ou la météo l'exigent."
   }
  },
  {
@@ -1518,7 +1612,8 @@
    "el": "Απαγόρευση κυκλοφορίας οχημάτων",
    "it": "Divieto di transito",
    "es": "Circulación prohibida",
-   "pt": "Trânsito proibido"
+   "pt": "Trânsito proibido",
+   "fr": "Circulation interdite"
   },
   "meaning": {
    "de": "Kein Fahrzeug darf fahren. Fahrräder und Krafträder schieben ist erlaubt.",
@@ -1532,7 +1627,8 @@
    "el": "Κανένα όχημα. Το σπρώξιμο ποδηλάτων και μοτοσικλετών επιτρέπεται.",
    "it": "Nessun veicolo. Si possono spingere bici e moto.",
    "es": "Ningún vehículo. Se pueden llevar a mano bicis y motos.",
-   "pt": "Nenhum veículo. Podem levar-se à mão bicicletas e motas."
+   "pt": "Nenhum veículo. Podem levar-se à mão bicicletas e motas.",
+   "fr": "Aucun véhicule. On peut pousser vélos et motos à la main."
   }
  },
  {
@@ -1550,7 +1646,8 @@
    "el": "Απαγόρευση επιβατικών",
    "it": "Divieto di transito alle auto",
    "es": "Entrada prohibida a turismos",
-   "pt": "Trânsito proibido a ligeiros"
+   "pt": "Trânsito proibido a ligeiros",
+   "fr": "Accès interdit aux voitures"
   },
   "meaning": {
    "de": "Verbot für Kraftwagen und sonstige mehrspurige Kraftfahrzeuge.",
@@ -1564,7 +1661,8 @@
    "el": "Χωρίς επιβατικά και άλλα πολυτροχιά μηχανοκίνητα.",
    "it": "Niente auto né altri veicoli a motore a più tracce.",
    "es": "Sin turismos ni otros vehículos de motor de varias huellas.",
-   "pt": "Sem ligeiros nem outros veículos a motor de mais de duas rodas em linha."
+   "pt": "Sem ligeiros nem outros veículos a motor de mais de duas rodas em linha.",
+   "fr": "Pas de voitures particulières ni d'autres véhicules à moteur à plusieurs voies."
   }
  },
  {
@@ -1582,7 +1680,8 @@
    "el": "Απαγόρευση φορτηγών άνω των 3,5 t",
    "it": "Divieto di transito ai veicoli merci oltre 3,5 t",
    "es": "Entrada prohibida a vehículos de mercancías de más de 3,5 t",
-   "pt": "Trânsito proibido a veículos de mercadorias com mais de 3,5 t"
+   "pt": "Trânsito proibido a veículos de mercadorias com mais de 3,5 t",
+   "fr": "Accès interdit aux véhicules de marchandises de plus de 3,5 t"
   },
   "meaning": {
    "de": "Verbot für Lkw und Zugmaschinen über 3,5 t zulässige Gesamtmasse, auch mit Anhänger.",
@@ -1596,7 +1695,8 @@
    "el": "Χωρίς φορτηγά και ελκυστήρες άνω των 3,5 t μέγιστης μάζας, μαζί με τα ρυμουλκούμενα.",
    "it": "Niente camion e trattori oltre 3,5 t di massa complessiva, rimorchi compresi.",
    "es": "Sin camiones ni tractores de más de 3,5 t de masa máxima, remolques incluidos.",
-   "pt": "Sem camiões nem tratores com mais de 3,5 t de massa máxima, reboques incluídos."
+   "pt": "Sem camiões nem tratores com mais de 3,5 t de massa máxima, reboques incluídos.",
+   "fr": "Pas de camions ni de tracteurs de plus de 3,5 t de masse maximale, remorques comprises."
   }
  },
  {
@@ -1614,7 +1714,8 @@
    "el": "Απαγόρευση ποδηλάτων",
    "it": "Divieto di transito alle biciclette",
    "es": "Entrada prohibida a bicicletas",
-   "pt": "Trânsito proibido a bicicletas"
+   "pt": "Trânsito proibido a bicicletas",
+   "fr": "Accès interdit aux vélos"
   },
   "meaning": {
    "de": "Radfahren verboten.",
@@ -1628,7 +1729,8 @@
    "el": "Απαγορεύεται το ποδήλατο.",
    "it": "Vietato andare in bici.",
    "es": "Prohibido ir en bici.",
-   "pt": "Proibido andar de bicicleta."
+   "pt": "Proibido andar de bicicleta.",
+   "fr": "Interdit de rouler à vélo."
   }
  },
  {
@@ -1646,7 +1748,8 @@
    "el": "Απαγόρευση μοτοσικλετών",
    "it": "Divieto di transito alle moto",
    "es": "Entrada prohibida a motocicletas",
-   "pt": "Trânsito proibido a motociclos"
+   "pt": "Trânsito proibido a motociclos",
+   "fr": "Accès interdit aux motos"
   },
   "meaning": {
    "de": "Verbot für Krafträder.",
@@ -1660,7 +1763,8 @@
    "el": "Χωρίς μοτοσικλέτες.",
    "it": "Niente moto.",
    "es": "Sin motos.",
-   "pt": "Sem motas."
+   "pt": "Sem motas.",
+   "fr": "Pas de motos."
   }
  },
  {
@@ -1678,7 +1782,8 @@
    "el": "Απαγόρευση πεζών",
    "it": "Divieto di transito ai pedoni",
    "es": "Entrada prohibida a peatones",
-   "pt": "Trânsito proibido a peões"
+   "pt": "Trânsito proibido a peões",
+   "fr": "Accès interdit aux piétons"
   },
   "meaning": {
    "de": "Fußgänger dürfen hier nicht gehen.",
@@ -1692,7 +1797,8 @@
    "el": "Χωρίς πεζούς.",
    "it": "Niente pedoni.",
    "es": "Sin peatones.",
-   "pt": "Sem peões."
+   "pt": "Sem peões.",
+   "fr": "Pas de piétons."
   }
  },
  {
@@ -1710,7 +1816,8 @@
    "el": "Απαγόρευση μηχανοκίνητων",
    "it": "Divieto di transito ai veicoli a motore",
    "es": "Entrada prohibida a vehículos de motor",
-   "pt": "Trânsito proibido a veículos a motor"
+   "pt": "Trânsito proibido a veículos a motor",
+   "fr": "Accès interdit aux véhicules à moteur"
   },
   "meaning": {
    "de": "Verbot für Krafträder und alle anderen Kraftfahrzeuge.",
@@ -1724,7 +1831,8 @@
    "el": "Χωρίς μοτοσικλέτες και άλλα μηχανοκίνητα.",
    "it": "Niente moto né altri veicoli a motore.",
    "es": "Sin motos ni otros vehículos de motor.",
-   "pt": "Sem motas nem outros veículos a motor."
+   "pt": "Sem motas nem outros veículos a motor.",
+   "fr": "Pas de motos ni d'autres véhicules à moteur."
   }
  },
  {
@@ -1742,7 +1850,8 @@
    "el": "Όριο βάρους",
    "it": "Limite di peso",
    "es": "Limitación de masa",
-   "pt": "Limitação de massa"
+   "pt": "Limitação de massa",
+   "fr": "Limitation de masse"
   },
   "meaning": {
    "de": "Verbot für Fahrzeuge, die schwerer sind als angegeben.",
@@ -1756,7 +1865,8 @@
    "el": "Χωρίς οχήματα βαρύτερα από την ένδειξη.",
    "it": "Niente veicoli più pesanti dell’indicato.",
    "es": "Sin vehículos que pesen más de lo indicado.",
-   "pt": "Sem veículos que pesem mais do que o indicado."
+   "pt": "Sem veículos que pesem mais do que o indicado.",
+   "fr": "Pas de véhicules plus lourds qu'indiqué."
   }
  },
  {
@@ -1774,7 +1884,8 @@
    "el": "Όριο πλάτους",
    "it": "Limite di larghezza",
    "es": "Limitación de anchura",
-   "pt": "Limitação de largura"
+   "pt": "Limitação de largura",
+   "fr": "Limitation de largeur"
   },
   "meaning": {
    "de": "Verbot für Fahrzeuge, die breiter sind als angegeben (einschließlich Ladung).",
@@ -1788,7 +1899,8 @@
    "el": "Χωρίς οχήματα φαρδύτερα από την ένδειξη, μαζί με το φορτίο.",
    "it": "Niente veicoli più larghi dell’indicato, carico compreso.",
    "es": "Sin vehículos más anchos de lo indicado, carga incluida.",
-   "pt": "Sem veículos mais largos do que o indicado, carga incluída."
+   "pt": "Sem veículos mais largos do que o indicado, carga incluída.",
+   "fr": "Pas de véhicules plus larges qu'indiqué, chargement compris."
   }
  },
  {
@@ -1806,7 +1918,8 @@
    "el": "Όριο ύψους",
    "it": "Limite di altezza",
    "es": "Limitación de altura",
-   "pt": "Limitação de altura"
+   "pt": "Limitação de altura",
+   "fr": "Limitation de hauteur"
   },
   "meaning": {
    "de": "Verbot für Fahrzeuge, die höher sind als angegeben (einschließlich Ladung).",
@@ -1820,7 +1933,8 @@
    "el": "Χωρίς οχήματα ψηλότερα από την ένδειξη, μαζί με το φορτίο.",
    "it": "Niente veicoli più alti dell’indicato, carico compreso.",
    "es": "Sin vehículos más altos de lo indicado, carga incluida.",
-   "pt": "Sem veículos mais altos do que o indicado, carga incluída."
+   "pt": "Sem veículos mais altos do que o indicado, carga incluída.",
+   "fr": "Pas de véhicules plus hauts qu'indiqué, chargement compris."
   }
  },
  {
@@ -1838,7 +1952,8 @@
    "el": "Απαγόρευση εισόδου",
    "it": "Senso vietato",
    "es": "Entrada prohibida",
-   "pt": "Sentido proibido"
+   "pt": "Sentido proibido",
+   "fr": "Sens interdit"
   },
   "meaning": {
    "de": "Hier darf nicht eingefahren werden.",
@@ -1852,7 +1967,8 @@
    "el": "Μην μπαίνεις.",
    "it": "Non entrare.",
    "es": "No entres.",
-   "pt": "Não entres."
+   "pt": "Não entres.",
+   "fr": "N'entre pas."
   }
  },
  {
@@ -1870,7 +1986,8 @@
    "el": "Ζώνη χαμηλών εκπομπών",
    "it": "Zona a basse emissioni",
    "es": "Zona de bajas emisiones",
-   "pt": "Zona de emissões reduzidas"
+   "pt": "Zona de emissões reduzidas",
+   "fr": "Zone à faibles émissions"
   },
   "meaning": {
    "de": "Nur Fahrzeuge mit der vorgeschriebenen Plakette dürfen einfahren.",
@@ -1884,7 +2001,8 @@
    "el": "Είσοδος μόνο για οχήματα με το απαιτούμενο αυτοκόλλητο.",
    "it": "Possono entrare solo i veicoli con il bollino richiesto.",
    "es": "Solo pueden entrar vehículos con la etiqueta exigida.",
-   "pt": "Só podem entrar veículos com o dístico exigido."
+   "pt": "Só podem entrar veículos com o dístico exigido.",
+   "fr": "Seuls les véhicules portant la vignette exigée peuvent entrer."
   }
  },
  {
@@ -1902,7 +2020,8 @@
    "el": "Απαγόρευση αναστροφής",
    "it": "Divieto di inversione",
    "es": "Prohibido cambiar de sentido",
-   "pt": "Proibido inverter o sentido de marcha"
+   "pt": "Proibido inverter o sentido de marcha",
+   "fr": "Demi-tour interdit"
   },
   "meaning": {
    "de": "Hier darf nicht gewendet werden.",
@@ -1916,7 +2035,8 @@
    "el": "Εδώ δεν κάνεις αναστροφή.",
    "it": "Qui non si fa inversione.",
    "es": "Aquí no se cambia de sentido.",
-   "pt": "Aqui não se inverte o sentido de marcha."
+   "pt": "Aqui não se inverte o sentido de marcha.",
+   "fr": "Ici, on ne fait pas demi-tour."
   }
  },
  {
@@ -1934,7 +2054,8 @@
    "el": "Όριο ταχύτητας 10",
    "it": "Limite di velocità 10",
    "es": "Velocidad máxima 10",
-   "pt": "Velocidade máxima 10"
+   "pt": "Velocidade máxima 10",
+   "fr": "Vitesse maximale 10"
   },
   "meaning": {
    "de": "Nicht schneller als 10 km/h.",
@@ -1948,7 +2069,8 @@
    "el": "Όχι πάνω από 10 km/h.",
    "it": "Non più di 10 km/h.",
    "es": "No más de 10 km/h.",
-   "pt": "No máximo 10 km/h."
+   "pt": "No máximo 10 km/h.",
+   "fr": "Pas plus de 10 km/h."
   }
  },
  {
@@ -1966,7 +2088,8 @@
    "el": "Όριο ταχύτητας 20",
    "it": "Limite di velocità 20",
    "es": "Velocidad máxima 20",
-   "pt": "Velocidade máxima 20"
+   "pt": "Velocidade máxima 20",
+   "fr": "Vitesse maximale 20"
   },
   "meaning": {
    "de": "Nicht schneller als 20 km/h.",
@@ -1980,7 +2103,8 @@
    "el": "Όχι πάνω από 20 km/h.",
    "it": "Non più di 20 km/h.",
    "es": "No más de 20 km/h.",
-   "pt": "No máximo 20 km/h."
+   "pt": "No máximo 20 km/h.",
+   "fr": "Pas plus de 20 km/h."
   }
  },
  {
@@ -1998,7 +2122,8 @@
    "el": "Όριο ταχύτητας 30",
    "it": "Limite di velocità 30",
    "es": "Velocidad máxima 30",
-   "pt": "Velocidade máxima 30"
+   "pt": "Velocidade máxima 30",
+   "fr": "Vitesse maximale 30"
   },
   "meaning": {
    "de": "Nicht schneller als 30 km/h.",
@@ -2012,7 +2137,8 @@
    "el": "Όχι πάνω από 30 km/h.",
    "it": "Non più di 30 km/h.",
    "es": "No más de 30 km/h.",
-   "pt": "No máximo 30 km/h."
+   "pt": "No máximo 30 km/h.",
+   "fr": "Pas plus de 30 km/h."
   }
  },
  {
@@ -2030,7 +2156,8 @@
    "el": "Όριο ταχύτητας 50",
    "it": "Limite di velocità 50",
    "es": "Velocidad máxima 50",
-   "pt": "Velocidade máxima 50"
+   "pt": "Velocidade máxima 50",
+   "fr": "Vitesse maximale 50"
   },
   "meaning": {
    "de": "Nicht schneller als 50 km/h, bis ein Zeichen die Beschränkung aufhebt.",
@@ -2044,7 +2171,8 @@
    "el": "Όχι πάνω από 50 km/h μέχρι να άρει το όριο μια πινακίδα.",
    "it": "Non più di 50 km/h finché un segnale non revoca il limite.",
    "es": "No más de 50 km/h hasta que una señal levante el límite.",
-   "pt": "No máximo 50 km/h até um sinal levantar o limite."
+   "pt": "No máximo 50 km/h até um sinal levantar o limite.",
+   "fr": "Pas plus de 50 km/h jusqu'à ce qu'un panneau lève la limitation."
   }
  },
  {
@@ -2062,7 +2190,8 @@
    "el": "Όριο ταχύτητας 60",
    "it": "Limite di velocità 60",
    "es": "Velocidad máxima 60",
-   "pt": "Velocidade máxima 60"
+   "pt": "Velocidade máxima 60",
+   "fr": "Vitesse maximale 60"
   },
   "meaning": {
    "de": "Nicht schneller als 60 km/h.",
@@ -2076,7 +2205,8 @@
    "el": "Όχι πάνω από 60 km/h.",
    "it": "Non più di 60 km/h.",
    "es": "No más de 60 km/h.",
-   "pt": "No máximo 60 km/h."
+   "pt": "No máximo 60 km/h.",
+   "fr": "Pas plus de 60 km/h."
   }
  },
  {
@@ -2094,7 +2224,8 @@
    "el": "Όριο ταχύτητας 70",
    "it": "Limite di velocità 70",
    "es": "Velocidad máxima 70",
-   "pt": "Velocidade máxima 70"
+   "pt": "Velocidade máxima 70",
+   "fr": "Vitesse maximale 70"
   },
   "meaning": {
    "de": "Nicht schneller als 70 km/h.",
@@ -2108,7 +2239,8 @@
    "el": "Όχι πάνω από 70 km/h.",
    "it": "Non più di 70 km/h.",
    "es": "No más de 70 km/h.",
-   "pt": "No máximo 70 km/h."
+   "pt": "No máximo 70 km/h.",
+   "fr": "Pas plus de 70 km/h."
   }
  },
  {
@@ -2126,7 +2258,8 @@
    "el": "Όριο ταχύτητας 80",
    "it": "Limite di velocità 80",
    "es": "Velocidad máxima 80",
-   "pt": "Velocidade máxima 80"
+   "pt": "Velocidade máxima 80",
+   "fr": "Vitesse maximale 80"
   },
   "meaning": {
    "de": "Nicht schneller als 80 km/h.",
@@ -2140,7 +2273,8 @@
    "el": "Όχι πάνω από 80 km/h.",
    "it": "Non più di 80 km/h.",
    "es": "No más de 80 km/h.",
-   "pt": "No máximo 80 km/h."
+   "pt": "No máximo 80 km/h.",
+   "fr": "Pas plus de 80 km/h."
   }
  },
  {
@@ -2158,7 +2292,8 @@
    "el": "Όριο ταχύτητας 100",
    "it": "Limite di velocità 100",
    "es": "Velocidad máxima 100",
-   "pt": "Velocidade máxima 100"
+   "pt": "Velocidade máxima 100",
+   "fr": "Vitesse maximale 100"
   },
   "meaning": {
    "de": "Nicht schneller als 100 km/h.",
@@ -2172,7 +2307,8 @@
    "el": "Όχι πάνω από 100 km/h.",
    "it": "Non più di 100 km/h.",
    "es": "No más de 100 km/h.",
-   "pt": "No máximo 100 km/h."
+   "pt": "No máximo 100 km/h.",
+   "fr": "Pas plus de 100 km/h."
   }
  },
  {
@@ -2190,7 +2326,8 @@
    "el": "Όριο ταχύτητας 120",
    "it": "Limite di velocità 120",
    "es": "Velocidad máxima 120",
-   "pt": "Velocidade máxima 120"
+   "pt": "Velocidade máxima 120",
+   "fr": "Vitesse maximale 120"
   },
   "meaning": {
    "de": "Nicht schneller als 120 km/h.",
@@ -2204,7 +2341,8 @@
    "el": "Όχι πάνω από 120 km/h.",
    "it": "Non più di 120 km/h.",
    "es": "No más de 120 km/h.",
-   "pt": "No máximo 120 km/h."
+   "pt": "No máximo 120 km/h.",
+   "fr": "Pas plus de 120 km/h."
   }
  },
  {
@@ -2222,7 +2360,8 @@
    "el": "Όριο ταχύτητας 130",
    "it": "Limite di velocità 130",
    "es": "Velocidad máxima 130",
-   "pt": "Velocidade máxima 130"
+   "pt": "Velocidade máxima 130",
+   "fr": "Vitesse maximale 130"
   },
   "meaning": {
    "de": "Nicht schneller als 130 km/h.",
@@ -2236,7 +2375,8 @@
    "el": "Όχι πάνω από 130 km/h.",
    "it": "Non più di 130 km/h.",
    "es": "No más de 130 km/h.",
-   "pt": "No máximo 130 km/h."
+   "pt": "No máximo 130 km/h.",
+   "fr": "Pas plus de 130 km/h."
   }
  },
  {
@@ -2254,7 +2394,8 @@
    "el": "Ζώνη 30",
    "it": "Zona 30",
    "es": "Zona 30",
-   "pt": "Zona 30"
+   "pt": "Zona 30",
+   "fr": "Zone 30"
   },
   "meaning": {
    "de": "In der ganzen Zone höchstens 30 km/h, meist „rechts vor links“.",
@@ -2268,7 +2409,8 @@
    "el": "30 km/h σε όλη τη ζώνη· συνήθως «προτεραιότητα από δεξιά».",
    "it": "30 km/h in tutta la zona; di solito «la destra ha la precedenza».",
    "es": "30 km/h en toda la zona; normalmente «prioridad a la derecha».",
-   "pt": "30 km/h em toda a zona; normalmente «prioridade à direita»."
+   "pt": "30 km/h em toda a zona; normalmente «prioridade à direita».",
+   "fr": "30 km/h dans toute la zone ; normalement « priorité à droite »."
   }
  },
  {
@@ -2286,7 +2428,8 @@
    "el": "Τέλος ζώνης 30",
    "it": "Fine zona 30",
    "es": "Fin de zona 30",
-   "pt": "Fim de zona 30"
+   "pt": "Fim de zona 30",
+   "fr": "Fin de zone 30"
   },
   "meaning": {
    "de": "Die Tempo-30-Zone endet.",
@@ -2300,7 +2443,8 @@
    "el": "Η ζώνη 30 τελειώνει.",
    "it": "La zona 30 finisce.",
    "es": "La zona 30 termina.",
-   "pt": "A zona 30 acaba."
+   "pt": "A zona 30 acaba.",
+   "fr": "La zone 30 se termine."
   }
  },
  {
@@ -2318,7 +2462,8 @@
    "el": "Απαγόρευση προσπέρασης",
    "it": "Divieto di sorpasso",
    "es": "Adelantamiento prohibido",
-   "pt": "Proibido ultrapassar"
+   "pt": "Proibido ultrapassar",
+   "fr": "Interdiction de dépasser"
   },
   "meaning": {
    "de": "Mehrspurige Kraftfahrzeuge dürfen nicht überholt werden. Einspurige (Rad, Motorrad) schon.",
@@ -2332,7 +2477,8 @@
    "el": "Μην προσπερνάς πολυτροχιά μηχανοκίνητα. Τα μονοτροχιά (ποδήλατα, μοτοσικλέτες) επιτρέπεται.",
    "it": "Non sorpassare veicoli a motore a più tracce. Quelli a una traccia (bici, moto) sì.",
    "es": "No adelantes a vehículos de motor de varias huellas. A los de una huella (bicis, motos) sí.",
-   "pt": "Não ultrapasses veículos a motor de mais de duas rodas em linha. Os de duas rodas (bicicletas, motas) sim."
+   "pt": "Não ultrapasses veículos a motor de mais de duas rodas em linha. Os de duas rodas (bicicletas, motas) sim.",
+   "fr": "Ne dépasse pas les véhicules à moteur à plusieurs voies. Les deux-roues (vélos, motos), si."
   }
  },
  {
@@ -2350,7 +2496,8 @@
    "el": "Απαγόρευση προσπέρασης για φορτηγά άνω των 3,5 t",
    "it": "Divieto di sorpasso per camion oltre 3,5 t",
    "es": "Adelantamiento prohibido a camiones de más de 3,5 t",
-   "pt": "Proibido ultrapassar a camiões com mais de 3,5 t"
+   "pt": "Proibido ultrapassar a camiões com mais de 3,5 t",
+   "fr": "Interdiction de dépasser pour les camions de plus de 3,5 t"
   },
   "meaning": {
    "de": "Gilt für Kfz über 3,5 t und Zugmaschinen – nicht für Pkw und Busse, auch nicht mit Anhänger.",
@@ -2364,7 +2511,8 @@
    "el": "Ισχύει για οχήματα άνω των 3,5 t και ελκυστήρες — όχι για επιβατικά ή λεωφορεία, ούτε με ρυμουλκούμενο.",
    "it": "Vale per veicoli oltre 3,5 t e trattori — non per auto o autobus, nemmeno con rimorchio.",
    "es": "Rige para vehículos de más de 3,5 t y tractores — no para turismos ni autobuses, ni con remolque.",
-   "pt": "Vale para veículos com mais de 3,5 t e tratores — não para ligeiros nem autocarros, nem com reboque."
+   "pt": "Vale para veículos com mais de 3,5 t e tratores — não para ligeiros nem autocarros, nem com reboque.",
+   "fr": "S'applique aux véhicules de plus de 3,5 t et aux tracteurs — pas aux voitures particulières ni aux bus, même avec remorque."
   }
  },
  {
@@ -2382,7 +2530,8 @@
    "el": "Τέλος ορίου ταχύτητας",
    "it": "Fine limite di velocità",
    "es": "Fin de la limitación de velocidad",
-   "pt": "Fim do limite de velocidade"
+   "pt": "Fim do limite de velocidade",
+   "fr": "Fin de limitation de vitesse"
   },
   "meaning": {
    "de": "Die angezeigte Beschränkung endet. Es gilt wieder das allgemeine Limit.",
@@ -2396,7 +2545,8 @@
    "el": "Το όριο της ένδειξης τελειώνει. Ισχύει ξανά το γενικό όριο.",
    "it": "Il limite indicato finisce. Vale di nuovo il limite generale.",
    "es": "El límite indicado termina. Vuelve a regir el límite general.",
-   "pt": "O limite indicado acaba. Volta a valer o limite geral."
+   "pt": "O limite indicado acaba. Volta a valer o limite geral.",
+   "fr": "La limitation indiquée se termine. La limite générale s'applique de nouveau."
   }
  },
  {
@@ -2414,7 +2564,8 @@
    "el": "Τέλος απαγόρευσης προσπέρασης",
    "it": "Fine divieto di sorpasso",
    "es": "Fin de la prohibición de adelantar",
-   "pt": "Fim da proibição de ultrapassar"
+   "pt": "Fim da proibição de ultrapassar",
+   "fr": "Fin d'interdiction de dépasser"
   },
   "meaning": {
    "de": "Das Überholverbot endet.",
@@ -2428,7 +2579,8 @@
    "el": "Η απαγόρευση προσπέρασης τελειώνει.",
    "it": "Il divieto di sorpasso finisce.",
    "es": "La prohibición de adelantar termina.",
-   "pt": "A proibição de ultrapassar acaba."
+   "pt": "A proibição de ultrapassar acaba.",
+   "fr": "L'interdiction de dépasser se termine."
   }
  },
  {
@@ -2446,7 +2598,8 @@
    "el": "Τέλος όλων των απαγορεύσεων",
    "it": "Fine di tutti i divieti",
    "es": "Fin de prohibiciones",
-   "pt": "Fim de todas as proibições"
+   "pt": "Fim de todas as proibições",
+   "fr": "Fin de toutes les interdictions"
   },
   "meaning": {
    "de": "Alle vorher angeordneten Streckenverbote (Tempo, Überholen) enden.",
@@ -2460,7 +2613,8 @@
    "el": "Τελειώνουν όλοι οι περιορισμοί του τμήματος (ταχύτητα, προσπέραση).",
    "it": "Finiscono tutte le limitazioni del tratto (velocità, sorpasso).",
    "es": "Terminan todas las limitaciones del tramo (velocidad, adelantamiento).",
-   "pt": "Acabam todas as limitações do troço (velocidade, ultrapassagem)."
+   "pt": "Acabam todas as limitações do troço (velocidade, ultrapassagem).",
+   "fr": "Toutes les limitations du tronçon se terminent (vitesse, dépassement)."
   }
  },
  {
@@ -2478,7 +2632,8 @@
    "el": "Απαγόρευση στάσης",
    "it": "Divieto di fermata",
    "es": "Parada prohibida",
-   "pt": "Paragem proibida"
+   "pt": "Paragem proibida",
+   "fr": "Arrêt interdit"
   },
   "meaning": {
    "de": "Halten auf der Fahrbahn ist ganz verboten, auch kurz.",
@@ -2492,7 +2647,8 @@
    "el": "Καμία στάση στο οδόστρωμα, ούτε για λίγο.",
    "it": "Nessuna fermata sulla carreggiata, nemmeno breve.",
    "es": "Ninguna parada en la calzada, ni siquiera breve.",
-   "pt": "Nenhuma paragem na faixa de rodagem, nem breve."
+   "pt": "Nenhuma paragem na faixa de rodagem, nem breve.",
+   "fr": "Aucun arrêt sur la chaussée, même bref."
   }
  },
  {
@@ -2510,7 +2666,8 @@
    "el": "Περιορισμένη στάση",
    "it": "Divieto di sosta",
    "es": "Parada restringida",
-   "pt": "Paragem limitada"
+   "pt": "Paragem limitada",
+   "fr": "Arrêt restreint"
   },
   "meaning": {
    "de": "Halten höchstens 3 Minuten, außer zum Ein- und Aussteigen oder Be- und Entladen. Kein Parken.",
@@ -2524,7 +2681,8 @@
    "el": "Στάση το πολύ 3 λεπτά, εκτός για επιβίβαση, αποβίβαση ή φόρτωση. Απαγορεύεται η στάθμευση.",
    "it": "Fermata al massimo 3 minuti, salvo per salire, scendere o caricare. Sosta vietata.",
    "es": "Parada de 3 minutos como máximo, salvo para subir, bajar o cargar. Prohibido estacionar.",
-   "pt": "Paragem de 3 minutos no máximo, salvo para entrar, sair ou carregar. Proibido estacionar."
+   "pt": "Paragem de 3 minutos no máximo, salvo para entrar, sair ou carregar. Proibido estacionar.",
+   "fr": "Arrêt de 3 minutes au maximum, sauf pour monter, descendre ou charger. Stationnement interdit."
   }
  },
  {
@@ -2542,7 +2700,8 @@
    "el": "Ζώνη περιορισμένης στάσης",
    "it": "Zona con divieto di sosta",
    "es": "Zona de parada restringida",
-   "pt": "Zona de paragem limitada"
+   "pt": "Zona de paragem limitada",
+   "fr": "Zone d'arrêt restreint"
   },
   "meaning": {
    "de": "In der ganzen Zone gilt das eingeschränkte Haltverbot, außer auf markierten Parkflächen.",
@@ -2556,7 +2715,8 @@
    "el": "Σε όλη τη ζώνη ισχύει περιορισμένη στάση, εκτός από τις σημασμένες θέσεις.",
    "it": "In tutta la zona vale il divieto di sosta, tranne negli spazi segnati.",
    "es": "En toda la zona rige la parada restringida, salvo en plazas señalizadas.",
-   "pt": "Em toda a zona vale a paragem limitada, salvo em lugares assinalados."
+   "pt": "Em toda a zona vale a paragem limitada, salvo em lugares assinalados.",
+   "fr": "Dans toute la zone, l'arrêt restreint s'applique, sauf sur les emplacements signalés."
   }
  },
  {
@@ -2574,7 +2734,8 @@
    "el": "Χώρος στάθμευσης",
    "it": "Parcheggio",
    "es": "Aparcamiento",
-   "pt": "Estacionamento"
+   "pt": "Estacionamento",
+   "fr": "Parking"
   },
   "meaning": {
    "de": "Hier ist Parken erlaubt; Zusatzzeichen können es beschränken.",
@@ -2588,7 +2749,8 @@
    "el": "Εδώ επιτρέπεται η στάθμευση· πινακίδες μπορεί να την περιορίζουν.",
    "it": "Qui si può sostare; i pannelli possono limitarlo.",
    "es": "Aquí se puede estacionar; los paneles pueden limitarlo.",
-   "pt": "Aqui pode-se estacionar; os painéis podem limitá-lo."
+   "pt": "Aqui pode-se estacionar; os painéis podem limitá-lo.",
+   "fr": "Ici, on peut stationner ; des panonceaux peuvent le limiter."
   }
  },
  {
@@ -2606,7 +2768,8 @@
    "el": "Στάση λεωφορείου ή τραμ",
    "it": "Fermata di autobus o tram",
    "es": "Parada de autobús o tranvía",
-   "pt": "Paragem de autocarro ou elétrico"
+   "pt": "Paragem de autocarro ou elétrico",
+   "fr": "Arrêt de bus ou de tram"
   },
   "meaning": {
    "de": "Haltestelle. Bis zu je 15 m davor und dahinter nicht parken.",
@@ -2620,7 +2783,8 @@
    "el": "Στάση λεωφορείου ή τραμ. Απαγόρευση στάθμευσης 15 m από κάθε πλευρά.",
    "it": "Fermata di autobus o tram. Divieto di sosta per 15 m su ciascun lato.",
    "es": "Parada de autobús o tranvía. Prohibido estacionar 15 m a cada lado.",
-   "pt": "Paragem de autocarro ou elétrico. Proibido estacionar 15 m de cada lado."
+   "pt": "Paragem de autocarro ou elétrico. Proibido estacionar 15 m de cada lado.",
+   "fr": "Arrêt de bus ou de tram. Stationnement interdit sur 15 m de chaque côté."
   }
  },
  {
@@ -2638,7 +2802,8 @@
    "el": "Πινακίδα οικισμού",
    "it": "Inizio centro abitato",
    "es": "Entrada a poblado",
-   "pt": "Início de localidade"
+   "pt": "Início de localidade",
+   "fr": "Entrée d'agglomération"
   },
   "meaning": {
    "de": "Beginn der geschlossenen Ortschaft: Ab hier 50 km/h, wenn nichts anderes gilt.",
@@ -2652,7 +2817,8 @@
    "el": "Αρχή κατοικημένης περιοχής: από εδώ 50 km/h, αν δεν ορίζεται διαφορετικά.",
    "it": "Inizio del centro abitato: da qui 50 km/h salvo diversa indicazione.",
    "es": "Inicio de la zona urbana: desde aquí 50 km/h salvo otra indicación.",
-   "pt": "Início da zona urbana: a partir daqui 50 km/h salvo indicação em contrário."
+   "pt": "Início da zona urbana: a partir daqui 50 km/h salvo indicação em contrário.",
+   "fr": "Début de la zone urbaine : à partir d'ici 50 km/h, sauf indication contraire."
   }
  },
  {
@@ -2670,7 +2836,8 @@
    "el": "Τέλος οικισμού",
    "it": "Fine centro abitato",
    "es": "Salida de poblado",
-   "pt": "Fim de localidade"
+   "pt": "Fim de localidade",
+   "fr": "Sortie d'agglomération"
   },
   "meaning": {
    "de": "Ende der geschlossenen Ortschaft: Es gelten die Regeln für außerorts.",
@@ -2684,7 +2851,8 @@
    "el": "Τέλος κατοικημένης περιοχής: ισχύουν οι κανόνες εκτός οικισμών.",
    "it": "Fine del centro abitato: valgono le regole extraurbane.",
    "es": "Fin de la zona urbana: rigen las normas de fuera de poblado.",
-   "pt": "Fim da zona urbana: valem as regras de fora das localidades."
+   "pt": "Fim da zona urbana: valem as regras de fora das localidades.",
+   "fr": "Fin de la zone urbaine : les règles hors agglomération s'appliquent."
   }
  },
  {
@@ -2702,7 +2870,8 @@
    "el": "Ζώνη ήπιας κυκλοφορίας",
    "it": "Zona residenziale",
    "es": "Zona residencial",
-   "pt": "Zona residencial"
+   "pt": "Zona residencial",
+   "fr": "Zone de rencontre"
   },
   "meaning": {
    "de": "Schrittgeschwindigkeit. Fußgänger dürfen die ganze Straße nutzen, Kinder überall spielen.",
@@ -2716,7 +2885,8 @@
    "el": "Ταχύτητα βαδίσματος. Οι πεζοί χρησιμοποιούν όλο τον δρόμο και τα παιδιά παίζουν παντού.",
    "it": "Passo d’uomo. I pedoni possono usare tutta la strada e i bambini giocare ovunque.",
    "es": "Al paso. Los peatones pueden usar toda la calle y los niños jugar en cualquier sitio.",
-   "pt": "A passo. Os peões podem usar a rua toda e as crianças brincar em qualquer lado."
+   "pt": "A passo. Os peões podem usar a rua toda e as crianças brincar em qualquer lado.",
+   "fr": "Au pas. Les piétons peuvent utiliser toute la rue et les enfants jouer partout."
   }
  },
  {
@@ -2734,7 +2904,8 @@
    "el": "Τέλος ζώνης ήπιας κυκλοφορίας",
    "it": "Fine zona residenziale",
    "es": "Fin de zona residencial",
-   "pt": "Fim de zona residencial"
+   "pt": "Fim de zona residencial",
+   "fr": "Fin de zone de rencontre"
   },
   "meaning": {
    "de": "Wer hinausfährt, muss allen anderen Vorfahrt lassen.",
@@ -2748,7 +2919,8 @@
    "el": "Βγαίνοντας, δώσε προτεραιότητα σε όλους.",
    "it": "Uscendo, dai la precedenza a tutti.",
    "es": "Al salir, cede el paso a todos.",
-   "pt": "Ao sair, dá prioridade a todos."
+   "pt": "Ao sair, dá prioridade a todos.",
+   "fr": "En sortant, cède le passage à tout le monde."
   }
  },
  {
@@ -2766,7 +2938,8 @@
    "el": "Αυτοκινητόδρομος",
    "it": "Autostrada",
    "es": "Autopista",
-   "pt": "Autoestrada"
+   "pt": "Autoestrada",
+   "fr": "Autoroute"
   },
   "meaning": {
    "de": "Nur für Kfz über 60 km/h bauartbedingt. Kein Halten, Wenden, Rückwärtsfahren.",
@@ -2780,7 +2953,8 @@
    "el": "Μόνο για μηχανοκίνητα κατασκευασμένα για πάνω από 60 km/h. Απαγορεύονται στάση, αναστροφή και όπισθεν.",
    "it": "Solo per veicoli a motore costruiti per oltre 60 km/h. Vietati fermata, inversione e retromarcia.",
    "es": "Solo para vehículos de motor fabricados para más de 60 km/h. Prohibido parar, cambiar de sentido y dar marcha atrás.",
-   "pt": "Só para veículos a motor construídos para mais de 60 km/h. Proibido parar, inverter o sentido e fazer marcha-atrás."
+   "pt": "Só para veículos a motor construídos para mais de 60 km/h. Proibido parar, inverter o sentido e fazer marcha-atrás.",
+   "fr": "Réservée aux véhicules à moteur conçus pour plus de 60 km/h. Interdit de s'arrêter, de faire demi-tour et de reculer."
   }
  },
  {
@@ -2798,7 +2972,8 @@
    "el": "Τέλος αυτοκινητόδρομου",
    "it": "Fine autostrada",
    "es": "Fin de autopista",
-   "pt": "Fim de autoestrada"
+   "pt": "Fim de autoestrada",
+   "fr": "Fin d'autoroute"
   },
   "meaning": {
    "de": "Die Autobahnregeln enden.",
@@ -2812,7 +2987,8 @@
    "el": "Οι κανόνες του αυτοκινητόδρομου τελειώνουν.",
    "it": "Le regole dell’autostrada finiscono.",
    "es": "Terminan las normas de autopista.",
-   "pt": "Acabam as regras de autoestrada."
+   "pt": "Acabam as regras de autoestrada.",
+   "fr": "Les règles de l'autoroute se terminent."
   }
  },
  {
@@ -2830,7 +3006,8 @@
    "el": "Οδός ταχείας κυκλοφορίας",
    "it": "Superstrada",
    "es": "Vía para automóviles",
-   "pt": "Via reservada a automóveis"
+   "pt": "Via reservada a automóveis",
+   "fr": "Route pour automobiles"
   },
   "meaning": {
    "de": "Wie Autobahn: nur schnelle Kfz, kein Halten, kein Wenden. Vorfahrt an Einmündungen.",
@@ -2844,7 +3021,8 @@
    "el": "Όπως ο αυτοκινητόδρομος: μόνο γρήγορα μηχανοκίνητα, χωρίς στάση ή αναστροφή. Προτεραιότητα στις διασταυρώσεις.",
    "it": "Come un’autostrada: solo veicoli a motore veloci, niente fermate né inversioni. Precedenza agli incroci.",
    "es": "Como una autopista: solo vehículos de motor rápidos, prohibido parar o cambiar de sentido. Prioridad en los cruces.",
-   "pt": "Como uma autoestrada: só veículos a motor rápidos, proibido parar ou inverter o sentido. Prioridade nos cruzamentos."
+   "pt": "Como uma autoestrada: só veículos a motor rápidos, proibido parar ou inverter o sentido. Prioridade nos cruzamentos.",
+   "fr": "Comme une autoroute : seulement des véhicules à moteur rapides, interdit de s'arrêter ou de faire demi-tour. Priorité aux carrefours."
   }
  },
  {
@@ -2862,7 +3040,8 @@
    "el": "Τέλος οδού ταχείας κυκλοφορίας",
    "it": "Fine superstrada",
    "es": "Fin de vía para automóviles",
-   "pt": "Fim de via reservada a automóveis"
+   "pt": "Fim de via reservada a automóveis",
+   "fr": "Fin de route pour automobiles"
   },
   "meaning": {
    "de": "Die Regeln der Kraftfahrstraße enden.",
@@ -2876,7 +3055,8 @@
    "el": "Οι κανόνες της οδού ταχείας κυκλοφορίας τελειώνουν.",
    "it": "Le regole della superstrada finiscono.",
    "es": "Terminan las normas de la vía para automóviles.",
-   "pt": "Acabam as regras da via reservada a automóveis."
+   "pt": "Acabam as regras da via reservada a automóveis.",
+   "fr": "Les règles de la route pour automobiles se terminent."
   }
  },
  {
@@ -2894,7 +3074,8 @@
    "el": "Διάβαση πεζών",
    "it": "Attraversamento pedonale",
    "es": "Paso de peatones",
-   "pt": "Passadeira"
+   "pt": "Passadeira",
+   "fr": "Passage piéton"
   },
   "meaning": {
    "de": "Fußgänger, die erkennbar hinüber wollen, haben Vorrang. Nicht überholen, 5 m davor nicht halten.",
@@ -2908,7 +3089,8 @@
    "el": "Οι πεζοί που θέλουν προφανώς να περάσουν έχουν προτεραιότητα. Απαγόρευση προσπέρασης· απαγόρευση στάσης 5 m πριν.",
    "it": "I pedoni che vogliono chiaramente attraversare hanno la precedenza. Divieto di sorpasso; divieto di fermata 5 m prima.",
    "es": "Los peatones que claramente quieren cruzar tienen prioridad. Prohibido adelantar; prohibido parar 5 m antes.",
-   "pt": "Os peões que claramente querem atravessar têm prioridade. Proibido ultrapassar; proibido parar 5 m antes."
+   "pt": "Os peões que claramente querem atravessar têm prioridade. Proibido ultrapassar; proibido parar 5 m antes.",
+   "fr": "Les piétons qui veulent clairement traverser ont la priorité. Interdit de dépasser ; interdit de s'arrêter 5 m avant."
   }
  },
  {
@@ -2926,7 +3108,8 @@
    "el": "Αδιέξοδο",
    "it": "Strada senza uscita",
    "es": "Calle sin salida",
-   "pt": "Rua sem saída"
+   "pt": "Rua sem saída",
+   "fr": "Voie sans issue"
   },
   "meaning": {
    "de": "Für Fahrzeuge geht es hier nicht weiter.",
@@ -2940,7 +3123,8 @@
    "el": "Χωρίς διέλευση για οχήματα.",
    "it": "Nessun passaggio per i veicoli.",
    "es": "Sin paso para vehículos.",
-   "pt": "Sem passagem para veículos."
+   "pt": "Sem passagem para veículos.",
+   "fr": "Pas de passage pour les véhicules."
   }
  },
  {
@@ -2958,7 +3142,8 @@
    "el": "Πινακίδα αντίστροφης μέτρησης εξόδου",
    "it": "Pannello distanziometrico di uscita",
    "es": "Baliza de preaviso de salida",
-   "pt": "Baliza de pré-aviso de saída"
+   "pt": "Baliza de pré-aviso de saída",
+   "fr": "Balise de présignalisation de sortie"
   },
   "meaning": {
    "de": "Etwa 300, 200 und 100 m bis zur Autobahnausfahrt.",
@@ -2972,7 +3157,8 @@
    "el": "Περίπου 300, 200 και 100 m μέχρι την έξοδο του αυτοκινητόδρομου.",
    "it": "Circa 300, 200 e 100 m all’uscita dall’autostrada.",
    "es": "Unos 300, 200 y 100 m hasta la salida de la autopista.",
-   "pt": "Cerca de 300, 200 e 100 m até à saída da autoestrada."
+   "pt": "Cerca de 300, 200 e 100 m até à saída da autoestrada.",
+   "fr": "Environ 300, 200 et 100 m jusqu'à la sortie de l'autoroute."
   }
  },
  {
@@ -2990,7 +3176,8 @@
    "el": "Πινακίδα κατεύθυνσης στροφής",
    "it": "Pannello direzionale",
    "es": "Panel direccional",
-   "pt": "Painel de direção"
+   "pt": "Painel de direção",
+   "fr": "Balise de virage"
   },
   "meaning": {
    "de": "Zeigt die Richtung einer Kurve an, die oft enger ist, als sie wirkt.",
@@ -3004,7 +3191,8 @@
    "el": "Δείχνει την κατεύθυνση μιας στροφής, συχνά πιο κλειστής απ’ όσο φαίνεται.",
    "it": "Indica la direzione di una curva, spesso più stretta di quanto sembri.",
    "es": "Indica la dirección de una curva, a menudo más cerrada de lo que parece.",
-   "pt": "Indica a direção de uma curva, muitas vezes mais apertada do que parece."
+   "pt": "Indica a direção de uma curva, muitas vezes mais apertada do que parece.",
+   "fr": "Indique la direction d'un virage, souvent plus serré qu'il n'y paraît."
   }
  },
  {
@@ -3022,7 +3210,8 @@
    "el": "Μήκος περιορισμού («σε 800 m»)",
    "it": "Estesa («per 800 m»)",
    "es": "Longitud del tramo («en 800 m»)",
-   "pt": "Extensão do troço («ao longo de 800 m»)"
+   "pt": "Extensão do troço («ao longo de 800 m»)",
+   "fr": "Longueur du tronçon (« sur 800 m »)"
   },
   "meaning": {
    "de": "Das Zeichen darüber gilt auf der angegebenen Länge.",
@@ -3036,7 +3225,8 @@
    "el": "Η πινακίδα από πάνω ισχύει στο μήκος που αναγράφεται.",
    "it": "Il segnale sopra vale per la lunghezza indicata.",
    "es": "La señal de arriba rige en la longitud indicada.",
-   "pt": "O sinal de cima vale na extensão indicada."
+   "pt": "O sinal de cima vale na extensão indicada.",
+   "fr": "Le panneau au-dessus s'applique sur la longueur indiquée."
   }
  },
  {
@@ -3054,7 +3244,8 @@
    "el": "Απόσταση («μετά από 200 m»)",
    "it": "Distanza («tra 200 m»)",
    "es": "Distancia («a 200 m»)",
-   "pt": "Distância («a 200 m»)"
+   "pt": "Distância («a 200 m»)",
+   "fr": "Distance (« à 200 m »)"
   },
   "meaning": {
    "de": "Was das Zeichen darüber ankündigt, beginnt nach der angegebenen Entfernung.",
@@ -3068,7 +3259,8 @@
    "el": "Αυτό που αναγγέλλει η πινακίδα από πάνω αρχίζει μετά την αναγραφόμενη απόσταση.",
    "it": "Quello che annuncia il segnale sopra inizia dopo la distanza indicata.",
    "es": "Lo que anuncia la señal de arriba empieza tras la distancia indicada.",
-   "pt": "O que o sinal de cima anuncia começa depois da distância indicada."
+   "pt": "O que o sinal de cima anuncia começa depois da distância indicada.",
+   "fr": "Ce qu'annonce le panneau au-dessus commence après la distance indiquée."
   }
  },
  {
@@ -3086,7 +3278,8 @@
    "el": "Μόνο για όσους έχουν δουλειά εκεί",
    "it": "Eccetto frontisti",
    "es": "Excepto acceso",
-   "pt": "Exceto acesso"
+   "pt": "Exceto acesso",
+   "fr": "Riverains autorisés"
   },
   "meaning": {
    "de": "Wer dort ein Anliegen hat – Anwohner, Besucher, Lieferanten –, darf trotz Verbot einfahren.",
@@ -3100,7 +3293,8 @@
    "el": "Όποιος έχει δουλειά εκεί — κάτοικοι, επισκέπτες, παραδόσεις — μπορεί να μπει.",
    "it": "Chiunque abbia qualcosa da fare lì — residenti, visite, consegne — può entrare.",
    "es": "Cualquiera que tenga algo que hacer allí — residentes, visitas, repartos — puede entrar.",
-   "pt": "Qualquer pessoa que tenha algo a fazer lá — residentes, visitas, entregas — pode entrar."
+   "pt": "Qualquer pessoa que tenha algo a fazer lá — residentes, visitas, entregas — pode entrar.",
+   "fr": "Toute personne qui a affaire là — riverains, visites, livraisons — peut entrer."
   }
  },
  {
@@ -3118,7 +3312,8 @@
    "el": "Εκτός ποδηλατών",
    "it": "Eccetto ciclisti",
    "es": "Excepto ciclistas",
-   "pt": "Exceto ciclistas"
+   "pt": "Exceto ciclistas",
+   "fr": "Vélos autorisés"
   },
   "meaning": {
    "de": "Das Verbot darüber gilt nicht für Radfahrer.",
@@ -3132,7 +3327,8 @@
    "el": "Η απαγόρευση από πάνω δεν ισχύει για ποδηλάτες.",
    "it": "Il divieto sopra non vale per i ciclisti.",
    "es": "La prohibición de arriba no rige para ciclistas.",
-   "pt": "A proibição de cima não vale para ciclistas."
+   "pt": "A proibição de cima não vale para ciclistas.",
+   "fr": "L'interdiction au-dessus ne s'applique pas aux vélos."
   }
  },
  {
@@ -3150,7 +3346,8 @@
    "el": "Ώρες ισχύος",
    "it": "Orari di validità",
    "es": "Horario",
-   "pt": "Horário"
+   "pt": "Horário",
+   "fr": "Horaires"
   },
   "meaning": {
    "de": "Das Zeichen darüber gilt nur zu den angegebenen Zeiten.",
@@ -3164,7 +3361,8 @@
    "el": "Η πινακίδα από πάνω ισχύει μόνο τις αναγραφόμενες ώρες.",
    "it": "Il segnale sopra vale solo negli orari indicati.",
    "es": "La señal de arriba solo rige en el horario indicado.",
-   "pt": "O sinal de cima só vale no horário indicado."
+   "pt": "O sinal de cima só vale no horário indicado.",
+   "fr": "Le panneau au-dessus ne s'applique qu'aux horaires indiqués."
   }
  },
  {
@@ -3182,7 +3380,8 @@
    "el": "Όταν είναι βρεγμένο",
    "it": "Con fondo bagnato",
    "es": "Con calzada mojada",
-   "pt": "Com piso molhado"
+   "pt": "Com piso molhado",
+   "fr": "Par chaussée mouillée"
   },
   "meaning": {
    "de": "Das Zeichen darüber gilt nur bei nasser Fahrbahn.",
@@ -3196,7 +3395,8 @@
    "el": "Η πινακίδα από πάνω ισχύει μόνο όταν ο δρόμος είναι βρεγμένος.",
    "it": "Il segnale sopra vale solo quando la strada è bagnata.",
    "es": "La señal de arriba solo rige cuando la calzada está mojada.",
-   "pt": "O sinal de cima só vale quando o piso está molhado."
+   "pt": "O sinal de cima só vale quando o piso está molhado.",
+   "fr": "Le panneau au-dessus ne s'applique que lorsque la chaussée est mouillée."
   }
  },
  {
@@ -3214,7 +3414,8 @@
    "el": "Για οχήματα άνω των 7,5 t",
    "it": "Per veicoli oltre 7,5 t",
    "es": "Para vehículos de más de 7,5 t",
-   "pt": "Para veículos com mais de 7,5 t"
+   "pt": "Para veículos com mais de 7,5 t",
+   "fr": "Pour les véhicules de plus de 7,5 t"
   },
   "meaning": {
    "de": "Das Zeichen darüber gilt nur für Kfz über der angegebenen Masse.",
@@ -3228,7 +3429,8 @@
    "el": "Η πινακίδα από πάνω ισχύει μόνο για οχήματα βαρύτερα από την ένδειξη.",
    "it": "Il segnale sopra vale solo per veicoli più pesanti della massa indicata.",
    "es": "La señal de arriba solo rige para vehículos más pesados que la masa indicada.",
-   "pt": "O sinal de cima só vale para veículos mais pesados do que a massa indicada."
+   "pt": "O sinal de cima só vale para veículos mais pesados do que a massa indicada.",
+   "fr": "Le panneau au-dessus ne s'applique qu'aux véhicules plus lourds que la masse indiquée."
   }
  },
  {
@@ -3246,7 +3448,8 @@
    "el": "Πορεία της οδού προτεραιότητας",
    "it": "Andamento della strada principale",
    "es": "Trazado de la vía con prioridad",
-   "pt": "Traçado da via com prioridade"
+   "pt": "Traçado da via com prioridade",
+   "fr": "Tracé de la route prioritaire"
   },
   "meaning": {
    "de": "Die dicke Linie zeigt, wie die Vorfahrtstraße verläuft. Wer ihr folgt, muss blinken.",
@@ -3260,7 +3463,8 @@
    "el": "Η χοντρή γραμμή δείχνει την πορεία της οδού προτεραιότητας. Αν την ακολουθείς, βάλε φλας.",
    "it": "La linea spessa mostra l’andamento della strada principale. Se la segui, metti la freccia.",
    "es": "La línea gruesa indica el trazado de la vía con prioridad. Si la sigues, pon el intermitente.",
-   "pt": "A linha grossa indica o traçado da via com prioridade. Se a seguires, liga o pisca."
+   "pt": "A linha grossa indica o traçado da via com prioridade. Se a seguires, liga o pisca.",
+   "fr": "Le trait épais indique le tracé de la route prioritaire. Si tu le suis, mets le clignotant."
   }
  },
  {
@@ -3278,7 +3482,8 @@
    "el": "Διάβαση πεζών (διαγράμμιση)",
    "it": "Attraversamento pedonale (segnaletica)",
    "es": "Paso de peatones (marca)",
-   "pt": "Passadeira (marca)"
+   "pt": "Passadeira (marca)",
+   "fr": "Passage piéton (marquage)"
   },
   "meaning": {
    "de": "Zebrastreifen: Fußgänger haben Vorrang. Halten auf ihm und 5 m davor verboten.",
@@ -3292,7 +3497,8 @@
    "el": "Διάβαση πεζών: οι πεζοί έχουν προτεραιότητα. Απαγόρευση στάσης πάνω της και 5 m πριν.",
    "it": "Strisce pedonali: i pedoni hanno la precedenza. Vietato fermarsi sopra e nei 5 m prima.",
    "es": "Paso de cebra: los peatones tienen prioridad. Prohibido parar encima y 5 m antes.",
-   "pt": "Passadeira: os peões têm prioridade. Proibido parar em cima e 5 m antes."
+   "pt": "Passadeira: os peões têm prioridade. Proibido parar em cima e 5 m antes.",
+   "fr": "Passage zébré : les piétons ont la priorité. Interdit de s'arrêter dessus et 5 m avant."
   }
  },
  {
@@ -3310,7 +3516,8 @@
    "el": "Γραμμή στάσης",
    "it": "Linea di arresto",
    "es": "Línea de detención",
-   "pt": "Linha de paragem"
+   "pt": "Linha de paragem",
+   "fr": "Ligne d'arrêt"
   },
   "meaning": {
    "de": "Hier halten, wenn Zeichen 206, eine Ampel oder die Polizei es verlangt.",
@@ -3324,7 +3531,8 @@
    "el": "Σταμάτα εδώ όταν το απαιτούν η πινακίδα 206, τα φανάρια ή η αστυνομία.",
    "it": "Fermati qui quando lo richiedono il segnale 206, il semaforo o la polizia.",
    "es": "Detente aquí cuando lo exijan la señal 206, el semáforo o la policía.",
-   "pt": "Para aqui quando o sinal 206, o semáforo ou a polícia o exigirem."
+   "pt": "Para aqui quando o sinal 206, o semáforo ou a polícia o exigirem.",
+   "fr": "Arrête-toi ici quand le panneau 206, le feu ou la police l'exigent."
   }
  },
  {
@@ -3342,7 +3550,8 @@
    "el": "Συνεχής γραμμή",
    "it": "Linea continua",
    "es": "Línea continua",
-   "pt": "Linha contínua"
+   "pt": "Linha contínua",
+   "fr": "Ligne continue"
   },
   "meaning": {
    "de": "Nicht überfahren und nicht auf ihr fahren. Links davon nicht halten.",
@@ -3356,7 +3565,8 @@
    "el": "Μην τη διασχίζεις και μην την πατάς. Απαγόρευση στάσης αριστερά της.",
    "it": "Non superarla e non percorrerla. Vietato fermarsi alla sua sinistra.",
    "es": "No la rebases ni la pises. Prohibido parar a su izquierda.",
-   "pt": "Não a transponhas nem pises. Proibido parar à esquerda dela."
+   "pt": "Não a transponhas nem pises. Proibido parar à esquerda dela.",
+   "fr": "Ne la franchis pas et ne roule pas dessus. Interdit de s'arrêter à sa gauche."
   }
  },
  {
@@ -3374,7 +3584,8 @@
    "el": "Συνεχής και διακεκομμένη γραμμή",
    "it": "Linea continua e tratteggiata",
    "es": "Línea continua y discontinua",
-   "pt": "Linha contínua e tracejada"
+   "pt": "Linha contínua e tracejada",
+   "fr": "Ligne mixte continue et discontinue"
   },
   "meaning": {
    "de": "Von der unterbrochenen Seite darf überfahren werden, von der durchgehenden nicht.",
@@ -3388,7 +3599,8 @@
    "el": "Επιτρέπεται να τη διασχίσεις από τη διακεκομμένη πλευρά, όχι από τη συνεχή.",
    "it": "Si può oltrepassare dal lato tratteggiato, non da quello continuo.",
    "es": "Se puede rebasar desde el lado discontinuo, no desde el continuo.",
-   "pt": "Pode-se transpor a partir do lado tracejado, não do contínuo."
+   "pt": "Pode-se transpor a partir do lado tracejado, não do contínuo.",
+   "fr": "On peut la franchir depuis le côté discontinu, pas depuis le côté continu."
   }
  },
  {
@@ -3406,7 +3618,8 @@
    "el": "Βέλη λωρίδων",
    "it": "Frecce di corsia",
    "es": "Flechas de carril",
-   "pt": "Setas de seleção"
+   "pt": "Setas de seleção",
+   "fr": "Flèches de sélection"
   },
   "meaning": {
    "de": "Die Pfeile geben die Fahrtrichtung für den Fahrstreifen vor.",
@@ -3420,7 +3633,8 @@
    "el": "Τα βέλη καθορίζουν την κατεύθυνση της λωρίδας.",
    "it": "Le frecce indicano la direzione della corsia.",
    "es": "Las flechas fijan la dirección del carril.",
-   "pt": "As setas fixam a direção da faixa."
+   "pt": "As setas fixam a direção da faixa.",
+   "fr": "Les flèches fixent la direction de la voie."
   }
  },
  {
@@ -3438,7 +3652,8 @@
    "el": "Γραμμοσκιασμένη περιοχή",
    "it": "Zona zebrata",
    "es": "Cebreado",
-   "pt": "Zona de raias oblíquas"
+   "pt": "Zona de raias oblíquas",
+   "fr": "Zone hachurée"
   },
   "meaning": {
    "de": "Darf nicht benutzt werden – weder befahren noch zum Halten.",
@@ -3452,7 +3667,8 @@
    "el": "Δεν χρησιμοποιείται — ούτε για κίνηση ούτε για στάση.",
    "it": "Non si può usare — né per circolare né per fermarsi.",
    "es": "No se puede usar — ni para circular ni para parar.",
-   "pt": "Não pode ser usada — nem para circular nem para parar."
+   "pt": "Não pode ser usada — nem para circular nem para parar.",
+   "fr": "Interdite d'utilisation — ni pour circuler ni pour s'arrêter."
   }
  },
  {
@@ -3470,7 +3686,8 @@
    "el": "Τεθλασμένη γραμμή",
    "it": "Linea a zigzag",
    "es": "Línea en zigzag",
-   "pt": "Linha em ziguezague"
+   "pt": "Linha em ziguezague",
+   "fr": "Ligne en zigzag"
   },
   "meaning": {
    "de": "Kennzeichnet oder verlängert ein Halt- oder Parkverbot.",
@@ -3484,7 +3701,8 @@
    "el": "Σημαίνει ή επεκτείνει περιοχή απαγόρευσης στάσης ή στάθμευσης.",
    "it": "Indica o prolunga un’area con divieto di fermata o di sosta.",
    "es": "Marca o prolonga una zona de prohibición de parada o de estacionamiento.",
-   "pt": "Marca ou prolonga uma zona de proibição de paragem ou de estacionamento."
+   "pt": "Marca ou prolonga uma zona de proibição de paragem ou de estacionamento.",
+   "fr": "Marque ou prolonge une zone d'interdiction de s'arrêter ou de stationner."
   }
  },
  {
@@ -3502,7 +3720,8 @@
    "el": "Διακεκομμένη γραμμή",
    "it": "Linea tratteggiata",
    "es": "Línea discontinua",
-   "pt": "Linha tracejada"
+   "pt": "Linha tracejada",
+   "fr": "Ligne discontinue"
   },
   "meaning": {
    "de": "Darf überfahren werden, wenn niemand gefährdet wird.",
@@ -3516,7 +3735,8 @@
    "el": "Μπορεί να διασχιστεί αν δεν κινδυνεύει κανείς.",
    "it": "Si può oltrepassare se nessuno è in pericolo.",
    "es": "Se puede rebasar si nadie corre peligro.",
-   "pt": "Pode-se transpor se ninguém ficar em perigo."
+   "pt": "Pode-se transpor se ninguém ficar em perigo.",
+   "fr": "On peut la franchir si cela ne met personne en danger."
   }
  }
 ]

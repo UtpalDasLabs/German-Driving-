@@ -1,0 +1,270 @@
+{
+  "questions": {
+    "tu01": {
+      "prompt": "Tu veux tourner à droite. Sur la piste cyclable à ta droite, une personne à vélo continue tout droit. Que fais-tu ?",
+      "options": ["Je laisse d'abord passer le vélo", "Je regarde par-dessus l'épaule droite avant de tourner", "Je tourne vite devant le vélo"],
+      "why": "En tournant, tu dois laisser passer les cyclistes qui continuent tout droit dans le même sens, sur la chaussée ou à côté (§ 9 al. 3 StVO). Dans l'angle mort, tu ne les vois qu'en regardant par-dessus l'épaule.",
+      "tip": "Tourner à droite = regarder par-dessus l'épaule droite. Toujours."
+    },
+    "tu02": {
+      "prompt": "Tu es en train de tourner. Des piétons traversent la rue dans laquelle tu tournes. Que fais-tu ?",
+      "options": ["J'attends la fin de leur traversée", "Je me faufile lentement entre eux", "Je klaxonne pour qu'ils se dépêchent"],
+      "why": "En tournant, tu dois faire particulièrement attention aux piétons et attendre si nécessaire (§ 9 al. 3 StVO)."
+    },
+    "tu03": {
+      "prompt": "Comment te places-tu pour tourner à gauche ?",
+      "options": ["Sur une route à double sens, près de la ligne médiane", "Dans une rue à sens unique, le plus à gauche possible", "Toujours tout à droite"],
+      "why": "Pour tourner à gauche, tu te déportes à l'avance le plus à gauche possible : jusqu'au centre s'il y a du trafic en face, jusqu'au bord gauche dans une rue à sens unique (§ 9 al. 1 StVO)."
+    },
+    "tu04": {
+      "prompt": "Qu'est-ce qui fait partie du virage à gauche ?",
+      "options": ["Signaler et se placer à l'avance", "Regarder dans le rétroviseur avant de se déporter", "Un nouveau regard en arrière juste avant de tourner"],
+      "why": "Le virage à gauche exige de regarder deux fois en arrière : avant de te déporter et de nouveau juste avant de tourner, car quelqu'un pourrait être sur le point de te dépasser (§ 9 al. 1 StVO).",
+      "tip": "Rétroviseur — clignotant — placement — regard par-dessus l'épaule — virage."
+    },
+    "tu05": {
+      "prompt": "Tu veux entrer dans un garage ou une entrée charretière. Quelle règle s'applique ?",
+      "options": ["Il faut exclure tout danger pour les autres", "Si nécessaire, je demande à quelqu'un de me guider", "Pour moi, seules les règles pour tourner aux carrefours s'appliquent"],
+      "why": "Entrer dans une propriété, faire demi-tour et reculer ne doivent exposer personne à un danger ; si nécessaire, fais-toi guider (§ 9 al. 5 StVO)."
+    },
+    "tu06": {
+      "prompt": "Où est-il interdit de faire demi-tour ?",
+      "options": ["Sur les autoroutes et les voies express", "Là où se trouve le panneau 272", "Dans n'importe quelle rue en ville"],
+      "why": "Faire demi-tour et reculer sont interdits sur les autoroutes et les voies express (§ 18 al. 7 StVO). Le panneau 272 l'interdit expressément. Ailleurs, tu peux faire demi-tour si cela ne met personne en danger."
+    },
+    "tu07": {
+      "prompt": "Tu veux sortir d'une place en marche arrière et tu vois peu de chose derrière. Que fais-tu ?",
+      "options": ["Je recule lentement, je continue de regarder et si nécessaire je me fais guider", "Je recule vite pour ne faire attendre personne", "Je me fie uniquement à la caméra de recul"],
+      "why": "Reculer ne doit mettre personne en danger (§ 9 al. 5 StVO). Les caméras et les capteurs aident, mais ne remplacent pas le regard et peuvent ne pas détecter des enfants ou des obstacles bas."
+    },
+    "tu08": {
+      "prompt": "Comment tournes-tu à droite ?",
+      "options": ["Le plus à droite possible", "En décrivant un large arc par le milieu de la rue transversale", "Sans clignotant si la route est libre"],
+      "why": "Qui tourne à droite se maintient le plus à droite possible (§ 9 al. 1 StVO) et tourne en décrivant un arc serré. Le clignotant se met toujours, même si tu ne vois personne."
+    },
+    "tu09": {
+      "prompt": "Tu veux tourner. Un tram à côté de toi continue tout droit dans le même sens. Qui passe en premier ?",
+      "options": ["Le tram", "Moi, parce que j'ai mis mon clignotant avant", "Le véhicule le plus rapide"],
+      "why": "Les véhicules qui tournent doivent laisser passer les véhicules sur rails, même quand ceux-ci circulent à côté d'eux dans le même sens (§ 9 al. 3 StVO)."
+    },
+    "tu10": {
+      "prompt": "Quand mets-tu le clignotant ?",
+      "options": ["À l'avance, avant de tourner", "Avant chaque changement de voie", "Seulement quand je suis déjà en train de tourner"],
+      "why": "Le clignotant annonce ce que tu vas faire — avant, pas pendant. Pour tourner, pour changer de voie et pour démarrer depuis le bord."
+    },
+    "pa01": {
+      "prompt": "Quand s'agit-il de stationner (et non de s'arrêter) ?",
+      "options": ["Quand je quitte le véhicule", "Quand l'arrêt dure plus de trois minutes", "Quand je suis dans un bouchon"],
+      "why": "Quitter le véhicule ou s'arrêter plus de trois minutes, c'est stationner (§ 12 al. 2 StVO). S'arrêter à cause de la circulation — dans un bouchon, au rouge — n'est ni l'un ni l'autre."
+    },
+    "pa02": {
+      "prompt": "Où est-il interdit de s'arrêter ?",
+      "options": ["Dans les rétrécissements et là où la visibilité est mauvaise", "Sur les passages à niveau", "Devant une boulangerie"],
+      "why": "Il est interdit de s'arrêter, entre autres, dans les rétrécissements et par mauvaise visibilité, dans les virages serrés, sur les bretelles, sur les passages à niveau et devant les accès pompiers (§ 12 al. 1 StVO)."
+    },
+    "pa03": {
+      "prompt": "Sur combien de mètres avant un passage piéton est-il interdit de s'arrêter ?",
+      "why": "Il est interdit de s'arrêter sur les passages piétons et dans les 5 m qui les précèdent. Une voiture à l'arrêt cache les piétons, surtout les enfants."
+    },
+    "pa04": {
+      "prompt": "Sur combien de mètres avant et après un carrefour est-il interdit de stationner (sans piste cyclable séparée) ?",
+      "why": "Il est interdit de stationner 5 m avant et après les carrefours, mesurés depuis le point où se rejoignent les lignes des bordures. S'il y a une piste cyclable séparée à droite, c'est 8 m avant le carrefour (§ 12 al. 3 StVO)."
+    },
+    "pa05": {
+      "prompt": "Où est-il interdit de stationner ?",
+      "options": ["Devant les entrées et sorties charretières", "Devant les bordures abaissées", "Sur un emplacement signalé"],
+      "why": "Il est interdit de stationner devant les entrées charretières (et en face dans les rues étroites) et devant les bordures abaissées, dont ont besoin les fauteuils roulants et les poussettes (§ 12 al. 3 StVO)."
+    },
+    "pa06": {
+      "prompt": "Tu arrives à 9:10 et tu mets le disque de stationnement. Quelle heure règles-tu ?",
+      "options": ["9:30", "9:10", "9:00"],
+      "why": "Le disque se règle sur la demi-heure qui suit l'arrivée : à 9:10, sur 9:30.",
+      "tip": "Arrondis toujours vers le haut, à la demi-heure suivante."
+    },
+    "pa07": {
+      "prompt": "De quel côté de la chaussée stationne-t-on normalement ?",
+      "options": ["À droite", "À gauche dans les rues à sens unique", "À gauche là où il y a de la place"],
+      "why": "On s'arrête et on stationne à droite, au bord droit ou sur l'accotement. À gauche seulement dans les rues à sens unique ou là où il y a des rails à droite (§ 12 al. 4 StVO)."
+    },
+    "pa08": {
+      "prompt": "Tu veux ouvrir ta portière. Comment protèges-tu le mieux les cyclistes ?",
+      "options": ["Je l'ouvre avec la main droite, pour me tourner et voir derrière", "J'ouvre la portière d'un coup", "Je regarde seulement dans le rétroviseur intérieur"],
+      "why": "En montant ou en descendant, tu ne dois mettre personne en danger (§ 14 al. 1 StVO). Ouvrir ta portière avec la main droite (la « méthode hollandaise ») fait pivoter le corps, ce qui te permet de voir les cyclistes dans l'angle mort.",
+      "tip": "La main la plus éloignée sur la poignée."
+    },
+    "pa09": {
+      "prompt": "Que fais-tu avant de laisser la voiture en stationnement ?",
+      "options": ["Je coupe le moteur et je serre le frein à main", "Je l'immobilise et la protège contre toute utilisation non autorisée", "Je laisse le moteur tourner si je reviens tout de suite"],
+      "why": "En quittant le véhicule, tu dois l'immobiliser pour qu'il ne provoque pas d'accident ni ne gêne, et le protéger contre toute utilisation non autorisée (§ 14 al. 2 StVO). Laisser le moteur tourner sans surveillance est interdit."
+    },
+    "pa10": {
+      "prompt": "La nuit, tu stationnes au bord de la route hors agglomération. Que dois-tu faire ?",
+      "options": ["Éclairer le véhicule, par exemple avec les feux de position", "Rien, les catadioptres suffisent", "Allumer le feu antibrouillard arrière"],
+      "why": "Hors agglomération, les véhicules à l'arrêt et en stationnement doivent être éclairés dans l'obscurité. En agglomération, le feu de stationnement du côté de la circulation suffit, et là où l'éclairage public reste allumé toute la nuit, aucun n'est normalement nécessaire (§ 17 al. 4 StVO)."
+    },
+    "pa11": {
+      "prompt": "Peux-tu stationner en double file ?",
+      "options": ["Non", "Oui, avec les feux de détresse", "Oui, jusqu'à dix minutes"],
+      "why": "Le stationnement en double file est interdit, et les feux de détresse ne le rendent pas légal. Il bloque la chaussée et oblige les autres à empiéter sur la voie d'en face."
+    },
+    "pa12": {
+      "prompt": "Où ne peux-tu pas stationner ?",
+      "options": ["Sur le trottoir, sauf si un panneau ou un marquage le permet", "Devant un accès pompiers", "Sur un emplacement signalé"],
+      "why": "Les trottoirs sont pour les piétons. Y stationner n'est permis que là où le panneau 315 ou un marquage l'autorise. Devant les accès pompiers, même s'arrêter est interdit."
+    },
+    "pe01": {
+      "prompt": "Une personne attend à un passage piéton. Que fais-tu ?",
+      "options": ["Je m'arrête et la laisse traverser", "Je continue — elle n'a pas encore commencé à traverser", "Je klaxonne pour signaler mon arrivée"],
+      "why": "Aux passages piétons, tu dois laisser traverser les piétons et les personnes en fauteuil roulant qui veulent clairement le faire. Approche à vitesse modérée et attends si nécessaire (§ 26 al. 1 StVO).",
+      "tip": "Qui attend au passage piéton a déjà la priorité."
+    },
+    "pe02": {
+      "prompt": "Il y a des enfants au bord de la route. Comment te comportes-tu ?",
+      "options": ["Je ralentis et me tiens en mesure de freiner", "Je m'attends à ce que des enfants surgissent sur la chaussée", "Je klaxonne et garde ma vitesse"],
+      "why": "Près des enfants, des personnes âgées et de toute personne ayant besoin d'aide, tu dois ralentir et te tenir en mesure de freiner, de sorte qu'il ne leur arrive rien (§ 3 al. 2a StVO). Les enfants ne savent pas encore évaluer les vitesses et les distances."
+    },
+    "pe03": {
+      "prompt": "Un ballon roule sur la chaussée entre des voitures garées. À quoi t'attends-tu ?",
+      "options": ["À voir un enfant surgir derrière", "À rien de particulier", "À ce que le ballon abîme la voiture"],
+      "why": "Les enfants qui courent après un ballon ne voient que le ballon. Freine aussitôt et attends-toi à les voir surgir d'entre les voitures.",
+      "tip": "Ballon = enfant."
+    },
+    "pe04": {
+      "prompt": "Une personne avec une canne blanche veut traverser. Qu'est-ce que cela signifie ?",
+      "options": ["C'est une personne aveugle ou gravement malvoyante", "Je dois faire particulièrement attention et m'arrêter si nécessaire", "La personne me voit et va attendre"],
+      "why": "Une canne blanche, un chien guide avec un harnais blanc ou un brassard jaune à trois points noirs signalent une personne aveugle. Elle ne peut pas te voir, alors arrête-toi si nécessaire."
+    },
+    "pe05": {
+      "prompt": "Une personne âgée traverse lentement quand ton feu passe au vert. Que fais-tu ?",
+      "options": ["J'attends qu'elle ait quitté la chaussée", "Je la contourne lentement", "Je klaxonne pour la presser"],
+      "why": "Le vert ne te donne pas le droit de mettre quelqu'un en danger. Les personnes âgées ont souvent besoin de plus de temps et peuvent prendre peur. Laisse-les finir de traverser tranquillement."
+    },
+    "pe06": {
+      "prompt": "Jusqu'à quel âge les enfants doivent-ils rouler à vélo sur le trottoir ?",
+      "why": "Les enfants doivent rouler sur le trottoir jusqu'à leurs 8 ans, et peuvent le faire jusqu'à 10 ans (§ 2 al. 5 StVO). Aux entrées charretières et aux carrefours, attends-toi à ce qu'ils descendent du trottoir sur la chaussée."
+    },
+    "pe07": {
+      "prompt": "Une personne à vélo devant toi s'approche d'une voiture garée. À quoi t'attends-tu ?",
+      "options": ["Qu'elle se déporte à gauche, peut-être sans le signaler", "Qu'elle s'arrête et attende", "Qu'elle monte sur le trottoir"],
+      "why": "Les cyclistes doivent contourner les obstacles et ne regardent pas toujours derrière avant. Garde tes distances et ne dépasse que lorsque leur intention est claire."
+    },
+    "pe08": {
+      "prompt": "Les cyclistes peuvent-ils rouler côte à côte ?",
+      "options": ["Oui, s'ils ne gênent pas la circulation", "Non, jamais", "Seulement en groupes de 16 ou plus"],
+      "why": "Les cyclistes peuvent rouler à deux de front s'ils ne gênent pas la circulation (§ 2 al. 4 StVO). Dans une rue cyclable et en groupe de 16 ou plus, même si cela ralentit les autres."
+    },
+    "pe09": {
+      "prompt": "La nuit, les piétons en vêtements sombres se voient mal. Qu'est-ce qui est vrai ?",
+      "options": ["Avec les feux de croisement, je les vois souvent très tard", "J'adapte ma vitesse à la portée de mes phares", "Les feux de jour suffisent la nuit"],
+      "why": "Avec les feux de croisement, tu ne vois souvent une personne en vêtements sombres qu'à 25–30 m — moins que la distance d'arrêt à 50 km/h. Les feux de jour n'éclairent pas la route et laissent l'arrière dans le noir."
+    },
+    "pe10": {
+      "prompt": "Où et comment peut-on circuler en trottinette électrique ?",
+      "options": ["Sur les pistes cyclables et, là où il n'y en a pas, sur la chaussée", "Avec une seule personne à bord", "Sur le trottoir"],
+      "why": "Les trottinettes électriques doivent utiliser les pistes cyclables ou, à défaut, la chaussée ; les trottoirs sont interdits. Seule une personne de 14 ans ou plus peut en conduire une (eKFV). Quand tu tournes, traite-les comme des vélos."
+    },
+    "pe11": {
+      "prompt": "Un bus scolaire s'est arrêté au bord de la route et des enfants en descendent. Que fais-tu ?",
+      "options": ["Je passe lentement, avec beaucoup de marge et le pied prêt à freiner", "Je m'attends à ce que des enfants traversent devant ou derrière le bus", "Je passe vite pour que les enfants puissent descendre en sécurité"],
+      "why": "Les enfants traversent souvent en courant juste devant ou derrière le bus. S'il a ses feux de détresse allumés, tu dois même ralentir au pas (§ 20 al. 4 StVO)."
+    },
+    "pe12": {
+      "prompt": "Une personne traverse à pied loin de tout passage. Que fais-tu ?",
+      "options": ["Je freine et la laisse traverser, même si elle aurait dû attendre", "Je continue — elle n'a pas la priorité", "Je passe juste derrière elle"],
+      "why": "Les piétons doivent faire attention aux véhicules (§ 25 StVO), mais le § 1 StVO exige une prudence constante : il ne faut mettre personne en danger. L'erreur d'autrui ne te donne jamais le droit de renverser quelqu'un."
+    },
+    "ra01": {
+      "prompt": "Quand dois-tu attendre à ce passage à niveau ?",
+      "options": ["Quand un train approche", "Quand les feux rouges clignotent ou que les barrières s'abaissent", "Seulement quand les barrières sont complètement baissées"],
+      "why": "Aux passages à niveau, les trains ont la priorité (§ 19 al. 1 StVO). Tu dois attendre quand un train arrive, quand il y a des feux rouges ou clignotants, quand les barrières s'abaissent ou sont baissées, ou quand le personnel ferroviaire te fait signe de t'arrêter (§ 19 al. 2 StVO).",
+      "tip": "Une barrière qui s'abaisse est déjà fermée."
+    },
+    "ra02": {
+      "prompt": "Juste après le passage à niveau, il y a un bouchon. Que fais-tu ?",
+      "options": ["J'attends avant le passage à niveau", "Je m'engage sur les voies et j'attends là", "Je klaxonne pour que les autres avancent"],
+      "why": "Ne t'engage sur un passage à niveau que si tu peux le traverser entièrement sans t'arrêter (§ 19 al. 1 StVO). Si tu restes sur les voies dans un bouchon, il n'y a aucune échappatoire."
+    },
+    "ra03": {
+      "prompt": "Ta voiture tombe en panne sur un passage à niveau. Que fais-tu ?",
+      "options": ["Je fais sortir tout le monde immédiatement, loin de la zone de danger", "J'appelle le numéro d'urgence ou celui affiché au passage", "Je reste dans la voiture pour essayer de redémarrer"],
+      "why": "Un train ne peut pas faire d'écart et a souvent besoin de plus d'un kilomètre pour s'arrêter. D'abord les personnes : dehors, loin des voies, puis préviens la compagnie ferroviaire par le numéro d'urgence."
+    },
+    "ra04": {
+      "prompt": "Un bus approche d'un arrêt avec ses feux de détresse allumés. Quelle règle s'applique ?",
+      "options": ["Je ne peux pas le dépasser", "Je peux le dépasser vite avant qu'il s'arrête", "Je dois m'arrêter immédiatement"],
+      "why": "Les bus et les bus scolaires signalés qui approchent d'un arrêt avec leurs feux de détresse allumés ne peuvent pas être dépassés (§ 20 al. 3 StVO)."
+    },
+    "ra05": {
+      "prompt": "Un bus est à l'arrêt avec ses feux de détresse allumés. Comment peux-tu passer ?",
+      "options": ["Seulement au pas", "Sans mettre en danger les passagers — en attendant si nécessaire", "À 30 km/h"],
+      "why": "À côté des bus et des bus scolaires arrêtés à un arrêt avec leurs feux de détresse allumés, on ne peut passer qu'au pas et avec une distance suffisante pour ne pas mettre en danger les passagers. Cela vaut aussi pour le trafic d'en face sur la même chaussée (§ 20 al. 4 StVO).",
+      "tip": "Bus en feux de détresse à l'arrêt = au pas, même en sens inverse."
+    },
+    "ra06": {
+      "prompt": "Un bus met son clignotant gauche pour quitter l'arrêt. Que fais-tu ?",
+      "options": ["Je le laisse partir, en attendant si nécessaire", "Je le dépasse en vitesse", "Je klaxonne"],
+      "why": "Il faut laisser les bus et les bus scolaires quitter les arrêts signalés ; les autres véhicules attendent si nécessaire (§ 20 al. 5 StVO)."
+    },
+    "ra07": {
+      "prompt": "Un tram s'est arrêté à un arrêt sans îlot et des passagers en descendent. Que fais-tu ?",
+      "options": ["Je passe par la droite au pas, sans gêner les passagers", "J'attends si nécessaire", "Je passe vite par la gauche"],
+      "why": "Pendant que les passagers montent ou descendent, on ne peut passer que par la droite, au pas et avec de la marge ; on ne doit pas gêner les passagers, et si nécessaire on attend (§ 20 al. 2 StVO)."
+    },
+    "ra08": {
+      "prompt": "Tu approches d'un passage à niveau avec une croix de Saint-André. Comment t'en approches-tu ?",
+      "options": ["À vitesse modérée", "Le plus vite possible, pour traverser tout de suite", "Je dépasse vite le camion de devant"],
+      "why": "On aborde les passages à niveau à vitesse modérée (§ 19 al. 1 StVO), pour pouvoir s'arrêter si un train arrive. À partir du panneau 151 ou 156, on ne dépasse pas de véhicules à moteur."
+    },
+    "mw01": {
+      "prompt": "Tu t'insères sur l'autoroute. Qu'est-ce qui est correct ?",
+      "options": ["J'utilise la voie d'accélération pour m'adapter à la vitesse de l'autoroute", "La circulation sur l'autoroute a la priorité", "La circulation sur l'autoroute doit me laisser entrer"],
+      "why": "La circulation sur la chaussée principale a la priorité (§ 18 al. 3 StVO). Utilise la voie d'accélération pour rejoindre un espace adapté à une vitesse adaptée ; s'insérer trop lentement est dangereux."
+    },
+    "mw02": {
+      "prompt": "Un bouchon se forme sur l'autoroute. Où forme-t-on le couloir de secours ?",
+      "options": ["Entre la voie la plus à gauche et celle d'à côté", "Sur la bande d'arrêt d'urgence", "Réparti à parts égales sur toutes les voies"],
+      "why": "Dès que la circulation ralentit au pas sur les autoroutes et les routes à plusieurs voies hors agglomération, forme le couloir entre la voie la plus à gauche et celle à sa droite (§ 11 al. 2 StVO) — avant l'arrivée des secours.",
+      "tip": "La voie la plus à gauche s'écarte à gauche ; toutes les autres, à droite."
+    },
+    "mw03": {
+      "prompt": "Qu'est-ce qui est interdit sur l'autoroute ?",
+      "options": ["Faire demi-tour et reculer", "S'arrêter, même sur la bande d'arrêt d'urgence (sauf urgence)", "Utiliser la voie de gauche pour dépasser"],
+      "why": "Faire demi-tour et reculer sont interdits sur les autoroutes, bretelles comprises. S'arrêter aussi, même sur la bande d'arrêt d'urgence (§ 18 al. 7 et 8 StVO). Sortie manquée ? Prends la suivante."
+    },
+    "mw04": {
+      "prompt": "Tu tombes en panne sur l'autoroute. Que fais-tu ?",
+      "options": ["J'allume les feux de détresse et, si possible, je me range sur la bande d'arrêt d'urgence", "J'enfile le gilet de sécurité et j'emmène tout le monde derrière la glissière", "Je place le triangle environ 200 m en arrière"],
+      "why": "D'abord la sécurité : feux de détresse, à droite, gilet, tout le monde descend côté passager et se met derrière la glissière. Ensuite le triangle : environ 200 m en arrière sur autoroute, 100 m sur route, 50 m en ville (§ 15 StVO).",
+      "tip": "50 — 100 — 200 m : ville, route, autoroute."
+    },
+    "mw05": {
+      "prompt": "Sur l'autoroute, tu approches de la fin d'un bouchon. Que fais-tu ?",
+      "options": ["Je freine à l'avance et j'allume les feux de détresse", "Je laisse une distance suffisante avec le dernier véhicule", "Je me mets sur la bande d'arrêt d'urgence"],
+      "why": "En fin de bouchon, avertis la circulation qui arrive derrière avec les feux de détresse (§ 16 al. 2 StVO). Laisse un espace pour pouvoir t'écarter si quelqu'un derrière freine trop tard."
+    },
+    "mw06": {
+      "prompt": "La radio signale un véhicule à contresens sur ton tronçon d'autoroute. Que fais-tu ?",
+      "options": ["Je reste à droite et je ne dépasse pas", "Je ralentis et j'augmente la distance", "Je reste sur la voie de gauche"],
+      "why": "Un véhicule à contresens arrive généralement vers toi sur la voie de gauche, la personne au volant croyant être sur celle de droite. Reste à droite, ne dépasse pas, ralentis et allume les feux de détresse s'il approche."
+    },
+    "mw07": {
+      "prompt": "À combien de mètres avant la sortie se trouve la balise à trois bandes ?",
+      "why": "Les balises de présignalisation (panneau 450) se trouvent à environ 300, 200 et 100 m du début de la voie de sortie. Rabats-toi sur la voie de droite à temps.",
+      "tip": "Autoroute : 100 m par bande. Passage à niveau : 80 m."
+    },
+    "mw08": {
+      "prompt": "À quelle distance les unes des autres se trouvent généralement les balises de bord de route ?",
+      "why": "Les balises de bord de route sont généralement espacées de 50 m. Sers-t'en pour estimer les distances et la visibilité : si, par brouillard, tu ne vois pas la suivante, la visibilité est inférieure à 50 m et tu ne peux pas dépasser 50 km/h."
+    },
+    "mw09": {
+      "prompt": "Qui peut circuler sur la bande d'arrêt d'urgence de l'autoroute ?",
+      "options": ["Personne — sauf si des panneaux l'ouvrent à la circulation", "Les véhicules lents", "Tout véhicule pris dans un bouchon"],
+      "why": "La bande d'arrêt d'urgence n'est pas une voie de circulation. Tu ne peux y rouler que là où des panneaux l'ouvrent expressément ; sinon, elle est réservée aux pannes et aux secours."
+    },
+    "mw10": {
+      "prompt": "Quelle règle s'applique sur une route pour automobiles (Kraftfahrstraße) ?",
+      "options": ["Seuls les véhicules à moteur conçus pour plus de 60 km/h peuvent l'utiliser", "Aux carrefours, la circulation sur la route pour automobiles a la priorité", "Les piétons peuvent marcher sur le bord"],
+      "why": "Sur les routes pour automobiles (panneau 331.1), les règles de l'autoroute s'appliquent en grande partie : seulement des véhicules à moteur rapides, interdiction de s'arrêter et de faire demi-tour, et leur circulation a la priorité aux carrefours."
+    }
+  }
+}

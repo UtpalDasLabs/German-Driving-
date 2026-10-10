@@ -842,7 +842,8 @@
    "el": "Πώς οδηγείς πιο οικονομικά;",
    "it": "Come guidi nel modo più economico?",
    "es": "¿Cómo conduces de la forma más económica?",
-   "pt": "Como conduzes da forma mais económica?"
+   "pt": "Como conduzes da forma mais económica?",
+   "fr": "Comment conduis-tu de la façon la plus économique ?"
   },
   "options": [
    {
@@ -857,7 +858,8 @@
     "el": "Ανεβάζω νωρίς ταχύτητα και κρατώ χαμηλές στροφές",
     "it": "Passo presto alla marcia superiore e tengo i giri bassi",
     "es": "Subo pronto de marcha y mantengo las revoluciones bajas",
-    "pt": "Subo cedo de mudança e mantenho as rotações baixas"
+    "pt": "Subo cedo de mudança e mantenho as rotações baixas",
+    "fr": "Je passe tôt les rapports et garde un régime bas"
    },
    {
     "de": "Vorausschauend fahren und unnötiges Bremsen vermeiden",
@@ -871,7 +873,8 @@
     "el": "Προβλέπω και αποφεύγω τα περιττά φρεναρίσματα",
     "it": "Guido con anticipo ed evito frenate inutili",
     "es": "Me anticipo y evito frenadas innecesarias",
-    "pt": "Antecipo e evito travagens desnecessárias"
+    "pt": "Antecipo e evito travagens desnecessárias",
+    "fr": "J'anticipe et j'évite les freinages inutiles"
    },
    {
     "de": "In niedrigen Gängen mit hoher Drehzahl",
@@ -885,7 +888,8 @@
     "el": "Με χαμηλές σχέσεις και υψηλές στροφές",
     "it": "Con marce basse e giri alti",
     "es": "En marchas cortas a altas revoluciones",
-    "pt": "Em mudanças baixas a rotações altas"
+    "pt": "Em mudanças baixas a rotações altas",
+    "fr": "Sur des rapports courts à haut régime"
    }
   ],
   "correct": [
@@ -906,7 +910,8 @@
    "el": "Το νωρίς ανέβασμα ταχύτητας (περίπου 2.000–2.500 στροφές σε βενζινοκίνητο) και το προνοητικό ρολάρισμα εξοικονομούν πολύ καύσιμο. Κάθε περιττή στάση σπαταλά ενέργεια που πληρώθηκε σε καύσιμο.",
    "it": "Passare presto alla marcia superiore (circa 2.000–2.500 giri in un’auto a benzina) e lasciare scorrere con anticipo fanno risparmiare molto carburante. Ogni fermata inutile spreca energia pagata in carburante.",
    "es": "Subir pronto de marcha (unas 2.000–2.500 rpm en gasolina) y dejar rodar con previsión ahorra mucho combustible. Cada parada innecesaria malgasta energía pagada en combustible.",
-   "pt": "Subir cedo de mudança (cerca de 2000–2500 rpm a gasolina) e deixar rolar com antecipação poupa muito combustível. Cada paragem desnecessária desperdiça energia paga em combustível."
+   "pt": "Subir cedo de mudança (cerca de 2000–2500 rpm a gasolina) e deixar rolar com antecipação poupa muito combustível. Cada paragem desnecessária desperdiça energia paga em combustível.",
+   "fr": "Passer tôt les rapports (environ 2 000–2 500 tr/min pour un moteur essence) et laisser rouler en anticipant économise beaucoup de carburant. Chaque arrêt inutile gaspille de l'énergie payée en carburant."
   },
   "tip": null,
   "scene": null,
@@ -934,7 +939,8 @@
    "el": "Ρολάρεις προς κόκκινο φανάρι με ταχύτητα κουμπωμένη. Τι συμβαίνει;",
    "it": "Ti avvicini a un semaforo rosso in rilascio con la marcia inserita. Cosa succede?",
    "es": "Te acercas rodando a un semáforo en rojo con una marcha metida. ¿Qué pasa?",
-   "pt": "Aproximas-te de um semáforo vermelho em roda livre com uma mudança engatada. O que acontece?"
+   "pt": "Aproximas-te de um semáforo vermelho em roda livre com uma mudança engatada. O que acontece?",
+   "fr": "Tu t'approches en roue libre d'un feu rouge, une vitesse engagée. Que se passe-t-il ?"
   },
   "options": [
    {
@@ -949,7 +955,8 @@
     "el": "Η παροχή καυσίμου διακόπτεται (διακοπή ψεκασμού στο φρένο κινητήρα)",
     "it": "L’alimentazione del carburante si interrompe (cut-off in rilascio)",
     "es": "Se corta la inyección de combustible (corte en retención)",
-    "pt": "A injeção de combustível é cortada (corte em desaceleração)"
+    "pt": "A injeção de combustível é cortada (corte em desaceleração)",
+    "fr": "L'injection de carburant est coupée (coupure en décélération)"
    },
    {
     "de": "Der Motor braucht mehr Kraftstoff als im Leerlauf",
@@ -963,7 +970,8 @@
     "el": "Ο κινητήρας καίει περισσότερο από το ρελαντί",
     "it": "Il motore consuma più che al minimo",
     "es": "El motor consume más que al ralentí",
-    "pt": "O motor gasta mais do que ao ralenti"
+    "pt": "O motor gasta mais do que ao ralenti",
+    "fr": "Le moteur consomme plus qu'au ralenti"
    },
    {
     "de": "Der Motor geht aus",
@@ -977,7 +985,8 @@
     "el": "Ο κινητήρας σβήνει",
     "it": "Il motore si spegne",
     "es": "El motor se cala",
-    "pt": "O motor vai abaixo"
+    "pt": "O motor vai abaixo",
+    "fr": "Le moteur cale"
    }
   ],
   "correct": [
@@ -997,7 +1006,8 @@
    "el": "Όταν ρολάρεις με ταχύτητα και χωρίς γκάζι, οι σύγχρονοι κινητήρες κόβουν τον ψεκασμό και δεν καίνε καύσιμο. Στη νεκρά ο κινητήρας συνεχίζει να καίει για να μείνει στο ρελαντί.",
    "it": "In rilascio con la marcia inserita e il piede sollevato, i motori moderni interrompono l’iniezione e non consumano carburante. In folle il motore continua a bruciare carburante per restare al minimo.",
    "es": "Rodando con marcha metida y sin pisar el acelerador, los motores modernos cortan la inyección y no gastan combustible. En punto muerto el motor sigue quemando combustible para mantenerse al ralentí.",
-   "pt": "A rolar com mudança engatada e sem carregar no acelerador, os motores modernos cortam a injeção e não gastam combustível. Em ponto morto o motor continua a queimar combustível para se manter ao ralenti."
+   "pt": "A rolar com mudança engatada e sem carregar no acelerador, os motores modernos cortam a injeção e não gastam combustível. Em ponto morto o motor continua a queimar combustível para se manter ao ralenti.",
+   "fr": "En roulant avec une vitesse engagée sans appuyer sur l'accélérateur, les moteurs modernes coupent l'injection et ne consomment pas de carburant. Au point mort, le moteur continue de brûler du carburant pour tourner au ralenti."
   },
   "tip": null,
   "scene": null,
@@ -1025,7 +1035,8 @@
    "el": "Τι απαγορεύεται για να αποφεύγονται περιττός θόρυβος και καυσαέρια;",
    "it": "Cosa è vietato per evitare rumore e gas di scarico inutili?",
    "es": "¿Qué está prohibido para evitar ruido y gases innecesarios?",
-   "pt": "O que é proibido para evitar ruído e gases desnecessários?"
+   "pt": "O que é proibido para evitar ruído e gases desnecessários?",
+   "fr": "Qu'est-ce qui est interdit pour éviter le bruit et les gaz inutiles ?"
   },
   "options": [
    {
@@ -1040,7 +1051,8 @@
     "el": "Το ζέσταμα του κινητήρα σε στάση",
     "it": "Scaldare il motore da fermo",
     "es": "Calentar el motor parado",
-    "pt": "Aquecer o motor parado"
+    "pt": "Aquecer o motor parado",
+    "fr": "Faire chauffer le moteur à l'arrêt"
    },
    {
     "de": "Unnötiges Hin- und Herfahren innerorts",
@@ -1054,7 +1066,8 @@
     "el": "Οι άσκοπες βόλτες πάνω-κάτω στην πόλη",
     "it": "Andare avanti e indietro in città senza motivo",
     "es": "Dar vueltas sin motivo por la ciudad",
-    "pt": "Andar às voltas sem motivo pela cidade"
+    "pt": "Andar às voltas sem motivo pela cidade",
+    "fr": "Tourner en rond sans raison en ville"
    },
    {
     "de": "Den Motor an der Ampel laufen lassen",
@@ -1068,7 +1081,8 @@
     "el": "Ο αναμμένος κινητήρας στο κόκκινο",
     "it": "Tenere il motore acceso al rosso",
     "es": "Dejar el motor encendido en un semáforo",
-    "pt": "Deixar o motor ligado num semáforo"
+    "pt": "Deixar o motor ligado num semáforo",
+    "fr": "Laisser le moteur tourner à un feu"
    }
   ],
   "correct": [
@@ -1089,7 +1103,8 @@
    "el": "Ο περιττός θόρυβος και τα αποφεύξιμα καυσαέρια απαγορεύονται, μαζί με το ζέσταμα σε στάση και τις άσκοπες βόλτες στην πόλη (§ 30 παρ. 1 StVO). Στο κόκκινο ο κινητήρας μπορεί να δουλεύει, αλλά σε μεγαλύτερες αναμονές αξίζει να σβήνει.",
    "it": "Il rumore inutile e i gas di scarico evitabili sono vietati, compreso scaldare il motore da fermo e girare in città senza scopo (§ 30 c. 1 StVO). Al rosso il motore può restare acceso, ma per attese più lunghe conviene spegnerlo.",
    "es": "El ruido innecesario y los gases evitables están prohibidos, incluido calentar el motor parado y dar vueltas sin sentido por la ciudad (§ 30 apdo. 1 StVO). En el semáforo el motor puede ir encendido, pero en esperas largas compensa apagarlo.",
-   "pt": "O ruído desnecessário e os gases evitáveis são proibidos, incluindo aquecer o motor parado e andar às voltas sem sentido pela cidade (§ 30 n.º 1 StVO). No semáforo o motor pode estar ligado, mas em esperas longas compensa desligá-lo."
+   "pt": "O ruído desnecessário e os gases evitáveis são proibidos, incluindo aquecer o motor parado e andar às voltas sem sentido pela cidade (§ 30 n.º 1 StVO). No semáforo o motor pode estar ligado, mas em esperas longas compensa desligá-lo.",
+   "fr": "Le bruit inutile et les gaz évitables sont interdits, y compris faire chauffer le moteur à l'arrêt et tourner en rond sans but en ville (§ 30 al. 1 StVO). Au feu, le moteur peut tourner, mais lors de longues attentes, il vaut la peine de le couper."
   },
   "tip": null,
   "scene": null,
@@ -1117,7 +1132,8 @@
    "el": "Σε περιμένει μεγάλη αναμονή σε κλειστή μπάρα ισόπεδης διάβασης. Τι κάνεις;",
    "it": "Ti aspetta una lunga attesa davanti alle sbarre chiuse di un passaggio a livello. Cosa fai?",
    "es": "Te espera una larga espera ante la barrera cerrada de un paso a nivel. ¿Qué haces?",
-   "pt": "Espera-te uma longa espera na cancela fechada de uma passagem de nível. O que fazes?"
+   "pt": "Espera-te uma longa espera na cancela fechada de uma passagem de nível. O que fazes?",
+   "fr": "Une longue attente t'attend devant la barrière fermée d'un passage à niveau. Que fais-tu ?"
   },
   "options": [
    {
@@ -1132,7 +1148,8 @@
     "el": "Σβήνω τον κινητήρα",
     "it": "Spengo il motore",
     "es": "Apago el motor",
-    "pt": "Desligo o motor"
+    "pt": "Desligo o motor",
+    "fr": "Je coupe le moteur"
    },
    {
     "de": "Den Motor laufen lassen, damit er warm bleibt",
@@ -1146,7 +1163,8 @@
     "el": "Τον αφήνω αναμμένο για να μείνει ζεστός",
     "it": "Lo lascio acceso perché resti caldo",
     "es": "Lo dejo encendido para que no se enfríe",
-    "pt": "Deixo-o ligado para não arrefecer"
+    "pt": "Deixo-o ligado para não arrefecer",
+    "fr": "Je le laisse tourner pour qu'il ne refroidisse pas"
    },
    {
     "de": "Gas geben, damit die Batterie lädt",
@@ -1160,7 +1178,8 @@
     "el": "Δίνω γκάζι για να φορτίσει η μπαταρία",
     "it": "Do gas per caricare la batteria",
     "es": "Acelero para cargar la batería",
-    "pt": "Acelero para carregar a bateria"
+    "pt": "Acelero para carregar a bateria",
+    "fr": "J'accélère pour charger la batterie"
    }
   ],
   "correct": [
@@ -1180,7 +1199,8 @@
    "el": "Σε μεγαλύτερες αναμονές σε μπάρες, σε ουρές ή σε φανάρια έργων, το σβήσιμο του κινητήρα εξοικονομεί καύσιμο και μειώνει θόρυβο και καυσαέρια.",
    "it": "Nelle attese più lunghe alle sbarre, in coda o ai semafori dei cantieri, spegnere il motore fa risparmiare carburante e riduce rumore e gas di scarico.",
    "es": "En esperas largas en barreras, retenciones o semáforos de obras, apagar el motor ahorra combustible y reduce ruido y gases.",
-   "pt": "Em esperas longas em cancelas, filas ou semáforos de obras, desligar o motor poupa combustível e reduz ruído e gases."
+   "pt": "Em esperas longas em cancelas, filas ou semáforos de obras, desligar o motor poupa combustível e reduz ruído e gases.",
+   "fr": "Lors de longues attentes aux barrières, dans les bouchons ou aux feux de chantier, couper le moteur économise du carburant et réduit le bruit et les gaz."
   },
   "tip": null,
   "scene": null,
@@ -1208,7 +1228,8 @@
    "el": "Τι αυξάνει την κατανάλωση καυσίμου;",
    "it": "Cosa aumenta il consumo di carburante?",
    "es": "¿Qué aumenta el consumo de combustible?",
-   "pt": "O que aumenta o consumo de combustível?"
+   "pt": "O que aumenta o consumo de combustível?",
+   "fr": "Qu'est-ce qui augmente la consommation de carburant ?"
   },
   "options": [
    {
@@ -1223,7 +1244,8 @@
     "el": "Μια άδεια σχάρα οροφής",
     "it": "Un portapacchi vuoto",
     "es": "Una baca vacía",
-    "pt": "Um porta-bagagens de tejadilho vazio"
+    "pt": "Um porta-bagagens de tejadilho vazio",
+    "fr": "Une galerie de toit vide"
    },
    {
     "de": "Zu niedriger Reifendruck",
@@ -1237,7 +1259,8 @@
     "el": "Ελαστικά με χαμηλή πίεση",
     "it": "Pneumatici sgonfi",
     "es": "Neumáticos con poca presión",
-    "pt": "Pneus com pouca pressão"
+    "pt": "Pneus com pouca pressão",
+    "fr": "Des pneus sous-gonflés"
    },
    {
     "de": "Die Klimaanlage",
@@ -1251,7 +1274,8 @@
     "el": "Ο κλιματισμός",
     "it": "L’aria condizionata",
     "es": "El aire acondicionado",
-    "pt": "O ar condicionado"
+    "pt": "O ar condicionado",
+    "fr": "La climatisation"
    }
   ],
   "correct": [
@@ -1273,7 +1297,8 @@
    "el": "Ο εξοπλισμός οροφής αυξάνει την αντίσταση του αέρα, η χαμηλή πίεση την αντίσταση κύλισης, και ο κλιματισμός παίρνει ισχύ από τον κινητήρα. Αφαίρεσέ τα, έλεγχε τις πιέσεις και χρησιμοποίησε κλιματισμό μόνο όταν χρειάζεται.",
    "it": "Gli accessori sul tetto aumentano la resistenza dell’aria, la pressione bassa la resistenza al rotolamento, e l’aria condizionata assorbe potenza dal motore. Toglili, controlla le pressioni e usa il clima solo quando serve.",
    "es": "Los accesorios del techo aumentan la resistencia del aire, la presión baja la resistencia a la rodadura y el aire acondicionado resta potencia al motor. Quítalos, revisa las presiones y usa el aire solo cuando haga falta.",
-   "pt": "Os acessórios no tejadilho aumentam a resistência do ar, a pressão baixa aumenta a resistência ao rolamento e o ar condicionado tira potência ao motor. Retira-os, verifica as pressões e usa o ar condicionado só quando for preciso."
+   "pt": "Os acessórios no tejadilho aumentam a resistência do ar, a pressão baixa aumenta a resistência ao rolamento e o ar condicionado tira potência ao motor. Retira-os, verifica as pressões e usa o ar condicionado só quando for preciso.",
+   "fr": "Les accessoires de toit augmentent la résistance de l'air, une pression trop basse la résistance au roulement, et la climatisation prend de la puissance au moteur. Retire-les, vérifie les pressions et n'utilise la clim qu'en cas de besoin."
   },
   "tip": null,
   "scene": null,
@@ -1301,7 +1326,8 @@
    "el": "Γιατί η κατανάλωση ανεβαίνει απότομα σε υψηλή ταχύτητα;",
    "it": "Perché ad alta velocità il consumo sale in modo così forte?",
    "es": "¿Por qué el consumo sube tanto a alta velocidad?",
-   "pt": "Porque é que o consumo sobe tanto a alta velocidade?"
+   "pt": "Porque é que o consumo sobe tanto a alta velocidade?",
+   "fr": "Pourquoi la consommation augmente-t-elle autant à haute vitesse ?"
   },
   "options": [
    {
@@ -1316,7 +1342,8 @@
     "el": "Η αντίσταση του αέρα αυξάνεται με το τετράγωνο της ταχύτητας",
     "it": "La resistenza dell’aria cresce con il quadrato della velocità",
     "es": "La resistencia del aire crece con el cuadrado de la velocidad",
-    "pt": "A resistência do ar cresce com o quadrado da velocidade"
+    "pt": "A resistência do ar cresce com o quadrado da velocidade",
+    "fr": "La résistance de l'air augmente avec le carré de la vitesse"
    },
    {
     "de": "Weil der Motor im höchsten Gang ineffizient ist",
@@ -1330,7 +1357,8 @@
     "el": "Επειδή ο κινητήρας είναι αναποτελεσματικός στην ψηλότερη σχέση",
     "it": "Perché il motore è inefficiente nella marcia più alta",
     "es": "Porque el motor es ineficiente en la marcha más larga",
-    "pt": "Porque o motor é ineficiente na mudança mais alta"
+    "pt": "Porque o motor é ineficiente na mudança mais alta",
+    "fr": "Parce que le moteur est inefficace sur le rapport le plus long"
    },
    {
     "de": "Das stimmt nicht – schnell fahren spart Zeit und Kraftstoff",
@@ -1344,7 +1372,8 @@
     "el": "Δεν ανεβαίνει — η γρήγορη οδήγηση εξοικονομεί χρόνο και καύσιμο",
     "it": "Non sale — andare veloce fa risparmiare sia tempo sia carburante",
     "es": "No sube — ir rápido ahorra tiempo y combustible",
-    "pt": "Não sobe — ir depressa poupa tempo e combustível"
+    "pt": "Não sobe — ir depressa poupa tempo e combustível",
+    "fr": "Elle n'augmente pas — rouler vite fait gagner du temps et du carburant"
    }
   ],
   "correct": [
@@ -1364,7 +1393,8 @@
    "el": "Διπλάσια ταχύτητα σημαίνει τετραπλάσια αντίσταση αέρα. Με 120 αντί 160 km/h στον αυτοκινητόδρομο γλιτώνεις συχνά το ένα τρίτο του καυσίμου και χάνεις μόνο περίπου δώδεκα λεπτά ανά 100 km.",
    "it": "Il doppio della velocità significa quattro volte la resistenza dell’aria. Andare a 120 invece che a 160 km/h in autostrada fa spesso risparmiare un terzo del carburante e costa solo circa dodici minuti ogni 100 km.",
    "es": "El doble de velocidad significa cuatro veces la resistencia del aire. Ir a 120 en vez de a 160 km/h por autopista ahorra a menudo un tercio del combustible y solo cuesta unos doce minutos cada 100 km.",
-   "pt": "O dobro da velocidade significa quatro vezes a resistência do ar. Ir a 120 em vez de 160 km/h na autoestrada poupa muitas vezes um terço do combustível e custa só uns doze minutos por 100 km."
+   "pt": "O dobro da velocidade significa quatro vezes a resistência do ar. Ir a 120 em vez de 160 km/h na autoestrada poupa muitas vezes um terço do combustível e custa só uns doze minutos por 100 km.",
+   "fr": "Deux fois plus vite, c'est quatre fois plus de résistance de l'air. Rouler à 120 au lieu de 160 km/h sur autoroute économise souvent un tiers du carburant et ne coûte qu'environ douze minutes tous les 100 km."
   },
   "tip": null,
   "scene": null,
@@ -1392,7 +1422,8 @@
    "el": "Πού πετάς το χρησιμοποιημένο λάδι κινητήρα;",
    "it": "Dove smaltisci l’olio motore usato?",
    "es": "¿Dónde depositas el aceite de motor usado?",
-   "pt": "Onde entregas o óleo de motor usado?"
+   "pt": "Onde entregas o óleo de motor usado?",
+   "fr": "Où déposes-tu l'huile moteur usagée ?"
   },
   "options": [
    {
@@ -1407,7 +1438,8 @@
     "el": "Σε σημείο συλλογής, π.χ. εκεί όπου αγοράστηκε το λάδι",
     "it": "In un punto di raccolta, ad esempio dove è stato comprato l’olio",
     "es": "En un punto de recogida, por ejemplo donde se compró el aceite",
-    "pt": "Num ponto de recolha, por exemplo onde o óleo foi comprado"
+    "pt": "Num ponto de recolha, por exemplo onde o óleo foi comprado",
+    "fr": "À un point de collecte, par exemple là où l'huile a été achetée"
    },
    {
     "de": "Im Hausmüll in einer verschlossenen Flasche",
@@ -1421,7 +1453,8 @@
     "el": "Στα οικιακά απορρίμματα σε κλειστό μπουκάλι",
     "it": "Nei rifiuti domestici in una bottiglia chiusa",
     "es": "En la basura doméstica en una botella cerrada",
-    "pt": "No lixo doméstico numa garrafa fechada"
+    "pt": "No lixo doméstico numa garrafa fechada",
+    "fr": "Dans les ordures ménagères, dans une bouteille fermée"
    },
    {
     "de": "Im Gully",
@@ -1435,7 +1468,8 @@
     "el": "Στην αποχέτευση",
     "it": "Nello scarico",
     "es": "Por el desagüe",
-    "pt": "No esgoto"
+    "pt": "No esgoto",
+    "fr": "Dans l'évier"
    }
   ],
   "correct": [
@@ -1455,7 +1489,8 @@
    "el": "Ένα λίτρο χρησιμοποιημένου λαδιού μπορεί να μολύνει ένα εκατομμύριο λίτρα πόσιμου νερού. Τα καταστήματα που πωλούν λάδι κινητήρα πρέπει να παίρνουν πίσω δωρεάν την ίδια ποσότητα χρησιμοποιημένου.",
    "it": "Un litro di olio usato può inquinare un milione di litri di acqua potabile. I negozi che vendono olio motore devono ritirare gratis la stessa quantità di olio usato.",
    "es": "Un litro de aceite usado puede contaminar un millón de litros de agua potable. Las tiendas que venden aceite de motor deben recoger gratis la misma cantidad de aceite usado.",
-   "pt": "Um litro de óleo usado pode contaminar um milhão de litros de água potável. As lojas que vendem óleo de motor têm de receber gratuitamente a mesma quantidade de óleo usado."
+   "pt": "Um litro de óleo usado pode contaminar um milhão de litros de água potável. As lojas que vendem óleo de motor têm de receber gratuitamente a mesma quantidade de óleo usado.",
+   "fr": "Un litre d'huile usagée peut polluer un million de litres d'eau potable. Les magasins qui vendent de l'huile moteur doivent reprendre gratuitement la même quantité d'huile usagée."
   },
   "tip": null,
   "scene": null,
@@ -1483,7 +1518,8 @@
    "el": "Ποιος μπορεί να μπει σε ζώνη χαμηλών εκπομπών;",
    "it": "Chi può entrare in una zona a basse emissioni?",
    "es": "¿Quién puede entrar en una zona de bajas emisiones?",
-   "pt": "Quem pode entrar numa zona de emissões reduzidas?"
+   "pt": "Quem pode entrar numa zona de emissões reduzidas?",
+   "fr": "Qui peut entrer dans une zone à faibles émissions ?"
   },
   "options": [
    {
@@ -1498,7 +1534,8 @@
     "el": "Οχήματα με το απαιτούμενο αυτοκόλλητο εκπομπών",
     "it": "I veicoli con il bollino ambientale richiesto",
     "es": "Los vehículos con la etiqueta ambiental exigida",
-    "pt": "Os veículos com o dístico ambiental exigido"
+    "pt": "Os veículos com o dístico ambiental exigido",
+    "fr": "Les véhicules portant la vignette environnementale exigée"
    },
    {
     "de": "Alle Fahrzeuge, wenn sie langsam fahren",
@@ -1512,7 +1549,8 @@
     "el": "Κάθε όχημα που πηγαίνει αργά",
     "it": "Qualsiasi veicolo che vada piano",
     "es": "Cualquier vehículo que vaya despacio",
-    "pt": "Qualquer veículo que vá devagar"
+    "pt": "Qualquer veículo que vá devagar",
+    "fr": "Tout véhicule qui roule lentement"
    },
    {
     "de": "Nur Elektroautos",
@@ -1526,7 +1564,8 @@
     "el": "Μόνο ηλεκτρικά αυτοκίνητα",
     "it": "Solo le auto elettriche",
     "es": "Solo los coches eléctricos",
-    "pt": "Só os carros elétricos"
+    "pt": "Só os carros elétricos",
+    "fr": "Seulement les voitures électriques"
    }
   ],
   "correct": [
@@ -1546,7 +1585,8 @@
    "el": "Σε ζώνη χαμηλών εκπομπών (πινακίδα 270.1) μπαίνουν μόνο οχήματα με το σωστό αυτοκόλλητο — σήμερα σχεδόν παντού το πράσινο. Χωρίς αυτό υπάρχει κίνδυνος προστίμου.",
    "it": "In una zona a basse emissioni (segnale 270.1) possono entrare solo i veicoli con il bollino giusto — oggi quasi ovunque quello verde. Senza si rischia la multa.",
    "es": "En una zona de bajas emisiones (señal 270.1) solo pueden entrar vehículos con la etiqueta correcta — hoy casi en todas partes, la verde. Sin ella te pueden multar.",
-   "pt": "Numa zona de emissões reduzidas (sinal 270.1) só podem entrar veículos com o dístico certo — hoje quase em todo o lado, o verde. Sem ele podes levar uma coima."
+   "pt": "Numa zona de emissões reduzidas (sinal 270.1) só podem entrar veículos com o dístico certo — hoje quase em todo o lado, o verde. Sem ele podes levar uma coima.",
+   "fr": "Dans une zone à faibles émissions (panneau 270.1), seuls les véhicules portant la bonne vignette peuvent entrer — aujourd'hui presque partout, la verte. Sans elle, tu peux recevoir une amende."
   },
   "tip": null,
   "scene": null,
@@ -1576,7 +1616,8 @@
    "el": "Ποιες διαδρομές επιβαρύνουν περισσότερο τον κινητήρα και το περιβάλλον;",
    "it": "Quali tragitti pesano di più su motore e ambiente?",
    "es": "¿Qué trayectos castigan más al motor y al medio ambiente?",
-   "pt": "Que viagens castigam mais o motor e o ambiente?"
+   "pt": "Que viagens castigam mais o motor e o ambiente?",
+   "fr": "Quels trajets sont les plus pénalisants pour le moteur et l'environnement ?"
   },
   "options": [
    {
@@ -1591,7 +1632,8 @@
     "el": "Οι σύντομες διαδρομές με κρύο κινητήρα",
     "it": "I tragitti brevi a motore freddo",
     "es": "Los trayectos cortos con el motor frío",
-    "pt": "As viagens curtas com o motor frio"
+    "pt": "As viagens curtas com o motor frio",
+    "fr": "Les trajets courts moteur froid"
    },
    {
     "de": "Lange, gleichmäßige Fahrten",
@@ -1605,7 +1647,8 @@
     "el": "Οι μεγάλες, σταθερές διαδρομές",
     "it": "I viaggi lunghi e regolari",
     "es": "Los viajes largos y regulares",
-    "pt": "As viagens longas e regulares"
+    "pt": "As viagens longas e regulares",
+    "fr": "Les longs trajets réguliers"
    },
    {
     "de": "Fahrten mit Tempomat",
@@ -1619,7 +1662,8 @@
     "el": "Οι διαδρομές με cruise control",
     "it": "I viaggi con il cruise control",
     "es": "Los viajes con control de crucero",
-    "pt": "As viagens com cruise control"
+    "pt": "As viagens com cruise control",
+    "fr": "Les trajets avec régulateur de vitesse"
    }
   ],
   "correct": [
@@ -1639,7 +1683,8 @@
    "el": "Ένας κρύος κινητήρας καίει πολύ περισσότερο και φθείρεται πιο γρήγορα, και ο καταλύτης δεν έχει ζεσταθεί ακόμη. Για μικρές αποστάσεις συχνά είναι καλύτερα το περπάτημα, το ποδήλατο ή το λεωφορείο.",
    "it": "Un motore freddo consuma molto di più e si usura più in fretta, e il catalizzatore non è ancora caldo. Per i tragitti brevi spesso è meglio a piedi, in bici o in autobus.",
    "es": "Un motor frío gasta mucho más y se desgasta antes, y el catalizador aún no se ha calentado. Para distancias cortas suele ser mejor ir a pie, en bici o en autobús.",
-   "pt": "Um motor frio gasta muito mais e desgasta-se mais depressa, e o catalisador ainda não aqueceu. Para distâncias curtas costuma ser melhor ir a pé, de bicicleta ou de autocarro."
+   "pt": "Um motor frio gasta muito mais e desgasta-se mais depressa, e o catalisador ainda não aqueceu. Para distâncias curtas costuma ser melhor ir a pé, de bicicleta ou de autocarro.",
+   "fr": "Un moteur froid consomme beaucoup plus et s'use plus vite, et le catalyseur n'a pas encore chauffé. Pour les courtes distances, il vaut souvent mieux aller à pied, à vélo ou en bus."
   },
   "tip": null,
   "scene": null,
@@ -1667,7 +1712,8 @@
    "el": "Πόσο αλκοόλ επιτρέπεται στο αίμα όταν οδηγείς στη δοκιμαστική περίοδο ή πριν από τα 21;",
    "it": "Quanto alcol puoi avere nel sangue guidando durante il periodo di prova o prima dei 21 anni?",
    "es": "¿Cuánto alcohol puedes tener en sangre al conducir durante el periodo de prueba o antes de los 21 años?",
-   "pt": "Quanto álcool no sangue podes ter ao conduzir no período probatório ou antes dos 21 anos?"
+   "pt": "Quanto álcool no sangue podes ter ao conduzir no período probatório ou antes dos 21 anos?",
+   "fr": "Quel taux d'alcool dans le sang peux-tu avoir en conduisant pendant la période probatoire ou avant 21 ans ?"
   },
   "options": [],
   "correct": [],
@@ -1685,7 +1731,8 @@
    "el": "Στη δοκιμαστική περίοδο και πριν από τα 21α γενέθλια ισχύει απόλυτη απαγόρευση αλκοόλ (§ 24c StVG): 0,0 τοις χιλίοις, ούτε μια μικρή μπίρα. Η παράβαση είναι σοβαρή παράβαση της δοκιμαστικής περιόδου, με σεμινάριο και παράταση.",
    "it": "Durante il periodo di prova e prima del 21° compleanno vige il divieto assoluto di alcol (§ 24c StVG): 0,0 per mille, nemmeno una birra piccola. Violarlo è un’infrazione grave del periodo di prova, con corso e proroga del periodo.",
    "es": "Durante el periodo de prueba y antes de cumplir 21 años rige la prohibición absoluta de alcohol (§ 24c StVG): 0,0 por mil, ni siquiera una cerveza pequeña. Incumplirla es una infracción grave del periodo de prueba, con curso y prolongación del periodo.",
-   "pt": "No período probatório e antes de fazer 21 anos vale a proibição absoluta de álcool (§ 24c StVG): 0,0 por mil, nem sequer uma cerveja pequena. Desrespeitá-la é uma infração grave do período probatório, com curso e prolongamento do período."
+   "pt": "No período probatório e antes de fazer 21 anos vale a proibição absoluta de álcool (§ 24c StVG): 0,0 por mil, nem sequer uma cerveja pequena. Desrespeitá-la é uma infração grave do período probatório, com curso e prolongamento do período.",
+   "fr": "Pendant la période probatoire et avant 21 ans, l'interdiction absolue d'alcool s'applique (§ 24c StVG) : 0,0 pour mille, pas même une petite bière. L'enfreindre est une infraction grave de la période probatoire, avec stage et prolongation de la période."
   },
   "tip": {
    "de": "Neu am Steuer: null Komma null.",
@@ -1699,7 +1746,8 @@
    "el": "Νέος οδηγός: μηδέν κόμμα μηδέν.",
    "it": "Neopatentati: zero virgola zero.",
    "es": "Conducción novel: cero coma cero.",
-   "pt": "Condução recente: zero vírgula zero."
+   "pt": "Condução recente: zero vírgula zero.",
+   "fr": "Période probatoire : zéro virgule zéro."
   },
   "scene": null,
   "signs": [],
@@ -1726,7 +1774,8 @@
    "el": "Από ποιο επίπεδο αλκοόλ στο αίμα διαπράττεις παράβαση, ακόμη και χωρίς σημάδια επηρεασμού;",
    "it": "Da quale tasso alcolemico commetti un’infrazione, anche senza segni di alterazione?",
    "es": "¿A partir de qué tasa de alcohol en sangre cometes una infracción, incluso sin signos de afectación?",
-   "pt": "A partir de que taxa de álcool no sangue cometes uma infração, mesmo sem sinais de alteração?"
+   "pt": "A partir de que taxa de álcool no sangue cometes uma infração, mesmo sem sinais de alteração?",
+   "fr": "À partir de quel taux d'alcool dans le sang commets-tu une infraction, même sans signe d'altération ?"
   },
   "options": [
    {
@@ -1741,7 +1790,8 @@
     "el": "0,5 ‰",
     "it": "0,5 ‰",
     "es": "0,5 ‰",
-    "pt": "0,5 ‰"
+    "pt": "0,5 ‰",
+    "fr": "0,5 ‰"
    },
    {
     "de": "0,8 ‰",
@@ -1755,7 +1805,8 @@
     "el": "0,8 ‰",
     "it": "0,8 ‰",
     "es": "0,8 ‰",
-    "pt": "0,8 ‰"
+    "pt": "0,8 ‰",
+    "fr": "0,8 ‰"
    },
    {
     "de": "1,1 ‰",
@@ -1769,7 +1820,8 @@
     "el": "1,1 ‰",
     "it": "1,1 ‰",
     "es": "1,1 ‰",
-    "pt": "1,1 ‰"
+    "pt": "1,1 ‰",
+    "fr": "1,1 ‰"
    }
   ],
   "correct": [
@@ -1789,7 +1841,8 @@
    "el": "Από 0,5 ‰ είναι διοικητική παράβαση (πρόστιμο, βαθμοί, απαγόρευση οδήγησης). Από 0,3 ‰ είναι ήδη ποινικό αδίκημα αν εμφανιστούν λάθη στην οδήγηση ή σημάδια επηρεασμού. Από 1,1 ‰ θεωρείται απόλυτη ανικανότητα οδήγησης — πάντα ποινικό αδίκημα.",
    "it": "Da 0,5 ‰ è un illecito amministrativo (multa, punti, sospensione). Da 0,3 ‰ è già reato se compaiono errori di guida o segni di alterazione. Da 1,1 ‰ c’è inidoneità assoluta alla guida — sempre reato.",
    "es": "Desde 0,5 ‰ es una infracción administrativa (multa, puntos, prohibición de conducir). Desde 0,3 ‰ ya es delito si hay errores de conducción o signos de afectación. Desde 1,1 ‰ se considera incapacidad absoluta para conducir — siempre delito.",
-   "pt": "A partir de 0,5 ‰ é uma contraordenação (coima, pontos, proibição de conduzir). A partir de 0,3 ‰ já é crime se houver erros de condução ou sinais de alteração. A partir de 1,1 ‰ considera-se incapacidade absoluta de conduzir — sempre crime."
+   "pt": "A partir de 0,5 ‰ é uma contraordenação (coima, pontos, proibição de conduzir). A partir de 0,3 ‰ já é crime se houver erros de condução ou sinais de alteração. A partir de 1,1 ‰ considera-se incapacidade absoluta de conduzir — sempre crime.",
+   "fr": "À partir de 0,5 ‰, c'est une infraction administrative (amende, points, interdiction de conduire). À partir de 0,3 ‰, c'est déjà un délit en cas d'erreurs de conduite ou de signes d'altération. À partir de 1,1 ‰, on considère qu'il y a incapacité absolue de conduire — toujours un délit."
   },
   "tip": {
    "de": "0,3 mit Fehler – 0,5 immer – 1,1 Straftat.",
@@ -1803,7 +1856,8 @@
    "el": "0,3 με λάθη — 0,5 πάντα — 1,1 ποινικό.",
    "it": "0,3 con errori — 0,5 sempre — 1,1 reato.",
    "es": "0,3 con errores — 0,5 siempre — 1,1 delito.",
-   "pt": "0,3 com erros — 0,5 sempre — 1,1 crime."
+   "pt": "0,3 com erros — 0,5 sempre — 1,1 crime.",
+   "fr": "0,3 avec erreurs — 0,5 toujours — 1,1 délit."
   },
   "scene": null,
   "signs": [],
@@ -1830,7 +1884,8 @@
    "el": "Περίπου πόσο γρήγορα διασπά ο οργανισμός το αλκοόλ;",
    "it": "Più o meno a che velocità il corpo smaltisce l’alcol?",
    "es": "¿Más o menos a qué ritmo elimina el cuerpo el alcohol?",
-   "pt": "Mais ou menos a que ritmo o corpo elimina o álcool?"
+   "pt": "Mais ou menos a que ritmo o corpo elimina o álcool?",
+   "fr": "À peu près à quel rythme le corps élimine-t-il l'alcool ?"
   },
   "options": [
    {
@@ -1845,7 +1900,8 @@
     "el": "Περίπου 0,1 τοις χιλίοις την ώρα",
     "it": "Circa 0,1 per mille all’ora",
     "es": "Unos 0,1 por mil por hora",
-    "pt": "Cerca de 0,1 por mil por hora"
+    "pt": "Cerca de 0,1 por mil por hora",
+    "fr": "Environ 0,1 pour mille par heure"
    },
    {
     "de": "Schneller mit starkem Kaffee",
@@ -1859,7 +1915,8 @@
     "el": "Πιο γρήγορα με δυνατό καφέ",
     "it": "Più in fretta con un caffè forte",
     "es": "Más rápido con un café fuerte",
-    "pt": "Mais depressa com um café forte"
+    "pt": "Mais depressa com um café forte",
+    "fr": "Plus vite avec un café fort"
    },
    {
     "de": "Schneller mit kalter Dusche und frischer Luft",
@@ -1873,7 +1930,8 @@
     "el": "Πιο γρήγορα με κρύο ντους και καθαρό αέρα",
     "it": "Più in fretta con una doccia fredda e aria fresca",
     "es": "Más rápido con una ducha fría y aire fresco",
-    "pt": "Mais depressa com um duche frio e ar fresco"
+    "pt": "Mais depressa com um duche frio e ar fresco",
+    "fr": "Plus vite avec une douche froide et de l'air frais"
    }
   ],
   "correct": [
@@ -1893,7 +1951,8 @@
    "el": "Το συκώτι αποβάλλει περίπου 0,1 ‰ την ώρα, όχι πιο γρήγορα. Καφές, ντους ή κίνηση δεν αλλάζουν τίποτα. Μετά από ένα βαρύ βράδυ μπορεί το επόμενο πρωί να είσαι ακόμη πάνω από το όριο.",
    "it": "Il fegato elimina circa 0,1 ‰ all’ora, non di più. Caffè, doccia o movimento non cambiano nulla. Dopo una serata pesante si può essere ancora oltre il limite la mattina dopo.",
    "es": "El hígado elimina unos 0,1 ‰ por hora, no más rápido. El café, la ducha o el ejercicio no cambian nada. Tras una noche larga se puede seguir por encima del límite a la mañana siguiente.",
-   "pt": "O fígado elimina cerca de 0,1 ‰ por hora, não mais depressa. O café, o duche ou o exercício não mudam nada. Depois de uma noite longa pode-se continuar acima do limite na manhã seguinte."
+   "pt": "O fígado elimina cerca de 0,1 ‰ por hora, não mais depressa. O café, o duche ou o exercício não mudam nada. Depois de uma noite longa pode-se continuar acima do limite na manhã seguinte.",
+   "fr": "Le foie élimine environ 0,1 ‰ par heure, pas plus vite. Le café, la douche ou l'exercice n'y changent rien. Après une longue soirée, on peut encore dépasser la limite le lendemain matin."
   },
   "tip": null,
   "scene": null,
@@ -1921,7 +1980,8 @@
    "el": "Τι ισχύει από το 2024 για κάνναβη και οδήγηση;",
    "it": "Cosa vale dal 2024 per cannabis e guida?",
    "es": "¿Qué rige desde 2024 sobre cannabis y conducción?",
-   "pt": "O que se aplica desde 2024 sobre canábis e condução?"
+   "pt": "O que se aplica desde 2024 sobre canábis e condução?",
+   "fr": "Quelle règle s'applique depuis 2024 au cannabis et à la conduite ?"
   },
   "options": [
    {
@@ -1936,7 +1996,8 @@
     "el": "Από 3,5 ng/ml THC στον ορό του αίματος είναι παράβαση",
     "it": "Da 3,5 ng/ml di THC nel siero è un’infrazione",
     "es": "Desde 3,5 ng/ml de THC en suero sanguíneo es infracción",
-    "pt": "A partir de 3,5 ng/ml de THC no soro sanguíneo é infração"
+    "pt": "A partir de 3,5 ng/ml de THC no soro sanguíneo é infração",
+    "fr": "À partir de 3,5 ng/ml de THC dans le sérum sanguin, c'est une infraction"
    },
    {
     "de": "In der Probezeit und unter 21 Jahren ist jedes THC verboten",
@@ -1950,7 +2011,8 @@
     "el": "Στη δοκιμαστική περίοδο και κάτω από 21 απαγορεύεται κάθε ποσότητα THC",
     "it": "Nel periodo di prova e sotto i 21 anni è vietato qualsiasi THC",
     "es": "En el periodo de prueba y antes de los 21 años está prohibido cualquier THC",
-    "pt": "No período probatório e antes dos 21 anos é proibido qualquer THC"
+    "pt": "No período probatório e antes dos 21 anos é proibido qualquer THC",
+    "fr": "En période probatoire et avant 21 ans, toute trace de THC est interdite"
    },
    {
     "de": "Cannabis zusammen mit Alkohol ist erlaubt, wenn beides unter dem Grenzwert liegt",
@@ -1964,7 +2026,8 @@
     "el": "Κάνναβη με αλκοόλ είναι εντάξει αν και τα δύο είναι κάτω από το όριο",
     "it": "Cannabis con alcol va bene se entrambi sono sotto il limite",
     "es": "Cannabis con alcohol está bien si ambos están por debajo del límite",
-    "pt": "Canábis com álcool não há problema se ambos estiverem abaixo do limite"
+    "pt": "Canábis com álcool não há problema se ambos estiverem abaixo do limite",
+    "fr": "Cannabis et alcool, c'est permis si les deux sont sous la limite"
    }
   ],
   "correct": [
@@ -1985,7 +2048,8 @@
    "el": "Από τον Αύγουστο του 2024 το όριο THC είναι 3,5 ng/ml στον ορό του αίματος (§ 24a StVG). Οι οδηγοί στη δοκιμαστική περίοδο και κάτω από 21 δεν επιτρέπεται καθόλου να οδηγούν υπό την επήρεια κάνναβης. Όποιος συνδυάζει κάνναβη και αλκοόλ πρέπει να είναι στο 0,0 ‰.",
    "it": "Da agosto 2024 il limite di THC è 3,5 ng/ml nel siero (§ 24a StVG). Chi è nel periodo di prova o ha meno di 21 anni non può guidare affatto sotto l’effetto della cannabis. Chi combina cannabis e alcol deve essere a 0,0 ‰.",
    "es": "Desde agosto de 2024 el límite de THC es 3,5 ng/ml en suero sanguíneo (§ 24a StVG). Quien está en periodo de prueba o tiene menos de 21 años no puede conducir en absoluto bajo los efectos del cannabis. Quien combina cannabis y alcohol debe estar en 0,0 ‰.",
-   "pt": "Desde agosto de 2024 o limite de THC é 3,5 ng/ml no soro sanguíneo (§ 24a StVG). Quem está no período probatório ou tem menos de 21 anos não pode de todo conduzir sob efeito de canábis. Quem combina canábis e álcool tem de estar a 0,0 ‰."
+   "pt": "Desde agosto de 2024 o limite de THC é 3,5 ng/ml no soro sanguíneo (§ 24a StVG). Quem está no período probatório ou tem menos de 21 anos não pode de todo conduzir sob efeito de canábis. Quem combina canábis e álcool tem de estar a 0,0 ‰.",
+   "fr": "Depuis août 2024, la limite de THC est de 3,5 ng/ml dans le sérum sanguin (§ 24a StVG). En période probatoire ou avant 21 ans, on ne peut pas conduire du tout sous l'effet du cannabis. En cas de consommation combinée de cannabis et d'alcool, il faut être à 0,0 ‰."
   },
   "tip": null,
   "scene": null,
@@ -2013,7 +2077,8 @@
    "el": "Παίρνεις φάρμακο. Τι κάνεις πριν οδηγήσεις;",
    "it": "Prendi un farmaco. Cosa fai prima di guidare?",
    "es": "Tomas un medicamento. ¿Qué haces antes de conducir?",
-   "pt": "Tomas um medicamento. O que fazes antes de conduzir?"
+   "pt": "Tomas um medicamento. O que fazes antes de conduzir?",
+   "fr": "Tu prends un médicament. Que fais-tu avant de conduire ?"
   },
   "options": [
    {
@@ -2028,7 +2093,8 @@
     "el": "Διαβάζω το φύλλο οδηγιών και, αν έχω αμφιβολία, ρωτώ γιατρό ή φαρμακοποιό",
     "it": "Leggo il foglietto e nel dubbio chiedo a medico o farmacista",
     "es": "Leo el prospecto y, si dudo, pregunto en la consulta médica o en la farmacia",
-    "pt": "Leio o folheto e, na dúvida, pergunto no consultório médico ou na farmácia"
+    "pt": "Leio o folheto e, na dúvida, pergunto no consultório médico ou na farmácia",
+    "fr": "Je lis la notice et, en cas de doute, je demande au cabinet médical ou à la pharmacie"
    },
    {
     "de": "Nichts – rezeptfreie Mittel sind immer unbedenklich",
@@ -2042,7 +2108,8 @@
     "el": "Τίποτα — τα μη συνταγογραφούμενα είναι πάντα εντάξει",
     "it": "Niente — i farmaci da banco vanno sempre bene",
     "es": "Nada — los medicamentos sin receta siempre están bien",
-    "pt": "Nada — os medicamentos sem receita estão sempre bem"
+    "pt": "Nada — os medicamentos sem receita estão sempre bem",
+    "fr": "Rien — les médicaments sans ordonnance sont toujours sans problème"
    },
    {
     "de": "Mit etwas Alkohol die Wirkung abschwächen",
@@ -2056,7 +2123,8 @@
     "el": "Πίνω λίγο αλκοόλ για να μετριάσω την επίδραση",
     "it": "Bevo un po’ di alcol per attenuarne l’effetto",
     "es": "Bebo un poco de alcohol para suavizar el efecto",
-    "pt": "Bebo um pouco de álcool para suavizar o efeito"
+    "pt": "Bebo um pouco de álcool para suavizar o efeito",
+    "fr": "Je bois un peu d'alcool pour atténuer l'effet"
    }
   ],
   "correct": [
@@ -2076,7 +2144,8 @@
    "el": "Πολλά φάρμακα, ακόμη και μη συνταγογραφούμενα για κρυολόγημα και αλλεργία, προκαλούν υπνηλία ή επιβραδύνουν τις αντιδράσεις. Με αλκοόλ η επίδραση είναι συχνά πολύ πιο έντονη.",
    "it": "Molti farmaci, compresi quelli da banco per raffreddore e allergie, danno sonnolenza o rallentano le reazioni. Con l’alcol l’effetto è spesso molto più forte.",
    "es": "Muchos medicamentos, incluidos los de venta libre para el resfriado y la alergia, dan sueño o ralentizan las reacciones. Con alcohol el efecto suele ser mucho más fuerte.",
-   "pt": "Muitos medicamentos, incluindo os de venda livre para a constipação e a alergia, dão sono ou tornam as reações mais lentas. Com álcool o efeito costuma ser muito mais forte."
+   "pt": "Muitos medicamentos, incluindo os de venda livre para a constipação e a alergia, dão sono ou tornam as reações mais lentas. Com álcool o efeito costuma ser muito mais forte.",
+   "fr": "Beaucoup de médicaments, y compris ceux en vente libre contre le rhume et les allergies, provoquent de la somnolence ou ralentissent les réactions. Avec de l'alcool, l'effet est souvent bien plus fort."
   },
   "tip": null,
   "scene": null,
@@ -2104,7 +2173,8 @@
    "el": "Το δίπλωμά σου έχει τον κωδικό 01 (διόρθωση όρασης). Τι σημαίνει;",
    "it": "La tua patente ha il codice 01 (correzione della vista). Cosa significa?",
    "es": "Tu permiso lleva el código 01 (corrección de la vista). ¿Qué significa?",
-   "pt": "A tua carta tem o código 01 (correção da visão). O que significa?"
+   "pt": "A tua carta tem o código 01 (correção da visão). O que significa?",
+   "fr": "Ton permis porte le code 01 (correction de la vue). Qu'est-ce que cela signifie ?"
   },
   "options": [
    {
@@ -2119,7 +2189,8 @@
     "el": "Πρέπει να φοράω γυαλιά ή φακούς επαφής όταν οδηγώ",
     "it": "Alla guida devo portare occhiali o lenti a contatto",
     "es": "Al conducir debo llevar gafas o lentillas",
-    "pt": "Ao conduzir tenho de usar óculos ou lentes de contacto"
+    "pt": "Ao conduzir tenho de usar óculos ou lentes de contacto",
+    "fr": "En conduisant, je dois porter des lunettes ou des lentilles"
    },
    {
     "de": "Ich darf nur tagsüber fahren",
@@ -2133,7 +2204,8 @@
     "el": "Μπορώ να οδηγώ μόνο με φως ημέρας",
     "it": "Posso guidare solo di giorno",
     "es": "Solo puedo conducir de día",
-    "pt": "Só posso conduzir de dia"
+    "pt": "Só posso conduzir de dia",
+    "fr": "Je ne peux conduire que de jour"
    },
    {
     "de": "Ich muss eine Ersatzbrille immer dabeihaben",
@@ -2147,7 +2219,8 @@
     "el": "Πρέπει να έχω πάντα εφεδρικά γυαλιά",
     "it": "Devo avere sempre occhiali di riserva",
     "es": "Siempre debo llevar gafas de repuesto",
-    "pt": "Tenho sempre de levar óculos de reserva"
+    "pt": "Tenho sempre de levar óculos de reserva",
+    "fr": "Je dois toujours avoir des lunettes de rechange"
    }
   ],
   "correct": [
@@ -2167,7 +2240,8 @@
    "el": "Ο όρος διόρθωσης όρασης ισχύει σε κάθε διαδρομή. Η οδήγηση χωρίς γυαλιά ή φακούς παραβιάζει τον όρο — πρόστιμο και προβλήματα με την ασφαλιστική μετά από ατύχημα.",
    "it": "La condizione di correzione della vista vale per ogni viaggio. Guidare senza occhiali o lenti viola la condizione — multa e problemi con l’assicurazione dopo un incidente.",
    "es": "La condición de corrección de la vista rige en cada trayecto. Conducir sin gafas ni lentillas incumple la condición — multa y problemas con la aseguradora tras un accidente.",
-   "pt": "A condição de correção da visão vale em cada viagem. Conduzir sem óculos nem lentes desrespeita a condição — coima e problemas com o seguro após um acidente."
+   "pt": "A condição de correção da visão vale em cada viagem. Conduzir sem óculos nem lentes desrespeita a condição — coima e problemas com o seguro após um acidente.",
+   "fr": "La condition de correction de la vue s'applique à chaque trajet. Conduire sans lunettes ni lentilles enfreint cette condition — amende et problèmes avec l'assurance après un accident."
   },
   "tip": null,
   "scene": null,
@@ -2195,7 +2269,8 @@
    "el": "Πώς καταλαβαίνεις ότι η κούραση δεν επιτρέπει πια την οδήγηση;",
    "it": "Come capisci che la stanchezza non permette più di guidare?",
    "es": "¿Cómo notas que el cansancio ya no te permite conducir?",
-   "pt": "Como percebes que o cansaço já não te permite conduzir?"
+   "pt": "Como percebes que o cansaço já não te permite conduzir?",
+   "fr": "À quoi remarques-tu que la fatigue t'empêche de conduire ?"
   },
   "options": [
    {
@@ -2210,7 +2285,8 @@
     "el": "Συχνά χασμουρητά και βαριά βλέφαρα",
     "it": "Sbadigli frequenti e palpebre pesanti",
     "es": "Bostezos frecuentes y párpados pesados",
-    "pt": "Bocejos frequentes e pálpebras pesadas"
+    "pt": "Bocejos frequentes e pálpebras pesadas",
+    "fr": "Des bâillements fréquents et des paupières lourdes"
    },
    {
     "de": "Ich kann mich an die letzten Kilometer nicht erinnern",
@@ -2224,7 +2300,8 @@
     "el": "Δεν θυμάμαι τα τελευταία χιλιόμετρα",
     "it": "Non ricordo gli ultimi chilometri",
     "es": "No recuerdo los últimos kilómetros",
-    "pt": "Não me lembro dos últimos quilómetros"
+    "pt": "Não me lembro dos últimos quilómetros",
+    "fr": "Je ne me souviens pas des derniers kilomètres"
    },
    {
     "de": "Ich bin besonders aufmerksam",
@@ -2238,7 +2315,8 @@
     "el": "Νιώθω ιδιαίτερη ζωντάνια",
     "it": "Mi sento particolarmente lucido o lucida",
     "es": "Siento una energía especial",
-    "pt": "Sinto uma energia especial"
+    "pt": "Sinto uma energia especial",
+    "fr": "Je ressens une énergie particulière"
    }
   ],
   "correct": [
@@ -2259,7 +2337,8 @@
    "el": "Χασμουρητά, μάτια που καίνε, ρίγη, κενά μνήμης, απόκλιση στη λωρίδα — αυτά είναι προειδοποιητικά σημάδια. Το αργότερο τότε σταμάτα για διάλειμμα.",
    "it": "Sbadigli, occhi che bruciano, brividi, vuoti di memoria, uscire dalla corsia — sono segnali di allarme. Al più tardi allora, fermati per una pausa.",
    "es": "Bostezos, ojos que escuecen, escalofríos, lagunas de memoria, salirse del carril — son señales de alarma. Como muy tarde entonces, para y descansa.",
-   "pt": "Bocejos, olhos a arder, arrepios, falhas de memória, sair da faixa — são sinais de alarme. O mais tardar aí, para e descansa."
+   "pt": "Bocejos, olhos a arder, arrepios, falhas de memória, sair da faixa — são sinais de alarme. O mais tardar aí, para e descansa.",
+   "fr": "Bâillements, yeux qui piquent, frissons, trous de mémoire, sorties de voie — ce sont des signaux d'alarme. À ce moment-là au plus tard, arrête-toi et repose-toi."
   },
   "tip": null,
   "scene": null,
@@ -2287,7 +2366,8 @@
    "el": "Μετά από καβγά σε κυριεύει θυμός. Πώς επηρεάζει αυτό την οδήγηση;",
    "it": "Dopo una lite la rabbia ti domina. Come influisce sulla guida?",
    "es": "Tras una discusión te domina la rabia. ¿Cómo afecta a tu conducción?",
-   "pt": "Depois de uma discussão a raiva domina-te. Como afeta a tua condução?"
+   "pt": "Depois de uma discussão a raiva domina-te. Como afeta a tua condução?",
+   "fr": "Après une dispute, la colère te domine. Quel effet sur ta conduite ?"
   },
   "options": [
    {
@@ -2302,7 +2382,8 @@
     "el": "Τάση για πιο ριψοκίνδυνη και επιθετική οδήγηση",
     "it": "Tendenza a guidare in modo più rischioso e aggressivo",
     "es": "Tendencia a conducir de forma más arriesgada y agresiva",
-    "pt": "Tendência para conduzir de forma mais arriscada e agressiva"
+    "pt": "Tendência para conduzir de forma mais arriscada e agressiva",
+    "fr": "Une tendance à conduire de façon plus risquée et agressive"
    },
    {
     "de": "Ich nehme Gefahren schlechter wahr",
@@ -2316,7 +2397,8 @@
     "el": "Αντιλαμβάνομαι λιγότερο τους κινδύνους",
     "it": "Noto meno i pericoli",
     "es": "Noto peor los peligros",
-    "pt": "Noto pior os perigos"
+    "pt": "Noto pior os perigos",
+    "fr": "Je perçois moins bien les dangers"
    },
    {
     "de": "Gar nicht",
@@ -2330,7 +2412,8 @@
     "el": "Καθόλου",
     "it": "Per niente",
     "es": "En nada",
-    "pt": "Em nada"
+    "pt": "Em nada",
+    "fr": "Aucun"
    }
   ],
   "correct": [
@@ -2351,7 +2434,8 @@
    "el": "Τα έντονα συναισθήματα — θυμός, λύπη, ακόμη και χαρά — αποσπούν την προσοχή και σπρώχνουν σε ρίσκα. Ηρέμησε πρώτα και μετά ξεκίνα.",
    "it": "Emozioni forti — rabbia, tristezza, perfino gioia — distraggono e spingono a rischiare. Prima calmati, poi parti.",
    "es": "Las emociones fuertes — rabia, tristeza, incluso alegría — distraen e incitan a arriesgar. Primero cálmate y luego ponte en marcha.",
-   "pt": "As emoções fortes — raiva, tristeza, até alegria — distraem e levam a arriscar. Primeiro acalma-te e depois põe-te a caminho."
+   "pt": "As emoções fortes — raiva, tristeza, até alegria — distraem e levam a arriscar. Primeiro acalma-te e depois põe-te a caminho.",
+   "fr": "Les émotions fortes — colère, tristesse, même la joie — distraient et poussent à prendre des risques. Retrouve d'abord ton calme, puis prends la route."
   },
   "tip": null,
   "scene": null,
@@ -2379,7 +2463,8 @@
    "el": "Σε δυνατή βροχή το τιμόνι γίνεται ξαφνικά ελαφρύ — υδρολίσθηση. Τι κάνεις;",
    "it": "Con pioggia forte lo sterzo diventa all’improvviso leggero — aquaplaning. Cosa fai?",
    "es": "Con lluvia intensa la dirección se vuelve de repente ligera — aquaplaning. ¿Qué haces?",
-   "pt": "Com chuva forte a direção fica de repente leve — aquaplaning. O que fazes?"
+   "pt": "Com chuva forte a direção fica de repente leve — aquaplaning. O que fazes?",
+   "fr": "Sous une forte pluie, la direction devient soudain légère — aquaplaning. Que fais-tu ?"
   },
   "options": [
    {
@@ -2394,7 +2479,8 @@
     "el": "Πατάω συμπλέκτη ή αφήνω το γκάζι",
     "it": "Premo la frizione o tolgo il piede dall’acceleratore",
     "es": "Piso el embrague o levanto el pie del acelerador",
-    "pt": "Carrego na embraiagem ou tiro o pé do acelerador"
+    "pt": "Carrego na embraiagem ou tiro o pé do acelerador",
+    "fr": "J'appuie sur l'embrayage ou je lève le pied de l'accélérateur"
    },
    {
     "de": "Lenkrad gerade halten",
@@ -2408,7 +2494,8 @@
     "el": "Κρατάω το τιμόνι ευθεία",
     "it": "Tengo lo sterzo dritto",
     "es": "Mantengo el volante recto",
-    "pt": "Mantenho o volante direito"
+    "pt": "Mantenho o volante direito",
+    "fr": "Je garde le volant droit"
    },
    {
     "de": "Kräftig bremsen und gegenlenken",
@@ -2422,7 +2509,8 @@
     "el": "Φρενάρω δυνατά και στρίβω αντίθετα",
     "it": "Freno forte e controsterzo",
     "es": "Freno fuerte y contravolanteo",
-    "pt": "Travo a fundo e contra-viro"
+    "pt": "Travo a fundo e contra-viro",
+    "fr": "Je freine fort et je contre-braque"
    }
   ],
   "correct": [
@@ -2443,7 +2531,8 @@
    "el": "Στην υδρολίσθηση τα ελαστικά κινούνται πάνω σε στρώμα νερού και δεν μεταδίδουν δύναμη. Άφησε το γκάζι (ή πάτα συμπλέκτη), μη φρενάρεις και κράτα το τιμόνι ευθεία μέχρι να ξαναπιάσουν τα ελαστικά, αλλιώς το αυτοκίνητο στρίβει.",
    "it": "Con l’aquaplaning i pneumatici scorrono su un velo d’acqua e non trasmettono alcuna forza. Togli il gas (o premi la frizione), non frenare e tieni lo sterzo dritto finché i pneumatici non fanno di nuovo presa, altrimenti l’auto si gira.",
    "es": "Con aquaplaning los neumáticos van sobre una película de agua y no transmiten ninguna fuerza. Suelta el acelerador (o pisa el embrague), no frenes y mantén el volante recto hasta que los neumáticos vuelvan a agarrar, o el coche girará.",
-   "pt": "Com aquaplaning os pneus andam sobre uma película de água e não transmitem força nenhuma. Larga o acelerador (ou carrega na embraiagem), não traves e mantém o volante direito até os pneus voltarem a agarrar, senão o carro roda."
+   "pt": "Com aquaplaning os pneus andam sobre uma película de água e não transmitem força nenhuma. Larga o acelerador (ou carrega na embraiagem), não traves e mantém o volante direito até os pneus voltarem a agarrar, senão o carro roda.",
+   "fr": "En aquaplaning, les pneus roulent sur un film d'eau et ne transmettent plus aucune force. Lâche l'accélérateur (ou débraye), ne freine pas et garde le volant droit jusqu'à ce que les pneus accrochent de nouveau, sinon la voiture partira de travers."
   },
   "tip": {
    "de": "Fuß weg, Hände ruhig.",
@@ -2457,7 +2546,8 @@
    "el": "Πόδι από το γκάζι, χέρια ακίνητα.",
    "it": "Piede via dal gas, mani ferme.",
    "es": "Pie fuera del acelerador, manos quietas.",
-   "pt": "Pé fora do acelerador, mãos quietas."
+   "pt": "Pé fora do acelerador, mãos quietas.",
+   "fr": "Pied hors de l'accélérateur, mains immobiles."
   },
   "scene": {
    "road": "straight",
@@ -2499,7 +2589,8 @@
    "el": "Πού πρέπει τον χειμώνα να περιμένεις κυρίως πάγο;",
    "it": "Dove devi aspettarti soprattutto il ghiaccio d’inverno?",
    "es": "¿Dónde debes esperar hielo sobre todo en invierno?",
-   "pt": "Onde deves esperar gelo sobretudo no inverno?"
+   "pt": "Onde deves esperar gelo sobretudo no inverno?",
+   "fr": "Où dois-tu t'attendre à du verglas, surtout en hiver ?"
   },
   "options": [
    {
@@ -2514,7 +2605,8 @@
     "el": "Στις γέφυρες",
     "it": "Sui ponti",
     "es": "En los puentes",
-    "pt": "Nas pontes"
+    "pt": "Nas pontes",
+    "fr": "Sur les ponts"
    },
    {
     "de": "In Waldschneisen und schattigen Abschnitten",
@@ -2528,7 +2620,8 @@
     "el": "Σε δασικά και σκιερά τμήματα",
     "it": "Nei tratti nel bosco e in ombra",
     "es": "En tramos de bosque y de sombra",
-    "pt": "Em troços de floresta e de sombra"
+    "pt": "Em troços de floresta e de sombra",
+    "fr": "Dans les passages en forêt et à l'ombre"
    },
    {
     "de": "In beheizten Tiefgaragen",
@@ -2542,7 +2635,8 @@
     "el": "Σε θερμαινόμενα υπόγεια πάρκινγκ",
     "it": "Nei garage sotterranei riscaldati",
     "es": "En aparcamientos subterráneos con calefacción",
-    "pt": "Em parques de estacionamento subterrâneos aquecidos"
+    "pt": "Em parques de estacionamento subterrâneos aquecidos",
+    "fr": "Dans les parkings souterrains chauffés"
    }
   ],
   "correct": [
@@ -2563,7 +2657,8 @@
    "el": "Οι γέφυρες κρυώνουν από πάνω και από κάτω και παγώνουν πρώτες. Στο δάσος και στη σκιά ο πάγος μένει περισσότερο, ακόμη κι αν ο δρόμος πριν ήταν στεγνός.",
    "it": "I ponti si raffreddano da sopra e da sotto e gelano per primi. Nel bosco e all’ombra il ghiaccio resta più a lungo, anche se la strada prima era asciutta.",
    "es": "Los puentes se enfrían por arriba y por abajo y se hielan primero. En el bosque y en la sombra el hielo dura más, aunque la vía de antes estuviera seca.",
-   "pt": "As pontes arrefecem por cima e por baixo e gelam primeiro. Na floresta e à sombra o gelo dura mais, mesmo que a estrada antes estivesse seca."
+   "pt": "As pontes arrefecem por cima e por baixo e gelam primeiro. Na floresta e à sombra o gelo dura mais, mesmo que a estrada antes estivesse seca.",
+   "fr": "Les ponts se refroidissent par-dessus et par-dessous et gèlent en premier. En forêt et à l'ombre, le verglas persiste plus longtemps, même si la route juste avant était sèche."
   },
   "tip": null,
   "scene": {
@@ -2606,7 +2701,8 @@
    "el": "Μετά από μεγάλη ξηρασία αρχίζει να βρέχει. Τι ισχύει;",
    "it": "Dopo un lungo periodo secco comincia a piovere. Cosa è vero?",
    "es": "Empieza a llover tras una larga sequía. ¿Qué es cierto?",
-   "pt": "Começa a chover depois de um longo período seco. O que é verdade?"
+   "pt": "Começa a chover depois de um longo período seco. O que é verdade?",
+   "fr": "Il commence à pleuvoir après une longue période sèche. Qu'est-ce qui est vrai ?"
   },
   "options": [
    {
@@ -2621,7 +2717,8 @@
     "el": "Ο δρόμος μπορεί τώρα να είναι ιδιαίτερα ολισθηρός",
     "it": "La strada ora può essere particolarmente scivolosa",
     "es": "La calzada puede estar ahora especialmente resbaladiza",
-    "pt": "O piso pode agora estar especialmente escorregadio"
+    "pt": "O piso pode agora estar especialmente escorregadio",
+    "fr": "La chaussée peut maintenant être particulièrement glissante"
    },
    {
     "de": "Regen macht die Straße sauber und griffiger",
@@ -2635,7 +2732,8 @@
     "el": "Η βροχή καθαρίζει τον δρόμο και βελτιώνει την πρόσφυση",
     "it": "La pioggia pulisce la strada e migliora l’aderenza",
     "es": "La lluvia limpia la calzada y mejora la adherencia",
-    "pt": "A chuva limpa o piso e melhora a aderência"
+    "pt": "A chuva limpa o piso e melhora a aderência",
+    "fr": "La pluie nettoie la chaussée et améliore l'adhérence"
    },
    {
     "de": "Nur auf Kopfsteinpflaster ändert sich etwas",
@@ -2649,7 +2747,8 @@
     "el": "Επηρεάζονται μόνο τα πλακόστρωτα",
     "it": "Riguarda solo il pavé",
     "es": "Solo afecta a los adoquines",
-    "pt": "Só afeta a calçada"
+    "pt": "Só afeta a calçada",
+    "fr": "Cela ne concerne que les pavés"
    }
   ],
   "correct": [
@@ -2669,7 +2768,8 @@
    "el": "Η πρώτη βροχή μετατρέπει σκόνη, λάστιχο και λάδι σε ολισθηρό στρώμα. Μόνο μια πιο παρατεταμένη βροχή το ξεπλένει.",
    "it": "La prima pioggia trasforma polvere, gomma e olio in un velo scivoloso. Solo una pioggia più lunga lo lava via.",
    "es": "La primera lluvia convierte el polvo, la goma y el aceite en una película resbaladiza. Solo una lluvia más larga la limpia.",
-   "pt": "A primeira chuva transforma o pó, a borracha e o óleo numa película escorregadia. Só uma chuva mais longa a lava."
+   "pt": "A primeira chuva transforma o pó, a borracha e o óleo numa película escorregadia. Só uma chuva mais longa a lava.",
+   "fr": "La première pluie transforme la poussière, la gomme et l'huile en un film glissant. Seule une pluie plus longue le nettoie."
   },
   "tip": null,
   "scene": null,
@@ -2697,7 +2797,8 @@
    "el": "Πότε επιτρέπεται να ανάψεις το πίσω φως ομίχλης;",
    "it": "Quando puoi accendere il retronebbia?",
    "es": "¿Cuándo puedes encender la antiniebla trasera?",
-   "pt": "Quando podes ligar a luz de nevoeiro traseira?"
+   "pt": "Quando podes ligar a luz de nevoeiro traseira?",
+   "fr": "Quand peux-tu allumer le feu antibrouillard arrière ?"
   },
   "options": [
    {
@@ -2712,7 +2813,8 @@
     "el": "Όταν η ομίχλη μειώνει την ορατότητα κάτω από 50 m",
     "it": "Quando la nebbia riduce la visibilità sotto i 50 m",
     "es": "Cuando la niebla reduce la visibilidad a menos de 50 m",
-    "pt": "Quando o nevoeiro reduz a visibilidade para menos de 50 m"
+    "pt": "Quando o nevoeiro reduz a visibilidade para menos de 50 m",
+    "fr": "Quand le brouillard réduit la visibilité à moins de 50 m"
    },
    {
     "de": "Bei jedem Regen",
@@ -2726,7 +2828,8 @@
     "el": "Όποτε βρέχει",
     "it": "Ogni volta che piove",
     "es": "Siempre que llueve",
-    "pt": "Sempre que chove"
+    "pt": "Sempre que chove",
+    "fr": "Chaque fois qu'il pleut"
    },
    {
     "de": "Nachts auf der Landstraße",
@@ -2740,7 +2843,8 @@
     "el": "Τη νύχτα σε επαρχιακούς δρόμους",
     "it": "Di notte sulle strade extraurbane",
     "es": "De noche en carretera",
-    "pt": "À noite na estrada"
+    "pt": "À noite na estrada",
+    "fr": "La nuit sur route"
    }
   ],
   "correct": [
@@ -2760,7 +2864,8 @@
    "el": "Το πίσω φως ομίχλης επιτρέπεται μόνο όταν η ομίχλη μειώνει την ορατότητα κάτω από 50 m — και τότε το όριο είναι 50 km/h (§ 17 παρ. 3 StVO). Με καλύτερη ορατότητα θαμπώνει τους οδηγούς πίσω.",
    "it": "Il retronebbia è consentito solo quando la nebbia riduce la visibilità sotto i 50 m — e allora il limite è 50 km/h (§ 17 c. 3 StVO). Con visibilità migliore abbaglia chi sta dietro.",
    "es": "La antiniebla trasera solo se permite cuando la niebla reduce la visibilidad a menos de 50 m — y entonces el límite es 50 km/h (§ 17 apdo. 3 StVO). Con mejor visibilidad deslumbra a quien va detrás.",
-   "pt": "A luz de nevoeiro traseira só é permitida quando o nevoeiro reduz a visibilidade para menos de 50 m — e então o limite é 50 km/h (§ 17 n.º 3 StVO). Com melhor visibilidade encandeia quem vem atrás."
+   "pt": "A luz de nevoeiro traseira só é permitida quando o nevoeiro reduz a visibilidade para menos de 50 m — e então o limite é 50 km/h (§ 17 n.º 3 StVO). Com melhor visibilidade encandeia quem vem atrás.",
+   "fr": "Le feu antibrouillard arrière n'est permis que lorsque le brouillard réduit la visibilité à moins de 50 m — et la limite est alors de 50 km/h (§ 17 al. 3 StVO). Avec une meilleure visibilité, il éblouit la circulation qui suit."
   },
   "tip": {
    "de": "Nebelschlussleuchte an = maximal 50.",
@@ -2774,7 +2879,8 @@
    "el": "Πίσω φως ομίχλης αναμμένο = το πολύ 50.",
    "it": "Retronebbia acceso = massimo 50.",
    "es": "Antiniebla trasera encendida = 50 como máximo.",
-   "pt": "Nevoeiro traseiro ligado = 50 no máximo."
+   "pt": "Nevoeiro traseiro ligado = 50 no máximo.",
+   "fr": "Antibrouillard arrière allumé = 50 au maximum."
   },
   "scene": null,
   "signs": [],
@@ -2801,7 +2907,8 @@
    "el": "Τη νύχτα σε θαμπώνουν τα φώτα των αντίθετων. Τι κάνεις;",
    "it": "Di notte i fari di chi arriva di fronte ti abbagliano. Cosa fai?",
    "es": "De noche te deslumbran los faros de quien viene de frente. ¿Qué haces?",
-   "pt": "À noite os faróis de quem vem em sentido contrário encandeiam-te. O que fazes?"
+   "pt": "À noite os faróis de quem vem em sentido contrário encandeiam-te. O que fazes?",
+   "fr": "La nuit, les phares du trafic d'en face t'éblouissent. Que fais-tu ?"
   },
   "options": [
    {
@@ -2816,7 +2923,8 @@
     "el": "Κοιτάζω τη δεξιά άκρη του δρόμου",
     "it": "Guardo il bordo destro della strada",
     "es": "Miro al borde derecho de la calzada",
-    "pt": "Olho para a berma direita da faixa"
+    "pt": "Olho para a berma direita da faixa",
+    "fr": "Je regarde le bord droit de la chaussée"
    },
    {
     "de": "Langsamer fahren, wenn nötig anhalten",
@@ -2830,7 +2938,8 @@
     "el": "Μειώνω ταχύτητα, σταματώ αν χρειαστεί",
     "it": "Rallento, mi fermo se serve",
     "es": "Reduzco la velocidad y paro si hace falta",
-    "pt": "Reduzo a velocidade e paro se for preciso"
+    "pt": "Reduzo a velocidade e paro se for preciso",
+    "fr": "Je ralentis et je m'arrête si nécessaire"
    },
    {
     "de": "Selbst aufblenden, um mich zu wehren",
@@ -2844,7 +2953,8 @@
     "el": "Απαντώ με τη μεγάλη σκάλα",
     "it": "Rispondo con gli abbaglianti",
     "es": "Respondo con las largas",
-    "pt": "Respondo com os máximos"
+    "pt": "Respondo com os máximos",
+    "fr": "Je réponds avec les feux de route"
    }
   ],
   "correct": [
@@ -2865,7 +2975,8 @@
    "el": "Κοίτα τη δεξιά άκρη και μείωσε ταχύτητα. Μετά το θάμπωμα τα μάτια σχεδόν δεν βλέπουν για λίγα δευτερόλεπτα, και σε αυτό το διάστημα διανύεις μεγάλη απόσταση.",
    "it": "Guarda il bordo destro e rallenta. Dopo un abbagliamento gli occhi sono quasi ciechi per qualche secondo, e in quel tempo percorri molta strada.",
    "es": "Mira al borde derecho y reduce la velocidad. Tras un deslumbramiento los ojos casi no ven durante unos segundos, y en ese tiempo recorres mucho camino.",
-   "pt": "Olha para a berma direita e reduz a velocidade. Depois de um encandeamento os olhos quase não veem durante alguns segundos, e nesse tempo percorres muito caminho."
+   "pt": "Olha para a berma direita e reduz a velocidade. Depois de um encandeamento os olhos quase não veem durante alguns segundos, e nesse tempo percorres muito caminho.",
+   "fr": "Regarde le bord droit et ralentis. Après un éblouissement, les yeux ne voient presque rien pendant quelques secondes, et pendant ce temps tu parcours beaucoup de chemin."
   },
   "tip": null,
   "scene": {
@@ -2916,7 +3027,8 @@
    "el": "Τη νύχτα ένα ζαρκάδι στέκεται στον δρόμο μέσα στα φώτα σου. Τι κάνεις;",
    "it": "Di notte un capriolo è fermo in strada nella luce dei fari. Cosa fai?",
    "es": "De noche un corzo está en la calzada a la luz de tus faros. ¿Qué haces?",
-   "pt": "À noite um corço está na faixa à luz dos teus faróis. O que fazes?"
+   "pt": "À noite um corço está na faixa à luz dos teus faróis. O que fazes?",
+   "fr": "La nuit, un chevreuil se tient sur la chaussée dans la lumière de tes phares. Que fais-tu ?"
   },
   "options": [
    {
@@ -2931,7 +3043,8 @@
     "el": "Χαμηλώνω τα φώτα, κορνάρω και φρενάρω",
     "it": "Abbasso le luci, suono e freno",
     "es": "Pongo las de cruce, toco el claxon y freno",
-    "pt": "Passo para os médios, buzino e travo"
+    "pt": "Passo para os médios, buzino e travo",
+    "fr": "Je passe en feux de croisement, je klaxonne et je freine"
    },
    {
     "de": "Wenn ein Zusammenstoß unvermeidbar ist: Lenkrad festhalten, nicht riskant ausweichen",
@@ -2945,7 +3058,8 @@
     "el": "Αν η σύγκρουση δεν αποφεύγεται: κρατώ σταθερά το τιμόνι και δεν κάνω επικίνδυνη μανούβρα",
     "it": "Se l’urto è inevitabile: tengo saldo lo sterzo e non faccio manovre pericolose",
     "es": "Si el choque es inevitable: sujeto bien el volante y no hago maniobras peligrosas",
-    "pt": "Se o choque for inevitável: seguro bem o volante e não faço manobras perigosas"
+    "pt": "Se o choque for inevitável: seguro bem o volante e não faço manobras perigosas",
+    "fr": "Si le choc est inévitable : je tiens fermement le volant et je ne fais pas de manœuvre dangereuse"
    },
    {
     "de": "Fernlicht anlassen, damit das Tier weggeht",
@@ -2959,7 +3073,8 @@
     "el": "Αφήνω τη μεγάλη σκάλα για να φύγει",
     "it": "Lascio gli abbaglianti così se ne va",
     "es": "Dejo las largas para que se vaya",
-    "pt": "Deixo os máximos para ele fugir"
+    "pt": "Deixo os máximos para ele fugir",
+    "fr": "Je laisse les feux de route pour qu'il s'en aille"
    }
   ],
   "correct": [
@@ -2980,7 +3095,8 @@
    "el": "Η μεγάλη σκάλα «παγώνει» τα άγρια ζώα· τα χαμηλά φώτα και η κόρνα τα διώχνουν. Η απότομη αποφυγή σε δέντρο ή στην αντίθετη κυκλοφορία είναι πιο επικίνδυνη από τη σύγκρουση με το ζώο.",
    "it": "Gli abbaglianti paralizzano gli animali selvatici; anabbaglianti e clacson li fanno scappare. Scartare contro un albero o nel traffico di fronte è più pericoloso che urtare l’animale.",
    "es": "Las largas paralizan a los animales salvajes; las de cruce y el claxon los ahuyentan. Esquivar contra un árbol o hacia el tráfico de frente es más peligroso que chocar con el animal.",
-   "pt": "Os máximos paralisam os animais selvagens; os médios e a buzina afugentam-nos. Desviar contra uma árvore ou para o trânsito em sentido contrário é mais perigoso do que bater no animal."
+   "pt": "Os máximos paralisam os animais selvagens; os médios e a buzina afugentam-nos. Desviar contra uma árvore ou para o trânsito em sentido contrário é mais perigoso do que bater no animal.",
+   "fr": "Les feux de route paralysent les animaux sauvages ; les feux de croisement et le klaxon les font fuir. Faire un écart contre un arbre ou vers le trafic d'en face est plus dangereux que de heurter l'animal."
   },
   "tip": {
    "de": "Abblenden, hupen, bremsen – nicht ausweichen.",
@@ -2994,7 +3110,8 @@
    "el": "Χαμηλά, κόρνα, φρένο — όχι απότομη αποφυγή.",
    "it": "Luci basse, clacson, freno — niente sterzate.",
    "es": "Cruce, claxon, freno — sin volantazos.",
-   "pt": "Médios, buzina, travão — sem guinadas."
+   "pt": "Médios, buzina, travão — sem guinadas.",
+   "fr": "Croisement, klaxon, frein — pas de coup de volant."
   },
   "scene": {
    "road": "curve",
@@ -3046,7 +3163,8 @@
    "el": "Χτύπησες ένα ζαρκάδι. Τι κάνεις;",
    "it": "Hai investito un capriolo. Cosa fai?",
    "es": "Has atropellado a un corzo. ¿Qué haces?",
-   "pt": "Atropelaste um corço. O que fazes?"
+   "pt": "Atropelaste um corço. O que fazes?",
+   "fr": "Tu as percuté un chevreuil. Que fais-tu ?"
   },
   "options": [
    {
@@ -3061,7 +3179,8 @@
     "el": "Ασφαλίζω το σημείο του ατυχήματος",
     "it": "Metto in sicurezza il luogo dell’incidente",
     "es": "Señalizo y aseguro el lugar del accidente",
-    "pt": "Sinalizo e protejo o local do acidente"
+    "pt": "Sinalizo e protejo o local do acidente",
+    "fr": "Je signale et sécurise le lieu de l'accident"
    },
    {
     "de": "Die Polizei oder den Jagdpächter benachrichtigen",
@@ -3075,7 +3194,8 @@
     "el": "Ειδοποιώ την αστυνομία ή τον μισθωτή της κυνηγετικής περιοχής",
     "it": "Avviso la polizia o il titolare della riserva di caccia",
     "es": "Aviso a la policía o al arrendatario del coto",
-    "pt": "Aviso a polícia ou a pessoa responsável pela zona de caça"
+    "pt": "Aviso a polícia ou a pessoa responsável pela zona de caça",
+    "fr": "Je préviens la police ou la personne titulaire du droit de chasse"
    },
    {
     "de": "Das Tier mitnehmen",
@@ -3089,7 +3209,8 @@
     "el": "Παίρνω το ζώο μαζί μου",
     "it": "Porto via l’animale",
     "es": "Me llevo el animal",
-    "pt": "Levo o animal"
+    "pt": "Levo o animal",
+    "fr": "J'emporte l'animal"
    }
   ],
   "correct": [
@@ -3110,7 +3231,8 @@
    "el": "Αλάρμ, γιλέκο, τρίγωνο — μετά κάλεσε την αστυνομία, που θα επικοινωνήσει με τον μισθωτή της περιοχής. Μην αγγίξεις και μην πάρεις το ζώο: θα ήταν λαθροθηρία. Η ασφαλιστική θα ζητήσει βεβαίωση ατυχήματος με άγριο ζώο.",
    "it": "Quattro frecce, gilet, triangolo — poi chiama la polizia, che contatta il titolare della riserva. Non toccare né prendere l’animale: sarebbe bracconaggio. L’assicurazione vorrà un certificato di incidente con fauna selvatica.",
    "es": "Emergencia, chaleco, triángulo — luego llama a la policía, que avisará al arrendatario del coto. No toques ni te lleves el animal: sería caza furtiva. Tu aseguradora querrá un certificado de accidente con fauna.",
-   "pt": "Emergência, colete, triângulo — depois liga à polícia, que avisa quem gere a zona de caça. Não toques nem leves o animal: seria caça furtiva. O teu seguro vai querer um certificado de acidente com animal selvagem."
+   "pt": "Emergência, colete, triângulo — depois liga à polícia, que avisa quem gere a zona de caça. Não toques nem leves o animal: seria caça furtiva. O teu seguro vai querer um certificado de acidente com animal selvagem.",
+   "fr": "Feux de détresse, gilet, triangle — puis appelle la police, qui préviendra la personne titulaire du droit de chasse. Ne touche pas l'animal et ne l'emporte pas : ce serait du braconnage. Ton assurance voudra une attestation d'accident avec du gibier."
   },
   "tip": null,
   "scene": null,
@@ -3138,7 +3260,8 @@
    "el": "Πότε φρενάρεις για μια στροφή;",
    "it": "Quando freni per una curva?",
    "es": "¿Cuándo frenas para una curva?",
-   "pt": "Quando travas para uma curva?"
+   "pt": "Quando travas para uma curva?",
+   "fr": "Quand freines-tu pour un virage ?"
   },
   "options": [
    {
@@ -3153,7 +3276,8 @@
     "el": "Πριν από τη στροφή, ενώ πηγαίνω ακόμη ευθεία",
     "it": "Prima della curva, ancora in rettilineo",
     "es": "Antes de la curva, todavía en recta",
-    "pt": "Antes da curva, ainda na reta"
+    "pt": "Antes da curva, ainda na reta",
+    "fr": "Avant le virage, encore en ligne droite"
    },
    {
     "de": "Mitten in der Kurve",
@@ -3167,7 +3291,8 @@
     "el": "Στη μέση της στροφής",
     "it": "A metà curva",
     "es": "En mitad de la curva",
-    "pt": "A meio da curva"
+    "pt": "A meio da curva",
+    "fr": "Au milieu du virage"
    },
    {
     "de": "Am Kurvenausgang",
@@ -3181,7 +3306,8 @@
     "el": "Στην έξοδο της στροφής",
     "it": "All’uscita della curva",
     "es": "A la salida de la curva",
-    "pt": "À saída da curva"
+    "pt": "À saída da curva",
+    "fr": "À la sortie du virage"
    }
   ],
   "correct": [
@@ -3201,7 +3327,8 @@
    "el": "Στη στροφή τα ελαστικά χρειάζονται την πρόσφυση για να κρατήσουν την πορεία. Το φρενάρισμα εκεί κινδυνεύει να στείλει το αυτοκίνητο ευθεία. Φρενάρισε πρώτα, μετά πέρνα σταθερά.",
    "it": "In curva i pneumatici hanno bisogno dell’aderenza per tenere la traiettoria. Frenare lì rischia di far proseguire l’auto dritta. Prima frena, poi percorri la curva in modo regolare.",
    "es": "En la curva los neumáticos necesitan la adherencia para mantener la trayectoria. Frenar ahí hace que el coche pueda seguir recto. Frena primero y luego traza la curva de forma regular.",
-   "pt": "Na curva os pneus precisam da aderência para manter a trajetória. Travar aí pode fazer o carro seguir a direito. Trava primeiro e depois faz a curva de forma regular."
+   "pt": "Na curva os pneus precisam da aderência para manter a trajetória. Travar aí pode fazer o carro seguir a direito. Trava primeiro e depois faz a curva de forma regular.",
+   "fr": "Dans le virage, les pneus ont besoin de l'adhérence pour tenir la trajectoire. Y freiner peut faire partir la voiture tout droit. Freine d'abord, puis prends le virage de façon régulière."
   },
   "tip": {
    "de": "Langsam rein, zügig raus.",
@@ -3215,7 +3342,8 @@
    "el": "Αργά μέσα, σταθερά έξω.",
    "it": "Piano in entrata, regolare in uscita.",
    "es": "Despacio al entrar, firme al salir.",
-   "pt": "Devagar à entrada, firme à saída."
+   "pt": "Devagar à entrada, firme à saída.",
+   "fr": "Lent à l'entrée, ferme à la sortie."
   },
   "scene": {
    "road": "curve",
@@ -3260,7 +3388,8 @@
    "el": "Σε μεγάλο ταξίδι σε πιάνει κούραση. Τι βοηθά πραγματικά;",
    "it": "In un lungo viaggio arriva la stanchezza. Cosa aiuta davvero?",
    "es": "En un viaje largo te entra el cansancio. ¿Qué ayuda de verdad?",
-   "pt": "Numa viagem longa começas a sentir cansaço. O que ajuda mesmo?"
+   "pt": "Numa viagem longa começas a sentir cansaço. O que ajuda mesmo?",
+   "fr": "Lors d'un long trajet, la fatigue te gagne. Qu'est-ce qui aide vraiment ?"
   },
   "options": [
    {
@@ -3275,7 +3404,8 @@
     "el": "Ένα διάλειμμα και, αν γίνεται, λίγος ύπνος",
     "it": "Una pausa e, se possibile, un breve sonno",
     "es": "Hacer una pausa y, si se puede, dormir un poco",
-    "pt": "Fazer uma pausa e, se possível, dormir um pouco"
+    "pt": "Fazer uma pausa e, se possível, dormir um pouco",
+    "fr": "Faire une pause et, si possible, dormir un peu"
    },
    {
     "de": "Das Fenster öffnen und laute Musik hören",
@@ -3289,7 +3419,8 @@
     "el": "Ανοιχτό παράθυρο και δυνατή μουσική",
     "it": "Finestrino aperto e musica alta",
     "es": "Abrir la ventanilla y poner música alta",
-    "pt": "Abrir a janela e pôr música alta"
+    "pt": "Abrir a janela e pôr música alta",
+    "fr": "Ouvrir la fenêtre et mettre la musique fort"
    },
    {
     "de": "Schneller fahren, um früher anzukommen",
@@ -3303,7 +3434,8 @@
     "el": "Πιο γρήγορη οδήγηση για να φτάσω νωρίτερα",
     "it": "Andare più veloce per arrivare prima",
     "es": "Ir más rápido para llegar antes",
-    "pt": "Ir mais depressa para chegar mais cedo"
+    "pt": "Ir mais depressa para chegar mais cedo",
+    "fr": "Rouler plus vite pour arriver plus tôt"
    }
   ],
   "correct": [
@@ -3323,7 +3455,8 @@
    "el": "Μόνο ο ύπνος θεραπεύει την κούραση. Ο φρέσκος αέρας και η μουσική κερδίζουν το πολύ λίγα λεπτά. Ένας μικροΰπνος τριών δευτερολέπτων στα 100 km/h σημαίνει πάνω από 80 μέτρα τυφλής οδήγησης.",
    "it": "Solo il sonno cura la stanchezza. Aria fresca e musica fanno guadagnare al massimo qualche minuto. Un colpo di sonno di tre secondi a 100 km/h sono più di 80 metri percorsi alla cieca.",
    "es": "Solo el sueño cura el cansancio. El aire fresco y la música te dan como mucho unos minutos. Un microsueño de tres segundos a 100 km/h son más de 80 metros a ciegas.",
-   "pt": "Só o sono cura o cansaço. O ar fresco e a música dão no máximo uns minutos. Um microssono de três segundos a 100 km/h são mais de 80 metros às cegas."
+   "pt": "Só o sono cura o cansaço. O ar fresco e a música dão no máximo uns minutos. Um microssono de três segundos a 100 km/h são mais de 80 metros às cegas.",
+   "fr": "Seul le sommeil vient à bout de la fatigue. L'air frais et la musique te donnent au mieux quelques minutes. Un micro-sommeil de trois secondes à 100 km/h, c'est plus de 80 mètres à l'aveugle."
   },
   "tip": null,
   "scene": null,
@@ -3351,7 +3484,8 @@
    "el": "Σε γέφυρα ή σε άνοιγμα ανάμεσα σε δέντρα σε χτυπά πλευρικός άνεμος. Τι κάνεις;",
    "it": "Su un ponte o in un varco tra gli alberi ti colpisce il vento laterale. Cosa fai?",
    "es": "En un puente o en un claro entre árboles te golpea el viento lateral. ¿Qué haces?",
-   "pt": "Numa ponte ou numa clareira entre árvores apanhas vento lateral. O que fazes?"
+   "pt": "Numa ponte ou numa clareira entre árvores apanhas vento lateral. O que fazes?",
+   "fr": "Sur un pont ou dans une trouée entre les arbres, le vent latéral te frappe. Que fais-tu ?"
   },
   "options": [
    {
@@ -3366,7 +3500,8 @@
     "el": "Μειώνω ταχύτητα και κρατώ σταθερά το τιμόνι",
     "it": "Rallento e tengo saldo lo sterzo",
     "es": "Reduzco la velocidad y sujeto bien el volante",
-    "pt": "Reduzo a velocidade e seguro bem o volante"
+    "pt": "Reduzo a velocidade e seguro bem o volante",
+    "fr": "Je ralentis et je tiens fermement le volant"
    },
    {
     "de": "Beim Überholen von Lkw mit einem Windstoß rechnen",
@@ -3380,7 +3515,8 @@
     "el": "Περιμένω ριπή όταν προσπερνώ φορτηγά",
     "it": "Mi aspetto una raffica quando supero i camion",
     "es": "Cuento con una ráfaga al adelantar camiones",
-    "pt": "Conto com uma rajada ao ultrapassar camiões"
+    "pt": "Conto com uma rajada ao ultrapassar camiões",
+    "fr": "Je m'attends à une rafale en dépassant des camions"
    },
    {
     "de": "Stark gegenlenken, sobald ich etwas spüre",
@@ -3394,7 +3530,8 @@
     "el": "Στρίβω δυνατά αντίθετα μόλις νιώσω κάτι",
     "it": "Controsterzo forte appena sento qualcosa",
     "es": "Contravolanteo fuerte en cuanto noto algo",
-    "pt": "Contra-viro com força assim que sinto alguma coisa"
+    "pt": "Contra-viro com força assim que sinto alguma coisa",
+    "fr": "Je contre-braque fort dès que je sens quelque chose"
    }
   ],
   "correct": [
@@ -3415,7 +3552,8 @@
    "el": "Ο πλευρικός άνεμος έρχεται σε ριπές. Πιο αργά και με ήρεμο, σταθερό κράτημα διορθώνεις με μικρές κινήσεις· οι απότομες κινήσεις κάνουν το αυτοκίνητο να «χορεύει». Η πινακίδα 117 προειδοποιεί για τυπικά σημεία.",
    "it": "Il vento laterale arriva a raffiche. Più piano e con una presa calma e salda correggi con piccoli movimenti; le sterzate brusche fanno sbandare l’auto. Il segnale 117 avverte dei punti tipici.",
    "es": "El viento lateral llega en ráfagas. Más despacio y con un agarre tranquilo y firme corriges con movimientos pequeños; los volantazos hacen que el coche serpentee. La señal 117 avisa de lugares típicos.",
-   "pt": "O vento lateral chega em rajadas. Mais devagar e com uma pega calma e firme corriges com movimentos pequenos; as guinadas fazem o carro serpentear. O sinal 117 avisa de locais típicos."
+   "pt": "O vento lateral chega em rajadas. Mais devagar e com uma pega calma e firme corriges com movimentos pequenos; as guinadas fazem o carro serpentear. O sinal 117 avisa de locais típicos.",
+   "fr": "Le vent latéral arrive par rafales. Plus lentement, avec une prise calme et ferme, tu corriges par de petits mouvements ; les coups de volant font louvoyer la voiture. Le panneau 117 signale les endroits typiques."
   },
   "tip": null,
   "scene": {
@@ -3460,7 +3598,8 @@
    "el": "Πλησιάζει μοτοσικλέτα και θέλεις να στρίψεις αριστερά. Τι το κάνει δύσκολο;",
    "it": "Arriva una moto e vuoi svoltare a sinistra. Cosa rende la cosa difficile?",
    "es": "Se acerca una moto y quieres girar a la izquierda. ¿Qué lo complica?",
-   "pt": "Aproxima-se uma mota e queres virar à esquerda. O que complica?"
+   "pt": "Aproxima-se uma mota e queres virar à esquerda. O que complica?",
+   "fr": "Une moto approche et tu veux tourner à gauche. Qu'est-ce qui complique la situation ?"
   },
   "options": [
    {
@@ -3475,7 +3614,8 @@
     "el": "Η ταχύτητά της είναι δύσκολο να εκτιμηθεί",
     "it": "La sua velocità è difficile da valutare",
     "es": "Su velocidad es difícil de calcular",
-    "pt": "A velocidade dela é difícil de avaliar"
+    "pt": "A velocidade dela é difícil de avaliar",
+    "fr": "Sa vitesse est difficile à évaluer"
    },
    {
     "de": "Es wird wegen seiner schmalen Silhouette leicht übersehen",
@@ -3489,7 +3629,8 @@
     "el": "Εύκολα δεν τη βλέπεις επειδή είναι στενή",
     "it": "È facile non vederla perché è stretta",
     "es": "Es fácil no verla porque es estrecha",
-    "pt": "É fácil não a ver porque é estreita"
+    "pt": "É fácil não a ver porque é estreita",
+    "fr": "Il est facile de ne pas la voir parce qu'elle est étroite"
    },
    {
     "de": "Motorräder müssen Linksabbieger vorlassen",
@@ -3503,7 +3644,8 @@
     "el": "Οι μοτοσικλέτες πρέπει να δίνουν προτεραιότητα σε όσους στρίβουν αριστερά",
     "it": "Le moto devono dare precedenza a chi svolta a sinistra",
     "es": "Las motos tienen que ceder el paso a quien gira a la izquierda",
-    "pt": "As motas têm de dar prioridade a quem vira à esquerda"
+    "pt": "As motas têm de dar prioridade a quem vira à esquerda",
+    "fr": "Les motos doivent céder le passage aux véhicules qui tournent à gauche"
    }
   ],
   "correct": [
@@ -3524,7 +3666,8 @@
    "el": "Οι μοτοσικλέτες είναι στενές και μοιάζουν πιο μακριά και πιο αργές απ’ ό,τι είναι. Πολλά ατυχήματα γίνονται ακριβώς έτσι: όποιος στρίβει αριστερά δεν βλέπει την αντίθετη μοτοσικλέτα. Αν έχεις αμφιβολία, περίμενε.",
    "it": "Le moto sono strette e sembrano più lontane e più lente di quanto siano. Molti incidenti accadono proprio così: chi svolta a sinistra non vede la moto di fronte. Nel dubbio, aspetta.",
    "es": "Las motos son estrechas y parecen más lejanas y lentas de lo que son. Muchos accidentes ocurren justo así: quien gira a la izquierda no ve la moto que viene de frente. Si dudas, espera.",
-   "pt": "As motas são estreitas e parecem mais distantes e lentas do que são. Muitos acidentes acontecem exatamente assim: quem vira à esquerda não vê a mota que vem de frente. Na dúvida, espera."
+   "pt": "As motas são estreitas e parecem mais distantes e lentas do que são. Muitos acidentes acontecem exatamente assim: quem vira à esquerda não vê a mota que vem de frente. Na dúvida, espera.",
+   "fr": "Les motos sont étroites et semblent plus loin et plus lentes qu'elles ne le sont. Beaucoup d'accidents se produisent exactement ainsi : la personne qui tourne à gauche ne voit pas la moto qui arrive en face. Dans le doute, attends."
   },
   "tip": null,
   "scene": {
@@ -3568,7 +3711,8 @@
    "el": "Χτυπά το κινητό σου ενώ οδηγείς. Τι επιτρέπεται;",
    "it": "Mentre guidi squilla il telefono. Cosa puoi fare?",
    "es": "Mientras conduces suena el móvil. ¿Qué puedes hacer?",
-   "pt": "Enquanto conduzes o telemóvel toca. O que podes fazer?"
+   "pt": "Enquanto conduzes o telemóvel toca. O que podes fazer?",
+   "fr": "Pendant que tu conduis, ton téléphone sonne. Que peux-tu faire ?"
   },
   "options": [
    {
@@ -3583,7 +3727,8 @@
     "el": "Να μιλήσω με ανοιχτή ακρόαση χωρίς να πιάσω το κινητό",
     "it": "Parlare in vivavoce senza prendere in mano il telefono",
     "es": "Hablar con manos libres sin coger el móvil",
-    "pt": "Falar em mãos-livres sem pegar no telemóvel"
+    "pt": "Falar em mãos-livres sem pegar no telemóvel",
+    "fr": "Parler en mains libres sans prendre le téléphone"
    },
    {
     "de": "Das Handy kurz in die Hand nehmen, wenn ich an der Ampel stehe",
@@ -3597,7 +3742,8 @@
     "el": "Να το πιάσω για λίγο ενώ περιμένω στο κόκκινο",
     "it": "Prenderlo un attimo mentre aspetto al rosso",
     "es": "Cogerlo un momento mientras espero en rojo",
-    "pt": "Pegar nele um momento enquanto espero no vermelho"
+    "pt": "Pegar nele um momento enquanto espero no vermelho",
+    "fr": "Le prendre un instant pendant que j'attends au rouge"
    },
    {
     "de": "Eine Nachricht lesen, wenn die Straße gerade ist",
@@ -3611,7 +3757,8 @@
     "el": "Να διαβάσω ένα μήνυμα σε ευθεία",
     "it": "Leggere un messaggio su un rettilineo",
     "es": "Leer un mensaje en una recta",
-    "pt": "Ler uma mensagem numa reta"
+    "pt": "Ler uma mensagem numa reta",
+    "fr": "Lire un message en ligne droite"
    }
   ],
   "correct": [
@@ -3631,7 +3778,8 @@
    "el": "Κατά την οδήγηση δεν επιτρέπεται να πιάσεις ή να κρατάς το κινητό, ούτε στο κόκκινο ούτε όταν το start-stop έχει σβήσει τον κινητήρα. Επιτρέπονται μόνο φωνητικές εντολές ή μια σύντομη ματιά σε κινητό σε βάση (§ 23 παρ. 1a StVO).",
    "it": "Durante la guida non puoi prendere in mano né tenere il telefono, nemmeno al rosso o quando lo start-stop ha spento il motore. Sono consentiti solo i comandi vocali o un rapido sguardo al telefono fissato al supporto (§ 23 c. 1a StVO).",
    "es": "Mientras conduces no puedes coger ni sostener el móvil, ni siquiera en rojo o cuando el start-stop ha apagado el motor. Solo se permite el control por voz o un vistazo breve a un móvil fijado en un soporte (§ 23 apdo. 1a StVO).",
-   "pt": "Enquanto conduzes não podes pegar nem segurar o telemóvel, nem no vermelho nem quando o start-stop desligou o motor. Só é permitido o comando por voz ou um olhar rápido para um telemóvel fixo num suporte (§ 23 n.º 1a StVO)."
+   "pt": "Enquanto conduzes não podes pegar nem segurar o telemóvel, nem no vermelho nem quando o start-stop desligou o motor. Só é permitido o comando por voz ou um olhar rápido para um telemóvel fixo num suporte (§ 23 n.º 1a StVO).",
+   "fr": "Pendant que tu conduis, tu ne peux ni prendre ni tenir ton téléphone, pas même au rouge ou quand le start-stop a coupé le moteur. Seuls la commande vocale ou un bref coup d'œil à un téléphone fixé sur un support sont permis (§ 23 al. 1a StVO)."
   },
   "tip": {
    "de": "Ampel ist Fahrt. Nur Motor ganz aus ist Pause.",
@@ -3645,7 +3793,8 @@
    "el": "Και το κόκκινο είναι οδήγηση. Διάλειμμα είναι μόνο με τον κινητήρα εντελώς σβηστό.",
    "it": "Anche al rosso stai guidando. È una pausa solo a motore spento del tutto.",
    "es": "En rojo sigues conduciendo. Solo con el motor del todo apagado es una pausa.",
-   "pt": "No vermelho continuas a conduzir. Só com o motor totalmente desligado é uma pausa."
+   "pt": "No vermelho continuas a conduzir. Só com o motor totalmente desligado é uma pausa.",
+   "fr": "Au rouge, tu conduis toujours. Ce n'est une pause que moteur complètement coupé."
   },
   "scene": null,
   "signs": [],
@@ -3672,7 +3821,8 @@
    "el": "Οδηγείς τη νύχτα σε επαρχιακό δρόμο με τη μεγάλη σκάλα. Πότε πρέπει να χαμηλώσεις;",
    "it": "Di notte sei su una strada extraurbana con gli abbaglianti. Quando devi abbassarli?",
    "es": "De noche vas por carretera con las largas. ¿Cuándo debes cambiar a las de cruce?",
-   "pt": "À noite vais na estrada com os máximos. Quando tens de passar para os médios?"
+   "pt": "À noite vais na estrada com os máximos. Quando tens de passar para os médios?",
+   "fr": "La nuit, tu roules sur route en feux de route. Quand dois-tu passer en feux de croisement ?"
   },
   "options": [
    {
@@ -3687,7 +3837,8 @@
     "el": "Όταν έρχεται κάποιος από απέναντι",
     "it": "Quando arriva qualcuno di fronte",
     "es": "Cuando viene alguien de frente",
-    "pt": "Quando vem alguém em sentido contrário"
+    "pt": "Quando vem alguém em sentido contrário",
+    "fr": "Quand quelqu'un arrive en face"
    },
    {
     "de": "Wenn ich dicht hinter einem anderen Fahrzeug fahre",
@@ -3701,7 +3852,8 @@
     "el": "Όταν είμαι κοντά πίσω από άλλο όχημα",
     "it": "Quando seguo da vicino un altro veicolo",
     "es": "Cuando voy cerca detrás de otro vehículo",
-    "pt": "Quando vou perto atrás de outro veículo"
+    "pt": "Quando vou perto atrás de outro veículo",
+    "fr": "Quand je suis de près un autre véhicule"
    },
    {
     "de": "Nur bei Gegenverkehr von Lkw",
@@ -3715,7 +3867,8 @@
     "el": "Μόνο για αντίθετα φορτηγά",
     "it": "Solo per i camion di fronte",
     "es": "Solo con camiones de frente",
-    "pt": "Só com camiões em sentido contrário"
+    "pt": "Só com camiões em sentido contrário",
+    "fr": "Seulement quand des camions arrivent en face"
    }
   ],
   "correct": [
@@ -3736,7 +3889,8 @@
    "el": "Χαμήλωσε όταν έρχεται κάποιος από απέναντι, όταν είσαι κοντά πίσω από άλλο όχημα και όπου θα θάμπωνες άλλους (§ 17 παρ. 2 StVO) — και πεζούς και ποδηλάτες.",
    "it": "Abbassa le luci quando arriva qualcuno di fronte, quando segui da vicino un altro veicolo e ovunque abbaglieresti altri (§ 17 c. 2 StVO) — compresi pedoni e ciclisti.",
    "es": "Cambia a las de cruce cuando viene alguien de frente, cuando vas cerca detrás de otro vehículo y siempre que deslumbrarías a otras personas (§ 17 apdo. 2 StVO) — peatones y ciclistas incluidos.",
-   "pt": "Passa para os médios quando vem alguém em sentido contrário, quando vais perto atrás de outro veículo e sempre que encandearias outras pessoas (§ 17 n.º 2 StVO) — peões e ciclistas incluídos."
+   "pt": "Passa para os médios quando vem alguém em sentido contrário, quando vais perto atrás de outro veículo e sempre que encandearias outras pessoas (§ 17 n.º 2 StVO) — peões e ciclistas incluídos.",
+   "fr": "Passe en feux de croisement quand quelqu'un arrive en face, quand tu suis de près un autre véhicule et chaque fois que tu éblouirais d'autres personnes (§ 17 al. 2 StVO) — piétons et cyclistes compris."
   },
   "tip": null,
   "scene": null,
@@ -3764,7 +3918,8 @@
    "el": "Πότε χρειάζεσαι χειμερινά ελαστικά;",
    "it": "Quando servono i pneumatici invernali?",
    "es": "¿Cuándo necesitas neumáticos de invierno?",
-   "pt": "Quando precisas de pneus de inverno?"
+   "pt": "Quando precisas de pneus de inverno?",
+   "fr": "Quand as-tu besoin de pneus hiver ?"
   },
   "options": [
    {
@@ -3779,7 +3934,8 @@
     "el": "Σε μαύρο πάγο, πατημένο χιόνι, λιωμένο χιόνι, πάγο ή πάχνη",
     "it": "Con ghiaccio vivo, neve compatta, neve bagnata, ghiaccio o brina",
     "es": "Con hielo, nieve compacta, aguanieve, placas de hielo o escarcha",
-    "pt": "Com gelo, neve compactada, neve derretida, placas de gelo ou geada"
+    "pt": "Com gelo, neve compactada, neve derretida, placas de gelo ou geada",
+    "fr": "Par verglas, neige tassée, neige fondue, plaques de glace ou givre"
    },
    {
     "de": "Fest vom 1. Oktober bis 31. März, egal bei welchem Wetter",
@@ -3793,7 +3949,8 @@
     "el": "Από 1 Οκτωβρίου έως 31 Μαρτίου, ανεξάρτητα από τον καιρό",
     "it": "Dal 1° ottobre al 31 marzo, qualunque sia il tempo",
     "es": "Del 1 de octubre al 31 de marzo, haga el tiempo que haga",
-    "pt": "De 1 de outubro a 31 de março, faça o tempo que fizer"
+    "pt": "De 1 de outubro a 31 de março, faça o tempo que fizer",
+    "fr": "Du 1er octobre au 31 mars, quel que soit le temps"
    },
    {
     "de": "Nur auf der Autobahn",
@@ -3807,7 +3964,8 @@
     "el": "Μόνο στον αυτοκινητόδρομο",
     "it": "Solo in autostrada",
     "es": "Solo en autopista",
-    "pt": "Só na autoestrada"
+    "pt": "Só na autoestrada",
+    "fr": "Seulement sur autoroute"
    }
   ],
   "correct": [
@@ -3827,7 +3985,8 @@
    "el": "Η Γερμανία έχει κανόνα που εξαρτάται από τον καιρό: σε χειμερινές συνθήκες επιτρέπεται οδήγηση μόνο με χειμερινά ή ελαστικά όλων των εποχών με το αλπικό σύμβολο (βουνό με νιφάδα). Τα ελαστικά μόνο με σήμανση M+S δεν μετρούν από τον Οκτώβριο του 2024.",
    "it": "In Germania la regola dipende dal meteo: in condizioni invernali si può guidare solo con pneumatici invernali o quattro stagioni con il simbolo alpino (montagna con fiocco di neve). I pneumatici solo M+S non valgono più da ottobre 2024.",
    "es": "En Alemania la norma depende del tiempo: en condiciones invernales solo se puede circular con neumáticos de invierno o todo tiempo con el símbolo alpino (montaña con copo de nieve). Los neumáticos solo M+S ya no valen desde octubre de 2024.",
-   "pt": "Na Alemanha a regra depende do tempo: em condições de inverno só se pode circular com pneus de inverno ou para todas as estações com o símbolo alpino (montanha com floco de neve). Os pneus só M+S já não valem desde outubro de 2024."
+   "pt": "Na Alemanha a regra depende do tempo: em condições de inverno só se pode circular com pneus de inverno ou para todas as estações com o símbolo alpino (montanha com floco de neve). Os pneus só M+S já não valem desde outubro de 2024.",
+   "fr": "En Allemagne, la règle dépend de la météo : en conditions hivernales, on ne peut circuler qu'avec des pneus hiver ou toutes saisons portant le symbole alpin (montagne avec flocon de neige). Les pneus marqués seulement M+S ne sont plus acceptés depuis octobre 2024."
   },
   "tip": {
    "de": "Von O bis O (Oktober bis Ostern) als Faustregel.",
@@ -3841,7 +4000,8 @@
    "el": "Πρακτικός κανόνας: από Οκτώβριο ως Πάσχα.",
    "it": "Regola pratica: da ottobre a Pasqua.",
    "es": "Regla práctica: de octubre a Semana Santa.",
-   "pt": "Regra prática: de outubro à Páscoa."
+   "pt": "Regra prática: de outubro à Páscoa.",
+   "fr": "Règle empirique : d'octobre à Pâques."
   },
   "scene": null,
   "signs": [],
@@ -3868,7 +4028,8 @@
    "el": "Μπροστά σου ένα βανάκι με παγωτά σταμάτησε στην άκρη. Τι περιμένεις;",
    "it": "Davanti a te un furgone dei gelati si è fermato a bordo strada. Cosa ti aspetti?",
    "es": "Delante de ti se ha parado una furgoneta de helados junto a la vía. ¿Qué esperas?",
-   "pt": "À tua frente parou uma carrinha de gelados junto à via. O que esperas?"
+   "pt": "À tua frente parou uma carrinha de gelados junto à via. O que esperas?",
+   "fr": "Devant toi, une camionnette de glaces s'est arrêtée au bord de la route. À quoi t'attends-tu ?"
   },
   "options": [
    {
@@ -3883,7 +4044,8 @@
     "el": "Παιδιά που διασχίζουν ξαφνικά τρέχοντας",
     "it": "Bambini che attraversano di corsa all’improvviso",
     "es": "Niños que cruzan corriendo de repente",
-    "pt": "Crianças que atravessam a correr de repente"
+    "pt": "Crianças que atravessam a correr de repente",
+    "fr": "À des enfants qui traversent soudain en courant"
    },
    {
     "de": "Dass der Wagen gleich weiterfährt",
@@ -3897,7 +4059,8 @@
     "el": "Ότι το βανάκι θα ξεκινήσει σύντομα",
     "it": "Che il furgone riparta presto",
     "es": "Que la furgoneta arranque pronto",
-    "pt": "Que a carrinha arranque em breve"
+    "pt": "Que a carrinha arranque em breve",
+    "fr": "À ce que la camionnette redémarre bientôt"
    },
    {
     "de": "Mit nichts Besonderem",
@@ -3911,7 +4074,8 @@
     "el": "Τίποτα ιδιαίτερο",
     "it": "Niente di particolare",
     "es": "Nada en especial",
-    "pt": "Nada de especial"
+    "pt": "Nada de especial",
+    "fr": "À rien de particulier"
    }
   ],
   "correct": [
@@ -3931,7 +4095,8 @@
    "el": "Όπου κάτι τραβά τα παιδιά — βανάκια με παγωτά, παιδικές χαρές, σχολεία — τρέχουν χωρίς να κοιτάξουν. Πήγαινε αργά και να είσαι σε ετοιμότητα για φρενάρισμα.",
    "it": "Ovunque ci sia qualcosa che attira i bambini — furgoni dei gelati, parchi giochi, scuole — corrono senza guardare. Vai piano e preparati a frenare.",
    "es": "Donde algo atrae a los niños — furgonetas de helados, parques, colegios — corren sin mirar. Ve despacio y prepárate para frenar.",
-   "pt": "Onde algo atrai crianças — carrinhas de gelados, parques, escolas — elas correm sem olhar. Vai devagar e prepara-te para travar."
+   "pt": "Onde algo atrai crianças — carrinhas de gelados, parques, escolas — elas correm sem olhar. Vai devagar e prepara-te para travar.",
+   "fr": "Là où quelque chose attire les enfants — camionnettes de glaces, parcs, écoles — ils courent sans regarder. Roule lentement et sois en mesure de freiner."
   },
   "tip": null,
   "scene": null,
@@ -3959,7 +4124,8 @@
    "el": "Ακολουθείς φορτηγό σε επαρχιακό δρόμο. Γιατί κρατάς μεγαλύτερη απόσταση;",
    "it": "Segui un camion su una strada extraurbana. Perché tieni una distanza maggiore?",
    "es": "Vas detrás de un camión por carretera. ¿Por qué guardas más distancia?",
-   "pt": "Vais atrás de um camião na estrada. Porque guardas mais distância?"
+   "pt": "Vais atrás de um camião na estrada. Porque guardas mais distância?",
+   "fr": "Tu roules derrière un camion sur route. Pourquoi gardes-tu plus de distance ?"
   },
   "options": [
    {
@@ -3974,7 +4140,8 @@
     "el": "Για να βλέπω τον δρόμο δίπλα του",
     "it": "Per vedere la strada oltre il camion",
     "es": "Para ver la vía más allá del camión",
-    "pt": "Para ver a estrada para lá do camião"
+    "pt": "Para ver a estrada para lá do camião",
+    "fr": "Pour voir la route au-delà du camion"
    },
    {
     "de": "Weil der Lkw-Fahrer mich hinter sich möglicherweise nicht sieht",
@@ -3988,7 +4155,8 @@
     "el": "Επειδή ο οδηγός του φορτηγού μπορεί να μη με βλέπει",
     "it": "Perché chi guida il camion potrebbe non vedermi",
     "es": "Porque quien conduce el camión quizá no me vea",
-    "pt": "Porque quem conduz o camião talvez não me veja"
+    "pt": "Porque quem conduz o camião talvez não me veja",
+    "fr": "Parce que la personne au volant du camion ne me voit peut-être pas"
    },
    {
     "de": "Weil Lkw nie bremsen",
@@ -4002,7 +4170,8 @@
     "el": "Επειδή τα φορτηγά δεν φρενάρουν ποτέ",
     "it": "Perché i camion non frenano mai",
     "es": "Porque los camiones nunca frenan",
-    "pt": "Porque os camiões nunca travam"
+    "pt": "Porque os camiões nunca travam",
+    "fr": "Parce que les camions ne freinent jamais"
    }
   ],
   "correct": [
@@ -4023,7 +4192,8 @@
    "el": "Ακριβώς πίσω από φορτηγό δεν βλέπεις τίποτα από τον δρόμο μπροστά και βρίσκεσαι στο τυφλό σημείο των καθρεφτών του. Μεγαλύτερη απόσταση σημαίνει ορατότητα και χρόνο αν φρενάρει απότομα.",
    "it": "Subito dietro a un camion non vedi niente della strada davanti e sei nell’angolo cieco dei suoi specchietti. Più distanza ti dà visuale, e tempo se frena all’improvviso.",
    "es": "Justo detrás de un camión no ves nada de la vía de delante y estás en el ángulo muerto de sus espejos. Más distancia te da visión, y tiempo si frena de golpe.",
-   "pt": "Mesmo atrás de um camião não vês nada da estrada à frente e estás no ângulo morto dos espelhos dele. Mais distância dá-te visão, e tempo se ele travar de repente."
+   "pt": "Mesmo atrás de um camião não vês nada da estrada à frente e estás no ângulo morto dos espelhos dele. Mais distância dá-te visão, e tempo se ele travar de repente.",
+   "fr": "Juste derrière un camion, tu ne vois rien de la route devant et tu es dans l'angle mort de ses rétroviseurs. Plus de distance te donne de la visibilité, et du temps s'il freine brusquement."
   },
   "tip": null,
   "scene": null,
@@ -4051,7 +4221,8 @@
    "el": "Τι απαιτεί ο βασικός κανόνας της § 1 StVO;",
    "it": "Cosa richiede la regola fondamentale del § 1 StVO?",
    "es": "¿Qué exige la norma básica del § 1 StVO?",
-   "pt": "O que exige a regra fundamental do § 1 StVO?"
+   "pt": "O que exige a regra fundamental do § 1 StVO?",
+   "fr": "Qu'exige la règle de base du § 1 StVO ?"
   },
   "options": [
    {
@@ -4066,7 +4237,8 @@
     "el": "Διαρκή προσοχή και αμοιβαίο σεβασμό",
     "it": "Prudenza costante e rispetto reciproco",
     "es": "Precaución constante y consideración mutua",
-    "pt": "Cuidado constante e consideração mútua"
+    "pt": "Cuidado constante e consideração mútua",
+    "fr": "Une prudence constante et des égards mutuels"
    },
    {
     "de": "Niemand darf geschädigt, gefährdet oder mehr als unvermeidbar behindert oder belästigt werden",
@@ -4080,7 +4252,8 @@
     "el": "Κανείς να μη βλάπτεται, να μην κινδυνεύει, να μην εμποδίζεται ή ενοχλείται περισσότερο απ’ όσο είναι αναπόφευκτο",
     "it": "Che nessuno sia danneggiato, messo in pericolo, ostacolato o disturbato più dell’inevitabile",
     "es": "Que nadie sufra daño, peligro, ni más estorbo o molestia de lo inevitable",
-    "pt": "Que ninguém sofra dano, perigo, nem mais incómodo do que o inevitável"
+    "pt": "Que ninguém sofra dano, perigo, nem mais incómodo do que o inevitável",
+    "fr": "Que personne ne subisse de dommage, de danger, ni plus de gêne ou de désagrément que l'inévitable"
    },
    {
     "de": "Wer Vorfahrt hat, darf sie durchsetzen",
@@ -4094,7 +4267,8 @@
     "el": "Όποιος έχει προτεραιότητα μπορεί να επιμένει σε αυτήν",
     "it": "Che chi ha la precedenza possa pretenderla",
     "es": "Que quien tiene prioridad pueda imponerla",
-    "pt": "Que quem tem prioridade a possa impor"
+    "pt": "Que quem tem prioridade a possa impor",
+    "fr": "Que la personne prioritaire puisse imposer sa priorité"
    }
   ],
   "correct": [
@@ -4115,7 +4289,8 @@
    "el": "Η § 1 StVO στέκεται πάνω από κάθε άλλον κανόνα: διαρκής προσοχή και αμοιβαίος σεβασμός. Η προτεραιότητα είναι δικαίωμα που δεν πρέπει να επιβάλλεις με το ζόρι όταν ο άλλος προφανώς την αγνοεί.",
    "it": "Il § 1 StVO sta sopra ogni altra regola: prudenza costante e rispetto reciproco. La precedenza è un diritto che non puoi imporre con la forza quando l’altra persona alla guida la ignora chiaramente.",
    "es": "El § 1 StVO está por encima de todas las demás normas: precaución constante y consideración mutua. La prioridad es un derecho que no puedes imponer a la fuerza cuando la otra persona lo ignora claramente.",
-   "pt": "O § 1 StVO está acima de todas as outras regras: cuidado constante e consideração mútua. A prioridade é um direito que não podes impor à força quando a outra pessoa o ignora claramente."
+   "pt": "O § 1 StVO está acima de todas as outras regras: cuidado constante e consideração mútua. A prioridade é um direito que não podes impor à força quando a outra pessoa o ignora claramente.",
+   "fr": "Le § 1 StVO prime sur toutes les autres règles : prudence constante et égards mutuels. La priorité est un droit que tu ne peux pas imposer par la force quand l'autre personne l'ignore manifestement."
   },
   "tip": {
    "de": "Recht haben heißt nicht, es durchsetzen.",
@@ -4129,7 +4304,8 @@
    "el": "Το να έχεις δίκιο δεν σημαίνει ότι το επιβάλλεις.",
    "it": "Avere ragione non significa imporla.",
    "es": "Tener razón no significa imponerla.",
-   "pt": "Ter razão não é impô-la."
+   "pt": "Ter razão não é impô-la.",
+   "fr": "Avoir raison ne veut pas dire l'imposer."
   },
   "scene": null,
   "signs": [],
@@ -4156,7 +4332,8 @@
    "el": "Βρίσκεις ατύχημα με τραυματίες. Τι κάνεις πρώτα;",
    "it": "Arrivi su un incidente con feriti. Cosa fai per prima cosa?",
    "es": "Llegas a un accidente con heridos. ¿Qué haces primero?",
-   "pt": "Chegas a um acidente com feridos. O que fazes primeiro?"
+   "pt": "Chegas a um acidente com feridos. O que fazes primeiro?",
+   "fr": "Tu arrives sur un accident avec des blessés. Que fais-tu d'abord ?"
   },
   "options": [
    {
@@ -4171,7 +4348,8 @@
     "el": "Ασφαλίζω το σημείο του ατυχήματος",
     "it": "Metto in sicurezza il luogo dell’incidente",
     "es": "Señalizo y aseguro el lugar del accidente",
-    "pt": "Sinalizo e protejo o local do acidente"
+    "pt": "Sinalizo e protejo o local do acidente",
+    "fr": "Je signale et sécurise le lieu de l'accident"
    },
    {
     "de": "Den Notruf 112 wählen und Erste Hilfe leisten",
@@ -4185,7 +4363,8 @@
     "el": "Καλώ το 112 και δίνω πρώτες βοήθειες",
     "it": "Chiamo il 112 e presto il primo soccorso",
     "es": "Llamo al 112 y presto primeros auxilios",
-    "pt": "Ligo para o 112 e presto primeiros socorros"
+    "pt": "Ligo para o 112 e presto primeiros socorros",
+    "fr": "J'appelle le 112 et je donne les premiers secours"
    },
    {
     "de": "Weiterfahren, es halten sicher schon andere",
@@ -4199,7 +4378,8 @@
     "el": "Συνεχίζω — κάποιος άλλος σίγουρα θα σταματήσει",
     "it": "Proseguo — qualcun altro si fermerà di sicuro",
     "es": "Sigo — seguro que para otra persona",
-    "pt": "Sigo — alguém há de parar"
+    "pt": "Sigo — alguém há de parar",
+    "fr": "Je continue — quelqu'un d'autre va sûrement s'arrêter"
    }
   ],
   "correct": [
@@ -4220,7 +4400,8 @@
    "el": "Αλάρμ, γιλέκο, τρίγωνο: πρώτα ασφάλισε το σημείο ώστε να μην πέσει κανείς άλλος. Μετά 112 και πρώτες βοήθειες. Η παράλειψη βοήθειας όταν είναι εύλογα δυνατή είναι ποινικό αδίκημα (§ 323c StGB).",
    "it": "Quattro frecce, gilet, triangolo: prima metti in sicurezza il luogo perché nessun altro ci finisca contro. Poi 112 e primo soccorso. Non prestare aiuto quando è ragionevolmente possibile è reato (§ 323c StGB).",
    "es": "Emergencia, chaleco, triángulo: primero asegura el lugar para que nadie más choque. Luego 112 y primeros auxilios. No prestar ayuda cuando es razonablemente posible es delito (§ 323c StGB).",
-   "pt": "Emergência, colete, triângulo: primeiro protege o local para que mais ninguém bata. Depois 112 e primeiros socorros. Não prestar ajuda quando é razoavelmente possível é crime (§ 323c StGB)."
+   "pt": "Emergência, colete, triângulo: primeiro protege o local para que mais ninguém bata. Depois 112 e primeiros socorros. Não prestar ajuda quando é razoavelmente possível é crime (§ 323c StGB).",
+   "fr": "Feux de détresse, gilet, triangle : sécurise d'abord le lieu pour que personne d'autre ne percute. Ensuite le 112 et les premiers secours. Ne pas porter assistance alors que c'est raisonnablement possible est un délit (§ 323c StGB)."
   },
   "tip": {
    "de": "Sichern – Notruf – Helfen.",
@@ -4234,7 +4415,8 @@
    "el": "Ασφάλισε — κάλεσε — βοήθησε.",
    "it": "Proteggi — chiama — aiuta.",
    "es": "Asegura — llama — ayuda.",
-   "pt": "Proteger — ligar — ajudar."
+   "pt": "Proteger — ligar — ajudar.",
+   "fr": "Sécuriser — appeler — secourir."
   },
   "scene": null,
   "signs": [],
@@ -4261,7 +4443,8 @@
    "el": "Βγαίνοντας από θέση στάθμευσης χτύπησες άλλο αυτοκίνητο. Ο ιδιοκτήτης δεν είναι εκεί. Τι κάνεις;",
    "it": "Uscendo da un parcheggio hai danneggiato un’altra auto. Il proprietario non c’è. Cosa fai?",
    "es": "Al salir de una plaza has dañado otro coche. Su propietario no está. ¿Qué haces?",
-   "pt": "Ao sair de um lugar danificaste outro carro. A pessoa dona não está. O que fazes?"
+   "pt": "Ao sair de um lugar danificaste outro carro. A pessoa dona não está. O que fazes?",
+   "fr": "En sortant d'une place, tu as endommagé une autre voiture. La personne propriétaire n'est pas là. Que fais-tu ?"
   },
   "options": [
    {
@@ -4276,7 +4459,8 @@
     "el": "Περιμένω εύλογο χρόνο και, αν δεν έρθει κανείς, ειδοποιώ την αστυνομία",
     "it": "Aspetto un tempo ragionevole e, se non arriva nessuno, avviso la polizia",
     "es": "Espero un tiempo razonable y, si no viene nadie, aviso a la policía",
-    "pt": "Espero um tempo razoável e, se não vier ninguém, aviso a polícia"
+    "pt": "Espero um tempo razoável e, se não vier ninguém, aviso a polícia",
+    "fr": "J'attends un temps raisonnable et, si personne ne vient, je préviens la police"
    },
    {
     "de": "Einen Zettel mit meiner Nummer an die Scheibe klemmen und wegfahren",
@@ -4290,7 +4474,8 @@
     "el": "Αφήνω σημείωμα με τον αριθμό μου στον υαλοκαθαριστήρα και φεύγω",
     "it": "Lascio un biglietto con il mio numero sotto il tergicristallo e me ne vado",
     "es": "Dejo una nota con mi número en el limpiaparabrisas y me voy",
-    "pt": "Deixo um bilhete com o meu número no para-brisas e vou-me embora"
+    "pt": "Deixo um bilhete com o meu número no para-brisas e vou-me embora",
+    "fr": "Je laisse un mot avec mon numéro sous l'essuie-glace et je pars"
    },
    {
     "de": "Wegfahren, der Schaden ist klein",
@@ -4304,7 +4489,8 @@
     "el": "Φεύγω — η ζημιά είναι μικρή",
     "it": "Me ne vado — il danno è piccolo",
     "es": "Me voy — el daño es pequeño",
-    "pt": "Vou-me embora — o dano é pequeno"
+    "pt": "Vou-me embora — o dano é pequeno",
+    "fr": "Je pars — le dégât est minime"
    }
   ],
   "correct": [
@@ -4324,7 +4510,8 @@
    "el": "Η αποχώρηση χωρίς να επιτραπεί η καταγραφή των γεγονότων είναι ποινικό αδίκημα (§ 142 StGB, εγκατάλειψη του τόπου του ατυχήματος). Ένα σημείωμα δεν αρκεί. Περίμενε εύλογο χρόνο, μετά δήλωσέ το αμέσως στην αστυνομία.",
    "it": "Andarsene senza permettere di accertare i fatti è reato (§ 142 StGB, fuga dopo un incidente). Un biglietto non basta. Aspetta un tempo ragionevole, poi denuncia il fatto alla polizia senza indugio.",
    "es": "Irse sin permitir que se deje constancia de los hechos es delito (§ 142 StGB, abandono del lugar del accidente). Una nota no basta. Espera un tiempo razonable y luego denúncialo a la policía sin demora.",
-   "pt": "Ir embora sem permitir o registo dos factos é crime (§ 142 StGB, abandono do local do acidente). Um bilhete não chega. Espera um tempo razoável e depois comunica à polícia sem demora."
+   "pt": "Ir embora sem permitir o registo dos factos é crime (§ 142 StGB, abandono do local do acidente). Um bilhete não chega. Espera um tempo razoável e depois comunica à polícia sem demora.",
+   "fr": "Partir sans permettre de faire le constat des faits est un délit (§ 142 StGB, délit de fuite). Un mot ne suffit pas. Attends un temps raisonnable, puis signale-le à la police sans tarder."
   },
   "tip": {
    "de": "Zettel ist keine Meldung.",
@@ -4338,7 +4525,8 @@
    "el": "Το σημείωμα δεν είναι δήλωση.",
    "it": "Un biglietto non è una denuncia.",
    "es": "Una nota no es una denuncia.",
-   "pt": "Um bilhete não é uma participação."
+   "pt": "Um bilhete não é uma participação.",
+   "fr": "Un mot n'est pas une déclaration."
   },
   "scene": null,
   "signs": [],
@@ -4365,7 +4553,8 @@
    "el": "Ποια έγγραφα πρέπει να έχεις μαζί σου όταν οδηγείς;",
    "it": "Quali documenti devi avere con te quando guidi?",
    "es": "¿Qué documentos debes llevar al conducir?",
-   "pt": "Que documentos tens de levar ao conduzir?"
+   "pt": "Que documentos tens de levar ao conduzir?",
+   "fr": "Quels documents dois-tu avoir sur toi en conduisant ?"
   },
   "options": [
    {
@@ -4380,7 +4569,8 @@
     "el": "Το δίπλωμα οδήγησης",
     "it": "La patente",
     "es": "El permiso de conducir",
-    "pt": "A carta de condução"
+    "pt": "A carta de condução",
+    "fr": "Le permis de conduire"
    },
    {
     "de": "Die Zulassungsbescheinigung Teil I (Fahrzeugschein)",
@@ -4394,7 +4584,8 @@
     "el": "Την άδεια κυκλοφορίας μέρος I (Fahrzeugschein)",
     "it": "Il certificato di immatricolazione parte I (Fahrzeugschein)",
     "es": "El permiso de circulación parte I (Fahrzeugschein)",
-    "pt": "O certificado de matrícula parte I (Fahrzeugschein)"
+    "pt": "O certificado de matrícula parte I (Fahrzeugschein)",
+    "fr": "Le certificat d'immatriculation partie I (Fahrzeugschein)"
    },
    {
     "de": "Den Kaufvertrag des Autos",
@@ -4408,7 +4599,8 @@
     "el": "Το συμβόλαιο αγοράς του αυτοκινήτου",
     "it": "Il contratto di acquisto dell’auto",
     "es": "El contrato de compra del coche",
-    "pt": "O contrato de compra do carro"
+    "pt": "O contrato de compra do carro",
+    "fr": "Le contrat d'achat de la voiture"
    }
   ],
   "correct": [
@@ -4429,7 +4621,8 @@
    "el": "Πρέπει να έχεις μαζί σου το δίπλωμα και την άδεια κυκλοφορίας μέρος I και να τα δείχνεις όταν ζητηθούν. Το μέρος II (τίτλος ιδιοκτησίας) δεν φυλάσσεται στο αυτοκίνητο.",
    "it": "Devi avere con te la patente e il certificato di immatricolazione parte I e mostrarli su richiesta. La parte II (documento di proprietà) non va tenuta in auto.",
    "es": "Debes llevar el permiso de conducir y el permiso de circulación parte I y enseñarlos si te los piden. La parte II (título de propiedad) no se guarda en el coche.",
-   "pt": "Tens de levar a carta de condução e o certificado de matrícula parte I e mostrá-los se te pedirem. A parte II (título de propriedade) não se guarda no carro."
+   "pt": "Tens de levar a carta de condução e o certificado de matrícula parte I e mostrá-los se te pedirem. A parte II (título de propriedade) não se guarda no carro.",
+   "fr": "Tu dois avoir sur toi le permis de conduire et le certificat d'immatriculation partie I et les présenter si on te les demande. La partie II (titre de propriété) ne se garde pas dans la voiture."
   },
   "tip": null,
   "scene": null,
@@ -4457,7 +4650,8 @@
    "el": "Πόσα χρόνια διαρκεί συνήθως η δοκιμαστική περίοδος για νέους οδηγούς;",
    "it": "Quanti anni dura di solito il periodo di prova per chi ha appena preso la patente?",
    "es": "¿Cuántos años dura normalmente el periodo de prueba para la conducción novel?",
-   "pt": "Quantos anos dura normalmente o período probatório para quem tem a carta há pouco tempo?"
+   "pt": "Quantos anos dura normalmente o período probatório para quem tem a carta há pouco tempo?",
+   "fr": "Combien d'années dure normalement la période probatoire après l'obtention du permis ?"
   },
   "options": [],
   "correct": [],
@@ -4475,7 +4669,8 @@
    "el": "Η δοκιμαστική περίοδος διαρκεί δύο χρόνια από το πρώτο δίπλωμα. Μετά από μία σοβαρή (A) ή δύο λιγότερο σοβαρές (B) παραβάσεις πρέπει να παρακολουθήσεις σεμινάριο αποκατάστασης και η περίοδος παρατείνεται σε τέσσερα χρόνια (§ 2a StVG).",
    "it": "Il periodo di prova dura due anni dalla prima patente. Dopo un’infrazione grave (A) o due meno gravi (B) bisogna frequentare un corso di recupero e il periodo si allunga a quattro anni (§ 2a StVG).",
    "es": "El periodo de prueba dura dos años desde el primer permiso. Tras una infracción grave (A) o dos menos graves (B) hay que hacer un curso de reeducación y el periodo se amplía a cuatro años (§ 2a StVG).",
-   "pt": "O período probatório dura dois anos a partir da primeira carta. Depois de uma infração grave (A) ou duas menos graves (B) é preciso fazer um curso de reeducação e o período passa a quatro anos (§ 2a StVG)."
+   "pt": "O período probatório dura dois anos a partir da primeira carta. Depois de uma infração grave (A) ou duas menos graves (B) é preciso fazer um curso de reeducação e o período passa a quatro anos (§ 2a StVG).",
+   "fr": "La période probatoire dure deux ans à compter du premier permis. Après une infraction grave (A) ou deux moins graves (B), il faut suivre un stage de réhabilitation et la période est prolongée à quatre ans (§ 2a StVG)."
   },
   "tip": null,
   "scene": null,
@@ -4503,7 +4698,8 @@
    "el": "Ποια παράβαση θεωρείται σοβαρή (κατηγορία A) στη δοκιμαστική περίοδο;",
    "it": "Quale infrazione è grave (categoria A) durante il periodo di prova?",
    "es": "¿Qué infracción es grave (categoría A) durante el periodo de prueba?",
-   "pt": "Que infração é grave (categoria A) no período probatório?"
+   "pt": "Que infração é grave (categoria A) no período probatório?",
+   "fr": "Quelle infraction est grave (catégorie A) pendant la période probatoire ?"
   },
   "options": [
    {
@@ -4518,7 +4714,8 @@
     "el": "Υπέρβαση του ορίου κατά πάνω από 20 km/h",
     "it": "Superare il limite di oltre 20 km/h",
     "es": "Superar el límite en más de 20 km/h",
-    "pt": "Ultrapassar o limite em mais de 20 km/h"
+    "pt": "Ultrapassar o limite em mais de 20 km/h",
+    "fr": "Dépasser la limite de plus de 20 km/h"
    },
    {
     "de": "Überfahren einer roten Ampel",
@@ -4532,7 +4729,8 @@
     "el": "Παραβίαση κόκκινου",
     "it": "Passare col rosso",
     "es": "Saltarse un semáforo en rojo",
-    "pt": "Passar um semáforo vermelho"
+    "pt": "Passar um semáforo vermelho",
+    "fr": "Griller un feu rouge"
    },
    {
     "de": "Fahren ohne Warnweste im Auto",
@@ -4546,7 +4744,8 @@
     "el": "Οδήγηση χωρίς γιλέκο υψηλής ορατότητας στο αυτοκίνητο",
     "it": "Guidare senza gilet ad alta visibilità in auto",
     "es": "Conducir sin chaleco reflectante en el coche",
-    "pt": "Conduzir sem colete refletor no carro"
+    "pt": "Conduzir sem colete refletor no carro",
+    "fr": "Conduire sans gilet de sécurité dans la voiture"
    }
   ],
   "correct": [
@@ -4567,7 +4766,8 @@
    "el": "Στην κατηγορία A ανήκουν υπέρβαση ταχύτητας κατά 21 km/h ή περισσότερο, παραβιάσεις κόκκινου, παραβιάσεις προτεραιότητας, επικίνδυνη προσπέραση, αλκοόλ ή κάνναβη στο τιμόνι. Μία μόνο σημαίνει σεμινάριο αποκατάστασης.",
    "it": "Nella categoria A rientrano l’eccesso di velocità di 21 km/h o più, il passaggio col rosso, le violazioni della precedenza, il sorpasso pericoloso, alcol o cannabis alla guida. Ne basta una per il corso di recupero.",
    "es": "En la categoría A están el exceso de velocidad de 21 km/h o más, saltarse el rojo, no respetar la prioridad, adelantar de forma peligrosa, y el alcohol o el cannabis al volante. Una sola basta para el curso de reeducación.",
-   "pt": "Na categoria A estão o excesso de velocidade de 21 km/h ou mais, passar o vermelho, desrespeitar a prioridade, ultrapassar de forma perigosa, e o álcool ou a canábis ao volante. Uma só basta para o curso de reeducação."
+   "pt": "Na categoria A estão o excesso de velocidade de 21 km/h ou mais, passar o vermelho, desrespeitar a prioridade, ultrapassar de forma perigosa, e o álcool ou a canábis ao volante. Uma só basta para o curso de reeducação.",
+   "fr": "La catégorie A comprend l'excès de vitesse de 21 km/h ou plus, griller un feu rouge, ne pas respecter la priorité, dépasser de façon dangereuse, et l'alcool ou le cannabis au volant. Une seule suffit pour le stage de réhabilitation."
   },
   "tip": null,
   "scene": null,
@@ -4595,7 +4795,8 @@
    "el": "Με πόσους βαθμούς στο μητρώο οδηγών αφαιρείται το δίπλωμα;",
    "it": "Con quanti punti nel registro dei conducenti ti viene ritirata la patente?",
    "es": "¿Con cuántos puntos en el registro de conductores se retira el permiso?",
-   "pt": "Com quantos pontos no registo de condutores é retirada a carta?"
+   "pt": "Com quantos pontos no registo de condutores é retirada a carta?",
+   "fr": "Avec combien de points au registre de Flensburg le permis est-il retiré ?"
   },
   "options": [],
   "correct": [],
@@ -4613,7 +4814,8 @@
    "el": "Το μητρώο οδηγών στο Flensburg λειτουργεί σε βαθμίδες: 4–5 βαθμοί υπενθύμιση, 6–7 προειδοποίηση, και με 8 βαθμούς το δίπλωμα αφαιρείται.",
    "it": "Il registro dei conducenti di Flensburg funziona a gradini: 4–5 punti un richiamo, 6–7 un ammonimento, e con 8 punti la patente viene ritirata.",
    "es": "El registro de conductores de Flensburg funciona por escalones: 4–5 puntos un recordatorio, 6–7 una advertencia, y con 8 puntos se retira el permiso.",
-   "pt": "O registo de condutores de Flensburg funciona por escalões: 4–5 pontos um lembrete, 6–7 uma advertência, e com 8 pontos a carta é retirada."
+   "pt": "O registo de condutores de Flensburg funciona por escalões: 4–5 pontos um lembrete, 6–7 uma advertência, e com 8 pontos a carta é retirada.",
+   "fr": "Le registre des points de Flensburg fonctionne par paliers : 4–5 points un rappel, 6–7 un avertissement, et à 8 points le permis est retiré."
   },
   "tip": null,
   "scene": null,
@@ -4641,7 +4843,8 @@
    "el": "Τι σε περιμένει αν περάσεις φανάρι που είναι κόκκινο πάνω από ένα δευτερόλεπτο;",
    "it": "Cosa rischi passando con un rosso acceso da più di un secondo?",
    "es": "¿Qué te espera por pasar un semáforo que lleva más de un segundo en rojo?",
-   "pt": "O que te espera por passar um semáforo que está vermelho há mais de um segundo?"
+   "pt": "O que te espera por passar um semáforo que está vermelho há mais de um segundo?",
+   "fr": "Qu'est-ce qui t'attend si tu passes à un feu rouge depuis plus d'une seconde ?"
   },
   "options": [
    {
@@ -4656,7 +4859,8 @@
     "el": "Απαγόρευση οδήγησης ενός μήνα",
     "it": "Un mese di sospensione della patente",
     "es": "Un mes de prohibición de conducir",
-    "pt": "Um mês de proibição de conduzir"
+    "pt": "Um mês de proibição de conduzir",
+    "fr": "Un mois d'interdiction de conduire"
    },
    {
     "de": "Zwei Punkte im Fahreignungsregister",
@@ -4670,7 +4874,8 @@
     "el": "Δύο βαθμοί στο μητρώο οδηγών",
     "it": "Due punti nel registro dei conducenti",
     "es": "Dos puntos en el registro de conductores",
-    "pt": "Dois pontos no registo de condutores"
+    "pt": "Dois pontos no registo de condutores",
+    "fr": "Deux points au registre de Flensburg"
    },
    {
     "de": "Nur eine Verwarnung",
@@ -4684,7 +4889,8 @@
     "el": "Μόνο μια σύσταση",
     "it": "Solo un richiamo",
     "es": "Solo una advertencia",
-    "pt": "Só uma advertência"
+    "pt": "Só uma advertência",
+    "fr": "Seulement un avertissement"
    }
   ],
   "correct": [
@@ -4705,7 +4911,8 @@
    "el": "Η «ειδική» παραβίαση κόκκινου (κόκκινο πάνω από ένα δευτερόλεπτο) κοστίζει κατά τον κατάλογο προστίμων 200 €, 2 βαθμούς και ένα μήνα απαγόρευση — συν σεμινάριο και παράταση αν είσαι σε δοκιμαστική περίοδο.",
    "it": "Il passaggio col rosso «qualificato» (rosso da più di un secondo) costa, secondo il catalogo delle sanzioni, 200 €, 2 punti e un mese di sospensione — più corso e proroga se sei nel periodo di prova.",
    "es": "Un paso en rojo «cualificado» (rojo de más de un segundo) cuesta, según el catálogo de multas, 200 €, 2 puntos y un mes de prohibición — más curso y prórroga si estás en periodo de prueba.",
-   "pt": "Uma passagem no vermelho «qualificada» (vermelho há mais de um segundo) custa, segundo a tabela de coimas, 200 €, 2 pontos e um mês de proibição — mais curso e prolongamento se estiveres no período probatório."
+   "pt": "Uma passagem no vermelho «qualificada» (vermelho há mais de um segundo) custa, segundo a tabela de coimas, 200 €, 2 pontos e um mês de proibição — mais curso e prolongamento se estiveres no período probatório.",
+   "fr": "Un franchissement de feu rouge « qualifié » (rouge depuis plus d'une seconde) coûte, selon le barème des amendes, 200 €, 2 points et un mois d'interdiction de conduire — plus stage et prolongation si tu es en période probatoire."
   },
   "tip": null,
   "scene": null,
@@ -4733,7 +4940,8 @@
    "el": "Ποιος ευθύνεται για το ότι το όχημα είναι σε καλή κατάσταση όταν ξεκινάς;",
    "it": "Chi è responsabile che il veicolo sia in condizioni di circolare quando parti?",
    "es": "¿Quién responde de que el vehículo esté en condiciones de circular al salir?",
-   "pt": "Quem responde por o veículo estar em condições de circular à partida?"
+   "pt": "Quem responde por o veículo estar em condições de circular à partida?",
+   "fr": "Qui est responsable du bon état de marche du véhicule au départ ?"
   },
   "options": [
    {
@@ -4748,7 +4956,8 @@
     "el": "Εγώ, ως το άτομο που οδηγεί",
     "it": "Io, come persona alla guida",
     "es": "Yo, como persona que conduce",
-    "pt": "Eu, como pessoa que conduz"
+    "pt": "Eu, como pessoa que conduz",
+    "fr": "Moi, en tant que personne au volant"
    },
    {
     "de": "Nur der Halter",
@@ -4762,7 +4971,8 @@
     "el": "Μόνο ο εγγεγραμμένος κάτοχος",
     "it": "Solo l’intestatario",
     "es": "Solo el titular registrado",
-    "pt": "Só a pessoa titular do registo"
+    "pt": "Só a pessoa titular do registo",
+    "fr": "Seulement la personne titulaire du certificat d'immatriculation"
    },
    {
     "de": "Die Werkstatt",
@@ -4776,7 +4986,8 @@
     "el": "Το συνεργείο",
     "it": "L’officina",
     "es": "El taller",
-    "pt": "A oficina"
+    "pt": "A oficina",
+    "fr": "Le garage"
    }
   ],
   "correct": [
@@ -4796,7 +5007,8 @@
    "el": "Ο οδηγός ευθύνεται για το ότι το όχημα, το φορτίο και οι επιβάτες είναι εντάξει και το όχημα ασφαλές για κυκλοφορία (§ 23 παρ. 1 StVO). Ευθύνεται και ο κάτοχος.",
    "it": "Chi guida è responsabile che veicolo, carico e passeggeri siano in ordine e che il veicolo sia idoneo alla circolazione (§ 23 c. 1 StVO). Ne risponde anche l’intestatario.",
    "es": "Quien conduce responde de que el vehículo, la carga y los ocupantes estén en orden y de que el vehículo esté en condiciones de circular (§ 23 apdo. 1 StVO). El titular también responde.",
-   "pt": "Quem conduz responde por o veículo, a carga e os ocupantes estarem em ordem e por o veículo estar em condições de circular (§ 23 n.º 1 StVO). A pessoa titular também responde."
+   "pt": "Quem conduz responde por o veículo, a carga e os ocupantes estarem em ordem e por o veículo estar em condições de circular (§ 23 n.º 1 StVO). A pessoa titular também responde.",
+   "fr": "La personne qui conduit est responsable du bon ordre du véhicule, du chargement et des occupants, et de l'état de marche du véhicule (§ 23 al. 1 StVO). La personne titulaire du certificat d'immatriculation en répond aussi."
   },
   "tip": null,
   "scene": null,
@@ -4824,7 +5036,8 @@
    "el": "Ποιος πρέπει να φορά ζώνη στο αυτοκίνητο;",
    "it": "Chi deve allacciare la cintura in auto?",
    "es": "¿Quién debe llevar el cinturón en el coche?",
-   "pt": "Quem tem de usar o cinto no carro?"
+   "pt": "Quem tem de usar o cinto no carro?",
+   "fr": "Qui doit porter la ceinture en voiture ?"
   },
   "options": [
    {
@@ -4839,7 +5052,8 @@
     "el": "Όλοι όσοι κάθονται σε θέση με ζώνη",
     "it": "Chiunque sieda in un posto con cintura",
     "es": "Toda persona en un asiento con cinturón",
-    "pt": "Qualquer pessoa num lugar com cinto"
+    "pt": "Qualquer pessoa num lugar com cinto",
+    "fr": "Toute personne assise sur un siège équipé d'une ceinture"
    },
    {
     "de": "Nur Fahrer und Beifahrer",
@@ -4853,7 +5067,8 @@
     "el": "Μόνο ο οδηγός και ο συνοδηγός",
     "it": "Solo conducente e passeggero anteriore",
     "es": "Solo quien conduce y el acompañante delantero",
-    "pt": "Só quem conduz e quem vai ao lado à frente"
+    "pt": "Só quem conduz e quem vai ao lado à frente",
+    "fr": "Seulement la personne au volant et celle assise à l'avant"
    },
    {
     "de": "Nur auf der Autobahn",
@@ -4867,7 +5082,8 @@
     "el": "Μόνο στον αυτοκινητόδρομο",
     "it": "Solo in autostrada",
     "es": "Solo en autopista",
-    "pt": "Só na autoestrada"
+    "pt": "Só na autoestrada",
+    "fr": "Seulement sur autoroute"
    }
   ],
   "correct": [
@@ -4887,7 +5103,8 @@
    "el": "Οι ζώνες πρέπει να φοριούνται κατά την οδήγηση, μπροστά και πίσω (§ 21a StVO). Ως άτομο που οδηγεί ευθύνεσαι και για τη σωστή συγκράτηση των παιδιών.",
    "it": "Le cinture vanno allacciate durante la marcia, davanti e dietro (§ 21a StVO). Come persona alla guida rispondi anche del corretto fissaggio dei bambini.",
    "es": "El cinturón es obligatorio en marcha, delante y detrás (§ 21a StVO). Como persona que conduce, también respondes de que los niños vayan bien sujetos.",
-   "pt": "O cinto é obrigatório em andamento, à frente e atrás (§ 21a StVO). Como pessoa que conduz, também respondes por as crianças irem bem presas."
+   "pt": "O cinto é obrigatório em andamento, à frente e atrás (§ 21a StVO). Como pessoa que conduz, também respondes por as crianças irem bem presas.",
+   "fr": "La ceinture est obligatoire en roulant, à l'avant comme à l'arrière (§ 21a StVO). En tant que personne au volant, tu es aussi responsable de la bonne attache des enfants."
   },
   "tip": null,
   "scene": null,
@@ -4915,7 +5132,8 @@
    "el": "Τι πρέπει να πληροί ο ενήλικας συνοδός στη συνοδευόμενη οδήγηση από τα 17;",
    "it": "Quali requisiti deve avere l’adulto che accompagna nella guida accompagnata dai 17 anni?",
    "es": "¿Qué requisitos debe cumplir la persona adulta que acompaña en la conducción acompañada desde los 17?",
-   "pt": "Que requisitos tem de cumprir a pessoa adulta que acompanha na condução acompanhada a partir dos 17?"
+   "pt": "Que requisitos tem de cumprir a pessoa adulta que acompanha na condução acompanhada a partir dos 17?",
+   "fr": "Quelles conditions doit remplir la personne adulte qui accompagne dans la conduite accompagnée dès 17 ans ?"
   },
   "options": [
    {
@@ -4930,7 +5148,8 @@
     "el": "Να είναι τουλάχιστον 30 ετών",
     "it": "Avere almeno 30 anni",
     "es": "Tener al menos 30 años",
-    "pt": "Ter pelo menos 30 anos"
+    "pt": "Ter pelo menos 30 anos",
+    "fr": "Avoir au moins 30 ans"
    },
    {
     "de": "Seit mindestens 5 Jahren die Klasse B haben",
@@ -4944,7 +5163,8 @@
     "el": "Να έχει δίπλωμα κατηγορίας B τουλάχιστον 5 χρόνια",
     "it": "Avere la patente B da almeno 5 anni",
     "es": "Tener el permiso B desde hace al menos 5 años",
-    "pt": "Ter a carta B há pelo menos 5 anos"
+    "pt": "Ter a carta B há pelo menos 5 anos",
+    "fr": "Avoir le permis B depuis au moins 5 ans"
    },
    {
     "de": "Höchstens einen Punkt im Fahreignungsregister haben",
@@ -4958,7 +5178,8 @@
     "el": "Να έχει το πολύ έναν βαθμό στο μητρώο οδηγών",
     "it": "Avere al massimo un punto nel registro dei conducenti",
     "es": "Tener como mucho un punto en el registro de conductores",
-    "pt": "Ter no máximo um ponto no registo de condutores"
+    "pt": "Ter no máximo um ponto no registo de condutores",
+    "fr": "Avoir au plus un point au registre de Flensburg"
    }
   ],
   "correct": [
@@ -4980,7 +5201,8 @@
    "el": "Οι συνοδοί πρέπει να είναι τουλάχιστον 30 ετών, να έχουν κατηγορία B τουλάχιστον 5 χρόνια, το πολύ έναν βαθμό και να αναγράφονται στη βεβαίωση. Για αυτούς ισχύουν τα όρια 0,5 ‰ αλκοόλ και τα όρια κάνναβης.",
    "it": "Chi accompagna deve avere almeno 30 anni, la patente B da almeno 5 anni, al massimo un punto ed essere indicato nel certificato. Per queste persone valgono i limiti di 0,5 ‰ per l’alcol e quelli per la cannabis.",
    "es": "Las personas acompañantes deben tener al menos 30 años, el permiso B desde hace al menos 5, como mucho un punto y figurar en el certificado. Para ellas rigen los límites de 0,5 ‰ de alcohol y los de cannabis.",
-   "pt": "As pessoas acompanhantes têm de ter pelo menos 30 anos, a carta B há pelo menos 5, no máximo um ponto e constar do certificado. Para elas valem os limites de 0,5 ‰ de álcool e os de canábis."
+   "pt": "As pessoas acompanhantes têm de ter pelo menos 30 anos, a carta B há pelo menos 5, no máximo um ponto e constar do certificado. Para elas valem os limites de 0,5 ‰ de álcool e os de canábis.",
+   "fr": "Les personnes accompagnatrices doivent avoir au moins 30 ans, le permis B depuis au moins 5 ans, au plus un point et être inscrites sur l'attestation. Les limites de 0,5 ‰ d'alcool et celles du cannabis s'appliquent à elles."
   },
   "tip": null,
   "scene": null,
@@ -5008,7 +5230,8 @@
    "el": "Ποια ασφάλιση είναι υποχρεωτική για κάθε ταξινομημένο αυτοκίνητο;",
    "it": "Quale assicurazione è obbligatoria per ogni auto immatricolata?",
    "es": "¿Qué seguro es obligatorio para todo coche matriculado?",
-   "pt": "Que seguro é obrigatório para qualquer carro matriculado?"
+   "pt": "Que seguro é obrigatório para qualquer carro matriculado?",
+   "fr": "Quelle assurance est obligatoire pour toute voiture immatriculée ?"
   },
   "options": [
    {
@@ -5023,7 +5246,8 @@
     "el": "Η ασφάλιση αστικής ευθύνης",
     "it": "La responsabilità civile auto",
     "es": "El seguro de responsabilidad civil",
-    "pt": "O seguro de responsabilidade civil"
+    "pt": "O seguro de responsabilidade civil",
+    "fr": "L'assurance responsabilité civile"
    },
    {
     "de": "Die Vollkaskoversicherung",
@@ -5037,7 +5261,8 @@
     "el": "Η μικτή ασφάλιση",
     "it": "La kasko completa",
     "es": "El seguro a todo riesgo",
-    "pt": "O seguro contra todos os riscos"
+    "pt": "O seguro contra todos os riscos",
+    "fr": "L'assurance tous risques"
    },
    {
     "de": "Eine Insassen-Unfallversicherung",
@@ -5051,7 +5276,8 @@
     "el": "Η ασφάλιση προσωπικού ατυχήματος για επιβάτες",
     "it": "L’assicurazione infortuni per i passeggeri",
     "es": "El seguro de accidentes para ocupantes",
-    "pt": "O seguro de acidentes para ocupantes"
+    "pt": "O seguro de acidentes para ocupantes",
+    "fr": "L'assurance accidents pour les occupants"
    }
   ],
   "correct": [
@@ -5071,7 +5297,8 @@
    "el": "Υποχρεωτική είναι μόνο η αστική ευθύνη: πληρώνει τις ζημιές που προκαλείς σε άλλους. Η μερική και η μικτή κάλυψη για το δικό σου αυτοκίνητο είναι προαιρετικές.",
    "it": "Obbligatoria è solo la responsabilità civile: paga i danni che causi ad altri. Kasko parziale e completa per la propria auto sono facoltative.",
    "es": "Solo es obligatorio el seguro de responsabilidad civil: paga los daños que causas a otros. Las coberturas parcial y a todo riesgo de tu propio coche son opcionales.",
-   "pt": "Só é obrigatório o seguro de responsabilidade civil: paga os danos que causas a outras pessoas. As coberturas parciais e contra todos os riscos do teu próprio carro são opcionais."
+   "pt": "Só é obrigatório o seguro de responsabilidade civil: paga os danos que causas a outras pessoas. As coberturas parciais e contra todos os riscos do teu próprio carro são opcionais.",
+   "fr": "Seule l'assurance responsabilité civile est obligatoire : elle paie les dommages que tu causes aux autres. Les couvertures partielle et tous risques de ta propre voiture sont facultatives."
   },
   "tip": null,
   "scene": null,
@@ -20691,7 +20918,8 @@
    "el": "Ποιο είναι το νόμιμο ελάχιστο βάθος πέλματος ελαστικών;",
    "it": "Qual è la profondità minima legale del battistrada?",
    "es": "¿Cuál es la profundidad mínima legal del dibujo de los neumáticos?",
-   "pt": "Qual é a profundidade mínima legal do piso dos pneus?"
+   "pt": "Qual é a profundidade mínima legal do piso dos pneus?",
+   "fr": "Quelle est la profondeur minimale légale des sculptures des pneus ?"
   },
   "options": [],
   "correct": [],
@@ -20709,7 +20937,8 @@
    "el": "Το νόμιμο ελάχιστο είναι 1,6 mm (§ 36 StVZO). Οι ειδικοί προτείνουν 3 mm για καλοκαιρινά και 4 mm για χειμερινά· κάτω από αυτό οι αποστάσεις πέδησης σε βρεγμένο και χιόνι αυξάνονται αισθητά.",
    "it": "Il minimo legale è 1,6 mm (§ 36 StVZO). Gli esperti consigliano 3 mm per gli estivi e 4 mm per gli invernali; sotto questi valori lo spazio di frenata su bagnato e neve cresce in modo netto.",
    "es": "El mínimo legal es 1,6 mm (§ 36 StVZO). Los expertos recomiendan 3 mm para neumáticos de verano y 4 mm para los de invierno; por debajo, la distancia de frenado en mojado y nieve crece mucho.",
-   "pt": "O mínimo legal é 1,6 mm (§ 36 StVZO). Os especialistas recomendam 3 mm para pneus de verão e 4 mm para os de inverno; abaixo disso, a distância de travagem em piso molhado e na neve aumenta muito."
+   "pt": "O mínimo legal é 1,6 mm (§ 36 StVZO). Os especialistas recomendam 3 mm para pneus de verão e 4 mm para os de inverno; abaixo disso, a distância de travagem em piso molhado e na neve aumenta muito.",
+   "fr": "Le minimum légal est de 1,6 mm (§ 36 StVZO). Les spécialistes recommandent 3 mm pour les pneus été et 4 mm pour les pneus hiver ; en dessous, la distance de freinage sur sol mouillé et sur neige augmente beaucoup."
   },
   "tip": null,
   "scene": null,
@@ -20737,7 +20966,8 @@
    "el": "Πότε ελέγχεις σωστά την πίεση των ελαστικών;",
    "it": "Quando si controlla correttamente la pressione dei pneumatici?",
    "es": "¿Cuándo se comprueba bien la presión de los neumáticos?",
-   "pt": "Quando se verifica bem a pressão dos pneus?"
+   "pt": "Quando se verifica bem a pressão dos pneus?",
+   "fr": "Quand contrôle-t-on correctement la pression des pneus ?"
   },
   "options": [
    {
@@ -20752,7 +20982,8 @@
     "el": "Με κρύα ελαστικά",
     "it": "A pneumatici freddi",
     "es": "Con los neumáticos fríos",
-    "pt": "Com os pneus frios"
+    "pt": "Com os pneus frios",
+    "fr": "Pneus froids"
    },
    {
     "de": "Nach den Angaben des Herstellers, bei voller Beladung erhöht",
@@ -20766,7 +20997,8 @@
     "el": "Σύμφωνα με τον κατασκευαστή, αυξημένη για πλήρες φορτίο",
     "it": "Secondo i valori del costruttore, aumentati a pieno carico",
     "es": "Según los valores del fabricante, aumentados con carga completa",
-    "pt": "Segundo os valores do fabricante, aumentados com carga completa"
+    "pt": "Segundo os valores do fabricante, aumentados com carga completa",
+    "fr": "Selon les valeurs du constructeur, augmentées à pleine charge"
    },
    {
     "de": "Direkt nach einer langen Autobahnfahrt",
@@ -20780,7 +21012,8 @@
     "el": "Αμέσως μετά από μεγάλη διαδρομή στον αυτοκινητόδρομο",
     "it": "Subito dopo un lungo viaggio in autostrada",
     "es": "Justo después de un viaje largo por autopista",
-    "pt": "Logo depois de uma viagem longa na autoestrada"
+    "pt": "Logo depois de uma viagem longa na autoestrada",
+    "fr": "Juste après un long trajet sur autoroute"
    }
   ],
   "correct": [
@@ -20801,7 +21034,8 @@
    "el": "Τα ζεστά ελαστικά δείχνουν υπερβολική πίεση. Οι τιμές βρίσκονται στο εγχειρίδιο, συχνά και στο καπάκι του ρεζερβουάρ ή στην πόρτα του οδηγού. Η χαμηλή πίεση μεγαλώνει το φρενάρισμα, αυξάνει την κατανάλωση και μπορεί να καταστρέψει το ελαστικό.",
    "it": "I pneumatici caldi mostrano una pressione troppo alta. I valori sono nel libretto, spesso anche nello sportello del carburante o sulla portiera del conducente. Una pressione bassa allunga la frenata, aumenta i consumi e può distruggere il pneumatico.",
    "es": "Los neumáticos calientes marcan una presión demasiado alta. Los valores están en el manual, a menudo también en la tapa del depósito o en la puerta del conductor. Una presión baja alarga la frenada, sube el consumo y puede destrozar el neumático.",
-   "pt": "Os pneus quentes mostram uma pressão alta demais. Os valores estão no manual, muitas vezes também na tampa do depósito ou na porta do condutor. Uma pressão baixa aumenta a travagem, sobe o consumo e pode destruir o pneu."
+   "pt": "Os pneus quentes mostram uma pressão alta demais. Os valores estão no manual, muitas vezes também na tampa do depósito ou na porta do condutor. Uma pressão baixa aumenta a travagem, sobe o consumo e pode destruir o pneu.",
+   "fr": "Des pneus chauds affichent une pression trop élevée. Les valeurs figurent dans le manuel, souvent aussi sur la trappe à carburant ou dans l'encadrement de la portière avant. Une pression trop basse allonge le freinage, augmente la consommation et peut détruire le pneu."
   },
   "tip": null,
   "scene": null,
@@ -20829,7 +21063,8 @@
    "el": "Κατά την οδήγηση ανάβει η κόκκινη ενδεικτική λυχνία πίεσης λαδιού. Τι κάνεις;",
    "it": "Durante la guida si accende la spia rossa della pressione dell’olio. Cosa fai?",
    "es": "Mientras conduces se enciende el testigo rojo de presión de aceite. ¿Qué haces?",
-   "pt": "Enquanto conduzes acende-se a luz vermelha da pressão do óleo. O que fazes?"
+   "pt": "Enquanto conduzes acende-se a luz vermelha da pressão do óleo. O que fazes?",
+   "fr": "En roulant, le témoin rouge de pression d'huile s'allume. Que fais-tu ?"
   },
   "options": [
    {
@@ -20844,7 +21079,8 @@
     "el": "Σταματώ μόλις είναι ασφαλές και σβήνω τον κινητήρα",
     "it": "Mi fermo appena è sicuro e spengo il motore",
     "es": "Paro en cuanto sea seguro y apago el motor",
-    "pt": "Paro assim que for seguro e desligo o motor"
+    "pt": "Paro assim que for seguro e desligo o motor",
+    "fr": "Je m'arrête dès que c'est possible en sécurité et je coupe le moteur"
    },
    {
     "de": "Bis nach Hause weiterfahren und dann nachsehen",
@@ -20858,7 +21094,8 @@
     "el": "Συνεχίζω ως το σπίτι και κοιτάζω εκεί",
     "it": "Proseguo fino a casa e guardo lì",
     "es": "Sigo hasta casa y lo miro allí",
-    "pt": "Sigo até casa e vejo lá"
+    "pt": "Sigo até casa e vejo lá",
+    "fr": "Je continue jusqu'à chez moi et je regarde là-bas"
    },
    {
     "de": "Höher drehen, damit mehr Öl gepumpt wird",
@@ -20872,7 +21109,8 @@
     "el": "Ανεβάζω στροφές για να αντλήσει περισσότερο λάδι",
     "it": "Aumento i giri per pompare più olio",
     "es": "Subo de vueltas para bombear más aceite",
-    "pt": "Subo as rotações para bombear mais óleo"
+    "pt": "Subo as rotações para bombear mais óleo",
+    "fr": "Je monte dans les tours pour pomper plus d'huile"
    }
   ],
   "correct": [
@@ -20892,7 +21130,8 @@
    "el": "Οι κόκκινες λυχνίες σημαίνουν: δράσε τώρα. Χωρίς πίεση λαδιού ο κινητήρας δεν λιπαίνεται και μπορεί να καταστραφεί σε λίγα λεπτά. Σταμάτα, σβήσε τον κινητήρα, έλεγξε τη στάθμη λαδιού.",
    "it": "Le spie rosse vogliono dire: agisci subito. Senza pressione dell’olio il motore non è lubrificato e può rompersi in pochi minuti. Fermati, spegni il motore, controlla il livello dell’olio.",
    "es": "Los testigos rojos significan: actúa ya. Sin presión de aceite el motor no se lubrica y puede romperse en minutos. Para, apaga el motor y comprueba el nivel de aceite.",
-   "pt": "As luzes vermelhas significam: age já. Sem pressão do óleo o motor não é lubrificado e pode avariar em minutos. Para, desliga o motor e verifica o nível do óleo."
+   "pt": "As luzes vermelhas significam: age já. Sem pressão do óleo o motor não é lubrificado e pode avariar em minutos. Para, desliga o motor e verifica o nível do óleo.",
+   "fr": "Les témoins rouges signifient : agis tout de suite. Sans pression d'huile, le moteur n'est plus lubrifié et peut casser en quelques minutes. Arrête-toi, coupe le moteur et vérifie le niveau d'huile."
   },
   "tip": {
    "de": "Rot = sofort anhalten. Gelb = bald in die Werkstatt.",
@@ -20906,7 +21145,8 @@
    "el": "Κόκκινο = σταμάτα τώρα. Πορτοκαλί = σύντομα στο συνεργείο.",
    "it": "Rosso = fermati ora. Arancione = presto in officina.",
    "es": "Rojo = para ya. Naranja = pronto al taller.",
-   "pt": "Vermelho = para já. Laranja = oficina em breve."
+   "pt": "Vermelho = para já. Laranja = oficina em breve.",
+   "fr": "Rouge = arrête-toi tout de suite. Orange = bientôt au garage."
   },
   "scene": null,
   "signs": [],
@@ -20933,7 +21173,8 @@
    "el": "Το αυτοκίνητό σου έχει ABS. Πώς φρενάρεις σε έκτακτη ανάγκη;",
    "it": "La tua auto ha l’ABS. Come freni in emergenza?",
    "es": "Tu coche tiene ABS. ¿Cómo frenas en una emergencia?",
-   "pt": "O teu carro tem ABS. Como travas numa emergência?"
+   "pt": "O teu carro tem ABS. Como travas numa emergência?",
+   "fr": "Ta voiture a l'ABS. Comment freines-tu en urgence ?"
   },
   "options": [
    {
@@ -20948,7 +21189,8 @@
     "el": "Πατάω δυνατά το φρένο και το κρατώ πατημένο",
     "it": "Premo forte il freno e lo tengo premuto",
     "es": "Piso el freno a fondo y lo mantengo",
-    "pt": "Carrego a fundo no travão e mantenho"
+    "pt": "Carrego a fundo no travão e mantenho",
+    "fr": "J'enfonce le frein à fond et je le maintiens"
    },
    {
     "de": "Ich kann während der Vollbremsung lenken",
@@ -20962,7 +21204,8 @@
     "el": "Μπορώ να στρίβω κατά το πλήρες φρενάρισμα",
     "it": "Durante la frenata a fondo posso sterzare",
     "es": "Durante la frenada a fondo puedo girar el volante",
-    "pt": "Durante a travagem a fundo posso virar o volante"
+    "pt": "Durante a travagem a fundo posso virar o volante",
+    "fr": "Pendant le freinage à fond, je peux tourner le volant"
    },
    {
     "de": "Stotternd bremsen, damit die Räder nicht blockieren",
@@ -20976,7 +21219,8 @@
     "el": "Πατάω-αφήνω το φρένο για να μη μπλοκάρουν οι τροχοί",
     "it": "Pompo il freno perché le ruote non si blocchino",
     "es": "Bombeo el freno para que no se bloqueen las ruedas",
-    "pt": "Bombeio o travão para as rodas não bloquearem"
+    "pt": "Bombeio o travão para as rodas não bloquearem",
+    "fr": "Je pompe sur le frein pour que les roues ne se bloquent pas"
    }
   ],
   "correct": [
@@ -20997,7 +21241,8 @@
    "el": "Το ABS εμποδίζει το μπλοκάρισμα των τροχών — οι παλμοί στο πεντάλ είναι φυσιολογικοί. Πάτα δυνατά και κράτα· μπορείς ακόμη να στρίβεις. Το πάτα-άφηνε είχε νόημα μόνο χωρίς ABS.",
    "it": "L’ABS impedisce alle ruote di bloccarsi — le pulsazioni nel pedale sono normali. Premi forte e tieni premuto; puoi ancora sterzare. Pompare il freno aveva senso solo senza ABS.",
    "es": "El ABS impide que las ruedas se bloqueen — las vibraciones en el pedal son normales. Pisa fuerte y mantén; todavía puedes girar. Bombear el freno solo tenía sentido sin ABS.",
-   "pt": "O ABS impede que as rodas bloqueiem — as vibrações no pedal são normais. Carrega com força e mantém; ainda consegues virar. Bombear o travão só fazia sentido sem ABS."
+   "pt": "O ABS impede que as rodas bloqueiem — as vibrações no pedal são normais. Carrega com força e mantém; ainda consegues virar. Bombear o travão só fazia sentido sem ABS.",
+   "fr": "L'ABS empêche les roues de se bloquer — les vibrations dans la pédale sont normales. Appuie fort et maintiens ; tu peux encore diriger. Pomper sur le frein n'avait de sens que sans ABS."
   },
   "tip": null,
   "scene": null,
@@ -21025,7 +21270,8 @@
    "el": "Τι κάνει το ηλεκτρονικό σύστημα ευστάθειας (ESP);",
    "it": "Cosa fa il controllo elettronico della stabilità (ESP)?",
    "es": "¿Qué hace el control electrónico de estabilidad (ESP)?",
-   "pt": "O que faz o controlo eletrónico de estabilidade (ESP)?"
+   "pt": "O que faz o controlo eletrónico de estabilidade (ESP)?",
+   "fr": "Que fait le contrôle électronique de stabilité (ESP) ?"
   },
   "options": [
    {
@@ -21040,7 +21286,8 @@
     "el": "Βοηθά να αποφευχθεί η ολίσθηση φρενάροντας μεμονωμένους τροχούς",
     "it": "Aiuta a evitare le sbandate frenando singole ruote",
     "es": "Ayuda a evitar derrapes frenando ruedas por separado",
-    "pt": "Ajuda a evitar derrapagens travando rodas individualmente"
+    "pt": "Ajuda a evitar derrapagens travando rodas individualmente",
+    "fr": "Il aide à éviter les dérapages en freinant les roues séparément"
    },
    {
     "de": "Es hebt die Grenzen der Fahrphysik auf",
@@ -21054,7 +21301,8 @@
     "el": "Καταργεί τα όρια της φυσικής",
     "it": "Supera i limiti della fisica",
     "es": "Supera los límites de la física",
-    "pt": "Ultrapassa os limites da física"
+    "pt": "Ultrapassa os limites da física",
+    "fr": "Il dépasse les limites de la physique"
    },
    {
     "de": "Es verkürzt den Bremsweg auf Eis auf Normalmaß",
@@ -21068,7 +21316,8 @@
     "el": "Μειώνει το φρενάρισμα στον πάγο στο κανονικό",
     "it": "Riporta la frenata sul ghiaccio alla normalità",
     "es": "Reduce la frenada sobre hielo a la normal",
-    "pt": "Reduz a travagem no gelo à normal"
+    "pt": "Reduz a travagem no gelo à normal",
+    "fr": "Il ramène le freinage sur verglas à la normale"
    }
   ],
   "correct": [
@@ -21088,7 +21337,8 @@
    "el": "Το ESP φρενάρει μεμονωμένους τροχούς και μειώνει την ισχύ για να κρατήσει το αυτοκίνητο στην πορεία του. Δεν θεραπεύει την υπερβολική ταχύτητα — η φυσική μένει ίδια.",
    "it": "L’ESP frena singole ruote e riduce la potenza per mantenere l’auto in traiettoria. Non è un rimedio alla velocità eccessiva — la fisica resta la stessa.",
    "es": "El ESP frena ruedas sueltas y reduce la potencia para mantener el coche en su trayectoria. No es un remedio contra el exceso de velocidad — la física sigue siendo la misma.",
-   "pt": "O ESP trava rodas individualmente e reduz a potência para manter o carro na trajetória. Não é remédio para o excesso de velocidade — a física continua a mesma."
+   "pt": "O ESP trava rodas individualmente e reduz a potência para manter o carro na trajetória. Não é remédio para o excesso de velocidade — a física continua a mesma.",
+   "fr": "L'ESP freine des roues individuellement et réduit la puissance pour maintenir la voiture sur sa trajectoire. Ce n'est pas un remède contre l'excès de vitesse — la physique reste la même."
   },
   "tip": null,
   "scene": null,
@@ -21116,7 +21366,8 @@
    "el": "Το αυτοκίνητό σου έχει φώτα ημέρας. Πότε πρέπει παρ’ όλα αυτά να ανάψεις τη μεσαία σκάλα;",
    "it": "La tua auto ha le luci diurne. Quando devi comunque accendere gli anabbaglianti?",
    "es": "Tu coche tiene luces diurnas. ¿Cuándo debes encender de todos modos las de cruce?",
-   "pt": "O teu carro tem luzes diurnas. Quando tens mesmo assim de ligar os médios?"
+   "pt": "O teu carro tem luzes diurnas. Quando tens mesmo assim de ligar os médios?",
+   "fr": "Ta voiture a des feux de jour. Quand dois-tu tout de même allumer les feux de croisement ?"
   },
   "options": [
    {
@@ -21131,7 +21382,8 @@
     "el": "Το σούρουπο και στο σκοτάδι",
     "it": "Al crepuscolo e al buio",
     "es": "Al anochecer y de noche",
-    "pt": "Ao anoitecer e à noite"
+    "pt": "Ao anoitecer e à noite",
+    "fr": "Au crépuscule et la nuit"
    },
    {
     "de": "In Tunneln und bei schlechter Sicht",
@@ -21145,7 +21397,8 @@
     "el": "Σε τούνελ και με κακή ορατότητα",
     "it": "Nelle gallerie e con scarsa visibilità",
     "es": "En túneles y con mala visibilidad",
-    "pt": "Em túneis e com má visibilidade"
+    "pt": "Em túneis e com má visibilidade",
+    "fr": "Dans les tunnels et par mauvaise visibilité"
    },
    {
     "de": "Nie, das Tagfahrlicht reicht immer",
@@ -21159,7 +21412,8 @@
     "el": "Ποτέ — τα φώτα ημέρας αρκούν πάντα",
     "it": "Mai — le luci diurne bastano sempre",
     "es": "Nunca — las luces diurnas siempre bastan",
-    "pt": "Nunca — as luzes diurnas chegam sempre"
+    "pt": "Nunca — as luzes diurnas chegam sempre",
+    "fr": "Jamais — les feux de jour suffisent toujours"
    }
   ],
   "correct": [
@@ -21180,7 +21434,8 @@
    "el": "Τα φώτα ημέρας φωτίζουν μόνο μπροστά και σχεδόν δεν φωτίζουν τον δρόμο· τα πίσω φώτα συχνά μένουν σβηστά. Το σούρουπο, στο σκοτάδι, σε τούνελ και με κακή ορατότητα η μεσαία σκάλα είναι υποχρεωτική (§ 17 StVO).",
    "it": "Le luci diurne illuminano solo davanti e illuminano appena la strada; le luci posteriori spesso restano spente. Al crepuscolo, al buio, in galleria e con scarsa visibilità servono gli anabbaglianti (§ 17 StVO).",
    "es": "Las luces diurnas solo iluminan por delante y apenas alumbran la vía; las traseras a menudo siguen apagadas. Al anochecer, de noche, en túneles y con mala visibilidad son obligatorias las de cruce (§ 17 StVO).",
-   "pt": "As luzes diurnas só acendem à frente e quase não iluminam a via; as traseiras muitas vezes ficam apagadas. Ao anoitecer, à noite, em túneis e com má visibilidade os médios são obrigatórios (§ 17 StVO)."
+   "pt": "As luzes diurnas só acendem à frente e quase não iluminam a via; as traseiras muitas vezes ficam apagadas. Ao anoitecer, à noite, em túneis e com má visibilidade os médios são obrigatórios (§ 17 StVO).",
+   "fr": "Les feux de jour n'éclairent que vers l'avant et n'éclairent presque pas la route ; les feux arrière restent souvent éteints. Au crépuscule, la nuit, dans les tunnels et par mauvaise visibilité, les feux de croisement sont obligatoires (§ 17 StVO)."
   },
   "tip": null,
   "scene": null,
@@ -21208,7 +21463,8 @@
    "el": "Ρυμουλκείς αυτοκίνητο με συρματόσχοινο. Τι είναι σωστό;",
    "it": "Traini un’auto con una fune. Cosa è giusto?",
    "es": "Remolcas un coche con una cuerda. ¿Qué es correcto?",
-   "pt": "Rebocas um carro com uma corda. O que está certo?"
+   "pt": "Rebocas um carro com uma corda. O que está certo?",
+   "fr": "Tu remorques une voiture avec une corde. Qu'est-ce qui est correct ?"
   },
   "options": [
    {
@@ -21223,7 +21479,8 @@
     "el": "Και τα δύο οχήματα ανάβουν αλάρμ",
     "it": "Entrambi i veicoli accendono le quattro frecce",
     "es": "Los dos vehículos encienden las luces de emergencia",
-    "pt": "Os dois veículos ligam as luzes de emergência"
+    "pt": "Os dois veículos ligam as luzes de emergência",
+    "fr": "Les deux véhicules allument leurs feux de détresse"
    },
    {
     "de": "Der Abstand zwischen den Fahrzeugen beträgt höchstens 5 m",
@@ -21237,7 +21494,8 @@
     "el": "Η απόσταση ανάμεσα στα οχήματα είναι το πολύ 5 m",
     "it": "La distanza tra i veicoli è al massimo 5 m",
     "es": "La distancia entre los vehículos es como mucho 5 m",
-    "pt": "A distância entre os veículos é no máximo 5 m"
+    "pt": "A distância entre os veículos é no máximo 5 m",
+    "fr": "La distance entre les véhicules est de 5 m au maximum"
    },
    {
     "de": "Im geschleppten Auto bleibt die Zündung aus",
@@ -21251,7 +21509,8 @@
     "el": "Ο διακόπτης στο ρυμουλκούμενο αυτοκίνητο μένει κλειστός",
     "it": "Nell’auto trainata il quadro resta spento",
     "es": "El contacto del coche remolcado sigue apagado",
-    "pt": "A ignição do carro rebocado fica desligada"
+    "pt": "A ignição do carro rebocado fica desligada",
+    "fr": "Le contact de la voiture remorquée reste coupé"
    }
   ],
   "correct": [
@@ -21272,7 +21531,8 @@
    "el": "Στη ρυμούλκηση και τα δύο οχήματα έχουν αλάρμ (§ 15a StVO), η απόσταση είναι το πολύ 5 m και το σχοινί σημαδεύεται στη μέση. Ο διακόπτης του ρυμουλκούμενου πρέπει να είναι ανοιχτός, αλλιώς κλειδώνει το τιμόνι· με σβηστό κινητήρα τιμόνι και φρένα βαραίνουν.",
    "it": "Durante il traino entrambi i veicoli hanno le quattro frecce (§ 15a StVO), la distanza è al massimo 5 m e la fune è segnalata al centro. Il quadro dell’auto trainata deve essere acceso, altrimenti si blocca lo sterzo; a motore spento sterzo e freni sono duri.",
    "es": "Al remolcar, ambos vehículos llevan las luces de emergencia (§ 15a StVO), la distancia es de 5 m como máximo y la cuerda va señalizada en el centro. El contacto del coche remolcado debe estar puesto, o se bloquea el volante; con el motor apagado, dirección y frenos están duros.",
-   "pt": "Ao rebocar, ambos os veículos levam as luzes de emergência (§ 15a StVO), a distância é de 5 m no máximo e a corda vai sinalizada ao meio. A ignição do carro rebocado tem de estar ligada, senão o volante bloqueia; com o motor desligado, direção e travões ficam pesados."
+   "pt": "Ao rebocar, ambos os veículos levam as luzes de emergência (§ 15a StVO), a distância é de 5 m no máximo e a corda vai sinalizada ao meio. A ignição do carro rebocado tem de estar ligada, senão o volante bloqueia; com o motor desligado, direção e travões ficam pesados.",
+   "fr": "En remorquage, les deux véhicules ont leurs feux de détresse allumés (§ 15a StVO), la distance est de 5 m au maximum et la corde est signalée en son milieu. Le contact de la voiture remorquée doit être mis, sinon le volant se bloque ; moteur coupé, la direction et les freins sont durs."
   },
   "tip": null,
   "scene": null,
@@ -21300,7 +21560,8 @@
    "el": "Θέλεις να μεταφέρεις αποσκευές στην οροφή. Τι προσέχεις;",
    "it": "Vuoi trasportare bagagli sul tetto. A cosa fai attenzione?",
    "es": "Quieres llevar equipaje en el techo. ¿Qué tienes en cuenta?",
-   "pt": "Queres levar bagagem no tejadilho. Em que pensas?"
+   "pt": "Queres levar bagagem no tejadilho. Em que pensas?",
+   "fr": "Tu veux transporter des bagages sur le toit. À quoi fais-tu attention ?"
   },
   "options": [
    {
@@ -21315,7 +21576,8 @@
     "el": "Να μην ξεπεράσω το επιτρεπόμενο φορτίο οροφής από τα έγγραφα του οχήματος",
     "it": "A non superare il carico sul tetto ammesso dai documenti",
     "es": "No superar la carga de techo permitida en la documentación",
-    "pt": "Não ultrapassar a carga de tejadilho permitida nos documentos"
+    "pt": "Não ultrapassar a carga de tejadilho permitida nos documentos",
+    "fr": "Ne pas dépasser la charge sur toit autorisée dans les papiers du véhicule"
    },
    {
     "de": "Das Auto reagiert anders: höherer Schwerpunkt, mehr Seitenwindempfindlichkeit",
@@ -21329,7 +21591,8 @@
     "el": "Το αυτοκίνητο συμπεριφέρεται διαφορετικά: ψηλότερο κέντρο βάρους, πιο ευαίσθητο στον πλευρικό άνεμο",
     "it": "L’auto si comporta diversamente: baricentro più alto, più sensibile al vento laterale",
     "es": "El coche se comporta distinto: centro de gravedad más alto, más sensible al viento lateral",
-    "pt": "O carro comporta-se de outra maneira: centro de gravidade mais alto, mais sensível ao vento lateral"
+    "pt": "O carro comporta-se de outra maneira: centro de gravidade mais alto, mais sensível ao vento lateral",
+    "fr": "La voiture se comporte autrement : centre de gravité plus haut, plus sensible au vent latéral"
    },
    {
     "de": "Lose Ladung reicht, wenn ich langsam fahre",
@@ -21343,7 +21606,8 @@
     "el": "Τα αστερέωτα αντικείμενα είναι εντάξει αν πηγαίνω αργά",
     "it": "Gli oggetti non fissati vanno bene se vado piano",
     "es": "Los objetos sueltos están bien si voy despacio",
-    "pt": "Objetos soltos não têm mal se for devagar"
+    "pt": "Objetos soltos não têm mal se for devagar",
+    "fr": "Les objets non fixés passent si je roule lentement"
    }
   ],
   "correct": [
@@ -21364,7 +21628,8 @@
    "el": "Το φορτίο πρέπει να ασφαλίζεται ώστε να μη μετακινείται ούτε να πέφτει ακόμη και σε απότομο φρενάρισμα ή ελιγμό (§ 22 StVO). Το φορτίο οροφής αλλάζει τη συμπεριφορά και αυξάνει την κατανάλωση.",
    "it": "Il carico va fissato in modo che non si sposti né cada nemmeno in una frenata d’emergenza o una manovra brusca (§ 22 StVO). Un carico sul tetto cambia la guida e aumenta i consumi.",
    "es": "La carga debe ir sujeta para que no se desplace ni caiga ni siquiera en una frenada de emergencia o un volantazo (§ 22 StVO). La carga en el techo cambia el comportamiento y sube el consumo.",
-   "pt": "A carga tem de ir presa para não se deslocar nem cair mesmo numa travagem de emergência ou numa guinada (§ 22 StVO). A carga no tejadilho muda o comportamento e sobe o consumo."
+   "pt": "A carga tem de ir presa para não se deslocar nem cair mesmo numa travagem de emergência ou numa guinada (§ 22 StVO). A carga no tejadilho muda o comportamento e sobe o consumo.",
+   "fr": "Le chargement doit être arrimé pour ne pas glisser ni tomber, même lors d'un freinage d'urgence ou d'un coup de volant (§ 22 StVO). Une charge sur le toit modifie le comportement et augmente la consommation."
   },
   "tip": null,
   "scene": null,
@@ -21392,7 +21657,8 @@
    "el": "Ποια ρυμουλκούμενα μπορείς να σύρεις με δίπλωμα κατηγορίας B;",
    "it": "Quali rimorchi puoi trainare con la patente B?",
    "es": "¿Qué remolques puedes llevar con el permiso B?",
-   "pt": "Que reboques podes levar com a carta B?"
+   "pt": "Que reboques podes levar com a carta B?",
+   "fr": "Quelles remorques peux-tu tracter avec le permis B ?"
   },
   "options": [
    {
@@ -21407,7 +21673,8 @@
     "el": "Ρυμουλκούμενα έως 750 kg μέγιστη μάζα",
     "it": "Rimorchi fino a 750 kg di massa complessiva",
     "es": "Remolques de hasta 750 kg de masa máxima",
-    "pt": "Reboques até 750 kg de massa máxima"
+    "pt": "Reboques até 750 kg de massa máxima",
+    "fr": "Des remorques jusqu'à 750 kg de masse maximale"
    },
    {
     "de": "Schwerere Anhänger, wenn das ganze Gespann höchstens 3.500 kg zulässige Gesamtmasse hat",
@@ -21421,7 +21688,8 @@
     "el": "Βαρύτερα ρυμουλκούμενα, αν όλος ο συνδυασμός είναι το πολύ 3.500 kg μέγιστη μάζα",
     "it": "Rimorchi più pesanti, se l’intero insieme non supera 3.500 kg di massa complessiva",
     "es": "Remolques más pesados, si el conjunto no supera 3.500 kg de masa máxima",
-    "pt": "Reboques mais pesados, se o conjunto não ultrapassar 3500 kg de massa máxima"
+    "pt": "Reboques mais pesados, se o conjunto não ultrapassar 3500 kg de massa máxima",
+    "fr": "Des remorques plus lourdes, si l'ensemble ne dépasse pas 3 500 kg de masse maximale"
    },
    {
     "de": "Jeden Anhänger, den mein Auto ziehen darf",
@@ -21435,7 +21703,8 @@
     "el": "Οποιοδήποτε ρυμουλκούμενο επιτρέπεται να σύρει το αυτοκίνητό μου",
     "it": "Qualsiasi rimorchio che la mia auto è omologata a trainare",
     "es": "Cualquier remolque que mi coche esté homologado para arrastrar",
-    "pt": "Qualquer reboque que o meu carro esteja homologado para puxar"
+    "pt": "Qualquer reboque que o meu carro esteja homologado para puxar",
+    "fr": "N'importe quelle remorque que ma voiture est homologuée pour tracter"
    }
   ],
   "correct": [
@@ -21456,7 +21725,8 @@
    "el": "Η κατηγορία B επιτρέπει ρυμουλκούμενα έως 750 kg ή βαρύτερα, όσο ο συνδυασμός μένει εντός 3.500 kg. Ο κωδικός 96 (μετά από εκπαίδευση) επιτρέπει έως 4.250 kg· πέρα από αυτό χρειάζεται κατηγορία BE.",
    "it": "La patente B consente rimorchi fino a 750 kg, o più pesanti finché l’insieme resta entro 3.500 kg. Il codice 96 (dopo un corso) consente fino a 4.250 kg; oltre serve la patente BE.",
    "es": "El permiso B permite remolques de hasta 750 kg, o más pesados mientras el conjunto no pase de 3.500 kg. El código 96 (tras un curso) permite hasta 4.250 kg; por encima hace falta el permiso BE.",
-   "pt": "A carta B permite reboques até 750 kg, ou mais pesados desde que o conjunto não passe de 3500 kg. O código 96 (depois de um curso) permite até 4250 kg; acima disso é precisa a carta BE."
+   "pt": "A carta B permite reboques até 750 kg, ou mais pesados desde que o conjunto não passe de 3500 kg. O código 96 (depois de um curso) permite até 4250 kg; acima disso é precisa a carta BE.",
+   "fr": "Le permis B permet des remorques jusqu'à 750 kg, ou plus lourdes tant que l'ensemble ne dépasse pas 3 500 kg. Le code 96 (après une formation) permet jusqu'à 4 250 kg ; au-delà, il faut le permis BE."
   },
   "tip": null,
   "scene": null,
@@ -21484,7 +21754,8 @@
    "el": "Κατεβαίνεις μια μεγάλη, απότομη κατηφόρα. Πώς προστατεύεις τα φρένα;",
    "it": "Scendi lungo una discesa lunga e ripida. Come risparmi i freni?",
    "es": "Bajas una pendiente larga y pronunciada. ¿Cómo cuidas los frenos?",
-   "pt": "Desces uma descida longa e acentuada. Como poupas os travões?"
+   "pt": "Desces uma descida longa e acentuada. Como poupas os travões?",
+   "fr": "Tu descends une pente longue et raide. Comment ménages-tu les freins ?"
   },
   "options": [
    {
@@ -21499,7 +21770,8 @@
     "el": "Με χαμηλή ταχύτητα και φρένο κινητήρα",
     "it": "Uso una marcia bassa e il freno motore",
     "es": "Con una marcha corta y freno motor",
-    "pt": "Com uma mudança baixa e travão-motor"
+    "pt": "Com uma mudança baixa e travão-motor",
+    "fr": "Avec un rapport court et le frein moteur"
    },
    {
     "de": "Im Leerlauf rollen und dauernd leicht bremsen",
@@ -21513,7 +21785,8 @@
     "el": "Με νεκρά και ελαφρύ φρενάρισμα σε όλη τη διαδρομή",
     "it": "Vado in folle e freno leggermente per tutto il tratto",
     "es": "En punto muerto, frenando suave todo el rato",
-    "pt": "Em ponto morto, travando suavemente o tempo todo"
+    "pt": "Em ponto morto, travando suavemente o tempo todo",
+    "fr": "Au point mort, en freinant légèrement tout le temps"
    },
    {
     "de": "Die Zündung ausschalten",
@@ -21527,7 +21800,8 @@
     "el": "Κλείνω τον διακόπτη",
     "it": "Spengo il quadro",
     "es": "Quitando el contacto",
-    "pt": "Desligando a ignição"
+    "pt": "Desligando a ignição",
+    "fr": "En coupant le contact"
    }
   ],
   "correct": [
@@ -21547,7 +21821,8 @@
    "el": "Το συνεχές φρενάρισμα υπερθερμαίνει τα φρένα μέχρι να μη δουλεύουν σχεδόν καθόλου (fading). Πρακτικός κανόνας: στην κατηφόρα χρησιμοποίησε τη σχέση που θα χρειαζόταν στην ανηφόρα. Το κλείσιμο του διακόπτη είναι επικίνδυνο — χάνεις την υποβοήθηση τιμονιού και φρένων.",
    "it": "Frenare di continuo surriscalda i freni fino a farli quasi smettere di funzionare (fading). Regola pratica: in discesa usa la marcia che useresti in salita. Spegnere il quadro è pericoloso — perdi servosterzo e servofreno.",
    "es": "Frenar sin parar sobrecalienta los frenos hasta que casi dejan de funcionar (fading). Regla práctica: cuesta abajo, la marcha que usarías cuesta arriba. Quitar el contacto es peligroso — pierdes la asistencia de dirección y de freno.",
-   "pt": "Travar sem parar sobreaquece os travões até quase deixarem de funcionar (fading). Regra prática: a descer, a mudança que usarias a subir. Desligar a ignição é perigoso — perdes a assistência da direção e do travão."
+   "pt": "Travar sem parar sobreaquece os travões até quase deixarem de funcionar (fading). Regra prática: a descer, a mudança que usarias a subir. Desligar a ignição é perigoso — perdes a assistência da direção e do travão.",
+   "fr": "Freiner sans arrêt surchauffe les freins jusqu'à ce qu'ils ne fonctionnent presque plus (fading). Règle empirique : en descente, le rapport que tu utiliserais en montée. Couper le contact est dangereux — tu perds l'assistance de direction et de freinage."
   },
   "tip": null,
   "scene": null,
@@ -21577,7 +21852,8 @@
    "el": "Τι πρέπει να έχει κάθε επιβατικό;",
    "it": "Cosa deve avere ogni auto?",
    "es": "¿Qué debe llevar todo turismo?",
-   "pt": "O que tem de levar qualquer ligeiro de passageiros?"
+   "pt": "O que tem de levar qualquer ligeiro de passageiros?",
+   "fr": "Que doit contenir toute voiture particulière ?"
   },
   "options": [
    {
@@ -21592,7 +21868,8 @@
     "el": "Φαρμακείο",
     "it": "Una cassetta di pronto soccorso",
     "es": "Un botiquín",
-    "pt": "Um estojo de primeiros socorros"
+    "pt": "Um estojo de primeiros socorros",
+    "fr": "Une trousse de secours"
    },
    {
     "de": "Ein Warndreieck",
@@ -21606,7 +21883,8 @@
     "el": "Τρίγωνο προειδοποίησης",
     "it": "Un triangolo di emergenza",
     "es": "Un triángulo de emergencia",
-    "pt": "Um triângulo de sinalização"
+    "pt": "Um triângulo de sinalização",
+    "fr": "Un triangle de signalisation"
    },
    {
     "de": "Mindestens eine Warnweste",
@@ -21620,7 +21898,8 @@
     "el": "Τουλάχιστον ένα γιλέκο υψηλής ορατότητας",
     "it": "Almeno un gilet ad alta visibilità",
     "es": "Al menos un chaleco reflectante",
-    "pt": "Pelo menos um colete refletor"
+    "pt": "Pelo menos um colete refletor",
+    "fr": "Au moins un gilet de sécurité"
    }
   ],
   "correct": [
@@ -21642,7 +21921,8 @@
    "el": "Φαρμακείο, τρίγωνο και τουλάχιστον ένα γιλέκο υψηλής ορατότητας είναι υποχρεωτικά. Συνιστάται ένα γιλέκο για κάθε επιβάτη, σε προσιτό σημείο μέσα στο αυτοκίνητο.",
    "it": "Cassetta di pronto soccorso, triangolo e almeno un gilet ad alta visibilità sono obbligatori. È consigliato un gilet per ogni persona a bordo, a portata di mano nell’abitacolo.",
    "es": "Botiquín, triángulo y al menos un chaleco reflectante son obligatorios. Se recomienda un chaleco por ocupante, a mano dentro del habitáculo.",
-   "pt": "Estojo de primeiros socorros, triângulo e pelo menos um colete refletor são obrigatórios. Recomenda-se um colete por ocupante, à mão dentro do habitáculo."
+   "pt": "Estojo de primeiros socorros, triângulo e pelo menos um colete refletor são obrigatórios. Recomenda-se um colete por ocupante, à mão dentro do habitáculo.",
+   "fr": "Trousse de secours, triangle et au moins un gilet de sécurité sont obligatoires. Un gilet par personne à bord est recommandé, à portée de main dans l'habitacle."
   },
   "tip": null,
   "scene": null,
@@ -21670,7 +21950,8 @@
    "el": "Θέλεις να τοποθετήσεις παιδικό κάθισμα που κοιτάζει προς τα πίσω στη θέση του συνοδηγού. Τι πρέπει να κάνεις;",
    "it": "Vuoi montare un seggiolino rivolto all’indietro sul sedile del passeggero anteriore. Cosa devi fare?",
    "es": "Quieres montar una silla infantil a contramarcha en el asiento del acompañante. ¿Qué debes hacer?",
-   "pt": "Queres montar uma cadeira de criança virada para trás no banco do passageiro. O que tens de fazer?"
+   "pt": "Queres montar uma cadeira de criança virada para trás no banco do passageiro. O que tens de fazer?",
+   "fr": "Tu veux installer un siège enfant dos à la route sur le siège avant droit. Que dois-tu faire ?"
   },
   "options": [
    {
@@ -21685,7 +21966,8 @@
     "el": "Να απενεργοποιήσω τον αερόσακο του συνοδηγού",
     "it": "Disattivare l’airbag del passeggero",
     "es": "Desactivar el airbag del acompañante",
-    "pt": "Desativar o airbag do passageiro"
+    "pt": "Desativar o airbag do passageiro",
+    "fr": "Désactiver l'airbag du siège avant droit"
    },
    {
     "de": "Nichts, der Airbag schützt das Kind zusätzlich",
@@ -21699,7 +21981,8 @@
     "el": "Τίποτα — ο αερόσακος προσθέτει προστασία",
     "it": "Niente — l’airbag aggiunge protezione",
     "es": "Nada — el airbag añade protección",
-    "pt": "Nada — o airbag dá proteção extra"
+    "pt": "Nada — o airbag dá proteção extra",
+    "fr": "Rien — l'airbag ajoute de la protection"
    },
    {
     "de": "Den Sitz ganz nach vorne schieben",
@@ -21713,7 +21996,8 @@
     "el": "Να σπρώξω το κάθισμα τέρμα μπροστά",
     "it": "Spostare il sedile tutto in avanti",
     "es": "Adelantar el asiento del todo",
-    "pt": "Puxar o banco todo para a frente"
+    "pt": "Puxar o banco todo para a frente",
+    "fr": "Avancer le siège au maximum"
    }
   ],
   "correct": [
@@ -21733,7 +22017,8 @@
    "el": "Ένας αερόσακος που ανοίγει χτυπά με τεράστια δύναμη την πλάτη ενός καθίσματος που κοιτάζει προς τα πίσω — μπορεί να σκοτώσει. Με παιδικό κάθισμα που κοιτάζει προς τα πίσω, ο αερόσακος του συνοδηγού πρέπει να είναι απενεργοποιημένος.",
    "it": "Un airbag che si apre colpisce con forza enorme lo schienale di un seggiolino rivolto all’indietro — può uccidere. Con un seggiolino rivolto all’indietro l’airbag del passeggero deve essere disattivato.",
    "es": "Un airbag que se abre golpea con una fuerza enorme el respaldo de una silla a contramarcha — puede matar. Con una silla a contramarcha, el airbag del acompañante tiene que estar desactivado.",
-   "pt": "Um airbag a abrir bate com uma força enorme nas costas de uma cadeira virada para trás — pode matar. Com uma cadeira virada para trás, o airbag do passageiro tem de estar desativado."
+   "pt": "Um airbag a abrir bate com uma força enorme nas costas de uma cadeira virada para trás — pode matar. Com uma cadeira virada para trás, o airbag do passageiro tem de estar desativado.",
+   "fr": "Un airbag qui se déclenche frappe avec une force énorme le dossier d'un siège dos à la route — cela peut tuer. Avec un siège dos à la route, l'airbag du siège avant droit doit être désactivé."
   },
   "tip": null,
   "scene": null,
@@ -21761,7 +22046,8 @@
    "el": "Τα παιδιά κάτω από 12 ετών πρέπει να χρησιμοποιούν παιδικό κάθισμα μέχρι να φτάσουν ποιο ύψος;",
    "it": "I bambini sotto i 12 anni devono usare un seggiolino fino a quale altezza?",
    "es": "¿Hasta qué estatura deben usar silla infantil los menores de 12 años?",
-   "pt": "Até que altura têm as crianças com menos de 12 anos de usar cadeira de criança?"
+   "pt": "Até que altura têm as crianças com menos de 12 anos de usar cadeira de criança?",
+   "fr": "Jusqu'à quelle taille les moins de 12 ans doivent-ils utiliser un siège enfant ?"
   },
   "options": [],
   "correct": [],
@@ -21779,7 +22065,8 @@
    "el": "Τα παιδιά κάτω από 12 ετών με ύψος κάτω από 150 cm μπορούν να ταξιδεύουν μόνο σε κατάλληλο, εγκεκριμένο σύστημα συγκράτησης (§ 21 παρ. 1a StVO).",
    "it": "I bambini sotto i 12 anni più bassi di 150 cm possono viaggiare solo in un sistema di ritenuta per bambini adatto e omologato (§ 21 c. 1a StVO).",
    "es": "Los menores de 12 años que midan menos de 150 cm solo pueden viajar en un sistema de retención infantil adecuado y homologado (§ 21 apdo. 1a StVO).",
-   "pt": "As crianças com menos de 12 anos e menos de 150 cm só podem viajar num sistema de retenção para crianças adequado e homologado (§ 21 n.º 1a StVO)."
+   "pt": "As crianças com menos de 12 anos e menos de 150 cm só podem viajar num sistema de retenção para crianças adequado e homologado (§ 21 n.º 1a StVO).",
+   "fr": "Les enfants de moins de 12 ans mesurant moins de 150 cm ne peuvent voyager que dans un dispositif de retenue pour enfants adapté et homologué (§ 21 al. 1a StVO)."
   },
   "tip": {
    "de": "12 Jahre oder 150 cm – was zuerst kommt.",
@@ -21793,7 +22080,8 @@
    "el": "12 χρόνια ή 150 cm — ό,τι έρθει πρώτο.",
    "it": "12 anni o 150 cm — quello che arriva prima.",
    "es": "12 años o 150 cm — lo que llegue antes.",
-   "pt": "12 anos ou 150 cm — o que chegar primeiro."
+   "pt": "12 anos ou 150 cm — o que chegar primeiro.",
+   "fr": "12 ans ou 150 cm — selon ce qui arrive en premier."
   },
   "scene": null,
   "signs": [],
@@ -21820,7 +22108,8 @@
    "el": "Πόσο συχνά πρέπει ένα αυτοκίνητο να περνά τον κύριο τεχνικό έλεγχο («TÜV»);",
    "it": "Ogni quanto un’auto deve fare la revisione («TÜV»)?",
    "es": "¿Cada cuánto debe pasar un coche la inspección técnica («TÜV»)?",
-   "pt": "De quanto em quanto tempo tem um carro de passar a inspeção técnica («TÜV»)?"
+   "pt": "De quanto em quanto tempo tem um carro de passar a inspeção técnica («TÜV»)?",
+   "fr": "À quelle fréquence une voiture doit-elle passer le contrôle technique (« TÜV ») ?"
   },
   "options": [
    {
@@ -21835,7 +22124,8 @@
     "el": "Κάθε δύο χρόνια· ένα καινούργιο πρώτη φορά μετά από τρία",
     "it": "Ogni due anni; un’auto nuova la prima volta dopo tre",
     "es": "Cada dos años; un coche nuevo la primera vez a los tres",
-    "pt": "De dois em dois anos; um carro novo a primeira vez aos três"
+    "pt": "De dois em dois anos; um carro novo a primeira vez aos três",
+    "fr": "Tous les deux ans ; une voiture neuve la première fois au bout de trois ans"
    },
    {
     "de": "Jedes Jahr",
@@ -21849,7 +22139,8 @@
     "el": "Κάθε χρόνο",
     "it": "Ogni anno",
     "es": "Cada año",
-    "pt": "Todos os anos"
+    "pt": "Todos os anos",
+    "fr": "Tous les ans"
    },
    {
     "de": "Nur nach einem Unfall",
@@ -21863,7 +22154,8 @@
     "el": "Μόνο μετά από ατύχημα",
     "it": "Solo dopo un incidente",
     "es": "Solo tras un accidente",
-    "pt": "Só depois de um acidente"
+    "pt": "Só depois de um acidente",
+    "fr": "Seulement après un accident"
    }
   ],
   "correct": [
@@ -21883,7 +22175,8 @@
    "el": "Τα επιβατικά χρειάζονται έλεγχο κάθε 24 μήνες, τα καινούργια πρώτη φορά μετά από 36. Το αυτοκόλλητο στην πίσω πινακίδα δείχνει τον μήνα και το έτος του επόμενου.",
    "it": "Le auto fanno la revisione ogni 24 mesi, quelle nuove la prima volta dopo 36. Il bollino sulla targa posteriore indica mese e anno della prossima.",
    "es": "Los turismos pasan la inspección cada 24 meses, los nuevos la primera vez a los 36. La pegatina de la matrícula trasera indica el mes y el año de la siguiente.",
-   "pt": "Os ligeiros passam a inspeção de 24 em 24 meses, os novos a primeira vez aos 36. O autocolante na matrícula traseira indica o mês e o ano da seguinte."
+   "pt": "Os ligeiros passam a inspeção de 24 em 24 meses, os novos a primeira vez aos 36. O autocolante na matrícula traseira indica o mês e o ano da seguinte.",
+   "fr": "Les voitures particulières passent le contrôle tous les 24 mois, les neuves la première fois au bout de 36 mois. La vignette sur la plaque arrière indique le mois et l'année du prochain."
   },
   "tip": null,
   "scene": null,
@@ -21911,7 +22204,8 @@
    "el": "Πώς ρυθμίζεις σωστά το προσκέφαλο;",
    "it": "Come regoli correttamente il poggiatesta?",
    "es": "¿Cómo se ajusta bien el reposacabezas?",
-   "pt": "Como se ajusta bem o apoio de cabeça?"
+   "pt": "Como se ajusta bem o apoio de cabeça?",
+   "fr": "Comment règle-t-on correctement l'appuie-tête ?"
   },
   "options": [
    {
@@ -21926,7 +22220,8 @@
     "el": "Πάνω άκρη περίπου στο ύψος της κορυφής του κεφαλιού, όσο πιο κοντά γίνεται",
     "it": "Bordo superiore all’altezza della sommità della testa, il più vicino possibile",
     "es": "Borde superior a la altura de la coronilla, lo más cerca posible",
-    "pt": "Bordo superior à altura do topo da cabeça, o mais perto possível"
+    "pt": "Bordo superior à altura do topo da cabeça, o mais perto possível",
+    "fr": "Bord supérieur à hauteur du sommet du crâne, le plus près possible"
    },
    {
     "de": "So tief wie möglich",
@@ -21940,7 +22235,8 @@
     "el": "Όσο πιο χαμηλά γίνεται",
     "it": "Il più in basso possibile",
     "es": "Lo más bajo posible",
-    "pt": "O mais baixo possível"
+    "pt": "O mais baixo possível",
+    "fr": "Le plus bas possible"
    },
    {
     "de": "Auf Höhe des Nackens",
@@ -21954,7 +22250,8 @@
     "el": "Στο ύψος του αυχένα",
     "it": "All’altezza della nuca",
     "es": "A la altura de la nuca",
-    "pt": "À altura da nuca"
+    "pt": "À altura da nuca",
+    "fr": "À hauteur de la nuque"
    }
   ],
   "correct": [
@@ -21974,7 +22271,8 @@
    "el": "Σε σύγκρουση από πίσω το προσκέφαλο συγκρατεί το κεφάλι. Αν είναι πολύ χαμηλά, λειτουργεί σαν μοχλός και μπορεί να τραυματίσει τον αυχένα.",
    "it": "In un tamponamento il poggiatesta trattiene la testa. Se è troppo basso fa da leva e può ferire il collo.",
    "es": "En un alcance trasero el reposacabezas recoge la cabeza. Si está demasiado bajo hace de palanca y puede lesionar el cuello.",
-   "pt": "Numa colisão traseira o apoio de cabeça segura a cabeça. Se estiver baixo demais faz de alavanca e pode lesionar o pescoço."
+   "pt": "Numa colisão traseira o apoio de cabeça segura a cabeça. Se estiver baixo demais faz de alavanca e pode lesionar o pescoço.",
+   "fr": "Lors d'une collision par l'arrière, l'appuie-tête retient la tête. S'il est trop bas, il fait levier et peut blesser le cou."
   },
   "tip": null,
   "scene": null,
@@ -22002,7 +22300,8 @@
    "el": "Τι πρέπει να προσέχεις όταν οδηγείς αργά ηλεκτρικό αυτοκίνητο;",
    "it": "A cosa devi fare attenzione guidando piano un’auto elettrica?",
    "es": "¿Qué debes tener en cuenta al conducir despacio un coche eléctrico?",
-   "pt": "Em que tens de pensar ao conduzir devagar um carro elétrico?"
+   "pt": "Em que tens de pensar ao conduzir devagar um carro elétrico?",
+   "fr": "À quoi dois-tu faire attention en conduisant lentement une voiture électrique ?"
   },
   "options": [
    {
@@ -22017,7 +22316,8 @@
     "el": "Οι πεζοί σχεδόν δεν το ακούν και ίσως δεν με περιμένουν",
     "it": "I pedoni la sentono appena e potrebbero non aspettarsi il mio arrivo",
     "es": "Los peatones apenas lo oyen y puede que no me esperen",
-    "pt": "Os peões quase não o ouvem e podem não contar com ele"
+    "pt": "Os peões quase não o ouvem e podem não contar com ele",
+    "fr": "Les piétons l'entendent à peine et ne s'attendent peut-être pas à moi"
    },
    {
     "de": "Es beschleunigt sehr stark aus dem Stand",
@@ -22031,7 +22331,8 @@
     "el": "Επιταχύνει πολύ δυνατά από στάση",
     "it": "Accelera molto forte da ferma",
     "es": "Acelera con mucha fuerza desde parado",
-    "pt": "Acelera com muita força a partir de parado"
+    "pt": "Acelera com muita força a partir de parado",
+    "fr": "Elle accélère très fort à l'arrêt"
    },
    {
     "de": "Elektroautos haben auf Parkplätzen immer Vorrang",
@@ -22045,7 +22346,8 @@
     "el": "Τα ηλεκτρικά έχουν πάντα προτεραιότητα στα πάρκινγκ",
     "it": "Le auto elettriche hanno sempre la precedenza nei parcheggi",
     "es": "Los eléctricos siempre tienen prioridad en los aparcamientos",
-    "pt": "Os elétricos têm sempre prioridade nos parques de estacionamento"
+    "pt": "Os elétricos têm sempre prioridade nos parques de estacionamento",
+    "fr": "Les voitures électriques ont toujours la priorité dans les parkings"
    }
   ],
   "correct": [
@@ -22066,7 +22368,8 @@
    "el": "Σε χαμηλή ταχύτητα τα ηλεκτρικά είναι πολύ αθόρυβα· οι πεζοί — ιδίως τυφλοί και παιδιά — τα αντιλαμβάνονται αργά. Η άμεση ροπή τα κάνει να εκτινάσσονται από στάση.",
    "it": "A bassa velocità le auto elettriche sono molto silenziose; i pedoni — soprattutto persone cieche e bambini — se ne accorgono tardi. La coppia immediata le fa scattare da ferme.",
    "es": "A baja velocidad los coches eléctricos son muy silenciosos; los peatones — sobre todo personas ciegas y niños — los notan tarde. Su par inmediato los hace salir disparados desde parado.",
-   "pt": "A baixa velocidade os carros elétricos são muito silenciosos; os peões — sobretudo pessoas cegas e crianças — notam-nos tarde. O binário imediato fá-los arrancar disparados."
+   "pt": "A baixa velocidade os carros elétricos são muito silenciosos; os peões — sobretudo pessoas cegas e crianças — notam-nos tarde. O binário imediato fá-los arrancar disparados.",
+   "fr": "À basse vitesse, les voitures électriques sont très silencieuses ; les piétons — surtout les personnes aveugles et les enfants — les remarquent tard. Leur couple immédiat les fait bondir depuis l'arrêt."
   },
   "tip": null,
   "scene": null,

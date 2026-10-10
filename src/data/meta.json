@@ -17,7 +17,8 @@
     "el": "Προτεραιότητα",
     "it": "Precedenza",
     "es": "Prioridad",
-    "pt": "Prioridade"
+    "pt": "Prioridade",
+    "fr": "Priorité"
    },
    "blurb": {
     "de": "Rechts vor links, Schilder, Abbiegen, Kreisverkehr",
@@ -31,7 +32,8 @@
     "el": "Προτεραιότητα από δεξιά, πινακίδες, στροφές, κυκλικοί κόμβοι",
     "it": "La destra ha la precedenza, segnali, svolte, rotatorie",
     "es": "Prioridad a la derecha, señales, giros, glorietas",
-    "pt": "Prioridade à direita, sinais, viragens, rotundas"
+    "pt": "Prioridade à direita, sinais, viragens, rotundas",
+    "fr": "Priorité à droite, panneaux, virages, giratoires"
    }
   },
   {
@@ -51,7 +53,8 @@
     "el": "Φανάρια και αστυνομία",
     "it": "Semafori e polizia",
     "es": "Semáforos y policía",
-    "pt": "Semáforos e polícia"
+    "pt": "Semáforos e polícia",
+    "fr": "Feux et police"
    },
    "blurb": {
     "de": "Wer wen überstimmt, Blaulicht, Grünpfeil",
@@ -65,7 +68,8 @@
     "el": "Ποιος υπερισχύει, μπλε φάροι, πράσινο βέλος",
     "it": "Chi prevale su chi, lampeggianti blu, freccia verde",
     "es": "Quién prevalece, luces azules, flecha verde",
-    "pt": "Quem prevalece, luzes azuis, seta verde"
+    "pt": "Quem prevalece, luzes azuis, seta verde",
+    "fr": "Qui l'emporte, feux bleus, flèche verte"
    }
   },
   {
@@ -85,7 +89,8 @@
     "el": "Πινακίδες",
     "it": "Segnali stradali",
     "es": "Señales de tráfico",
-    "pt": "Sinais de trânsito"
+    "pt": "Sinais de trânsito",
+    "fr": "Panneaux de signalisation"
    },
    "blurb": {
     "de": "Gefahr, Gebot, Verbot, Markierungen",
@@ -99,7 +104,8 @@
     "el": "Κινδύνου, υποχρεωτικές, απαγορευτικές, διαγραμμίσεις",
     "it": "Pericolo, obbligo, divieto, segnaletica orizzontale",
     "es": "Peligro, obligación, prohibición, marcas viales",
-    "pt": "Perigo, obrigação, proibição, marcas rodoviárias"
+    "pt": "Perigo, obrigação, proibição, marcas rodoviárias",
+    "fr": "Danger, obligation, interdiction, marquages au sol"
    }
   },
   {
@@ -119,7 +125,8 @@
     "el": "Βασικοί κανόνες",
     "it": "Regole di base",
     "es": "Normas básicas",
-    "pt": "Regras básicas"
+    "pt": "Regras básicas",
+    "fr": "Règles de base"
    },
    "blurb": {
     "de": "Rechtsfahren, Spurwechsel, Reißverschluss",
@@ -133,7 +140,8 @@
     "el": "Κίνηση δεξιά, αλλαγή λωρίδας, φερμουάρ",
     "it": "Tenere la destra, cambio corsia, cerniera",
     "es": "Circular por la derecha, cambio de carril, cremallera",
-    "pt": "Circular pela direita, mudança de faixa, fecho éclair"
+    "pt": "Circular pela direita, mudança de faixa, fecho éclair",
+    "fr": "Circuler à droite, changer de voie, fermeture éclair"
    }
   },
   {
@@ -153,7 +161,8 @@
     "el": "Ταχύτητα και απόσταση",
     "it": "Velocità e distanza",
     "es": "Velocidad y distancia",
-    "pt": "Velocidade e distância"
+    "pt": "Velocidade e distância",
+    "fr": "Vitesse et distances"
    },
    "blurb": {
     "de": "Limits, Anhalteweg, Faustformeln",
@@ -167,7 +176,8 @@
     "el": "Όρια, απόσταση ακινητοποίησης, πρακτικοί κανόνες",
     "it": "Limiti, spazio di arresto, regole pratiche",
     "es": "Límites, distancia de detención, reglas prácticas",
-    "pt": "Limites, distância de paragem, regras práticas"
+    "pt": "Limites, distância de paragem, regras práticas",
+    "fr": "Limites, distance d'arrêt, règles empiriques"
    }
   },
   {
@@ -187,7 +197,8 @@
     "el": "Προσπέραση",
     "it": "Sorpasso",
     "es": "Adelantamiento",
-    "pt": "Ultrapassagem"
+    "pt": "Ultrapassagem",
+    "fr": "Dépassement"
    },
    "blurb": {
     "de": "Wann, wie, mit wie viel Abstand",
@@ -201,7 +212,8 @@
     "el": "Πότε, πώς, με πόση απόσταση",
     "it": "Quando, come, con quanto spazio",
     "es": "Cuándo, cómo, con cuánta separación",
-    "pt": "Quando, como, com que distância"
+    "pt": "Quando, como, com que distância",
+    "fr": "Quand, comment, avec quel écart"
    }
   },
   {
@@ -221,7 +233,8 @@
     "el": "Στροφές και όπισθεν",
     "it": "Svolte e retromarcia",
     "es": "Giros y marcha atrás",
-    "pt": "Viragens e marcha-atrás"
+    "pt": "Viragens e marcha-atrás",
+    "fr": "Tourner et reculer"
    },
    "blurb": {
     "de": "Schulterblick, Einordnen, Rückwärtsfahren",
@@ -235,7 +248,8 @@
     "el": "Ματιά από τον ώμο, θέση, όπισθεν",
     "it": "Sguardo sopra la spalla, posizione, retromarcia",
     "es": "Mirada por encima del hombro, posición, marcha atrás",
-    "pt": "Olhar por cima do ombro, posição, marcha-atrás"
+    "pt": "Olhar por cima do ombro, posição, marcha-atrás",
+    "fr": "Regard par-dessus l'épaule, placement, marche arrière"
    }
   },
   {
@@ -255,7 +269,8 @@
     "el": "Πεζοί και ποδηλάτες",
     "it": "Pedoni e ciclisti",
     "es": "Peatones y ciclistas",
-    "pt": "Peões e ciclistas"
+    "pt": "Peões e ciclistas",
+    "fr": "Piétons et cyclistes"
    },
    "blurb": {
     "de": "Kinder, Zebrastreifen, Seitenabstand",
@@ -269,7 +284,8 @@
     "el": "Παιδιά, διαβάσεις, πλευρική απόσταση",
     "it": "Bambini, strisce pedonali, distanza laterale",
     "es": "Niños, pasos de peatones, separación",
-    "pt": "Crianças, passadeiras, distância"
+    "pt": "Crianças, passadeiras, distância",
+    "fr": "Enfants, passages piétons, écart latéral"
    }
   },
   {
@@ -289,7 +305,8 @@
     "el": "Τρένα και λεωφορεία",
     "it": "Treni e autobus",
     "es": "Trenes y autobuses",
-    "pt": "Comboios e autocarros"
+    "pt": "Comboios e autocarros",
+    "fr": "Trains et bus"
    },
    "blurb": {
     "de": "Bahnübergang, Straßenbahn, Haltestellen",
@@ -303,7 +320,8 @@
     "el": "Ισόπεδες διαβάσεις, τραμ, στάσεις",
     "it": "Passaggi a livello, tram, fermate",
     "es": "Pasos a nivel, tranvías, paradas",
-    "pt": "Passagens de nível, elétricos, paragens"
+    "pt": "Passagens de nível, elétricos, paragens",
+    "fr": "Passages à niveau, trams, arrêts"
    }
   },
   {
@@ -323,7 +341,8 @@
     "el": "Στάση και στάθμευση",
     "it": "Fermata e sosta",
     "es": "Parada y estacionamiento",
-    "pt": "Paragem e estacionamento"
+    "pt": "Paragem e estacionamento",
+    "fr": "Arrêt et stationnement"
    },
    "blurb": {
     "de": "Wo nicht, wie lange, Parkscheibe",
@@ -337,7 +356,8 @@
     "el": "Πού όχι, για πόσο, δίσκος στάθμευσης",
     "it": "Dove no, per quanto, disco orario",
     "es": "Dónde no, cuánto tiempo, disco horario",
-    "pt": "Onde não, quanto tempo, disco de estacionamento"
+    "pt": "Onde não, quanto tempo, disco de estacionamento",
+    "fr": "Où c'est interdit, combien de temps, disque"
    }
   },
   {
@@ -357,7 +377,8 @@
     "el": "Αυτοκινητόδρομος",
     "it": "Autostrada",
     "es": "Autopista",
-    "pt": "Autoestrada"
+    "pt": "Autoestrada",
+    "fr": "Autoroute"
    },
    "blurb": {
     "de": "Auffahren, Rettungsgasse, Panne",
@@ -371,7 +392,8 @@
     "el": "Είσοδος, διάδρομος διάσωσης, βλάβες",
     "it": "Immissione, corridoio di emergenza, guasti",
     "es": "Incorporación, corredor de emergencia, averías",
-    "pt": "Entrada, corredor de emergência, avarias"
+    "pt": "Entrada, corredor de emergência, avarias",
+    "fr": "Insertion, couloir de secours, pannes"
    }
   },
   {
@@ -391,7 +413,8 @@
     "el": "Κίνδυνοι",
     "it": "Pericoli",
     "es": "Peligros",
-    "pt": "Perigos"
+    "pt": "Perigos",
+    "fr": "Dangers"
    },
    "blurb": {
     "de": "Nässe, Glätte, Nacht, Wild, Ablenkung",
@@ -405,7 +428,8 @@
     "el": "Βροχή, πάγος, νύχτα, ζώα, απόσπαση",
     "it": "Bagnato, ghiaccio, notte, animali, distrazione",
     "es": "Mojado, hielo, noche, animales, distracciones",
-    "pt": "Piso molhado, gelo, noite, animais, distrações"
+    "pt": "Piso molhado, gelo, noite, animais, distrações",
+    "fr": "Pluie, verglas, nuit, animaux, distractions"
    }
   },
   {
@@ -425,7 +449,8 @@
     "el": "Αλκοόλ και κούραση",
     "it": "Alcol e stanchezza",
     "es": "Alcohol y cansancio",
-    "pt": "Álcool e cansaço"
+    "pt": "Álcool e cansaço",
+    "fr": "Alcool et fatigue"
    },
    "blurb": {
     "de": "Promille, Cannabis, Medikamente",
@@ -439,7 +464,8 @@
     "el": "Όρια αλκοόλ, κάνναβη, φάρμακα",
     "it": "Limiti di alcol, cannabis, farmaci",
     "es": "Límites de alcohol, cannabis, medicamentos",
-    "pt": "Limites de álcool, canábis, medicamentos"
+    "pt": "Limites de álcool, canábis, medicamentos",
+    "fr": "Limites d'alcool, cannabis, médicaments"
    }
   },
   {
@@ -459,7 +485,8 @@
     "el": "Αυτοκίνητο και τεχνική",
     "it": "Auto e tecnica",
     "es": "Coche y técnica",
-    "pt": "Carro e técnica"
+    "pt": "Carro e técnica",
+    "fr": "Voiture et technique"
    },
    "blurb": {
     "de": "Reifen, Warnleuchten, Ladung, Anhänger",
@@ -473,7 +500,8 @@
     "el": "Ελαστικά, λυχνίες, φορτία, ρυμουλκούμενα",
     "it": "Pneumatici, spie, carichi, rimorchi",
     "es": "Neumáticos, testigos, carga, remolques",
-    "pt": "Pneus, luzes de aviso, carga, reboques"
+    "pt": "Pneus, luzes de aviso, carga, reboques",
+    "fr": "Pneus, témoins, chargement, remorques"
    }
   },
   {
@@ -493,7 +521,8 @@
     "el": "Περιβάλλον",
     "it": "Ambiente",
     "es": "Medio ambiente",
-    "pt": "Ambiente"
+    "pt": "Ambiente",
+    "fr": "Environnement"
    },
    "blurb": {
     "de": "Sparsam fahren, Lärm, Umweltzone",
@@ -507,7 +536,8 @@
     "el": "Οικονομική οδήγηση, θόρυβος, ζώνες χαμηλών εκπομπών",
     "it": "Guida economica, rumore, zone a basse emissioni",
     "es": "Conducción eficiente, ruido, zonas de bajas emisiones",
-    "pt": "Condução eficiente, ruído, zonas de emissões reduzidas"
+    "pt": "Condução eficiente, ruído, zonas de emissões reduzidas",
+    "fr": "Conduite économique, bruit, zones à faibles émissions"
    }
   },
   {
@@ -527,7 +557,8 @@
     "el": "Υποχρεώσεις και νόμος",
     "it": "Doveri e legge",
     "es": "Deberes y ley",
-    "pt": "Deveres e lei"
+    "pt": "Deveres e lei",
+    "fr": "Devoirs et loi"
    },
    "blurb": {
     "de": "Unfall, Probezeit, Punkte, Papiere",
@@ -541,7 +572,8 @@
     "el": "Ατυχήματα, δοκιμαστική περίοδος, βαθμοί, έγγραφα",
     "it": "Incidenti, periodo di prova, punti, documenti",
     "es": "Accidentes, periodo de prueba, puntos, documentos",
-    "pt": "Acidentes, período probatório, pontos, documentos"
+    "pt": "Acidentes, período probatório, pontos, documentos",
+    "fr": "Accidents, période probatoire, points, documents"
    }
   }
  ],
@@ -582,7 +614,7 @@
   "it": 1,
   "es": 1,
   "pt": 1,
-  "fr": 0.717
+  "fr": 1
  },
  "catalogue": {
   "validFrom": "2025-04-01",

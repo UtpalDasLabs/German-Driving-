@@ -1,0 +1,214 @@
+{
+  "practical": {
+    "overview": {
+      "title": "Comment se passe l'examen",
+      "body": [
+        "L'examen dure 55 minutes au total, dont au moins 30 de conduite réelle. Tu conduis la voiture de l'auto-école avec ton moniteur ou ta monitrice à côté de toi ; la personne examinatrice (du TÜV ou de la DEKRA) est assise à l'arrière.",
+        "On vérifie d'abord ta pièce d'identité. Viennent ensuite la préparation et les vérifications du véhicule, la conduite en ville, sur route et normalement sur autoroute ou route pour automobiles, et les manœuvres imposées.",
+        "À la fin, tu reçois le résultat sur-le-champ, avec des commentaires sur chacun des cinq domaines de compétence. En cas de réussite, tu reçois le permis — ou une attestation provisoire — juste après.",
+        "L'examen pratique doit avoir lieu dans les 12 mois qui suivent la réussite de la théorie. Ça ne s'est pas bien passé ? Normalement, tu peux le repasser au plus tôt deux semaines après."
+      ],
+      "checklist": [
+        "Carte d'identité ou passeport sur moi",
+        "Lunettes ou lentilles, si mon permis les exige",
+        "Chaussures confortables et plates",
+        "Une bonne nuit de sommeil et 0,0 alcool",
+        "À l'auto-école 15 minutes en avance"
+      ],
+      "pitfalls": [
+        "Sans pièce d'identité valide, pas d'examen — et les frais sont généralement perdus quand même."
+      ]
+    },
+    "checks": {
+      "title": "Préparation et vérifications du véhicule",
+      "body": [
+        "Avant de démarrer, tu règles le siège, le volant, les rétroviseurs et l'appuie-tête, et tu attaches ta ceinture. On te demande normalement de montrer ou d'expliquer quelques éléments de la voiture.",
+        "Points typiques : allumer et vérifier les feux ; pneus (sculptures, dommages, où trouver les pressions) ; niveaux des liquides (huile moteur, liquide de refroidissement, lave-glace, liquide de frein) ; klaxon ; témoins du tableau de bord."
+      ],
+      "checklist": [
+        "Siège réglé pour enfoncer à fond l'embrayage ou le frein",
+        "Rétroviseur intérieur et rétroviseurs extérieurs réglés",
+        "Appuie-tête : bord supérieur à hauteur du sommet du crâne",
+        "Je sais montrer les feux de croisement et de route, les clignotants, les feux de détresse, l'antibrouillard arrière",
+        "Je sais trouver la jauge et lire le niveau d'huile",
+        "Je sais où trouver les bonnes pressions des pneus"
+      ],
+      "pitfalls": [
+        "Démarrer sans régler les rétroviseurs ou sans attacher sa ceinture."
+      ]
+    },
+    "parallel": {
+      "title": "Créneau en marche arrière",
+      "body": [
+        "Tu entres en marche arrière dans un espace le long du trottoir droit, entre deux véhicules. L'espace devrait mesurer au moins une fois et demie la longueur de la voiture.",
+        "Arrête-toi à environ 50 cm à côté de la voiture de devant, ton arrière à la hauteur du sien. Recule lentement jusqu'à ce que ton essieu arrière soit à la hauteur de son pare-chocs arrière ; braque alors à fond à droite. À environ 45°, redresse et continue de reculer ; puis braque à fond à gauche jusqu'à ce que la voiture soit parallèle."
+      ],
+      "checklist": [
+        "Clignotant droit avant de s'arrêter",
+        "Regarder tout autour avant de reculer",
+        "Continuer à regarder derrière et sur les côtés, pas seulement dans le rétroviseur",
+        "Finir à 30 cm du trottoir au maximum, roues droites"
+      ],
+      "pitfalls": [
+        "Monter sur le trottoir avec la roue arrière.",
+        "Ne pas surveiller la circulation pendant que l'avant se déporte.",
+        "Trop de corrections."
+      ]
+    },
+    "bay": {
+      "title": "Stationnement en bataille ou en épi",
+      "body": [
+        "Tu te gares en marche avant ou en marche arrière sur une place perpendiculaire ou en oblique par rapport à la voie, par exemple sur un parking. La voiture doit être centrée et droite, sans empiéter sur les lignes.",
+        "En marche arrière, c'est souvent plus facile, car ce sont les roues avant qui dirigent : dépasse la place, braque quand ton arrière a à peu près dépassé la ligne la plus éloignée et aligne la voiture sur les marquages."
+      ],
+      "checklist": [
+        "Clignotant avant d'entrer sur la place",
+        "Attention aux piétons sur le parking",
+        "La voiture centrée entre les lignes, roues droites"
+      ],
+      "pitfalls": [
+        "Frôler la voiture d'à côté sans s'arrêter."
+      ]
+    },
+    "corner": {
+      "title": "Marche arrière dans un angle",
+      "body": [
+        "Tu recules vers la droite dans une rue latérale, un carrefour ou une entrée, en suivant le trottoir à distance constante.",
+        "Dépasse l'entrée de la rue et arrête-toi près du trottoir. Recule lentement ; quand tu vois dans le rétroviseur droit que le trottoir s'incurve, commence à braquer à droite. Après l'angle, redresse et continue de reculer jusqu'à ce qu'on te dise de t'arrêter."
+      ],
+      "checklist": [
+        "Regarder tout autour avant et pendant la marche arrière",
+        "Laisser passer les piétons au coin",
+        "Distance constante par rapport au trottoir"
+      ],
+      "pitfalls": [
+        "L'avant empiète sur la voie d'en face sans que je m'en rende compte."
+      ]
+    },
+    "turnround": {
+      "title": "Demi-tour",
+      "body": [
+        "Tu fais faire demi-tour à la voiture sur la chaussée, avec des manœuvres en marche avant et en marche arrière. Tu ne dois pas toucher les trottoirs."
+      ],
+      "checklist": [
+        "Seulement là où c'est permis et où l'on voit bien",
+        "Regarder des deux côtés avant chaque mouvement",
+        "Avancer lentement, tourner le volant vite"
+      ],
+      "pitfalls": [
+        "Bloquer la circulation au lieu de la laisser passer."
+      ]
+    },
+    "emergency": {
+      "title": "Freinage d'urgence",
+      "body": [
+        "Au signal, tu freines depuis environ 30 km/h le plus fort possible jusqu'à l'arrêt. La voiture doit rester droite.",
+        "Avec l'ABS : enfonce à fond le frein et l'embrayage et maintiens-les. La vibration de la pédale est normale. On vérifie avant que personne ne suit derrière."
+      ],
+      "checklist": [
+        "Réagir à l'ordre, pas avant",
+        "Appuyer à fond, pas progressivement",
+        "Ensuite, feux de détresse ou regard dans le rétroviseur avant de repartir"
+      ],
+      "pitfalls": [
+        "Freiner trop doucement."
+      ]
+    },
+    "competences": {
+      "title": "Les cinq domaines de compétence",
+      "body": [
+        "La personne examinatrice ne se contente pas de compter des « fautes » isolées : elle évalue ta conduite dans cinq domaines — pendant tout l'examen et dans des situations comme les carrefours, les giratoires, les changements de voie, les insertions sur autoroute, les virages et les passages piétons."
+      ],
+      "checklist": [
+        "Observation : rétroviseurs, regard par-dessus l'épaule, regarder loin",
+        "Placement : bonne voie, distance devant et sur les côtés",
+        "Vitesse : adaptée à la limite, à la visibilité et à la situation",
+        "Communication : clignotant à temps, contact visuel, intentions claires",
+        "Maniement du véhicule et conduite économique : passages de vitesse, direction, freinage en douceur"
+      ]
+    },
+    "fail": {
+      "title": "Les causes d'échec les plus fréquentes",
+      "body": [
+        "Les petites inattentions ne font pas échouer. On échoue sur une faute grave — par exemple quand tu mets quelqu'un en danger — ou quand les petites fautes se répètent."
+      ],
+      "pitfalls": [
+        "Ne pas respecter la priorité, surtout la « priorité à droite » dans les zones 30",
+        "Ne pas regarder par-dessus l'épaule en tournant, en démarrant ou en changeant de voie",
+        "Ne pas s'arrêter complètement au STOP",
+        "Ne pas laisser traverser les piétons au passage zébré",
+        "Excès de vitesse manifeste, par exemple dans une zone 30",
+        "Griller un feu rouge",
+        "Une intervention de ton moniteur ou de ta monitrice (double commande ou volant)"
+      ]
+    },
+    "phrases": {
+      "title": "Ce qu'on te dira",
+      "body": [
+        "L'examen pratique se déroule en allemand. Les indications sont données à l'avance. Si tu ne comprends pas quelque chose, demande — ce n'est pas une faute."
+      ],
+      "phrases": [
+        "Au prochain carrefour, à droite, s'il vous plaît.",
+        "Tournez à gauche, s'il vous plaît.",
+        "Continuez tout droit, s'il vous plaît.",
+        "Suivez le tracé de la route, s'il vous plaît.",
+        "Suivez les panneaux en direction de l'autoroute.",
+        "Au giratoire, prenez la deuxième sortie, s'il vous plaît.",
+        "Arrêtez-vous ici à droite, au bord, s'il vous plaît.",
+        "Garez-vous en marche arrière derrière la voiture bleue, s'il vous plaît.",
+        "Faites demi-tour ici, s'il vous plaît.",
+        "Quand je dis « Stopp », faites un freinage d'urgence, s'il vous plaît.",
+        "Repartez dès que la circulation le permet, s'il vous plaît.",
+        "L'examen est terminé. Vous avez réussi."
+      ]
+    }
+  },
+  "conversion": {
+    "eu": {
+      "title": "Permis de l'UE ou de l'EEE",
+      "body": [
+        "Un permis valide d'un pays de l'UE ou de l'EEE (l'UE plus l'Islande, le Liechtenstein et la Norvège) reste valable en Allemagne. Il n'est pas nécessaire de l'échanger.",
+        "Si ton permis a une date d'expiration, tu le renouvelles auprès du service allemand des permis de conduire une fois que tu vis ici."
+      ]
+    },
+    "six-months": {
+      "title": "Tous les autres : six mois",
+      "body": [
+        "Avec un permis de n'importe quel autre pays, tu peux conduire six mois à compter du jour où tu établis ta résidence en Allemagne. Si ton séjour n'est que temporaire, tu peux demander jusqu'à six mois de plus.",
+        "Ensuite, il te faut un permis allemand. Conduire avec le permis étranger après ce délai équivaut à conduire sans permis, ce qui est un délit.",
+        "Si ton permis n'est pas rédigé en allemand et ne suit pas un modèle international, il te faut pendant ces six mois une traduction ou un permis de conduire international."
+      ]
+    },
+    "which-case": {
+      "title": "Quels examens te faut-il",
+      "body": [
+        "Cela dépend de la présence ou non de ton pays de délivrance à l'annexe 11 du règlement sur les permis de conduire, et pour quelle catégorie. Il y a trois cas :",
+        "1. Ton pays figure pour le permis B sans examen (par exemple le Japon, la Suisse, le Royaume-Uni et, depuis août 2026, l'Ukraine) : tu fais la demande et il n'y a pas d'examen à passer.",
+        "2. Ton pays figure avec « examen théorique seulement » : tu passes la théorie, la pratique n'est pas nécessaire.",
+        "3. Ton pays ne figure pas sur la liste (c'est le cas de nombreux pays, ainsi que de certains États américains et provinces canadiennes, qui apparaissent séparément) : tu passes la théorie et la pratique. Les leçons ne sont pas obligatoires, mais l'examen se passe avec une voiture d'auto-école.",
+        "La liste change. Consulte le texte actuel de l'annexe 11 et renseigne-toi auprès de ton service local des permis avant de réserver quoi que ce soit."
+      ]
+    },
+    "documents": {
+      "title": "La demande et ce qu'il faut apporter",
+      "body": [
+        "Tu fais la demande auprès du service des permis de conduire (Führerscheinstelle) de ton lieu de résidence, le plus tôt possible ; le traitement prend souvent des semaines.",
+        "Normalement : ton permis étranger original, une traduction (par exemple de l'ADAC ou d'un service de traduction assermenté), passeport ou pièce d'identité, attestation de domicile (Meldebescheinigung), une photo biométrique, un examen de la vue et normalement une attestation de formation aux premiers secours. Le service te dira exactement ce qu'il lui faut.",
+        "Quand tu reçois le permis allemand, tu remets le permis étranger."
+      ]
+    },
+    "tests": {
+      "title": "Si tu dois passer des examens",
+      "body": [
+        "Inscris-toi dans une auto-école ; elle t'inscrit à l'examen auprès du TÜV ou de la DEKRA. Tu peux passer la théorie en allemand ou dans l'une des douze autres langues — les mêmes que dans cette app.",
+        "Même avec beaucoup d'expérience, quelques leçons valent la peine : l'examen insiste sur des points qui fonctionnent autrement ailleurs — « priorité à droite », regard par-dessus l'épaule à chaque virage, zones 30 et arrêt complet à chaque STOP."
+      ]
+    },
+    "costs": {
+      "title": "Combien ça coûte, à peu près",
+      "body": [
+        "Les prix varient selon la ville et l'auto-école. À titre indicatif : frais du service des permis environ 40–50 €, traduction 30–60 €, examen théorique au TÜV ou à la DEKRA environ 25 €, examen pratique environ 130 €, plus les frais d'auto-école pour l'inscription, les leçons et la voiture le jour de l'examen."
+      ]
+    }
+  }
+}
