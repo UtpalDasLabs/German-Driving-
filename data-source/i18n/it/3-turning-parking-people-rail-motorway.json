@@ -1,0 +1,270 @@
+{
+  "questions": {
+    "tu01": {
+      "prompt": "Vuoi svoltare a destra. Sulla pista ciclabile alla tua destra un ciclista va dritto. Cosa fai?",
+      "options": ["Lascio passare prima il ciclista", "Guardo sopra la spalla destra prima di svoltare", "Svolto in fretta davanti al ciclista"],
+      "why": "Quando svolti devi lasciar passare i ciclisti che vanno dritto nella stessa direzione, sulla strada o accanto (§ 9 c. 3 StVO). Nell’angolo cieco li vedi solo guardando sopra la spalla.",
+      "tip": "Svolta a destra = sguardo sopra la spalla destra. Ogni volta."
+    },
+    "tu02": {
+      "prompt": "Stai svoltando. Alcuni pedoni attraversano la strada in cui svolti. Cosa fai?",
+      "options": ["Aspetto che abbiano attraversato", "Mi infilo piano tra loro", "Suono perché si sbrighino"],
+      "why": "Quando svolti devi fare particolare attenzione ai pedoni e aspettare se necessario (§ 9 c. 3 StVO)."
+    },
+    "tu03": {
+      "prompt": "Come ti posizioni per svoltare a sinistra?",
+      "options": ["Su una strada a doppio senso, fino alla linea di mezzeria", "In un senso unico, il più a sinistra possibile", "Sempre tutto a destra"],
+      "why": "Per svoltare a sinistra ti sposti per tempo il più a sinistra possibile: fino al centro se c’è traffico di fronte, fino al bordo sinistro in un senso unico (§ 9 c. 1 StVO)."
+    },
+    "tu04": {
+      "prompt": "Cosa fa parte della svolta a sinistra?",
+      "options": ["Mettere la freccia e posizionarsi per tempo", "Guardare nello specchietto prima di spostarsi", "Un altro sguardo indietro poco prima di svoltare"],
+      "why": "La svolta a sinistra richiede un doppio sguardo indietro: prima di spostarti e di nuovo poco prima di svoltare, perché qualcuno potrebbe stare per sorpassarti (§ 9 c. 1 StVO).",
+      "tip": "Specchietto — freccia — posizione — sguardo sopra la spalla — svolta."
+    },
+    "tu05": {
+      "prompt": "Vuoi entrare in un passo carraio. Cosa vale?",
+      "options": ["Va escluso ogni pericolo per gli altri", "Se serve, chiedo a qualcuno di guidarmi", "Per me valgono solo le regole di svolta agli incroci"],
+      "why": "Entrare in una proprietà, fare inversione e la retromarcia richiedono che nessuno sia messo in pericolo; se serve, fatti guidare da qualcuno (§ 9 c. 5 StVO)."
+    },
+    "tu06": {
+      "prompt": "Dove è vietata l’inversione di marcia?",
+      "options": ["Su autostrade e superstrade", "Dove c’è il segnale 272", "In ogni strada della città"],
+      "why": "Inversione e retromarcia sono vietate su autostrade e superstrade (§ 18 c. 7 StVO). Il segnale 272 la vieta espressamente. Altrove puoi fare inversione se nessuno è in pericolo."
+    },
+    "tu07": {
+      "prompt": "Vuoi uscire in retromarcia da un posteggio e vedi poco dietro di te. Cosa fai?",
+      "options": ["Vado piano, continuo a guardare e se serve mi faccio guidare", "Faccio retromarcia in fretta per non far aspettare nessuno", "Mi affido solo alla telecamera posteriore"],
+      "why": "La retromarcia non deve mettere in pericolo nessuno (§ 9 c. 5 StVO). Telecamere e sensori aiutano, ma non sostituiscono lo sguardo e possono non vedere bambini o ostacoli bassi."
+    },
+    "tu08": {
+      "prompt": "Come svolti a destra?",
+      "options": ["Tenendomi il più a destra possibile", "Con un ampio arco attraverso il centro della strada trasversale", "Senza freccia se la strada è libera"],
+      "why": "Chi svolta a destra si tiene il più a destra possibile (§ 9 c. 1 StVO) e svolta con un arco stretto. La freccia si mette sempre, anche se non vedi nessuno."
+    },
+    "tu09": {
+      "prompt": "Vuoi svoltare. Un tram accanto a te va dritto nella stessa direzione. Chi passa per primo?",
+      "options": ["Il tram", "Io, perché la mia freccia era accesa prima", "Il più veloce"],
+      "why": "I veicoli che svoltano devono lasciar passare i veicoli su rotaia, anche quando viaggiano accanto nella stessa direzione (§ 9 c. 3 StVO)."
+    },
+    "tu10": {
+      "prompt": "Quando metti la freccia?",
+      "options": ["Per tempo prima di svoltare", "Prima di ogni cambio di corsia", "Solo quando sto già svoltando"],
+      "why": "La freccia annuncia cosa stai per fare — prima, non durante. Quando svolti, cambi corsia e parti dal bordo della strada."
+    },
+    "pa01": {
+      "prompt": "Quando è sosta (e non fermata)?",
+      "options": ["Quando lascio il veicolo", "Quando la fermata dura più di tre minuti", "Quando devo stare in fila in una coda"],
+      "why": "Lasciare il veicolo o restare fermi più di tre minuti è sosta (§ 12 c. 2 StVO). Fermarsi per il traffico — in coda, al rosso — non è né l’una né l’altra."
+    },
+    "pa02": {
+      "prompt": "Dove è vietata la fermata?",
+      "options": ["Nei punti stretti e dove la visibilità è scarsa", "Sui passaggi a livello", "Davanti a un panificio"],
+      "why": "La fermata è vietata, tra l’altro, nei punti stretti e con scarsa visibilità, nelle curve strette, sulle rampe di raccordo, sui passaggi a livello e davanti agli accessi dei vigili del fuoco (§ 12 c. 1 StVO)."
+    },
+    "pa03": {
+      "prompt": "Quanti metri prima di un attraversamento pedonale non puoi fermarti?",
+      "why": "La fermata è vietata sugli attraversamenti pedonali e nei 5 m precedenti. Un’auto ferma nasconde i pedoni, soprattutto i bambini."
+    },
+    "pa04": {
+      "prompt": "Quanti metri prima e dopo un incrocio non puoi sostare (senza pista ciclabile separata)?",
+      "why": "La sosta è vietata per 5 m prima e dopo gli incroci, misurati dal punto in cui si incontrano i bordi del marciapiede. Se a destra c’è una pista ciclabile separata, sono 8 m prima dell’incrocio (§ 12 c. 3 StVO)."
+    },
+    "pa05": {
+      "prompt": "Dove è vietata la sosta?",
+      "options": ["Davanti a ingressi e uscite di passi carrai", "Davanti a marciapiedi ribassati", "In un posto auto segnato"],
+      "why": "La sosta è vietata davanti ai passi carrai (e di fronte a essi sulle strade strette) e davanti ai marciapiedi ribassati, che servono a sedie a rotelle e passeggini (§ 12 c. 3 StVO)."
+    },
+    "pa06": {
+      "prompt": "Arrivi alle 9:10 e imposti il disco orario. Che ora imposti?",
+      "options": ["9:30", "9:10", "9:00"],
+      "why": "Il disco si imposta sulla mezz’ora successiva all’arrivo: alle 9:10, sulle 9:30.",
+      "tip": "Arrotonda sempre alla mezz’ora successiva."
+    },
+    "pa07": {
+      "prompt": "Su quale lato della strada si sosta normalmente?",
+      "options": ["A destra", "A sinistra nei sensi unici", "A sinistra ovunque ci sia spazio"],
+      "why": "Ci si ferma e si sosta a destra, sul bordo destro o sulla banchina. A sinistra solo nei sensi unici o dove a destra ci sono binari (§ 12 c. 4 StVO)."
+    },
+    "pa08": {
+      "prompt": "Vuoi aprire la portiera del conducente. Come proteggi meglio i ciclisti?",
+      "options": ["La apro con la mano destra, così mi giro e vedo dietro", "Spalanco la portiera in un colpo", "Guardo solo nello specchietto interno"],
+      "why": "Salendo o scendendo non devi mettere in pericolo nessuno (§ 14 c. 1 StVO). Aprire la portiera del conducente con la mano destra (il «metodo olandese») fa ruotare il corpo, così vedi i ciclisti nell’angolo cieco.",
+      "tip": "La mano più lontana sulla maniglia."
+    },
+    "pa09": {
+      "prompt": "Cosa fai prima di lasciare l’auto parcheggiata?",
+      "options": ["Spengo il motore e tiro il freno a mano", "La metto in sicurezza contro lo spostamento e l’uso non autorizzato", "Lascio il motore acceso se torno subito"],
+      "why": "Quando lasci il veicolo devi metterlo in sicurezza perché non causi incidenti o intralci, e contro l’uso non autorizzato (§ 14 c. 2 StVO). Lasciare il motore acceso incustodito è vietato."
+    },
+    "pa10": {
+      "prompt": "Di notte sosti a bordo strada fuori città. Cosa devi fare?",
+      "options": ["Illuminare il veicolo, ad esempio con le luci di posizione", "Niente, bastano i catarifrangenti", "Accendere il retronebbia"],
+      "why": "Fuori dai centri abitati i veicoli fermi e in sosta devono essere illuminati al buio. In città basta la luce di sosta dal lato del traffico, e dove i lampioni restano accesi tutta la notte di solito non serve nulla (§ 17 c. 4 StVO)."
+    },
+    "pa11": {
+      "prompt": "Puoi sostare in doppia fila?",
+      "options": ["No", "Sì, con le quattro frecce", "Sì, fino a dieci minuti"],
+      "why": "La sosta in doppia fila è vietata e le quattro frecce non la rendono legale. Blocca la strada e costringe gli altri a invadere il senso opposto."
+    },
+    "pa12": {
+      "prompt": "Dove non puoi sostare?",
+      "options": ["Sul marciapiede, salvo che un segnale o una segnaletica lo consentano", "Davanti a un accesso dei vigili del fuoco", "In uno stallo segnato"],
+      "why": "I marciapiedi sono per i pedoni. Sostarci è consentito solo dove lo permettono il segnale 315 o una segnaletica. Davanti agli accessi dei vigili del fuoco è vietata perfino la fermata."
+    },
+    "pe01": {
+      "prompt": "Un pedone aspetta a un attraversamento pedonale. Cosa fai?",
+      "options": ["Mi fermo e lo lascio attraversare", "Proseguo — non ha ancora iniziato ad attraversare", "Suono perché sappia che arrivo"],
+      "why": "Agli attraversamenti pedonali devi lasciar passare i pedoni e le persone in sedia a rotelle che vogliono chiaramente attraversare. Avvicinati a velocità moderata e aspetta se serve (§ 26 c. 1 StVO).",
+      "tip": "Chi aspetta sulle strisce ha già la precedenza."
+    },
+    "pe02": {
+      "prompt": "Ci sono bambini a bordo strada. Come ti comporti?",
+      "options": ["Rallento e mi preparo a frenare", "Metto in conto che un bambino corra all’improvviso in strada", "Suono e mantengo la velocità"],
+      "why": "Vicino a bambini, anziani e chiunque abbia bisogno di aiuto devi rallentare e prepararti a frenare, così che non corrano rischi (§ 3 c. 2a StVO). I bambini non sanno ancora valutare velocità e distanze."
+    },
+    "pe03": {
+      "prompt": "Un pallone rotola in strada tra le auto parcheggiate. Cosa ti aspetti?",
+      "options": ["Che un bambino ci corra dietro", "Niente di particolare", "Che il pallone possa danneggiare l’auto"],
+      "why": "Un bambino che insegue un pallone vede solo il pallone. Frena subito e aspettati che sbuchi tra le auto.",
+      "tip": "Pallone = bambino."
+    },
+    "pe04": {
+      "prompt": "Un pedone con il bastone bianco vuole attraversare. Cosa significa?",
+      "options": ["È una persona cieca o con grave disabilità visiva", "Devo fare particolare attenzione e fermarmi se serve", "La persona mi vede e aspetterà"],
+      "why": "Un bastone bianco, un cane guida con imbracatura bianca o una fascia gialla al braccio con tre punti neri indicano una persona cieca. Non può vederti, quindi fermati se serve."
+    },
+    "pe05": {
+      "prompt": "Una persona anziana attraversa lentamente mentre il tuo semaforo diventa verde. Cosa fai?",
+      "options": ["Aspetto che abbia lasciato la carreggiata", "La supero piano", "Suono per metterle fretta"],
+      "why": "Il verde non ti dà il diritto di mettere in pericolo nessuno. Le persone anziane hanno spesso bisogno di più tempo e possono spaventarsi. Lasciale finire di attraversare con calma."
+    },
+    "pe06": {
+      "prompt": "Fino a che età i bambini devono andare in bici sul marciapiede?",
+      "why": "I bambini fino all’8° compleanno devono andare sul marciapiede, fino al 10° possono (§ 2 c. 5 StVO). Agli ingressi e agli incroci aspettati che scendano dal marciapiede in strada."
+    },
+    "pe07": {
+      "prompt": "Un ciclista davanti a te si avvicina a un’auto parcheggiata. Cosa ti aspetti?",
+      "options": ["Che si sposti a sinistra, forse senza segnalarlo", "Che si fermi e aspetti", "Che salga sul marciapiede"],
+      "why": "I ciclisti devono aggirare gli ostacoli e non sempre guardano prima indietro. Mantieni la distanza e sorpassa solo quando è chiaro cosa faranno."
+    },
+    "pe08": {
+      "prompt": "I ciclisti possono andare affiancati?",
+      "options": ["Sì, se non ostacolano il traffico", "No, mai", "Solo in gruppi di 16 o più"],
+      "why": "I ciclisti possono andare in due affiancati se non ostacolano il traffico (§ 2 c. 4 StVO). In una strada ciclabile e in un gruppo di 16 o più, anche se rallentano gli altri."
+    },
+    "pe09": {
+      "prompt": "Di notte i pedoni vestiti di scuro si vedono male. Cosa è vero?",
+      "options": ["Con gli anabbaglianti li vedo spesso molto tardi", "Adatto la velocità alla portata dei fari", "Le luci diurne bastano di notte"],
+      "why": "Con gli anabbaglianti un pedone vestito di scuro lo vedi spesso solo a 25–30 m — meno dello spazio di arresto a 50 km/h. Le luci diurne non illuminano la strada e lasciano il retro al buio."
+    },
+    "pe10": {
+      "prompt": "Dove e come si può circolare in monopattino elettrico?",
+      "options": ["Sulle piste ciclabili, e dove non ci sono sulla carreggiata", "Con una sola persona", "Sul marciapiede"],
+      "why": "I monopattini elettrici devono usare le piste ciclabili, altrimenti la carreggiata; i marciapiedi sono vietati. Possono essere guidati solo da una persona di almeno 14 anni (eKFV). Quando svolti trattali come ciclisti."
+    },
+    "pe11": {
+      "prompt": "Uno scuolabus si è fermato a bordo strada e scendono bambini. Cosa fai?",
+      "options": ["Passo piano, con ampio spazio e il piede sul freno", "Metto in conto che i bambini attraversino davanti o dietro al bus", "Passo in fretta così i bambini scendono in sicurezza"],
+      "why": "I bambini spesso attraversano di corsa proprio davanti o dietro al bus. Se ha le quattro frecce accese, devi addirittura rallentare al passo d’uomo (§ 20 c. 4 StVO)."
+    },
+    "pe12": {
+      "prompt": "Un pedone attraversa lontano da ogni attraversamento. Cosa fai?",
+      "options": ["Freno e lo lascio attraversare, anche se avrebbe dovuto aspettare", "Proseguo — non ha la precedenza", "Gli passo vicino da dietro"],
+      "why": "I pedoni devono fare attenzione ai veicoli (§ 25 StVO), ma il § 1 StVO richiede prudenza costante: nessuno può essere messo in pericolo. L’errore di un altro non ti dà mai il diritto di investirlo."
+    },
+    "ra01": {
+      "prompt": "Quando devi aspettare a questo passaggio a livello?",
+      "options": ["Quando si avvicina un treno", "Quando lampeggiano le luci rosse o si abbassano le sbarre", "Solo quando le sbarre sono del tutto abbassate"],
+      "why": "Ai passaggi a livello i treni hanno la precedenza (§ 19 c. 1 StVO). Devi aspettare quando arriva un treno, quando si accendono luci rosse o lampeggianti, quando le sbarre si abbassano o sono abbassate, o quando personale ferroviario ti fa segno di fermarti (§ 19 c. 2 StVO).",
+      "tip": "Una sbarra che scende è già chiusa."
+    },
+    "ra02": {
+      "prompt": "Subito dopo il passaggio a livello c’è coda. Cosa fai?",
+      "options": ["Aspetto prima del passaggio a livello", "Salgo sui binari e aspetto lì", "Suono perché gli altri avanzino"],
+      "why": "Entra in un passaggio a livello solo se puoi attraversarlo completamente senza fermarti (§ 19 c. 1 StVO). Se resti sui binari in coda, non hai via di fuga."
+    },
+    "ra03": {
+      "prompt": "La tua auto si guasta su un passaggio a livello. Cosa fai?",
+      "options": ["Faccio subito scendere tutti e li porto lontano dalla zona di pericolo", "Chiamo il numero di emergenza o quello indicato al passaggio", "Resto in auto e continuo a provare a ripartire"],
+      "why": "Un treno non può schivare e spesso gli serve più di un chilometro per fermarsi. Prima le persone: fuori, lontano dai binari, poi avvisa la ferrovia con il numero di emergenza."
+    },
+    "ra04": {
+      "prompt": "Un autobus si avvicina a una fermata con le quattro frecce accese. Cosa vale?",
+      "options": ["Non posso sorpassarlo", "Posso sorpassarlo in fretta prima che si fermi", "Devo fermarmi subito"],
+      "why": "Gli autobus e gli scuolabus contrassegnati che si avvicinano a una fermata con le quattro frecce accese non possono essere sorpassati (§ 20 c. 3 StVO)."
+    },
+    "ra05": {
+      "prompt": "Un autobus è fermo alla fermata con le quattro frecce accese. Come puoi superarlo?",
+      "options": ["Solo a passo d’uomo", "Senza mettere in pericolo i passeggeri — aspettando se serve", "A 30 km/h"],
+      "why": "Accanto ad autobus e scuolabus fermi alla fermata con le quattro frecce accese si passa solo a passo d’uomo e con distanza sufficiente a non mettere in pericolo i passeggeri. Vale anche per il traffico di fronte sulla stessa carreggiata (§ 20 c. 4 StVO).",
+      "tip": "Bus con quattro frecce alla fermata = passo d’uomo, anche dal senso opposto."
+    },
+    "ra06": {
+      "prompt": "Un autobus mette la freccia a sinistra per ripartire dalla fermata. Cosa fai?",
+      "options": ["Lo lascio uscire, aspettando se serve", "Lo supero in fretta", "Suono"],
+      "why": "Autobus e scuolabus devono poter ripartire dalle fermate segnalate; gli altri veicoli aspettano se necessario (§ 20 c. 5 StVO)."
+    },
+    "ra07": {
+      "prompt": "Un tram si è fermato a una fermata senza isola e scendono passeggeri. Cosa fai?",
+      "options": ["Passo a destra a passo d’uomo senza intralciare i passeggeri", "Aspetto se serve", "Passo in fretta a sinistra"],
+      "why": "Mentre i passeggeri salgono o scendono si può passare solo a destra, a passo d’uomo e con margine; i passeggeri non devono essere intralciati, e se serve si aspetta (§ 20 c. 2 StVO)."
+    },
+    "ra08": {
+      "prompt": "Ti avvicini a un passaggio a livello con la croce di Sant’Andrea. Come ti avvicini?",
+      "options": ["A velocità moderata", "Il più veloce possibile, per passare in fretta", "Sorpasso in fretta il camion davanti"],
+      "why": "Ai passaggi a livello ci si avvicina a velocità moderata (§ 19 c. 1 StVO), per potersi fermare se arriva un treno. Dal segnale 151 o 156 non si sorpassano veicoli a motore."
+    },
+    "mw01": {
+      "prompt": "Ti immetti in autostrada. Cosa è giusto?",
+      "options": ["Uso la corsia di accelerazione per adeguarmi alla velocità dell’autostrada", "Il traffico in autostrada ha la precedenza", "Chi è in autostrada deve farmi entrare"],
+      "why": "La precedenza è del traffico sulla carreggiata principale (§ 18 c. 3 StVO). Usa la corsia di accelerazione per raggiungere un varco adatto a una velocità adatta; immettersi troppo piano è pericoloso."
+    },
+    "mw02": {
+      "prompt": "In autostrada si forma una coda. Dove formi il corridoio di emergenza?",
+      "options": ["Tra la corsia più a sinistra e quella accanto", "Sulla corsia di emergenza", "Distribuito su tutte le corsie"],
+      "why": "Appena il traffico rallenta a passo d’uomo su autostrade e strade extraurbane a più corsie, forma il corridoio tra la corsia più a sinistra e quella alla sua destra (§ 11 c. 2 StVO) — prima che arrivino i mezzi di soccorso.",
+      "tip": "La corsia più a sinistra va a sinistra; tutti gli altri a destra."
+    },
+    "mw03": {
+      "prompt": "Cosa è vietato in autostrada?",
+      "options": ["Inversione e retromarcia", "Fermarsi, anche sulla corsia di emergenza (salvo emergenze)", "Usare la corsia di sinistra per sorpassare"],
+      "why": "Inversione e retromarcia sono vietate in autostrada, rampe comprese. Anche la fermata è vietata, corsia di emergenza inclusa (§ 18 c. 7 e 8 StVO). Hai perso l’uscita? Prendi la prossima."
+    },
+    "mw04": {
+      "prompt": "Hai un guasto in autostrada. Cosa fai?",
+      "options": ["Accendo le quattro frecce e, se possibile, vado sulla corsia di emergenza", "Indosso il gilet ad alta visibilità e porto tutti dietro il guardrail", "Metto il triangolo a circa 200 m dietro"],
+      "why": "Prima la sicurezza: quattro frecce, a destra, gilet, tutti scendono dal lato passeggero e dietro il guardrail. Poi il triangolo: circa 200 m dietro in autostrada, 100 m sulle strade extraurbane, 50 m in città (§ 15 StVO).",
+      "tip": "50 — 100 — 200 m: città, extraurbana, autostrada."
+    },
+    "mw05": {
+      "prompt": "In autostrada ti avvicini alla fine di una coda. Cosa fai?",
+      "options": ["Freno per tempo e accendo le quattro frecce", "Lascio abbastanza spazio dall’ultimo veicolo", "Mi butto sulla corsia di emergenza"],
+      "why": "In fondo alla coda avverti chi arriva dietro con le quattro frecce (§ 16 c. 2 StVO). Lascia uno spazio per poterti scansare se qualcuno dietro frena troppo tardi."
+    },
+    "mw06": {
+      "prompt": "La radio segnala un veicolo contromano sul tuo tratto di autostrada. Cosa fai?",
+      "options": ["Tengo la destra e non sorpasso", "Rallento e aumento la distanza", "Resto sulla corsia di sinistra"],
+      "why": "Chi va contromano di solito ti viene incontro sulla corsia di sinistra, credendo che sia la destra. Tieni la destra, non sorpassare, rallenta e accendi le quattro frecce se si avvicina."
+    },
+    "mw07": {
+      "prompt": "Quanti metri prima dell’uscita si trova il pannello a tre strisce?",
+      "why": "I pannelli distanziometrici (segnale 450) si trovano a circa 300, 200 e 100 m dall’inizio della corsia di uscita. Spostati per tempo sulla corsia di destra.",
+      "tip": "Autostrada: 100 m per striscia. Passaggio a livello: 80 m."
+    },
+    "mw08": {
+      "prompt": "Di norma, a che distanza tra loro sono i delineatori a bordo strada?",
+      "why": "I delineatori stanno di solito ogni 50 m. Usali per stimare distanze e visibilità: se nella nebbia non vedi il successivo, la visibilità è sotto i 50 m e non puoi superare i 50 km/h."
+    },
+    "mw09": {
+      "prompt": "Chi può circolare sulla corsia di emergenza dell’autostrada?",
+      "options": ["Nessuno — salvo che i segnali la aprano al traffico", "I veicoli lenti", "Chiunque sia in coda"],
+      "why": "La corsia di emergenza non è una corsia di marcia. Ci si può circolare solo dove i segnali la aprono espressamente; altrimenti è per guasti e servizi di soccorso."
+    },
+    "mw10": {
+      "prompt": "Cosa vale su una superstrada (Kraftfahrstraße)?",
+      "options": ["Possono usarla solo veicoli a motore costruiti per oltre 60 km/h", "Agli incroci ha la precedenza il traffico sulla superstrada", "I pedoni possono camminare sul bordo"],
+      "why": "Sulle superstrade (segnale 331.1) valgono in gran parte le regole dell’autostrada: solo veicoli a motore veloci, niente fermate, niente inversioni, e il traffico che le percorre ha la precedenza agli incroci."
+    }
+  }
+}

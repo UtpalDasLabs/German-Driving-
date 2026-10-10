@@ -1,0 +1,233 @@
+{
+  "questions": {
+    "pr01": {
+      "prompt": "Vuoi proseguire dritto. A questo incrocio non c’è nessun segnale. Chi ha la precedenza?",
+      "options": ["L’auto da destra", "Io, perché vado dritto", "Chi arriva prima all’incrocio"],
+      "why": "Senza segnali né semafori vale la regola «la destra ha la precedenza» (rechts vor links, § 8 c. 1 StVO). L’auto arriva dalla tua destra, quindi la lasci passare — che tu vada dritto o svolti.",
+      "tip": "Rechts vor links: chi viene da destra passa per primo."
+    },
+    "pr02": {
+      "prompt": "Vuoi proseguire dritto. Non ci sono segnali. Devi lasciar passare quest’auto?",
+      "options": ["No — viene da sinistra e deve lasciar passare me", "Sì — è più vicina all’incrocio", "Sì — agli incroci senza segnali bisogna sempre fermarsi"],
+      "why": "L’auto è alla tua sinistra. Con la regola «la destra ha la precedenza» è lei ad aspettare te, non il contrario. Guida comunque con prudenza: non è detto che ti abbia vista o visto."
+    },
+    "pr03": {
+      "prompt": "Nessun segnale, tutti vanno dritto. In che ordine passano i veicoli?",
+      "options": ["2, 3, 1", "1, 2, 3", "3, 1, 2"],
+      "why": "L’auto 2 non ha nessuno alla sua destra, quindi passa per prima. La persona in bici, 3, aspetta solo l’auto 2, che è alla sua destra. Tu (1) hai la bici alla tua destra, quindi il tuo turno è l’ultimo.",
+      "tip": "Con più veicoli: trova prima quello che ha la destra libera."
+    },
+    "pr04": {
+      "prompt": "Vuoi svoltare a sinistra; l’auto che arriva di fronte vuole andare dritto. Chi passa per primo?",
+      "options": ["L’auto che arriva di fronte", "Io, perché la mia freccia era accesa prima", "Passiamo insieme"],
+      "why": "Se svolti a sinistra devi lasciar passare prima il traffico in senso opposto (§ 9 c. 3 StVO). Vale a ogni incrocio, anche su una strada con diritto di precedenza.",
+      "tip": "Chi svolta a sinistra aspetta chi viene di fronte."
+    },
+    "pr05": {
+      "prompt": "Tu e l’auto di fronte volete entrambi svoltare a sinistra. Come svoltate?",
+      "options": ["L’uno davanti all’altro — ciascuno svolta davanti all’altro", "Girandosi attorno — passando dietro l’altro", "Chi mette la freccia per primo passa per primo"],
+      "why": "Due veicoli contrapposti che svoltano a sinistra svoltano l’uno davanti all’altro (§ 9 c. 4 StVO), salvo che il traffico o la conformazione dell’incrocio non lo permettano."
+    },
+    "pr06": {
+      "prompt": "Vuoi svoltare a sinistra. Chi devi lasciar passare?",
+      "options": ["L’auto da sinistra", "L’auto da destra", "Nessuno, perché ho la freccia"],
+      "why": "Il segnale 205 «Dare precedenza» vale per la tua strada. Tutti sulla strada principale hanno la precedenza, da sinistra e da destra. Svoltando a sinistra attraversi entrambe le corsie."
+    },
+    "pr07": {
+      "prompt": "Cosa devi fare a questo segnale?",
+      "options": ["Fermarmi alla linea di arresto, anche se la strada è libera", "Dare la precedenza", "Fermarmi solo se arriva qualcuno"],
+      "why": "Il segnale 206 «Stop. Dare precedenza.» richiede un arresto completo — ruote ferme — alla linea di arresto o, se manca, dove si vede la strada. Poi dai la precedenza.",
+      "tip": "STOP vuol dire ruote ferme. Passare lentamente non basta."
+    },
+    "pr08": {
+      "prompt": "Vai dritto. Chi ha la precedenza?",
+      "options": ["Io", "L’auto da destra", "Chi arriva prima"],
+      "why": "Sei su una strada con diritto di precedenza (segnale 306); la strada laterale ha il segnale 205. La regola «la destra ha la precedenza» qui non vale — l’auto deve aspettare."
+    },
+    "pr09": {
+      "prompt": "Fino a dove vale la precedenza data da questo segnale?",
+      "options": ["Solo fino al prossimo incrocio", "Fino alla fine del centro abitato", "Fino al segnale «fine del diritto di precedenza»"],
+      "why": "Il segnale 301 dà la precedenza solo al prossimo incrocio. La precedenza su un tratto intero viene solo dal segnale di strada con diritto di precedenza (306).",
+      "tip": "301 = una volta. 306 = per tutto il tratto."
+    },
+    "pr10": {
+      "prompt": "Segui la strada con diritto di precedenza che piega a sinistra. Cosa devi fare?",
+      "options": ["Mettere la freccia a sinistra", "Fare attenzione ai pedoni che attraversano", "Non mettere la freccia, perché resto sulla strada principale"],
+      "why": "Chi segue una strada principale che cambia direzione deve mettere la freccia per tempo e fare particolare attenzione ai pedoni, aspettando se necessario (pannello integrativo 1002 sotto il segnale 306).",
+      "tip": "La freccia segue la curva della strada, non il segnale."
+    },
+    "pr11": {
+      "prompt": "La strada principale piega (in giallo). Vuoi andare dritto. Chi lasci passare?",
+      "options": ["L’auto 1", "Nessuno — vado dritto", "Solo i veicoli da destra"],
+      "why": "Sei sulla strada laterale (segnale 205). L’auto 1 è sulla strada principale, ne segue la curva e taglia la tua traiettoria. Andare dritto non ti dà la precedenza."
+    },
+    "pr12": {
+      "prompt": "Esci da un passo carraio sulla strada. Cosa vale?",
+      "options": ["Devo lasciar passare il traffico sulla strada", "Va escluso ogni pericolo per gli altri", "Anche qui vale «la destra ha la precedenza»"],
+      "why": "Chi esce da una proprietà, da una zona residenziale o dal bordo della strada deve escludere ogni pericolo per gli altri — se serve con l’aiuto di qualcuno che dia indicazioni (§ 10 StVO). «La destra ha la precedenza» qui non aiuta."
+    },
+    "pr13": {
+      "prompt": "Esci da una strada di campagna su una strada senza segnali. Da sinistra arriva un’auto. Chi ha la precedenza?",
+      "options": ["L’auto", "Io — vengo dalla sua destra", "Il più lento"],
+      "why": "Chi esce da una strada di campagna o forestale non ha mai la precedenza (§ 8 c. 1 StVO), neanche sul traffico da sinistra."
+    },
+    "pr14": {
+      "prompt": "Cosa vale in questa rotatoria?",
+      "options": ["I veicoli già nella rotatoria hanno la precedenza", "Entrando non si mette la freccia", "Uscendo si mette la freccia a destra"],
+      "why": "Con il segnale 215 sotto il segnale 205 la precedenza è del traffico in rotatoria. Mettere la freccia entrando non è consentito, uscendo è obbligatorio. Fermarsi nella rotatoria è vietato (§ 9a StVO).",
+      "tip": "Si entra senza freccia, si esce con la freccia."
+    },
+    "pr15": {
+      "prompt": "A questa piazza circolare non ci sono segnali. Chi ha la precedenza?",
+      "options": ["Io — l’auto sulla piazza viene dalla mia sinistra", "L’auto sulla piazza", "Chi mette la freccia per primo"],
+      "why": "Senza il segnale 215 questa non è una rotatoria ai sensi del § 9a StVO, ma un normale incrocio. Vale «la destra ha la precedenza» — il traffico sulla piazza deve farti entrare.",
+      "tip": "Niente segnale blu di rotatoria = la destra ha la precedenza."
+    },
+    "pr16": {
+      "prompt": "Vai dritto sulla strada che prosegue. Non ci sono segnali. Chi ha la precedenza?",
+      "options": ["L’auto che esce dalla laterale a destra", "Io — sono sulla strada che prosegue", "Il più veloce"],
+      "why": "Una strada che prosegue dritta non è una strada con diritto di precedenza senza segnale. Anche agli incroci a T vale «la destra ha la precedenza», e l’auto è alla tua destra.",
+      "tip": "Più larga o più dritta non vuol dire precedenza."
+    },
+    "pr17": {
+      "prompt": "In che ordine passano i veicoli?",
+      "options": ["3, 1, 2", "1, 2, 3", "3, 2, 1"],
+      "why": "Il camion 3 è sulla strada principale e passa per primo. 1 e 2 sono uno di fronte all’altro sulle laterali; 2 svolta a sinistra e deve lasciar passare 1, che arriva di fronte e va dritto."
+    },
+    "pr18": {
+      "prompt": "Sei sulla strada principale e vuoi svoltare a sinistra. Chi deve aspettare?",
+      "options": ["Io", "L’auto di fronte", "Nessuno, siamo entrambi sulla strada principale"],
+      "why": "La strada principale regola solo il rapporto con le laterali. Tra i veicoli che la percorrono valgono le regole di svolta: chi svolta a sinistra lascia passare chi viene di fronte (§ 9 c. 3 StVO)."
+    },
+    "pr19": {
+      "prompt": "Vuoi svoltare a destra. Cosa significa per te questo segnale?",
+      "options": ["Devo dare la precedenza al traffico da sinistra", "Ho la precedenza perché svolto a destra", "Posso immettermi senza guardare"],
+      "why": "Il segnale 205 significa «Dare precedenza». Svoltando a destra entri nella corsia in cui viaggia il traffico da sinistra, quindi devi lasciarlo passare."
+    },
+    "pr20": {
+      "prompt": "Nessun segnale. Vuoi svoltare a sinistra. In che ordine passano i veicoli?",
+      "options": ["2, 1", "1, 2", "Insieme"],
+      "why": "L’auto 2 arriva dalla tua destra e ha la precedenza con la regola «la destra ha la precedenza». Il fatto che tu svolti invece di andare dritto non cambia niente: taglia la tua traiettoria."
+    },
+    "sg01": {
+      "prompt": "L’agente è rivolto verso di te con entrambe le braccia tese ai lati. Cosa significa per te?",
+      "options": ["Fermarsi prima dell’incrocio — come col rosso", "Passare — come col verde", "Liberare in fretta l’incrocio"],
+      "why": "Le braccia tese di traverso rispetto alla tua direzione significano «stop» per il traffico davanti e dietro l’agente. Il traffico lungo la linea delle braccia può passare (§ 36 c. 2 StVO).",
+      "tip": "Petto o schiena verso di te = rosso. Braccio che ti indica = verde."
+    },
+    "sg02": {
+      "prompt": "Ti avvicini all’agente di lato. Le braccia dell’agente indicano lungo la tua direzione. Cosa significa per te?",
+      "options": ["Posso passare — come col verde", "Stop — come col rosso", "Devo aspettare che l’agente faccia un cenno"],
+      "why": "L’agente è di fianco rispetto a te, con le braccia lungo la tua direzione: il tuo flusso è libero. Se svolti, valgono comunque le regole di svolta."
+    },
+    "sg03": {
+      "prompt": "Un agente alza un braccio in verticale. Cosa significa?",
+      "options": ["Chi è prima dell’incrocio aspetta il segnale successivo", "Chi è già nell’incrocio lo libera", "Possono passare tutti"],
+      "why": "Il braccio alzato corrisponde al giallo: «Attenzione, il segnale sta per cambiare». Prima dell’incrocio aspetta, dentro l’incrocio liberalo (§ 36 c. 2 n. 2 StVO)."
+    },
+    "sg04": {
+      "prompt": "Il semaforo è verde. Un agente ti fa segno di fermarti. Cosa fai?",
+      "options": ["Mi fermo — la polizia prevale", "Proseguo — prevale il verde", "Suono il clacson e proseguo piano"],
+      "why": "I segnali e gli ordini degli agenti prevalgono su tutto il resto, semafori compresi (§ 36 c. 1 StVO)."
+    },
+    "sg05": {
+      "prompt": "Quale ordine di prevalenza è giusto?",
+      "options": ["Polizia, semafori, segnali, regole generali", "Semafori, polizia, segnali, regole generali", "Segnali, semafori, polizia, regole generali"],
+      "why": "La polizia prevale su tutto (§ 36), i semafori sui segnali e sulle regole di precedenza (§ 37), e i segnali su «la destra ha la precedenza».",
+      "tip": "Persona, luce, segnale, regola."
+    },
+    "sg06": {
+      "prompt": "Hai il rosso e accanto c’è un pannello con la freccia verde. Vuoi svoltare a destra. Cosa vale?",
+      "options": ["Prima devo fermarmi alla linea di arresto", "Poi posso svoltare se non ostacolo né metto in pericolo nessuno", "Posso svoltare senza fermarmi"],
+      "why": "Il pannello con la freccia verde (720) consente di svoltare a destra col rosso solo dopo un arresto completo alla linea e solo senza ostacolare né mettere in pericolo nessuno, soprattutto pedoni e ciclisti che hanno il verde (§ 37 c. 2 StVO).",
+      "tip": "Freccia verde = uno STOP che ti lascia svoltare."
+    },
+    "sg07": {
+      "prompt": "Il semaforo diventa giallo. Cosa fai?",
+      "options": ["Mi fermo, se posso ancora farlo in sicurezza", "Accelero per passare", "Freno sempre subito il più forte possibile"],
+      "why": "Il giallo significa: prima dell’incrocio aspetta il segnale successivo. Se la distanza è troppo breve per fermarti in sicurezza, prosegui — ma accelerare non è mai la risposta."
+    },
+    "sg08": {
+      "prompt": "Il semaforo mostra rosso e giallo insieme. Cosa significa?",
+      "options": ["Sta per arrivare il verde — aspetto ancora", "Posso già partire", "Il semaforo è guasto"],
+      "why": "Rosso e giallo insieme significano «Attenzione, poi viene il verde». Resti fermo finché non si accende il verde."
+    },
+    "sg09": {
+      "prompt": "I semafori non funzionano. Cosa vale ora?",
+      "options": ["I segnali di precedenza dell’incrocio", "Se non ci sono segnali: la destra ha la precedenza", "Chi prima arriva, prima passa"],
+      "why": "Se i semafori sono spenti o lampeggiano solo giallo, valgono i segnali. Se non ce ne sono, vale «la destra ha la precedenza»."
+    },
+    "sg10": {
+      "prompt": "Cosa significa una sola luce gialla lampeggiante a un incrocio?",
+      "options": ["Attenzione — valgono i segnali stradali", "Possono passare tutti", "Fermarsi come col rosso"],
+      "why": "Il giallo lampeggiante è un avvertimento (§ 37 c. 2 n. 5 StVO). Non regola niente; la precedenza deriva dai segnali."
+    },
+    "sg11": {
+      "prompt": "Un’ambulanza con lampeggianti blu e sirena si avvicina da dietro. Cosa fai?",
+      "options": ["Faccio subito strada", "Proseguo finché trovo una piazzola", "Freno di colpo e mi fermo nella mia corsia"],
+      "why": "Lampeggianti blu insieme alla sirena significano che tutti gli altri devono fare strada immediatamente (§ 38 c. 1 StVO). Fermarsi in mezzo alla corsia non aiuta."
+    },
+    "sg12": {
+      "prompt": "Un’auto della polizia è ferma a bordo strada con il lampeggiante blu acceso ma senza sirena. Cosa significa?",
+      "options": ["Avverte di un pericolo, ad esempio un incidente", "Devo fermarmi subito", "Devo fare strada"],
+      "why": "Il solo lampeggiante blu è un avvertimento sul luogo di un incidente o di un evento (§ 38 c. 2 StVO). Passa piano e con attenzione.",
+      "tip": "Blu + sirena = fai strada. Solo blu = attenzione."
+    },
+    "sg13": {
+      "prompt": "Hai il verde, ma dopo l’incrocio il traffico è fermo. Cosa fai?",
+      "options": ["Aspetto prima dell’incrocio", "Entro nell’incrocio perché ho il verde", "Avanzo piano dentro l’incrocio"],
+      "why": "Se dovessi fermarti dentro l’incrocio, non puoi entrarci nemmeno col verde (§ 11 c. 1 StVO). Altrimenti blocchi il traffico trasversale quando cambia il suo semaforo."
+    },
+    "sg14": {
+      "prompt": "Hai il verde e vuoi svoltare a sinistra. A cosa devi fare attenzione?",
+      "options": ["Lasciar passare prima il traffico di fronte", "Ai pedoni che attraversano la strada in cui svolto", "A niente — il verde vuol dire che ho la precedenza"],
+      "why": "Il verde non annulla le regole di svolta: lascia passare chi viene di fronte e fai particolare attenzione ai pedoni (§ 9 c. 3 StVO). Solo una freccia verde nel semaforo stesso indica una svolta protetta."
+    },
+    "sg15": {
+      "prompt": "Un camion dei rifiuti è fermo sulla strada con una luce gialla lampeggiante. Cosa significa la luce?",
+      "options": ["Avverte di un pericolo", "Devo fare strada", "Il veicolo ha la precedenza"],
+      "why": "La luce gialla lampeggiante su un veicolo avverte di un pericolo (§ 38 c. 3 StVO) — qui, di operai che possono sbucare da dietro. Passa piano e con ampio margine."
+    },
+    "ba01": {
+      "prompt": "Su quale lato della strada circoli?",
+      "options": ["Il più a destra possibile, entro limiti ragionevoli", "Al centro, per stare lontano dal bordo", "Dove è più comodo"],
+      "why": "In Germania vale l’obbligo di circolare a destra: il più a destra ragionevolmente possibile — non solo quando arriva traffico di fronte o quando qualcuno ti sorpassa, ma anche su strada libera e sui dossi (§ 2 c. 2 StVO)."
+    },
+    "ba02": {
+      "prompt": "Una corsia finisce. Come cambi corsia?",
+      "options": ["A cerniera, poco prima del restringimento", "Il prima possibile, anche se la corsia continua ancora a lungo", "Chi è sulla corsia che continua non deve far entrare nessuno"],
+      "why": "Dove una corsia finisce o è bloccata, i veicoli si immettono alternandosi, uno alla volta, proprio all’inizio del restringimento (§ 7 c. 4 StVO). La corsia che continua deve permetterlo.",
+      "tip": "Fino in fondo, poi uno alla volta."
+    },
+    "ba03": {
+      "prompt": "Cosa devi fare prima di cambiare corsia?",
+      "options": ["Guardare nello specchietto e sopra la spalla", "Mettere la freccia per tempo", "Dare un colpo di clacson"],
+      "why": "Il cambio di corsia è permesso solo se nessuno può essere messo in pericolo e va segnalato chiaramente e per tempo (§ 7 c. 5 StVO). Solo lo sguardo sopra la spalla copre l’angolo cieco."
+    },
+    "ba04": {
+      "prompt": "Quando puoi usare il clacson?",
+      "options": ["Per avvertire altri di un pericolo", "Fuori dai centri abitati, per annunciare un sorpasso", "Per salutare qualcuno"],
+      "why": "Clacson e lampeggio dei fari servono solo per annunciare un sorpasso fuori dai centri abitati o quando tu o altri siete in pericolo (§ 16 c. 1 StVO). Salutare, mettere fretta o sfogarsi non contano."
+    },
+    "ba05": {
+      "prompt": "Quando puoi accendere le quattro frecce?",
+      "options": ["In caso di guasto o di traino", "Per avvertire di un pericolo, ad esempio in coda", "Quando parcheggio un attimo in doppia fila"],
+      "why": "Le quattro frecce servono per guasti, traino, scuolabus alle fermate e per segnalare pericoli come una coda davanti (§ 16 c. 2 StVO). Non autorizzano a parcheggiare dove è vietato."
+    },
+    "ba06": {
+      "prompt": "In città, su una strada con due corsie segnate nella tua direzione, puoi scegliere la corsia?",
+      "options": ["Sì, in auto", "No, devo sempre tenere la destra", "Solo per sorpassare"],
+      "why": "Nei centri abitati i veicoli fino a 3,5 t possono scegliere liberamente la corsia sulle strade con più corsie segnate in un senso (§ 7 c. 3 StVO). Zigzagare tra le corsie resta vietato."
+    },
+    "ba07": {
+      "prompt": "Cosa si intende per situazione di traffico poco chiara?",
+      "options": ["Non posso sapere con certezza cosa faranno gli altri", "È notte", "La strada è larga"],
+      "why": "Una situazione è poco chiara quando non puoi valutare con certezza cosa faranno gli altri — per esempio un’auto mette la freccia a sinistra ma non si sposta. Allora il sorpasso è vietato e occorre prepararsi a frenare."
+    },
+    "ba08": {
+      "prompt": "Cosa fa parte della guida previdente?",
+      "options": ["Guardare lontano, non solo l’auto davanti", "Controllare regolarmente gli specchietti", "Stare il più vicino possibile per reagire prima"],
+      "why": "Chi guarda lontano e sa cosa ha dietro vede presto i pericoli e reagisce con calma. Stare attaccati a chi precede toglie proprio quel tempo."
+    }
+  }
+}
