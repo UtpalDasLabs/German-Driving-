@@ -13,7 +13,8 @@
    "ro": "Cum se desfășoară examenul",
    "hr": "Kako ispit izgleda",
    "el": "Πώς γίνεται η εξέταση",
-   "it": "Come funziona l’esame"
+   "it": "Come funziona l’esame",
+   "es": "Cómo es el examen"
   },
   "body": [
    {
@@ -26,7 +27,8 @@
     "ro": "Examenul durează în total 55 de minute, din care cel puțin 30 de condus efectiv. Conduci mașina școlii de șoferi, cu instructorul alături; examinatorul (de la TÜV sau DEKRA) stă în spate.",
     "hr": "Ispit ukupno traje 55 minuta, od toga barem 30 minuta stvarne vožnje. Voziš automobil autoškole uz instruktora pokraj sebe; ispitivač (iz TÜV-a ili DEKRA-e) sjedi straga.",
     "el": "Η εξέταση διαρκεί συνολικά 55 λεπτά, από τα οποία τουλάχιστον 30 είναι πραγματική οδήγηση. Οδηγείς το αυτοκίνητο της σχολής με τον εκπαιδευτή δίπλα σου· ο εξεταστής (από TÜV ή DEKRA) κάθεται πίσω.",
-    "it": "L’esame dura in tutto 55 minuti, di cui almeno 30 di guida effettiva. Guidi l’auto dell’autoscuola con l’istruttore accanto; l’esaminatore (di TÜV o DEKRA) siede dietro."
+    "it": "L’esame dura in tutto 55 minuti, di cui almeno 30 di guida effettiva. Guidi l’auto dell’autoscuola con l’istruttore accanto; l’esaminatore (di TÜV o DEKRA) siede dietro.",
+    "es": "El examen dura 55 minutos en total, al menos 30 de conducción real. Conduces el coche de la autoescuela con tu profesor o profesora al lado; la persona examinadora (de TÜV o DEKRA) se sienta detrás."
    },
    {
     "de": "Zuerst prüft der Prüfer Ihren Ausweis. Dann folgen die Fahrtvorbereitung und Abfahrtkontrolle, die Fahrt durch Stadt, über Land und meist auf Autobahn oder Kraftfahrstraße, und die Grundfahraufgaben.",
@@ -38,7 +40,8 @@
     "ro": "Întâi examinatorul verifică actul de identitate. Urmează pregătirea și verificarea vehiculului, condusul prin oraș, pe drumuri din afara localității și de obicei pe autostradă sau drum expres, precum și manevrele stabilite.",
     "hr": "Najprije ispitivač provjerava osobnu ispravu. Zatim slijede priprema i provjera vozila, vožnja kroz grad, izvan naselja i obično autocestom ili brzom cestom te propisane radnje.",
     "el": "Πρώτα ο εξεταστής ελέγχει την ταυτότητα. Ακολουθούν προετοιμασία και έλεγχος οχήματος, οδήγηση στην πόλη, σε επαρχιακούς δρόμους και συνήθως σε αυτοκινητόδρομο ή οδό ταχείας κυκλοφορίας, και οι προβλεπόμενοι ελιγμοί.",
-    "it": "Prima l’esaminatore controlla il documento d’identità. Poi vengono la preparazione e i controlli del veicolo, la guida in città, su strade extraurbane e di solito in autostrada o superstrada, e le manovre previste."
+    "it": "Prima l’esaminatore controlla il documento d’identità. Poi vengono la preparazione e i controlli del veicolo, la guida in città, su strade extraurbane e di solito in autostrada o superstrada, e le manovre previste.",
+    "es": "Primero se comprueba tu documento de identidad. Luego vienen la preparación y las comprobaciones del vehículo, la conducción por ciudad, por carretera y normalmente por autopista o vía para automóviles, y las maniobras establecidas."
    },
    {
     "de": "Am Ende bekommen Sie sofort das Ergebnis und eine Rückmeldung zu jedem der fünf Kompetenzbereiche. Haben Sie bestanden, erhalten Sie Ihren Führerschein oder eine vorläufige Bescheinigung direkt nach der Prüfung.",
@@ -50,7 +53,8 @@
     "ro": "La final primești rezultatul pe loc, cu feedback pentru fiecare dintre cele cinci domenii de competență. Dacă promovezi, primești permisul — sau o adeverință provizorie — imediat după examen.",
     "hr": "Na kraju odmah dobivaš rezultat, uz povratnu informaciju za svako od pet područja kompetencija. Ako položiš, vozačku dozvolu — ili privremenu potvrdu — dobivaš odmah nakon ispita.",
     "el": "Στο τέλος παίρνεις αμέσως το αποτέλεσμα, με σχόλια για κάθε έναν από τους πέντε τομείς ικανοτήτων. Αν πετύχεις, παίρνεις το δίπλωμα — ή μια προσωρινή βεβαίωση — αμέσως μετά την εξέταση.",
-    "it": "Alla fine ricevi subito il risultato, con un riscontro su ciascuna delle cinque aree di competenza. Se superi l’esame, ricevi la patente — o un certificato provvisorio — subito dopo."
+    "it": "Alla fine ricevi subito il risultato, con un riscontro su ciascuna delle cinque aree di competenza. Se superi l’esame, ricevi la patente — o un certificato provvisorio — subito dopo.",
+    "es": "Al final recibes el resultado al momento, con comentarios sobre cada una de las cinco áreas de competencia. Si apruebas, recibes el permiso — o un certificado provisional — justo después."
    },
    {
     "de": "Die praktische Prüfung muss innerhalb von 12 Monaten nach der bestandenen Theorieprüfung abgelegt werden. Nicht bestanden? Eine Wiederholung ist in der Regel frühestens nach zwei Wochen möglich.",
@@ -62,7 +66,8 @@
     "ro": "Examenul practic trebuie dat în 12 luni de la promovarea teoriei. Nu a mers? De obicei îl poți repeta cel mai devreme după două săptămâni.",
     "hr": "Ispit vožnje treba položiti u roku od 12 mjeseci od položene teorije. Nije uspjelo? Obično se može ponoviti najranije nakon dva tjedna.",
     "el": "Η πρακτική εξέταση πρέπει να δοθεί μέσα σε 12 μήνες από την επιτυχία στη θεωρία. Δεν πήγε καλά; Συνήθως μπορείς να την ξαναδώσεις το νωρίτερο μετά από δύο εβδομάδες.",
-    "it": "L’esame pratico va sostenuto entro 12 mesi dal superamento della teoria. Non è andata? Di solito puoi ripeterlo al più presto dopo due settimane."
+    "it": "L’esame pratico va sostenuto entro 12 mesi dal superamento della teoria. Non è andata? Di solito puoi ripeterlo al più presto dopo due settimane.",
+    "es": "El examen práctico debe hacerse en los 12 meses siguientes a aprobar la teoría. ¿No salió bien? Normalmente puedes repetirlo como pronto a las dos semanas."
    }
   ],
   "checklist": [
@@ -76,7 +81,8 @@
     "ro": "Buletinul sau pașaportul la mine",
     "hr": "Osobna iskaznica ili putovnica uza me",
     "el": "Ταυτότητα ή διαβατήριο μαζί μου",
-    "it": "Carta d’identità o passaporto con me"
+    "it": "Carta d’identità o passaporto con me",
+    "es": "DNI o pasaporte conmigo"
    },
    {
     "de": "Brille oder Kontaktlinsen, falls im Führerschein vorgeschrieben",
@@ -88,7 +94,8 @@
     "ro": "Ochelari sau lentile, dacă permisul le cere",
     "hr": "Naočale ili leće, ako to dozvola traži",
     "el": "Γυαλιά ή φακοί, αν το απαιτεί το δίπλωμα",
-    "it": "Occhiali o lenti, se la patente li richiede"
+    "it": "Occhiali o lenti, se la patente li richiede",
+    "es": "Gafas o lentillas, si mi permiso las exige"
    },
    {
     "de": "Bequeme, flache Schuhe",
@@ -100,7 +107,8 @@
     "ro": "Pantofi comozi, cu talpă plată",
     "hr": "Udobna, ravna obuća",
     "el": "Άνετα, επίπεδα παπούτσια",
-    "it": "Scarpe comode e basse"
+    "it": "Scarpe comode e basse",
+    "es": "Calzado cómodo y plano"
    },
    {
     "de": "Ausgeschlafen und 0,0 Promille",
@@ -112,7 +120,8 @@
     "ro": "Odihnă bună și 0,0 alcool",
     "hr": "Naspavati se i 0,0 alkohola",
     "el": "Καλός ύπνος και 0,0 αλκοόλ",
-    "it": "Ben riposato o riposata e 0,0 alcol"
+    "it": "Ben riposato o riposata e 0,0 alcol",
+    "es": "Haber dormido bien y 0,0 alcohol"
    },
    {
     "de": "15 Minuten vor dem Termin bei der Fahrschule",
@@ -124,7 +133,8 @@
     "ro": "La școala de șoferi cu 15 minute mai devreme",
     "hr": "U autoškoli 15 minuta ranije",
     "el": "Στη σχολή 15 λεπτά νωρίτερα",
-    "it": "All’autoscuola 15 minuti prima"
+    "it": "All’autoscuola 15 minuti prima",
+    "es": "En la autoescuela 15 minutos antes"
    }
   ],
   "pitfalls": [
@@ -138,7 +148,8 @@
     "ro": "Fără act de identitate valabil examenul nu are loc — iar taxa se pierde de obicei oricum.",
     "hr": "Bez važeće isprave ispit se ne održava — a pristojba obično ionako propada.",
     "el": "Χωρίς έγκυρη ταυτότητα η εξέταση δεν γίνεται — και το παράβολο συνήθως χάνεται έτσι κι αλλιώς.",
-    "it": "Senza un documento valido l’esame non si fa — e la tassa di solito è persa comunque."
+    "it": "Senza un documento valido l’esame non si fa — e la tassa di solito è persa comunque.",
+    "es": "Sin documento válido no hay examen — y la tasa suele perderse de todos modos."
    }
   ],
   "phrases": []
@@ -157,7 +168,8 @@
    "ro": "Pregătirea și verificarea vehiculului",
    "hr": "Priprema i provjera vozila",
    "el": "Προετοιμασία και έλεγχος οχήματος",
-   "it": "Preparazione e controlli del veicolo"
+   "it": "Preparazione e controlli del veicolo",
+   "es": "Preparación y comprobaciones del vehículo"
   },
   "body": [
    {
@@ -170,7 +182,8 @@
     "ro": "Înainte de plecare reglezi scaunul, volanul, oglinzile și tetiera și îți pui centura. Examinatorul îți cere de obicei să arăți sau să explici câteva lucruri la mașină.",
     "hr": "Prije polaska namještaš sjedalo, upravljač, zrcala i naslon za glavu te se vežeš. Ispitivač obično traži da pokažeš ili objasniš nekoliko stvari na vozilu.",
     "el": "Πριν ξεκινήσεις ρυθμίζεις κάθισμα, τιμόνι, καθρέφτες και προσκέφαλο και φοράς ζώνη. Ο εξεταστής συνήθως ζητά να δείξεις ή να εξηγήσεις μερικά πράγματα στο αυτοκίνητο.",
-    "it": "Prima di partire regoli sedile, volante, specchietti e poggiatesta e allacci la cintura. Di solito l’esaminatore chiede di mostrare o spiegare alcune cose sull’auto."
+    "it": "Prima di partire regoli sedile, volante, specchietti e poggiatesta e allacci la cintura. Di solito l’esaminatore chiede di mostrare o spiegare alcune cose sull’auto.",
+    "es": "Antes de arrancar ajustas el asiento, el volante, los espejos y el reposacabezas, y te abrochas el cinturón. Normalmente te piden que enseñes o expliques algunas cosas del coche."
    },
    {
     "de": "Typisch sind: Beleuchtung einschalten und prüfen, Reifen (Profil, Beschädigungen, wo steht der Luftdruck), Flüssigkeitsstände (Motoröl, Kühlmittel, Scheibenwaschwasser, Bremsflüssigkeit), Hupe, Warnleuchten im Display.",
@@ -182,7 +195,8 @@
     "ro": "Puncte tipice: aprinderea și verificarea luminilor; anvelopele (profil, defecte, unde scrie presiunea); nivelurile lichidelor (ulei de motor, lichid de răcire, lichid de parbriz, lichid de frână); claxonul; martorii de pe bord.",
     "hr": "Tipične stavke: paljenje i provjera svjetala; gume (šara, oštećenja, gdje piše tlak); razine tekućina (motorno ulje, rashladna tekućina, tekućina za pranje stakla, kočiona tekućina); truba; žaruljice upozorenja na instrumentnoj ploči.",
     "el": "Τυπικά θέματα: άναμμα και έλεγχος φώτων· ελαστικά (πέλμα, φθορές, πού αναγράφονται οι πιέσεις)· στάθμες υγρών (λάδι κινητήρα, ψυκτικό, υγρό υαλοκαθαριστήρων, υγρό φρένων)· κόρνα· ενδεικτικές λυχνίες στον πίνακα οργάνων.",
-    "it": "Punti tipici: accendere e controllare le luci; pneumatici (battistrada, danni, dove sono indicate le pressioni); livelli dei liquidi (olio motore, liquido refrigerante, lavavetri, liquido dei freni); clacson; spie sul cruscotto."
+    "it": "Punti tipici: accendere e controllare le luci; pneumatici (battistrada, danni, dove sono indicate le pressioni); livelli dei liquidi (olio motore, liquido refrigerante, lavavetri, liquido dei freni); clacson; spie sul cruscotto.",
+    "es": "Puntos típicos: encender y comprobar las luces; neumáticos (dibujo, daños, dónde figuran las presiones); niveles de líquidos (aceite de motor, refrigerante, limpiaparabrisas, líquido de frenos); claxon; testigos del cuadro."
    }
   ],
   "checklist": [
@@ -196,7 +210,8 @@
     "ro": "Scaunul reglat astfel încât pedala de ambreiaj sau de frână să se apese până la capăt",
     "hr": "Sjedalo namješteno tako da se papučica spojke ili kočnice može pritisnuti do kraja",
     "el": "Κάθισμα ρυθμισμένο ώστε το πεντάλ συμπλέκτη ή φρένου να πατιέται μέχρι κάτω",
-    "it": "Sedile regolato in modo che il pedale di frizione o freno arrivi a fondo"
+    "it": "Sedile regolato in modo che il pedale di frizione o freno arrivi a fondo",
+    "es": "Asiento ajustado para pisar a fondo el embrague o el freno"
    },
    {
     "de": "Innen- und Außenspiegel eingestellt",
@@ -208,7 +223,8 @@
     "ro": "Oglinda interioară și cele exterioare reglate",
     "hr": "Unutarnje i vanjska zrcala namještena",
     "el": "Εσωτερικός και εξωτερικοί καθρέφτες ρυθμισμένοι",
-    "it": "Specchietto interno ed esterni regolati"
+    "it": "Specchietto interno ed esterni regolati",
+    "es": "Espejo interior y exteriores ajustados"
    },
    {
     "de": "Kopfstütze: Oberkante etwa auf Scheitelhöhe",
@@ -220,7 +236,8 @@
     "ro": "Tetiera: marginea de sus cam la nivelul creștetului",
     "hr": "Naslon za glavu: gornji rub otprilike u visini tjemena",
     "el": "Προσκέφαλο: πάνω άκρη περίπου στο ύψος της κορυφής του κεφαλιού",
-    "it": "Poggiatesta: bordo superiore all’altezza della sommità della testa"
+    "it": "Poggiatesta: bordo superiore all’altezza della sommità della testa",
+    "es": "Reposacabezas: borde superior a la altura de la coronilla"
    },
    {
     "de": "Abblendlicht, Fernlicht, Blinker, Warnblinker, Nebelschlussleuchte zeigen können",
@@ -232,7 +249,8 @@
     "ro": "Pot arăta faza scurtă și lungă, semnalizările, avariile, lampa de ceață spate",
     "hr": "Mogu pokazati kratka i duga svjetla, pokazivače smjera, sva četiri pokazivača, stražnje svjetlo za maglu",
     "el": "Μπορώ να δείξω μεσαία και μεγάλη σκάλα, φλας, αλάρμ, πίσω φως ομίχλης",
-    "it": "So mostrare anabbaglianti e abbaglianti, frecce, quattro frecce, retronebbia"
+    "it": "So mostrare anabbaglianti e abbaglianti, frecce, quattro frecce, retronebbia",
+    "es": "Sé enseñar luces de cruce y largas, intermitentes, emergencia, antiniebla trasera"
    },
    {
     "de": "Ölmessstab finden und Ölstand ablesen können",
@@ -244,7 +262,8 @@
     "ro": "Pot găsi joja și citi nivelul uleiului",
     "hr": "Mogu pronaći mjerač ulja i očitati razinu",
     "el": "Μπορώ να βρω τον δείκτη λαδιού και να διαβάσω τη στάθμη",
-    "it": "So trovare l’astina e leggere il livello dell’olio"
+    "it": "So trovare l’astina e leggere il livello dell’olio",
+    "es": "Sé encontrar la varilla y leer el nivel de aceite"
    },
    {
     "de": "Wissen, wo der vorgeschriebene Reifendruck steht",
@@ -256,7 +275,8 @@
     "ro": "Știu unde e scrisă presiunea corectă a anvelopelor",
     "hr": "Znam gdje piše ispravan tlak u gumama",
     "el": "Ξέρω πού αναγράφονται οι σωστές πιέσεις ελαστικών",
-    "it": "So dove sono indicate le pressioni corrette dei pneumatici"
+    "it": "So dove sono indicate le pressioni corrette dei pneumatici",
+    "es": "Sé dónde figuran las presiones correctas de los neumáticos"
    }
   ],
   "pitfalls": [
@@ -270,7 +290,8 @@
     "ro": "Plecarea fără reglarea oglinzilor sau fără centură.",
     "hr": "Polazak bez namještanja zrcala ili bez vezanja pojasa.",
     "el": "Εκκίνηση χωρίς ρύθμιση καθρεφτών ή χωρίς ζώνη.",
-    "it": "Partire senza regolare gli specchietti o senza allacciare la cintura."
+    "it": "Partire senza regolare gli specchietti o senza allacciare la cintura.",
+    "es": "Arrancar sin ajustar los espejos o sin abrocharse el cinturón."
    }
   ],
   "phrases": []
@@ -289,7 +310,8 @@
    "ro": "Parcare laterală cu spatele",
    "hr": "Uzdužno parkiranje unatrag",
    "el": "Παράλληλη στάθμευση με όπισθεν",
-   "it": "Parcheggio in parallelo in retromarcia"
+   "it": "Parcheggio in parallelo in retromarcia",
+   "es": "Estacionamiento en línea marcha atrás"
   },
   "body": [
    {
@@ -302,7 +324,8 @@
     "ro": "Intri cu spatele într-un loc la bordura din dreapta, între două vehicule. Locul ar trebui să aibă cel puțin circa o lungime și jumătate de mașină.",
     "hr": "Unatrag ulaziš u prazninu uz desni rub između dva vozila. Praznina treba biti barem oko jedne i pol duljine automobila.",
     "el": "Μπαίνεις με όπισθεν σε κενό στο δεξί κράσπεδο ανάμεσα σε δύο οχήματα. Το κενό πρέπει να είναι τουλάχιστον περίπου ενάμισι μήκος αυτοκινήτου.",
-    "it": "Entri in retromarcia in uno spazio lungo il bordo destro tra due veicoli. Lo spazio dovrebbe essere almeno circa una volta e mezza la lunghezza dell’auto."
+    "it": "Entri in retromarcia in uno spazio lungo il bordo destro tra due veicoli. Lo spazio dovrebbe essere almeno circa una volta e mezza la lunghezza dell’auto.",
+    "es": "Entras marcha atrás en un hueco junto al bordillo derecho, entre dos vehículos. El hueco debería medir al menos una vez y media el largo del coche."
    },
    {
     "de": "Halten Sie etwa 50 cm seitlich neben dem vorderen Auto, Heck auf Höhe von dessen Heck. Langsam zurück, bis Ihre Hinterachse auf Höhe von dessen Heck ist, dann voll rechts einschlagen. Wenn das Auto etwa 45° steht, geradeaus zurück, dann voll links einschlagen, bis Sie parallel stehen.",
@@ -314,7 +337,8 @@
     "ro": "Oprește la circa 50 cm lângă mașina din față, cu spatele la nivelul spatelui ei. Dă încet înapoi până când axa ta din spate ajunge la nivelul barei ei din spate, apoi bracează complet la dreapta. La circa 45°, îndreaptă roțile și dă înapoi, apoi bracează complet la stânga până ajungi paralel.",
     "hr": "Stani oko 50 cm pokraj automobila ispred, stražnjim dijelom u ravnini s njegovim. Polako vozi unatrag dok ti stražnja osovina ne dođe u ravninu s njegovim stražnjim branikom, zatim okreni upravljač do kraja udesno. Pri oko 45° izravnaj kotače i vozi unatrag, zatim okreni do kraja ulijevo dok ne budeš usporedno.",
     "el": "Σταμάτα περίπου 50 cm δίπλα στο μπροστινό αυτοκίνητο, με το πίσω μέρος στο ύψος του πίσω μέρους του. Κάνε αργά όπισθεν μέχρι ο πίσω άξονάς σου να έρθει στο ύψος του πίσω προφυλακτήρα του, μετά στρίψε τέρμα δεξιά. Στις περίπου 45° ίσιωσε και κάνε όπισθεν, μετά στρίψε τέρμα αριστερά μέχρι να είσαι παράλληλα.",
-    "it": "Fermati a circa 50 cm di fianco all’auto davanti, con il retro all’altezza del suo. Fai retromarcia piano finché l’asse posteriore non è all’altezza del suo paraurti posteriore, poi sterza tutto a destra. A circa 45° raddrizza e continua indietro, poi sterza tutto a sinistra finché l’auto è parallela al bordo."
+    "it": "Fermati a circa 50 cm di fianco all’auto davanti, con il retro all’altezza del suo. Fai retromarcia piano finché l’asse posteriore non è all’altezza del suo paraurti posteriore, poi sterza tutto a destra. A circa 45° raddrizza e continua indietro, poi sterza tutto a sinistra finché l’auto è parallela al bordo.",
+    "es": "Detente a unos 50 cm al lado del coche de delante, con tu parte trasera a la altura de la suya. Da marcha atrás despacio hasta que tu eje trasero quede a la altura de su parachoques trasero; entonces gira todo a la derecha. A unos 45°, endereza y sigue atrás; luego gira todo a la izquierda hasta que el coche quede paralelo."
    }
   ],
   "checklist": [
@@ -328,7 +352,8 @@
     "ro": "Semnalizare la dreapta înainte de oprire",
     "hr": "Pokazati desno prije zaustavljanja",
     "el": "Δεξί φλας πριν σταματήσω",
-    "it": "Freccia a destra prima di fermarmi"
+    "it": "Freccia a destra prima di fermarmi",
+    "es": "Intermitente derecho antes de parar"
    },
    {
     "de": "Rundumblick, bevor ich zurücksetze",
@@ -340,7 +365,8 @@
     "ro": "Privire de jur împrejur înainte de mersul înapoi",
     "hr": "Pogledati oko sebe prije vožnje unatrag",
     "el": "Ματιά παντού πριν την όπισθεν",
-    "it": "Sguardo tutto intorno prima della retromarcia"
+    "it": "Sguardo tutto intorno prima della retromarcia",
+    "es": "Mirar alrededor antes de dar marcha atrás"
    },
    {
     "de": "Ständig nach hinten und zur Seite schauen, nicht nur in den Spiegel",
@@ -352,7 +378,8 @@
     "ro": "Privire continuă în spate și lateral, nu doar în oglindă",
     "hr": "Gledati unatrag i u stranu, ne samo u zrcalo",
     "el": "Συνεχής ματιά πίσω και στο πλάι, όχι μόνο στον καθρέφτη",
-    "it": "Continuare a guardare dietro e di lato, non solo nello specchietto"
+    "it": "Continuare a guardare dietro e di lato, non solo nello specchietto",
+    "es": "Seguir mirando atrás y a los lados, no solo por el espejo"
    },
    {
     "de": "Am Ende höchstens etwa 30 cm vom Bordstein, Räder gerade",
@@ -364,7 +391,8 @@
     "ro": "Final la cel mult circa 30 cm de bordură, cu roțile drepte",
     "hr": "Završiti najviše oko 30 cm od rubnjaka, s ravnim kotačima",
     "el": "Τέλος το πολύ περίπου 30 cm από το κράσπεδο, τροχοί ίσιοι",
-    "it": "Finire a non più di circa 30 cm dal marciapiede, ruote dritte"
+    "it": "Finire a non più di circa 30 cm dal marciapiede, ruote dritte",
+    "es": "Terminar a unos 30 cm del bordillo como mucho, ruedas rectas"
    }
   ],
   "pitfalls": [
@@ -378,7 +406,8 @@
     "ro": "Urcarea cu roata din spate pe bordură.",
     "hr": "Penjanje stražnjim kotačem na rubnjak.",
     "el": "Ανέβασμα του πίσω τροχού στο κράσπεδο.",
-    "it": "Salire sul marciapiede con la ruota posteriore."
+    "it": "Salire sul marciapiede con la ruota posteriore.",
+    "es": "Subirse al bordillo con la rueda trasera."
    },
    {
     "de": "Den Verkehr nicht beobachten, während die Front ausschwenkt.",
@@ -390,7 +419,8 @@
     "ro": "Neatenția la trafic în timp ce partea din față iese în afară.",
     "hr": "Nepraćenje prometa dok prednji dio izlazi u stranu.",
     "el": "Δεν παρακολουθώ την κυκλοφορία ενώ το μπροστινό μέρος βγαίνει στο πλάι.",
-    "it": "Non guardare il traffico mentre il muso si allarga."
+    "it": "Non guardare il traffico mentre il muso si allarga.",
+    "es": "No vigilar el tráfico mientras el morro se abre."
    },
    {
     "de": "Zu viele Korrekturzüge.",
@@ -402,7 +432,8 @@
     "ro": "Prea multe corecții.",
     "hr": "Previše ispravljanja.",
     "el": "Πάρα πολλές διορθώσεις.",
-    "it": "Troppe correzioni."
+    "it": "Troppe correzioni.",
+    "es": "Demasiadas correcciones."
    }
   ],
   "phrases": []
@@ -421,7 +452,8 @@
    "ro": "Parcare perpendiculară sau oblică",
    "hr": "Okomito ili koso parkiranje",
    "el": "Κάθετη ή λοξή στάθμευση",
-   "it": "Parcheggio a pettine o a spina di pesce"
+   "it": "Parcheggio a pettine o a spina di pesce",
+   "es": "Estacionamiento en batería o en diagonal"
   },
   "body": [
    {
@@ -434,7 +466,8 @@
     "ro": "Parchezi cu fața sau cu spatele într-un loc perpendicular sau oblic față de drum, de exemplu într-o parcare. Mașina trebuie să ajungă centrată și dreaptă, fără să treacă peste linii.",
     "hr": "Parkiraš naprijed ili unatrag na mjesto okomito ili koso prema cesti, npr. na parkiralištu. Vozilo treba završiti u sredini i ravno, bez prelaženja crta.",
     "el": "Σταθμεύεις μπροστά ή όπισθεν σε θέση κάθετη ή λοξή προς τον δρόμο, π.χ. σε πάρκινγκ. Το αυτοκίνητο πρέπει να καταλήξει στο κέντρο και ίσιο, χωρίς να πατά τις γραμμές.",
-    "it": "Parcheggi in avanti o in retromarcia in uno stallo perpendicolare o obliquo alla strada, ad esempio in un parcheggio. L’auto deve finire al centro e dritta, senza invadere le linee."
+    "it": "Parcheggi in avanti o in retromarcia in uno stallo perpendicolare o obliquo alla strada, ad esempio in un parcheggio. L’auto deve finire al centro e dritta, senza invadere le linee.",
+    "es": "Estacionas de frente o marcha atrás en una plaza perpendicular o en diagonal a la vía, por ejemplo en un aparcamiento. El coche debe quedar centrado y recto, sin pisar las líneas."
    },
    {
     "de": "Rückwärts ist meist leichter, weil die Vorderräder lenken: Fahren Sie an der Lücke vorbei, schlagen Sie ein, wenn Ihr Heck etwa an der zweiten Linie vorbei ist, und richten Sie das Auto an den Linien aus.",
@@ -446,7 +479,8 @@
     "ro": "Cu spatele e de obicei mai ușor, pentru că roțile din față fac direcția: treci de loc, bracează când spatele a trecut cam de linia îndepărtată și aliniază mașina cu marcajele.",
     "hr": "Unatrag je obično lakše, jer upravljaju prednji kotači: prođi mjesto, okreni upravljač kad ti stražnji dio otprilike prijeđe daljnju crtu i poravnaj vozilo s oznakama.",
     "el": "Με όπισθεν είναι συνήθως ευκολότερο, γιατί κατευθύνουν οι μπροστινοί τροχοί: πέρνα τη θέση, στρίψε όταν το πίσω μέρος έχει περάσει περίπου τη μακρινή γραμμή, και ευθυγράμμισε το αυτοκίνητο με τις γραμμές.",
-    "it": "In retromarcia di solito è più facile, perché a sterzare sono le ruote anteriori: supera lo stallo, sterza quando il retro ha superato più o meno la linea lontana e allinea l’auto alle strisce."
+    "it": "In retromarcia di solito è più facile, perché a sterzare sono le ruote anteriori: supera lo stallo, sterza quando il retro ha superato più o meno la linea lontana e allinea l’auto alle strisce.",
+    "es": "Marcha atrás suele ser más fácil, porque dirigen las ruedas delanteras: pasa la plaza, gira cuando tu parte trasera haya pasado más o menos la línea lejana y alinea el coche con las marcas."
    }
   ],
   "checklist": [
@@ -460,7 +494,8 @@
     "ro": "Semnalizare înainte de intrarea în loc",
     "hr": "Pokazati smjer prije ulaska na mjesto",
     "el": "Φλας πριν μπω στη θέση",
-    "it": "Freccia prima di entrare nello stallo"
+    "it": "Freccia prima di entrare nello stallo",
+    "es": "Intermitente antes de entrar en la plaza"
    },
    {
     "de": "Auf Fußgänger auf dem Parkplatz achten",
@@ -472,7 +507,8 @@
     "ro": "Atenție la pietonii din parcare",
     "hr": "Paziti na pješake na parkiralištu",
     "el": "Προσοχή στους πεζούς στο πάρκινγκ",
-    "it": "Attenzione ai pedoni nel parcheggio"
+    "it": "Attenzione ai pedoni nel parcheggio",
+    "es": "Atención a los peatones del aparcamiento"
    },
    {
     "de": "Mittig zwischen den Linien, Räder gerade",
@@ -484,7 +520,8 @@
     "ro": "Centrat între linii, roțile drepte",
     "hr": "U sredini između crta, kotači ravno",
     "el": "Στο κέντρο ανάμεσα στις γραμμές, τροχοί ίσιοι",
-    "it": "Al centro tra le linee, ruote dritte"
+    "it": "Al centro tra le linee, ruote dritte",
+    "es": "Centrado entre las líneas, ruedas rectas"
    }
   ],
   "pitfalls": [
@@ -498,7 +535,8 @@
     "ro": "Aproape atingerea mașinii vecine, fără oprire.",
     "hr": "Gotovo dodirivanje susjednog vozila bez zaustavljanja.",
     "el": "Σχεδόν ακουμπάω το διπλανό αυτοκίνητο χωρίς να σταματήσω.",
-    "it": "Arrivare quasi a toccare l’auto accanto senza fermarsi."
+    "it": "Arrivare quasi a toccare l’auto accanto senza fermarsi.",
+    "es": "Casi rozar el coche de al lado sin parar."
    }
   ],
   "phrases": []
@@ -517,7 +555,8 @@
    "ro": "Mers înapoi după colț",
    "hr": "Vožnja unatrag oko ugla",
    "el": "Όπισθεν σε γωνία",
-   "it": "Retromarcia in curva"
+   "it": "Retromarcia in curva",
+   "es": "Marcha atrás en esquina"
   },
   "body": [
    {
@@ -530,7 +569,8 @@
     "ro": "Dai înapoi la dreapta într-o stradă laterală, o intersecție sau o intrare, urmând bordura la distanță constantă.",
     "hr": "Unatrag ulaziš udesno u sporednu ulicu, raskrižje ili ulaz, prateći rubnjak na jednakoj udaljenosti.",
     "el": "Κάνεις όπισθεν δεξιά σε πλευρικό δρόμο, διασταύρωση ή είσοδο, ακολουθώντας το κράσπεδο σε σταθερή απόσταση.",
-    "it": "Entri in retromarcia a destra in una strada laterale, un incrocio o un ingresso, seguendo il marciapiede a distanza costante."
+    "it": "Entri in retromarcia a destra in una strada laterale, un incrocio o un ingresso, seguendo il marciapiede a distanza costante.",
+    "es": "Das marcha atrás hacia la derecha en una calle lateral, un cruce o una entrada, siguiendo el bordillo a distancia constante."
    },
    {
     "de": "Fahren Sie an der Einmündung vorbei und halten Sie nahe am Bordstein. Langsam zurück; wenn der Bordstein im rechten Spiegel abknickt, rechts einlenken. Nach der Ecke geradeaus zurück, bis der Prüfer stoppt.",
@@ -542,7 +582,8 @@
     "ro": "Treci de deschidere și oprește aproape de bordură. Dă încet înapoi; când în oglinda dreaptă vezi bordura curbându-se, începe să bracezi la dreapta. După colț îndreaptă roțile și dă înapoi până te oprește examinatorul.",
     "hr": "Prođi otvor i stani blizu rubnjaka. Polako vozi unatrag; kad u desnom zrcalu vidiš da rubnjak skreće, počni okretati udesno. Nakon ugla izravnaj kotače i vozi unatrag dok te ispitivač ne zaustavi.",
     "el": "Πέρνα το άνοιγμα και σταμάτα κοντά στο κράσπεδο. Κάνε αργά όπισθεν· όταν στον δεξί καθρέφτη δεις ότι το κράσπεδο καμπυλώνει, άρχισε να στρίβεις δεξιά. Μετά τη γωνία ίσιωσε και συνέχισε όπισθεν μέχρι να σε σταματήσει ο εξεταστής.",
-    "it": "Supera l’imbocco e fermati vicino al marciapiede. Fai retromarcia piano; quando nello specchietto destro vedi il marciapiede curvare, inizia a sterzare a destra. Dopo l’angolo raddrizza e continua indietro finché l’esaminatore non ti ferma."
+    "it": "Supera l’imbocco e fermati vicino al marciapiede. Fai retromarcia piano; quando nello specchietto destro vedi il marciapiede curvare, inizia a sterzare a destra. Dopo l’angolo raddrizza e continua indietro finché l’esaminatore non ti ferma.",
+    "es": "Pasa la boca de la calle y detente cerca del bordillo. Da marcha atrás despacio; cuando en el espejo derecho veas que el bordillo se curva, empieza a girar a la derecha. Tras la esquina, endereza y sigue marcha atrás hasta que te digan que pares."
    }
   ],
   "checklist": [
@@ -556,7 +597,8 @@
     "ro": "Privire de jur împrejur înainte și în timpul mersului înapoi",
     "hr": "Gledati oko sebe prije i tijekom vožnje unatrag",
     "el": "Ματιά παντού πριν και κατά την όπισθεν",
-    "it": "Guardarsi intorno prima e durante la retromarcia"
+    "it": "Guardarsi intorno prima e durante la retromarcia",
+    "es": "Mirar alrededor antes y durante la marcha atrás"
    },
    {
     "de": "Fußgänger an der Ecke durchlassen",
@@ -568,7 +610,8 @@
     "ro": "Pietonii de la colț au întâietate",
     "hr": "Propustiti pješake na uglu",
     "el": "Οι πεζοί στη γωνία περνούν πρώτοι",
-    "it": "Lasciar passare i pedoni all’angolo"
+    "it": "Lasciar passare i pedoni all’angolo",
+    "es": "Dejar pasar a los peatones de la esquina"
    },
    {
     "de": "Gleichmäßiger Abstand zum Bordstein",
@@ -580,7 +623,8 @@
     "ro": "Distanță constantă față de bordură",
     "hr": "Jednaka udaljenost od rubnjaka",
     "el": "Σταθερή απόσταση από το κράσπεδο",
-    "it": "Distanza costante dal marciapiede"
+    "it": "Distanza costante dal marciapiede",
+    "es": "Distancia constante al bordillo"
    }
   ],
   "pitfalls": [
@@ -594,7 +638,8 @@
     "ro": "Partea din față intră neobservat în traficul din sens opus.",
     "hr": "Prednji dio neprimjetno izlazi u promet iz suprotnog smjera.",
     "el": "Το μπροστινό μέρος βγαίνει απαρατήρητα στην αντίθετη κυκλοφορία.",
-    "it": "Il muso finisce senza accorgermene nel traffico di fronte."
+    "it": "Il muso finisce senza accorgermene nel traffico di fronte.",
+    "es": "El morro invade sin darme cuenta el carril contrario."
    }
   ],
   "phrases": []
@@ -613,7 +658,8 @@
    "ro": "Întoarcerea",
    "hr": "Okretanje",
    "el": "Αναστροφή",
-   "it": "Inversione di marcia"
+   "it": "Inversione di marcia",
+   "es": "Cambio de sentido"
   },
   "body": [
    {
@@ -626,7 +672,8 @@
     "ro": "Întorci mașina pe un drum în sens opus, cu mers înainte și înapoi. Nu ai voie să atingi bordurile.",
     "hr": "Okrećeš vozilo na cesti u suprotan smjer, vožnjom naprijed i unatrag. Ne smiješ dodirnuti rubnjake.",
     "el": "Γυρίζεις το αυτοκίνητο στην αντίθετη κατεύθυνση πάνω στον δρόμο, με κινήσεις μπροστά και πίσω. Δεν επιτρέπεται να ακουμπήσεις τα κράσπεδα.",
-    "it": "Giri l’auto nella direzione opposta sulla carreggiata, con manovre avanti e indietro. Non devi toccare i marciapiedi."
+    "it": "Giri l’auto nella direzione opposta sulla carreggiata, con manovre avanti e indietro. Non devi toccare i marciapiedi.",
+    "es": "Das la vuelta al coche en la calzada, con maniobras hacia delante y hacia atrás. No puedes tocar los bordillos."
    }
   ],
   "checklist": [
@@ -640,7 +687,8 @@
     "ro": "Doar unde e permis și vizibilitatea e bună",
     "hr": "Samo gdje je dopušteno i dobro se vidi",
     "el": "Μόνο όπου επιτρέπεται και υπάρχει καλή ορατότητα",
-    "it": "Solo dove è consentito e si vede bene"
+    "it": "Solo dove è consentito e si vede bene",
+    "es": "Solo donde esté permitido y se vea bien"
    },
    {
     "de": "Vor jedem Zug in beide Richtungen schauen",
@@ -652,7 +700,8 @@
     "ro": "Privire în ambele părți înainte de fiecare mișcare",
     "hr": "Pogledati na obje strane prije svakog pomaka",
     "el": "Ματιά και προς τις δύο πλευρές πριν από κάθε κίνηση",
-    "it": "Guardare da entrambi i lati prima di ogni movimento"
+    "it": "Guardare da entrambi i lati prima di ogni movimento",
+    "es": "Mirar a ambos lados antes de cada movimiento"
    },
    {
     "de": "Langsam fahren, schnell lenken",
@@ -664,7 +713,8 @@
     "ro": "Deplasare lentă, bracare rapidă",
     "hr": "Polako se kretati, brzo okretati upravljač",
     "el": "Κίνηση αργή, τιμόνι γρήγορο",
-    "it": "Muoversi piano, sterzare in fretta"
+    "it": "Muoversi piano, sterzare in fretta",
+    "es": "Moverse despacio, girar el volante rápido"
    }
   ],
   "pitfalls": [
@@ -678,7 +728,8 @@
     "ro": "Blocarea traficului în loc să-l lași să treacă.",
     "hr": "Zadržavanje prometa umjesto da ga propustiš.",
     "el": "Καθυστερώ την κυκλοφορία αντί να την αφήσω να περάσει.",
-    "it": "Bloccare il traffico invece di lasciarlo passare."
+    "it": "Bloccare il traffico invece di lasciarlo passare.",
+    "es": "Bloquear el tráfico en vez de dejarlo pasar."
    }
   ],
   "phrases": []
@@ -697,7 +748,8 @@
    "ro": "Frânarea de urgență",
    "hr": "Naglo kočenje",
    "el": "Φρενάρισμα έκτακτης ανάγκης",
-   "it": "Frenata d’emergenza"
+   "it": "Frenata d’emergenza",
+   "es": "Frenada de emergencia"
   },
   "body": [
    {
@@ -710,7 +762,8 @@
     "ro": "La semnalul examinatorului frânezi de la circa 30 km/h cât poți de tare, până la oprire. Mașina trebuie să rămână dreaptă.",
     "hr": "Na znak ispitivača kočiš s oko 30 km/h najjače što možeš do zaustavljanja. Vozilo treba ostati ravno.",
     "el": "Με σήμα του εξεταστή φρενάρεις από περίπου 30 km/h όσο πιο δυνατά γίνεται μέχρι να σταματήσεις. Το αυτοκίνητο πρέπει να μείνει ευθεία.",
-    "it": "Al segnale dell’esaminatore freni da circa 30 km/h il più forte possibile fino all’arresto. L’auto deve restare dritta."
+    "it": "Al segnale dell’esaminatore freni da circa 30 km/h il più forte possibile fino all’arresto. L’auto deve restare dritta.",
+    "es": "A la señal, frenas desde unos 30 km/h lo más fuerte posible hasta detenerte. El coche debe quedar recto."
    },
    {
     "de": "Mit ABS: Bremse und Kupplung voll durchtreten und halten. Das Rattern im Pedal ist normal. Vorher prüft der Prüfer, dass niemand hinter Ihnen fährt.",
@@ -722,7 +775,8 @@
     "ro": "Cu ABS: apasă frâna și ambreiajul până la capăt și ține-le. Vibrațiile din pedală sunt normale. Examinatorul verifică dinainte că nu vine nimeni din spate.",
     "hr": "S ABS-om: pritisni kočnicu i spojku do kraja i drži. Podrhtavanje papučice je normalno. Ispitivač prije provjerava da nitko ne vozi iza.",
     "el": "Με ABS: πάτα φρένο και συμπλέκτη μέχρι κάτω και κράτα τα. Το τρέμουλο στο πεντάλ είναι φυσιολογικό. Ο εξεταστής ελέγχει πριν ότι δεν έρχεται κανείς από πίσω.",
-    "it": "Con l’ABS: premi a fondo freno e frizione e tienili premuti. Le vibrazioni nel pedale sono normali. L’esaminatore controlla prima che dietro non arrivi nessuno."
+    "it": "Con l’ABS: premi a fondo freno e frizione e tienili premuti. Le vibrazioni nel pedale sono normali. L’esaminatore controlla prima che dietro non arrivi nessuno.",
+    "es": "Con ABS: pisa a fondo freno y embrague y mantenlos. La vibración del pedal es normal. Antes se comprueba que no venga nadie detrás."
    }
   ],
   "checklist": [
@@ -736,7 +790,8 @@
     "ro": "Reacție la comandă, nu înainte",
     "hr": "Reagirati na naredbu, ne prije",
     "el": "Αντίδραση στην εντολή, όχι πριν",
-    "it": "Reagire al comando, non prima"
+    "it": "Reagire al comando, non prima",
+    "es": "Reaccionar a la orden, no antes"
    },
    {
     "de": "Voll durchtreten, nicht zögerlich steigern",
@@ -748,7 +803,8 @@
     "ro": "Apăsare completă, nu treptată",
     "hr": "Pritisnuti do kraja, ne postupno",
     "el": "Πάτημα μέχρι κάτω, όχι σταδιακά",
-    "it": "Premere a fondo, non gradualmente"
+    "it": "Premere a fondo, non gradualmente",
+    "es": "Pisar a fondo, no poco a poco"
    },
    {
     "de": "Danach Warnblinker oder Spiegelblick, bevor ich weiterfahre",
@@ -760,7 +816,8 @@
     "ro": "După aceea, avarii sau privire în oglindă înainte de a pleca",
     "hr": "Poslije sva četiri pokazivača ili pogled u zrcalo prije nastavka",
     "el": "Μετά, αλάρμ ή ματιά στον καθρέφτη πριν συνεχίσω",
-    "it": "Dopo, quattro frecce o sguardo nello specchietto prima di ripartire"
+    "it": "Dopo, quattro frecce o sguardo nello specchietto prima di ripartire",
+    "es": "Después, luces de emergencia o mirar el espejo antes de seguir"
    }
   ],
   "pitfalls": [
@@ -774,7 +831,8 @@
     "ro": "Frânare prea blândă.",
     "hr": "Preblago kočenje.",
     "el": "Πολύ απαλό φρενάρισμα.",
-    "it": "Frenare troppo piano."
+    "it": "Frenare troppo piano.",
+    "es": "Frenar con demasiada suavidad."
    }
   ],
   "phrases": []
@@ -793,7 +851,8 @@
    "ro": "Cele cinci domenii de competență",
    "hr": "Pet područja kompetencija",
    "el": "Οι πέντε τομείς ικανοτήτων",
-   "it": "Le cinque aree di competenza"
+   "it": "Le cinque aree di competenza",
+   "es": "Las cinco áreas de competencia"
   },
   "body": [
    {
@@ -806,7 +865,8 @@
     "ro": "Examinatorul nu doar numără „greșelile” una câte una, ci îți evaluează condusul în cinci domenii — pe tot parcursul examenului și în situații precum intersecții, sensuri giratorii, schimbări de bandă, intrări pe autostradă, curbe și treceri de pietoni.",
     "hr": "Ispitivač ne broji samo pojedinačne „pogreške”, nego ocjenjuje vožnju u pet područja — tijekom cijelog ispita i u situacijama kao što su raskrižja, kružni tokovi, promjene traka, ulazi na autocestu, zavoji i pješački prijelazi.",
     "el": "Ο εξεταστής δεν μετρά απλώς μεμονωμένα «λάθη» αλλά αξιολογεί την οδήγησή σου σε πέντε τομείς — σε όλη την εξέταση και σε καταστάσεις όπως διασταυρώσεις, κυκλικοί κόμβοι, αλλαγές λωρίδας, είσοδοι σε αυτοκινητόδρομο, στροφές και διαβάσεις πεζών.",
-    "it": "L’esaminatore non conta solo i singoli «errori», ma valuta la tua guida in cinque aree — per tutto l’esame e in situazioni come incroci, rotatorie, cambi di corsia, immissioni in autostrada, curve e attraversamenti pedonali."
+    "it": "L’esaminatore non conta solo i singoli «errori», ma valuta la tua guida in cinque aree — per tutto l’esame e in situazioni come incroci, rotatorie, cambi di corsia, immissioni in autostrada, curve e attraversamenti pedonali.",
+    "es": "La persona examinadora no se limita a contar «fallos» sueltos, sino que valora tu conducción en cinco áreas — durante todo el examen y en situaciones como cruces, glorietas, cambios de carril, incorporaciones a la autopista, curvas y pasos de peatones."
    }
   ],
   "checklist": [
@@ -820,7 +880,8 @@
     "ro": "Observare: oglinzi, priviri peste umăr, privire departe înainte",
     "hr": "Promatranje: zrcala, pogled preko ramena, gledanje daleko naprijed",
     "el": "Παρατήρηση: καθρέφτες, ματιά από τον ώμο, βλέμμα μακριά μπροστά",
-    "it": "Osservazione: specchietti, sguardi sopra la spalla, guardare lontano"
+    "it": "Osservazione: specchietti, sguardi sopra la spalla, guardare lontano",
+    "es": "Observación: espejos, mirada por encima del hombro, mirar lejos"
    },
    {
     "de": "Fahrzeugpositionierung: richtige Spur, Abstand nach vorne und zur Seite",
@@ -832,7 +893,8 @@
     "ro": "Poziționare: banda corectă, distanța în față și lateral",
     "hr": "Položaj: pravi trak, razmak naprijed i u stranu",
     "el": "Θέση: σωστή λωρίδα, απόσταση μπροστά και πλάγια",
-    "it": "Posizione: corsia giusta, distanza davanti e di lato"
+    "it": "Posizione: corsia giusta, distanza davanti e di lato",
+    "es": "Posición: carril correcto, distancia delante y lateral"
    },
    {
     "de": "Geschwindigkeitsanpassung: Tempo passend zu Limit, Sicht und Situation",
@@ -844,7 +906,8 @@
     "ro": "Viteză: potrivită limitei, vizibilității și situației",
     "hr": "Brzina: prilagođena ograničenju, preglednosti i situaciji",
     "el": "Ταχύτητα: ανάλογη με το όριο, την ορατότητα και την κατάσταση",
-    "it": "Velocità: adeguata a limite, visibilità e situazione"
+    "it": "Velocità: adeguata a limite, visibilità e situazione",
+    "es": "Velocidad: adecuada al límite, la visibilidad y la situación"
    },
    {
     "de": "Kommunikation: rechtzeitig blinken, Blickkontakt, klare Absichten",
@@ -856,7 +919,8 @@
     "ro": "Comunicare: semnalizare la timp, contact vizual, intenții clare",
     "hr": "Komunikacija: pokazivač na vrijeme, kontakt očima, jasne namjere",
     "el": "Επικοινωνία: φλας έγκαιρα, οπτική επαφή, σαφείς προθέσεις",
-    "it": "Comunicazione: freccia per tempo, contatto visivo, intenzioni chiare"
+    "it": "Comunicazione: freccia per tempo, contatto visivo, intenzioni chiare",
+    "es": "Comunicación: intermitente a tiempo, contacto visual, intenciones claras"
    },
    {
     "de": "Fahrzeugbedienung und umweltbewusstes Fahren: Schalten, Lenken, sanftes Bremsen",
@@ -868,7 +932,8 @@
     "ro": "Manevrarea vehiculului și condus economic: schimbarea treptelor, direcția, frânare lină",
     "hr": "Upravljanje vozilom i štedljiva vožnja: mijenjanje stupnjeva, upravljanje, glatko kočenje",
     "el": "Χειρισμός και οικονομική οδήγηση: αλλαγές ταχυτήτων, τιμόνι, ομαλό φρενάρισμα",
-    "it": "Uso del veicolo e guida economica: cambi di marcia, sterzo, frenata dolce"
+    "it": "Uso del veicolo e guida economica: cambi di marcia, sterzo, frenata dolce",
+    "es": "Manejo del vehículo y conducción eficiente: cambios de marcha, dirección, frenada suave"
    }
   ],
   "pitfalls": [],
@@ -888,7 +953,8 @@
    "ro": "Pentru ce se pică cel mai des",
    "hr": "Zbog čega se najčešće pada",
    "el": "Για τι αποτυγχάνουν πιο συχνά",
-   "it": "Per cosa si boccia più spesso"
+   "it": "Per cosa si boccia più spesso",
+   "es": "Por qué se suspende más a menudo"
   },
   "body": [
    {
@@ -901,7 +967,8 @@
     "ro": "Micile scăpări nu duc la respingere. Pici pentru o greșeală gravă — de exemplu când cineva e pus în pericol — sau când greșelile mici se repetă.",
     "hr": "Sitni propusti ne znače pad. Pada se zbog teške pogreške — npr. kad je netko ugrožen — ili kad se manje pogreške ponavljaju.",
     "el": "Μικρές αστοχίες δεν σημαίνουν αποτυχία. Αποτυγχάνεις για σοβαρό λάθος — π.χ. όταν κάποιος τίθεται σε κίνδυνο — ή όταν τα μικρότερα λάθη επαναλαμβάνονται.",
-    "it": "Le piccole sviste non fanno bocciare. Si boccia per un errore grave — ad esempio quando qualcuno viene messo in pericolo — o quando gli errori minori si ripetono."
+    "it": "Le piccole sviste non fanno bocciare. Si boccia per un errore grave — ad esempio quando qualcuno viene messo in pericolo — o quando gli errori minori si ripetono.",
+    "es": "Los pequeños despistes no suspenden. Se suspende por un error grave — por ejemplo, cuando alguien corre peligro — o cuando los errores pequeños se repiten."
    }
   ],
   "checklist": [],
@@ -916,7 +983,8 @@
     "ro": "Nerespectarea priorității, mai ales „dreapta înaintea stângii” în zonele 30",
     "hr": "Nepoštivanje prednosti, osobito „desni ima prednost” u zonama 30",
     "el": "Παραβίαση προτεραιότητας, κυρίως της «προτεραιότητας από δεξιά» σε ζώνες 30",
-    "it": "Non rispettare la precedenza, soprattutto «la destra ha la precedenza» nelle zone 30"
+    "it": "Non rispettare la precedenza, soprattutto «la destra ha la precedenza» nelle zone 30",
+    "es": "No respetar la prioridad, sobre todo la «prioridad a la derecha» en zonas 30"
    },
    {
     "de": "Kein Schulterblick beim Abbiegen, Anfahren oder Spurwechsel",
@@ -928,7 +996,8 @@
     "ro": "Lipsa privirii peste umăr la viraj, la plecare sau la schimbarea benzii",
     "hr": "Nema pogleda preko ramena pri skretanju, polasku ili promjeni traka",
     "el": "Χωρίς ματιά από τον ώμο στη στροφή, στην εκκίνηση ή στην αλλαγή λωρίδας",
-    "it": "Nessuno sguardo sopra la spalla quando si svolta, si parte o si cambia corsia"
+    "it": "Nessuno sguardo sopra la spalla quando si svolta, si parte o si cambia corsia",
+    "es": "No mirar por encima del hombro al girar, arrancar o cambiar de carril"
    },
    {
     "de": "Am Stoppschild nicht vollständig angehalten",
@@ -940,7 +1009,8 @@
     "ro": "Lipsa opririi complete la indicatorul STOP",
     "hr": "Nema potpunog zaustavljanja kod znaka STOP",
     "el": "Χωρίς πλήρη στάση στην πινακίδα STOP",
-    "it": "Non fermarsi del tutto allo STOP"
+    "it": "Non fermarsi del tutto allo STOP",
+    "es": "No detenerse del todo en el STOP"
    },
    {
     "de": "Fußgänger am Zebrastreifen nicht durchgelassen",
@@ -952,7 +1022,8 @@
     "ro": "Nelăsarea pietonilor să traverseze pe trecere",
     "hr": "Nepropuštanje pješaka na pješačkom prijelazu",
     "el": "Δεν αφήνω τους πεζούς να περάσουν στη διάβαση",
-    "it": "Non lasciar attraversare i pedoni sulle strisce"
+    "it": "Non lasciar attraversare i pedoni sulle strisce",
+    "es": "No dejar cruzar a los peatones en el paso de cebra"
    },
    {
     "de": "Deutlich zu schnell, z. B. in einer 30-Zone",
@@ -964,7 +1035,8 @@
     "ro": "Depășirea clară a vitezei, de exemplu într-o zonă 30",
     "hr": "Očito prekoračenje brzine, npr. u zoni 30",
     "el": "Σαφής υπέρβαση ταχύτητας, π.χ. σε ζώνη 30",
-    "it": "Superare chiaramente il limite, ad esempio in una zona 30"
+    "it": "Superare chiaramente il limite, ad esempio in una zona 30",
+    "es": "Exceso claro de velocidad, por ejemplo en una zona 30"
    },
    {
     "de": "Rote Ampel überfahren",
@@ -976,7 +1048,8 @@
     "ro": "Trecerea pe roșu",
     "hr": "Prolazak kroz crveno",
     "el": "Παραβίαση κόκκινου",
-    "it": "Passare col rosso"
+    "it": "Passare col rosso",
+    "es": "Saltarse un semáforo en rojo"
    },
    {
     "de": "Der Fahrlehrer muss eingreifen (Doppelbremse oder Lenkrad)",
@@ -988,7 +1061,8 @@
     "ro": "Instructorul e nevoit să intervină (frâna dublă sau volanul)",
     "hr": "Instruktor mora intervenirati (dvostruka kočnica ili upravljač)",
     "el": "Ο εκπαιδευτής αναγκάζεται να επέμβει (διπλό φρένο ή τιμόνι)",
-    "it": "L’istruttore deve intervenire (doppio pedale o sterzo)"
+    "it": "L’istruttore deve intervenire (doppio pedale o sterzo)",
+    "es": "Que el profesor o la profesora tenga que intervenir (doble mando o volante)"
    }
   ],
   "phrases": []
@@ -1007,7 +1081,8 @@
    "ro": "Ce spune examinatorul",
    "hr": "Što govori ispitivač",
    "el": "Τι λέει ο εξεταστής",
-   "it": "Cosa dice l’esaminatore"
+   "it": "Cosa dice l’esaminatore",
+   "es": "Lo que te dirán"
   },
   "body": [
    {
@@ -1020,7 +1095,8 @@
     "ro": "Examenul practic e în germană. Examinatorul dă indicațiile din timp. Dacă nu înțelegi, întreabă — nu e o greșeală.",
     "hr": "Ispit vožnje je na njemačkom. Ispitivač daje upute na vrijeme. Ako nešto ne razumiješ, pitaj — to nije pogreška.",
     "el": "Η πρακτική εξέταση γίνεται στα γερμανικά. Ο εξεταστής δίνει τις οδηγίες έγκαιρα. Αν δεν καταλάβεις, ρώτα — δεν είναι λάθος.",
-    "it": "L’esame pratico si svolge in tedesco. L’esaminatore dà le indicazioni per tempo. Se non capisci, chiedi — non è un errore."
+    "it": "L’esame pratico si svolge in tedesco. L’esaminatore dà le indicazioni per tempo. Se non capisci, chiedi — non è un errore.",
+    "es": "El examen práctico es en alemán. Las indicaciones se dan con tiempo. Si no entiendes algo, pregunta — no es un error."
    }
   ],
   "checklist": [],
@@ -1036,7 +1112,8 @@
     "ro": "La următoarea intersecție, vă rog, la dreapta.",
     "hr": "Na sljedećem raskrižju, molim, desno.",
     "el": "Στην επόμενη διασταύρωση, δεξιά παρακαλώ.",
-    "it": "Al prossimo incrocio, a destra per favore."
+    "it": "Al prossimo incrocio, a destra per favore.",
+    "es": "En el próximo cruce, a la derecha, por favor."
    },
    {
     "de": "Bitte biegen Sie links ab.",
@@ -1048,7 +1125,8 @@
     "ro": "Vă rog, virați la stânga.",
     "hr": "Molim, skrenite lijevo.",
     "el": "Στρίψτε αριστερά παρακαλώ.",
-    "it": "Svolti a sinistra, per favore."
+    "it": "Svolti a sinistra, per favore.",
+    "es": "Gire a la izquierda, por favor."
    },
    {
     "de": "Fahren Sie bitte geradeaus weiter.",
@@ -1060,7 +1138,8 @@
     "ro": "Vă rog, continuați înainte.",
     "hr": "Molim, nastavite ravno.",
     "el": "Συνεχίστε ευθεία παρακαλώ.",
-    "it": "Prosegua dritto, per favore."
+    "it": "Prosegua dritto, per favore.",
+    "es": "Siga recto, por favor."
    },
    {
     "de": "Folgen Sie bitte dem Straßenverlauf.",
@@ -1072,7 +1151,8 @@
     "ro": "Vă rog, urmați cursul drumului.",
     "hr": "Molim, pratite tijek ceste.",
     "el": "Ακολουθήστε την πορεία του δρόμου παρακαλώ.",
-    "it": "Segua l’andamento della strada, per favore."
+    "it": "Segua l’andamento della strada, per favore.",
+    "es": "Siga el trazado de la vía, por favor."
    },
    {
     "de": "Folgen Sie der Beschilderung Richtung Autobahn.",
@@ -1084,7 +1164,8 @@
     "ro": "Urmați indicatoarele spre autostradă.",
     "hr": "Pratite putokaze prema autocesti.",
     "el": "Ακολουθήστε τις πινακίδες προς τον αυτοκινητόδρομο.",
-    "it": "Segua le indicazioni per l’autostrada."
+    "it": "Segua le indicazioni per l’autostrada.",
+    "es": "Siga las indicaciones hacia la autopista."
    },
    {
     "de": "Im Kreisverkehr bitte die zweite Ausfahrt nehmen.",
@@ -1096,7 +1177,8 @@
     "ro": "În sensul giratoriu, vă rog, a doua ieșire.",
     "hr": "U kružnom toku, molim, drugi izlaz.",
     "el": "Στον κυκλικό κόμβο, τη δεύτερη έξοδο παρακαλώ.",
-    "it": "Alla rotatoria, la seconda uscita per favore."
+    "it": "Alla rotatoria, la seconda uscita per favore.",
+    "es": "En la glorieta, tome la segunda salida, por favor."
    },
    {
     "de": "Halten Sie bitte hier rechts am Fahrbahnrand an.",
@@ -1108,7 +1190,8 @@
     "ro": "Vă rog, opriți aici pe dreapta, la marginea drumului.",
     "hr": "Molim, zaustavite se ovdje desno uz rub ceste.",
     "el": "Σταματήστε εδώ δεξιά στην άκρη του δρόμου παρακαλώ.",
-    "it": "Si fermi qui a destra sul bordo della strada, per favore."
+    "it": "Si fermi qui a destra sul bordo della strada, per favore.",
+    "es": "Pare aquí a la derecha, junto al borde, por favor."
    },
    {
     "de": "Parken Sie bitte hinter dem blauen Auto rückwärts ein.",
@@ -1120,7 +1203,8 @@
     "ro": "Vă rog, parcați cu spatele în spatele mașinii albastre.",
     "hr": "Molim, parkirajte unatrag iza plavog automobila.",
     "el": "Σταθμεύστε με όπισθεν πίσω από το μπλε αυτοκίνητο παρακαλώ.",
-    "it": "Parcheggi in retromarcia dietro l’auto blu, per favore."
+    "it": "Parcheggi in retromarcia dietro l’auto blu, per favore.",
+    "es": "Estacione marcha atrás detrás del coche azul, por favor."
    },
    {
     "de": "Bitte wenden Sie hier.",
@@ -1132,7 +1216,8 @@
     "ro": "Vă rog, întoarceți aici.",
     "hr": "Molim, okrenite se ovdje.",
     "el": "Κάντε αναστροφή εδώ παρακαλώ.",
-    "it": "Faccia inversione qui, per favore."
+    "it": "Faccia inversione qui, per favore.",
+    "es": "Cambie de sentido aquí, por favor."
    },
    {
     "de": "Wenn ich „Stopp“ sage, machen Sie bitte eine Gefahrbremsung.",
@@ -1144,7 +1229,8 @@
     "ro": "Când spun „Stopp”, vă rog să faceți o frânare de urgență.",
     "hr": "Kad kažem „Stopp”, molim, naglo zakočite.",
     "el": "Όταν πω «Stopp», κάντε φρενάρισμα έκτακτης ανάγκης παρακαλώ.",
-    "it": "Quando dico «Stopp», faccia una frenata d’emergenza, per favore."
+    "it": "Quando dico «Stopp», faccia una frenata d’emergenza, per favore.",
+    "es": "Cuando diga «Stopp», haga una frenada de emergencia, por favor."
    },
    {
     "de": "Fahren Sie bitte wieder an, wenn es die Verkehrslage erlaubt.",
@@ -1156,7 +1242,8 @@
     "ro": "Vă rog, porniți din nou când traficul permite.",
     "hr": "Molim, ponovno krenite kad promet dopusti.",
     "el": "Ξεκινήστε ξανά όταν το επιτρέπει η κυκλοφορία παρακαλώ.",
-    "it": "Riparta quando il traffico lo permette, per favore."
+    "it": "Riparta quando il traffico lo permette, per favore.",
+    "es": "Vuelva a arrancar cuando el tráfico lo permita, por favor."
    },
    {
     "de": "Die Prüfung ist beendet. Sie haben bestanden.",
@@ -1168,7 +1255,8 @@
     "ro": "Examenul s-a încheiat. Ați promovat.",
     "hr": "Ispit je završen. Položeno.",
     "el": "Η εξέταση τελείωσε. Επιτυχία.",
-    "it": "L’esame è finito. Superato."
+    "it": "L’esame è finito. Superato.",
+    "es": "El examen ha terminado. Ha aprobado."
    }
   ]
  }

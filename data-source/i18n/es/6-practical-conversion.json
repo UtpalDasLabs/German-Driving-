@@ -1,0 +1,214 @@
+{
+  "practical": {
+    "overview": {
+      "title": "Cómo es el examen",
+      "body": [
+        "El examen dura 55 minutos en total, al menos 30 de conducción real. Conduces el coche de la autoescuela con tu profesor o profesora al lado; la persona examinadora (de TÜV o DEKRA) se sienta detrás.",
+        "Primero se comprueba tu documento de identidad. Luego vienen la preparación y las comprobaciones del vehículo, la conducción por ciudad, por carretera y normalmente por autopista o vía para automóviles, y las maniobras establecidas.",
+        "Al final recibes el resultado al momento, con comentarios sobre cada una de las cinco áreas de competencia. Si apruebas, recibes el permiso — o un certificado provisional — justo después.",
+        "El examen práctico debe hacerse en los 12 meses siguientes a aprobar la teoría. ¿No salió bien? Normalmente puedes repetirlo como pronto a las dos semanas."
+      ],
+      "checklist": [
+        "DNI o pasaporte conmigo",
+        "Gafas o lentillas, si mi permiso las exige",
+        "Calzado cómodo y plano",
+        "Haber dormido bien y 0,0 alcohol",
+        "En la autoescuela 15 minutos antes"
+      ],
+      "pitfalls": [
+        "Sin documento válido no hay examen — y la tasa suele perderse de todos modos."
+      ]
+    },
+    "checks": {
+      "title": "Preparación y comprobaciones del vehículo",
+      "body": [
+        "Antes de arrancar ajustas el asiento, el volante, los espejos y el reposacabezas, y te abrochas el cinturón. Normalmente te piden que enseñes o expliques algunas cosas del coche.",
+        "Puntos típicos: encender y comprobar las luces; neumáticos (dibujo, daños, dónde figuran las presiones); niveles de líquidos (aceite de motor, refrigerante, limpiaparabrisas, líquido de frenos); claxon; testigos del cuadro."
+      ],
+      "checklist": [
+        "Asiento ajustado para pisar a fondo el embrague o el freno",
+        "Espejo interior y exteriores ajustados",
+        "Reposacabezas: borde superior a la altura de la coronilla",
+        "Sé enseñar luces de cruce y largas, intermitentes, emergencia, antiniebla trasera",
+        "Sé encontrar la varilla y leer el nivel de aceite",
+        "Sé dónde figuran las presiones correctas de los neumáticos"
+      ],
+      "pitfalls": [
+        "Arrancar sin ajustar los espejos o sin abrocharse el cinturón."
+      ]
+    },
+    "parallel": {
+      "title": "Estacionamiento en línea marcha atrás",
+      "body": [
+        "Entras marcha atrás en un hueco junto al bordillo derecho, entre dos vehículos. El hueco debería medir al menos una vez y media el largo del coche.",
+        "Detente a unos 50 cm al lado del coche de delante, con tu parte trasera a la altura de la suya. Da marcha atrás despacio hasta que tu eje trasero quede a la altura de su parachoques trasero; entonces gira todo a la derecha. A unos 45°, endereza y sigue atrás; luego gira todo a la izquierda hasta que el coche quede paralelo."
+      ],
+      "checklist": [
+        "Intermitente derecho antes de parar",
+        "Mirar alrededor antes de dar marcha atrás",
+        "Seguir mirando atrás y a los lados, no solo por el espejo",
+        "Terminar a unos 30 cm del bordillo como mucho, ruedas rectas"
+      ],
+      "pitfalls": [
+        "Subirse al bordillo con la rueda trasera.",
+        "No vigilar el tráfico mientras el morro se abre.",
+        "Demasiadas correcciones."
+      ]
+    },
+    "bay": {
+      "title": "Estacionamiento en batería o en diagonal",
+      "body": [
+        "Estacionas de frente o marcha atrás en una plaza perpendicular o en diagonal a la vía, por ejemplo en un aparcamiento. El coche debe quedar centrado y recto, sin pisar las líneas.",
+        "Marcha atrás suele ser más fácil, porque dirigen las ruedas delanteras: pasa la plaza, gira cuando tu parte trasera haya pasado más o menos la línea lejana y alinea el coche con las marcas."
+      ],
+      "checklist": [
+        "Intermitente antes de entrar en la plaza",
+        "Atención a los peatones del aparcamiento",
+        "Centrado entre las líneas, ruedas rectas"
+      ],
+      "pitfalls": [
+        "Casi rozar el coche de al lado sin parar."
+      ]
+    },
+    "corner": {
+      "title": "Marcha atrás en esquina",
+      "body": [
+        "Das marcha atrás hacia la derecha en una calle lateral, un cruce o una entrada, siguiendo el bordillo a distancia constante.",
+        "Pasa la boca de la calle y detente cerca del bordillo. Da marcha atrás despacio; cuando en el espejo derecho veas que el bordillo se curva, empieza a girar a la derecha. Tras la esquina, endereza y sigue marcha atrás hasta que te digan que pares."
+      ],
+      "checklist": [
+        "Mirar alrededor antes y durante la marcha atrás",
+        "Dejar pasar a los peatones de la esquina",
+        "Distancia constante al bordillo"
+      ],
+      "pitfalls": [
+        "El morro invade sin darme cuenta el carril contrario."
+      ]
+    },
+    "turnround": {
+      "title": "Cambio de sentido",
+      "body": [
+        "Das la vuelta al coche en la calzada, con maniobras hacia delante y hacia atrás. No puedes tocar los bordillos."
+      ],
+      "checklist": [
+        "Solo donde esté permitido y se vea bien",
+        "Mirar a ambos lados antes de cada movimiento",
+        "Moverse despacio, girar el volante rápido"
+      ],
+      "pitfalls": [
+        "Bloquear el tráfico en vez de dejarlo pasar."
+      ]
+    },
+    "emergency": {
+      "title": "Frenada de emergencia",
+      "body": [
+        "A la señal, frenas desde unos 30 km/h lo más fuerte posible hasta detenerte. El coche debe quedar recto.",
+        "Con ABS: pisa a fondo freno y embrague y mantenlos. La vibración del pedal es normal. Antes se comprueba que no venga nadie detrás."
+      ],
+      "checklist": [
+        "Reaccionar a la orden, no antes",
+        "Pisar a fondo, no poco a poco",
+        "Después, luces de emergencia o mirar el espejo antes de seguir"
+      ],
+      "pitfalls": [
+        "Frenar con demasiada suavidad."
+      ]
+    },
+    "competences": {
+      "title": "Las cinco áreas de competencia",
+      "body": [
+        "La persona examinadora no se limita a contar «fallos» sueltos, sino que valora tu conducción en cinco áreas — durante todo el examen y en situaciones como cruces, glorietas, cambios de carril, incorporaciones a la autopista, curvas y pasos de peatones."
+      ],
+      "checklist": [
+        "Observación: espejos, mirada por encima del hombro, mirar lejos",
+        "Posición: carril correcto, distancia delante y lateral",
+        "Velocidad: adecuada al límite, la visibilidad y la situación",
+        "Comunicación: intermitente a tiempo, contacto visual, intenciones claras",
+        "Manejo del vehículo y conducción eficiente: cambios de marcha, dirección, frenada suave"
+      ]
+    },
+    "fail": {
+      "title": "Por qué se suspende más a menudo",
+      "body": [
+        "Los pequeños despistes no suspenden. Se suspende por un error grave — por ejemplo, cuando alguien corre peligro — o cuando los errores pequeños se repiten."
+      ],
+      "pitfalls": [
+        "No respetar la prioridad, sobre todo la «prioridad a la derecha» en zonas 30",
+        "No mirar por encima del hombro al girar, arrancar o cambiar de carril",
+        "No detenerse del todo en el STOP",
+        "No dejar cruzar a los peatones en el paso de cebra",
+        "Exceso claro de velocidad, por ejemplo en una zona 30",
+        "Saltarse un semáforo en rojo",
+        "Que el profesor o la profesora tenga que intervenir (doble mando o volante)"
+      ]
+    },
+    "phrases": {
+      "title": "Lo que te dirán",
+      "body": [
+        "El examen práctico es en alemán. Las indicaciones se dan con tiempo. Si no entiendes algo, pregunta — no es un error."
+      ],
+      "phrases": [
+        "En el próximo cruce, a la derecha, por favor.",
+        "Gire a la izquierda, por favor.",
+        "Siga recto, por favor.",
+        "Siga el trazado de la vía, por favor.",
+        "Siga las indicaciones hacia la autopista.",
+        "En la glorieta, tome la segunda salida, por favor.",
+        "Pare aquí a la derecha, junto al borde, por favor.",
+        "Estacione marcha atrás detrás del coche azul, por favor.",
+        "Cambie de sentido aquí, por favor.",
+        "Cuando diga «Stopp», haga una frenada de emergencia, por favor.",
+        "Vuelva a arrancar cuando el tráfico lo permita, por favor.",
+        "El examen ha terminado. Ha aprobado."
+      ]
+    }
+  },
+  "conversion": {
+    "eu": {
+      "title": "Permiso de la UE o del EEE",
+      "body": [
+        "Un permiso válido de un país de la UE o del EEE (la UE más Islandia, Liechtenstein y Noruega) sigue siendo válido en Alemania. No hace falta canjearlo.",
+        "Si tu permiso tiene fecha de caducidad, lo renuevas en la oficina alemana de permisos cuando ya vivas aquí."
+      ]
+    },
+    "six-months": {
+      "title": "Todos los demás: seis meses",
+      "body": [
+        "Con un permiso de cualquier otro país puedes conducir seis meses desde el día en que fijas tu residencia en Alemania. Si solo estás de forma temporal, puedes solicitar hasta seis meses más.",
+        "Después necesitas un permiso alemán. Conducir con el extranjero pasado el plazo cuenta como conducir sin permiso, que es delito.",
+        "Si tu permiso no está en alemán y no sigue un modelo internacional, durante esos seis meses necesitas una traducción o un permiso internacional de conducción."
+      ]
+    },
+    "which-case": {
+      "title": "Qué exámenes necesitas",
+      "body": [
+        "Depende de si tu país de expedición figura en el anexo 11 del Reglamento de Permisos de Conducir, y para qué categoría. Hay tres casos:",
+        "1. Tu país figura para el permiso B sin exámenes (por ejemplo, Japón, Suiza, el Reino Unido y, desde agosto de 2026, Ucrania): lo solicitas y no hay que examinarse.",
+        "2. Tu país figura con «solo examen teórico»: haces la teoría y la práctica no hace falta.",
+        "3. Tu país no figura (es el caso de muchos países, y de algunos estados de EE. UU. y provincias de Canadá, que aparecen por separado): haces teoría y práctica. Las clases no son obligatorias, pero el examen se hace con un coche de autoescuela.",
+        "La lista cambia. Consulta el texto actual del anexo 11 y pregunta en tu oficina local de permisos antes de reservar nada."
+      ]
+    },
+    "documents": {
+      "title": "La solicitud y qué llevar",
+      "body": [
+        "Lo solicitas en la oficina de permisos (Führerscheinstelle) de tu lugar de residencia, cuanto antes; la tramitación suele llevar semanas.",
+        "Normalmente: tu permiso extranjero original, una traducción (por ejemplo, del ADAC o de un traductor jurado), pasaporte o documento de identidad, certificado de empadronamiento (Meldebescheinigung), una foto biométrica, un examen de la vista y normalmente un certificado de curso de primeros auxilios. La oficina te dirá exactamente qué necesita.",
+        "Cuando recibes el permiso alemán, entregas el extranjero."
+      ]
+    },
+    "tests": {
+      "title": "Si tienes que examinarte",
+      "body": [
+        "Apúntate en una autoescuela; ella te inscribe para el examen en TÜV o DEKRA. Puedes hacer la teoría en alemán o en uno de otros doce idiomas — los mismos que esta app.",
+        "Incluso con mucha experiencia conviene dar algunas clases: el examen se fija en cosas que en otros sitios funcionan distinto — «prioridad a la derecha», mirar por encima del hombro en cada giro, zonas 30 y detenerse del todo en cada STOP."
+      ]
+    },
+    "costs": {
+      "title": "Cuánto cuesta más o menos",
+      "body": [
+        "Los precios varían según la ciudad y la autoescuela. Como orientación: tasa de la oficina unos 40–50 €, traducción 30–60 €, examen teórico en TÜV o DEKRA unos 25 €, examen práctico unos 130 €, más los costes de la autoescuela por inscripción, clases y el coche el día del examen."
+      ]
+    }
+  }
+}

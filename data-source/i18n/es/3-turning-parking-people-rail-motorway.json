@@ -1,0 +1,270 @@
+{
+  "questions": {
+    "tu01": {
+      "prompt": "Quieres girar a la derecha. Por el carril bici a tu derecha va recto un ciclista. ¿Qué haces?",
+      "options": ["Dejo pasar primero al ciclista", "Miro por encima del hombro derecho antes de girar", "Giro rápido por delante del ciclista"],
+      "why": "Al girar debes dejar pasar a los ciclistas que siguen recto en el mismo sentido, por la calzada o junto a ella (§ 9 apdo. 3 StVO). En el ángulo muerto solo los ves mirando por encima del hombro.",
+      "tip": "Giro a la derecha = mirar por encima del hombro derecho. Siempre."
+    },
+    "tu02": {
+      "prompt": "Estás girando. Unos peatones cruzan la calle a la que giras. ¿Qué haces?",
+      "options": ["Espero a que hayan cruzado", "Me cuelo despacio entre ellos", "Toco el claxon para que se den prisa"],
+      "why": "Al girar debes prestar especial atención a los peatones y esperar si hace falta (§ 9 apdo. 3 StVO)."
+    },
+    "tu03": {
+      "prompt": "¿Cómo te colocas para girar a la izquierda?",
+      "options": ["En una vía de doble sentido, junto a la línea central", "En una calle de sentido único, lo más a la izquierda posible", "Siempre del todo a la derecha"],
+      "why": "Para girar a la izquierda te desplazas con antelación lo más a la izquierda posible: hasta el centro si hay tráfico de frente, hasta el borde izquierdo en una calle de sentido único (§ 9 apdo. 1 StVO)."
+    },
+    "tu04": {
+      "prompt": "¿Qué forma parte del giro a la izquierda?",
+      "options": ["Señalizar y colocarse con antelación", "Mirar por el espejo antes de desplazarse", "Otra mirada atrás justo antes de girar"],
+      "why": "El giro a la izquierda exige mirar atrás dos veces: antes de desplazarte y otra vez justo antes de girar, porque alguien podría estar a punto de adelantarte (§ 9 apdo. 1 StVO).",
+      "tip": "Espejo — intermitente — posición — mirada por encima del hombro — giro."
+    },
+    "tu05": {
+      "prompt": "Quieres entrar en un garaje o vado. ¿Qué rige?",
+      "options": ["Hay que descartar cualquier peligro para los demás", "Si hace falta, pido a alguien que me guíe", "Para mí solo rigen las normas de giro de los cruces"],
+      "why": "Entrar en una propiedad, cambiar de sentido y dar marcha atrás exigen que nadie corra peligro; si hace falta, que alguien te guíe (§ 9 apdo. 5 StVO)."
+    },
+    "tu06": {
+      "prompt": "¿Dónde está prohibido cambiar de sentido?",
+      "options": ["En autopistas y autovías", "Donde está la señal 272", "En cualquier calle de la ciudad"],
+      "why": "Cambiar de sentido y dar marcha atrás están prohibidos en autopistas y autovías (§ 18 apdo. 7 StVO). La señal 272 lo prohíbe expresamente. En otros sitios puedes cambiar de sentido si nadie corre peligro."
+    },
+    "tu07": {
+      "prompt": "Quieres salir marcha atrás de una plaza y ves poco detrás. ¿Qué haces?",
+      "options": ["Voy despacio, sigo mirando y si hace falta pido que me guíen", "Doy marcha atrás rápido para no hacer esperar a nadie", "Me fío solo de la cámara de marcha atrás"],
+      "why": "Dar marcha atrás no debe poner en peligro a nadie (§ 9 apdo. 5 StVO). Cámaras y sensores ayudan, pero no sustituyen a mirar y pueden no detectar niños u obstáculos bajos."
+    },
+    "tu08": {
+      "prompt": "¿Cómo giras a la derecha?",
+      "options": ["Lo más a la derecha posible", "Con un arco amplio por el centro de la calle transversal", "Sin intermitente si la vía está libre"],
+      "why": "Quien gira a la derecha se mantiene lo más a la derecha posible (§ 9 apdo. 1 StVO) y gira con un arco cerrado. El intermitente se pone siempre, aunque no veas a nadie."
+    },
+    "tu09": {
+      "prompt": "Quieres girar. Un tranvía a tu lado sigue recto en el mismo sentido. ¿Quién pasa primero?",
+      "options": ["El tranvía", "Yo, porque mi intermitente se encendió antes", "El más rápido"],
+      "why": "Los vehículos que giran deben dejar pasar a los vehículos sobre raíles, incluso cuando circulan a su lado en el mismo sentido (§ 9 apdo. 3 StVO)."
+    },
+    "tu10": {
+      "prompt": "¿Cuándo pones el intermitente?",
+      "options": ["Con antelación antes de girar", "Antes de cada cambio de carril", "Solo cuando ya estoy girando"],
+      "why": "El intermitente anuncia lo que vas a hacer — antes, no durante. Al girar, al cambiar de carril y al arrancar desde el borde."
+    },
+    "pa01": {
+      "prompt": "¿Cuándo es estacionar (y no parar)?",
+      "options": ["Cuando dejo el vehículo", "Cuando la parada dura más de tres minutos", "Cuando estoy en una retención"],
+      "why": "Dejar el vehículo o detenerse más de tres minutos es estacionar (§ 12 apdo. 2 StVO). Detenerse por el tráfico — en una retención, en rojo — no es ni una cosa ni otra."
+    },
+    "pa02": {
+      "prompt": "¿Dónde está prohibido parar?",
+      "options": ["En estrechamientos y donde la visibilidad es mala", "En pasos a nivel", "Delante de una panadería"],
+      "why": "Parar está prohibido, entre otros sitios, en estrechamientos y con mala visibilidad, en curvas cerradas, en ramales de enlace, en pasos a nivel y delante de accesos de bomberos (§ 12 apdo. 1 StVO)."
+    },
+    "pa03": {
+      "prompt": "¿Cuántos metros antes de un paso de peatones no se puede parar?",
+      "why": "Está prohibido parar sobre los pasos de peatones y en los 5 m anteriores. Un coche parado oculta a los peatones, sobre todo a los niños."
+    },
+    "pa04": {
+      "prompt": "¿Cuántos metros antes y después de un cruce no se puede estacionar (sin carril bici separado)?",
+      "why": "Está prohibido estacionar 5 m antes y después de los cruces, medidos desde donde se encuentran las líneas de los bordillos. Si a la derecha hay un carril bici separado, son 8 m antes del cruce (§ 12 apdo. 3 StVO)."
+    },
+    "pa05": {
+      "prompt": "¿Dónde está prohibido estacionar?",
+      "options": ["Delante de entradas y salidas de vados", "Delante de bordillos rebajados", "En una plaza señalizada"],
+      "why": "Está prohibido estacionar delante de vados (y enfrente en calles estrechas) y delante de bordillos rebajados, que necesitan sillas de ruedas y cochecitos (§ 12 apdo. 3 StVO)."
+    },
+    "pa06": {
+      "prompt": "Llegas a las 9:10 y pones el disco de estacionamiento. ¿Qué hora pones?",
+      "options": ["9:30", "9:10", "9:00"],
+      "why": "El disco se pone en la siguiente media hora después de llegar: a las 9:10, en las 9:30.",
+      "tip": "Redondea siempre hacia arriba, a la siguiente media hora."
+    },
+    "pa07": {
+      "prompt": "¿En qué lado de la calzada se estaciona normalmente?",
+      "options": ["A la derecha", "A la izquierda en calles de sentido único", "A la izquierda donde haya sitio"],
+      "why": "Se para y se estaciona a la derecha, en el borde derecho o en el arcén. A la izquierda solo en calles de sentido único o donde hay vías a la derecha (§ 12 apdo. 4 StVO)."
+    },
+    "pa08": {
+      "prompt": "Quieres abrir la puerta del conductor. ¿Cómo proteges mejor a los ciclistas?",
+      "options": ["La abro con la mano derecha, para girarme y ver detrás", "Abro la puerta de golpe", "Solo miro por el retrovisor interior"],
+      "why": "Al subir o bajar no debes poner en peligro a nadie (§ 14 apdo. 1 StVO). Abrir la puerta del conductor con la mano derecha (el «método holandés») hace girar el cuerpo, así ves a los ciclistas en el ángulo muerto.",
+      "tip": "La mano lejana en la manilla."
+    },
+    "pa09": {
+      "prompt": "¿Qué haces antes de dejar el coche estacionado?",
+      "options": ["Apago el motor y pongo el freno de mano", "Lo aseguro contra desplazamientos y contra el uso no autorizado", "Dejo el motor encendido si vuelvo enseguida"],
+      "why": "Al dejar el vehículo debes asegurarlo para que no cause accidentes ni estorbe, y contra el uso no autorizado (§ 14 apdo. 2 StVO). Dejar el motor encendido sin vigilancia está prohibido."
+    },
+    "pa10": {
+      "prompt": "De noche estacionas en el borde de la vía fuera de poblado. ¿Qué debes hacer?",
+      "options": ["Iluminar el vehículo, por ejemplo con las luces de posición", "Nada, basta con los catadióptricos", "Encender la antiniebla trasera"],
+      "why": "Fuera de poblado, los vehículos parados y estacionados deben estar iluminados en la oscuridad. En poblado basta la luz de estacionamiento del lado del tráfico, y donde las farolas quedan encendidas toda la noche normalmente no hace falta ninguna (§ 17 apdo. 4 StVO)."
+    },
+    "pa11": {
+      "prompt": "¿Puedes estacionar en doble fila?",
+      "options": ["No", "Sí, con las luces de emergencia", "Sí, hasta diez minutos"],
+      "why": "Estacionar en doble fila está prohibido, y las luces de emergencia no lo hacen legal. Bloquea la calzada y obliga a otros a invadir el carril contrario."
+    },
+    "pa12": {
+      "prompt": "¿Dónde no puedes estacionar?",
+      "options": ["En la acera, salvo que una señal o marca lo permita", "Delante de un acceso de bomberos", "En una plaza señalizada"],
+      "why": "Las aceras son para los peatones. Estacionar en ellas solo se permite donde lo autoriza la señal 315 o una marca. Delante de los accesos de bomberos está prohibido incluso parar."
+    },
+    "pe01": {
+      "prompt": "Un peatón espera en un paso de peatones. ¿Qué haces?",
+      "options": ["Paro y le dejo cruzar", "Sigo — aún no ha empezado a cruzar", "Toco el claxon para que sepa que llego"],
+      "why": "En los pasos de peatones debes dejar cruzar a los peatones y a las personas en silla de ruedas que claramente quieren hacerlo. Acércate a velocidad moderada y espera si hace falta (§ 26 apdo. 1 StVO).",
+      "tip": "Quien espera en el paso de cebra ya tiene prioridad."
+    },
+    "pe02": {
+      "prompt": "Hay niños junto a la vía. ¿Cómo te comportas?",
+      "options": ["Reduzco la velocidad y me preparo para frenar", "Cuento con que un niño puede salir corriendo a la calzada", "Toco el claxon y mantengo la velocidad"],
+      "why": "Cerca de niños, personas mayores y cualquiera que necesite ayuda debes reducir la velocidad y prepararte para frenar, de modo que no les pase nada (§ 3 apdo. 2a StVO). Los niños todavía no saben calcular velocidades y distancias."
+    },
+    "pe03": {
+      "prompt": "Un balón rueda a la calzada entre coches aparcados. ¿Qué esperas?",
+      "options": ["Que un niño salga corriendo detrás", "Nada en especial", "Que el balón pueda dañar el coche"],
+      "why": "Un niño que persigue un balón solo ve el balón. Frena enseguida y cuenta con que salga de entre los coches.",
+      "tip": "Balón = niño."
+    },
+    "pe04": {
+      "prompt": "Un peatón con bastón blanco quiere cruzar. ¿Qué significa?",
+      "options": ["Es una persona ciega o con una discapacidad visual grave", "Debo tener especial cuidado y parar si hace falta", "La persona me ve y esperará"],
+      "why": "Un bastón blanco, un perro guía con arnés blanco o un brazalete amarillo con tres puntos negros indican una persona ciega. No puede verte, así que para si hace falta."
+    },
+    "pe05": {
+      "prompt": "Una persona mayor cruza despacio cuando tu semáforo se pone en verde. ¿Qué haces?",
+      "options": ["Espero a que haya salido de la calzada", "La rodeo despacio", "Toco el claxon para meterle prisa"],
+      "why": "El verde no te da derecho a poner en peligro a nadie. Las personas mayores a menudo necesitan más tiempo y pueden asustarse. Deja que terminen de cruzar con calma."
+    },
+    "pe06": {
+      "prompt": "¿Hasta qué edad deben los niños ir en bici por la acera?",
+      "why": "Los niños hasta cumplir 8 años deben ir por la acera, y hasta los 10 pueden (§ 2 apdo. 5 StVO). En vados y cruces, cuenta con que bajen de la acera a la calzada."
+    },
+    "pe07": {
+      "prompt": "Un ciclista delante de ti se acerca a un coche aparcado. ¿Qué esperas?",
+      "options": ["Que se desvíe a la izquierda, quizá sin señalizar", "Que pare y espere", "Que se suba a la acera"],
+      "why": "Los ciclistas tienen que esquivar obstáculos y no siempre miran atrás antes. Guarda la distancia y adelanta solo cuando esté claro qué van a hacer."
+    },
+    "pe08": {
+      "prompt": "¿Pueden los ciclistas ir en paralelo?",
+      "options": ["Sí, si no entorpecen la circulación", "No, nunca", "Solo en grupos de 16 o más"],
+      "why": "Los ciclistas pueden ir de dos en dos si no entorpecen la circulación (§ 2 apdo. 4 StVO). En una calle ciclista y en un grupo de 16 o más, aunque frenen a otros."
+    },
+    "pe09": {
+      "prompt": "De noche, los peatones con ropa oscura se ven mal. ¿Qué es cierto?",
+      "options": ["Con las luces de cruce a menudo los veo muy tarde", "Adapto la velocidad al alcance de mis luces", "Las luces diurnas bastan de noche"],
+      "why": "Con las luces de cruce a menudo ves a un peatón con ropa oscura solo a 25–30 m — menos que la distancia de detención a 50 km/h. Las luces diurnas no iluminan la vía y dejan la parte trasera a oscuras."
+    },
+    "pe10": {
+      "prompt": "¿Dónde y cómo se puede circular en patinete eléctrico?",
+      "options": ["Por carriles bici y, donde no los hay, por la calzada", "Con una sola persona", "Por la acera"],
+      "why": "Los patinetes eléctricos deben usar los carriles bici o, si no hay, la calzada; las aceras están prohibidas. Solo puede conducirlos una persona de 14 años o más (eKFV). Al girar, trátalos como a ciclistas."
+    },
+    "pe11": {
+      "prompt": "Un autobús escolar ha parado junto a la vía y bajan niños. ¿Qué haces?",
+      "options": ["Paso despacio, con mucho margen y el pie listo para frenar", "Cuento con que los niños crucen por delante o por detrás del autobús", "Paso rápido para que los niños bajen con seguridad"],
+      "why": "Los niños suelen cruzar corriendo justo por delante o por detrás del autobús. Si lleva las luces de emergencia encendidas, tienes que reducir incluso al paso (§ 20 apdo. 4 StVO)."
+    },
+    "pe12": {
+      "prompt": "Un peatón cruza lejos de cualquier paso. ¿Qué haces?",
+      "options": ["Freno y le dejo cruzar, aunque debería haber esperado", "Sigo — no tiene prioridad", "Paso pegado por detrás"],
+      "why": "Los peatones deben prestar atención a los vehículos (§ 25 StVO), pero el § 1 StVO exige precaución constante: nadie puede ser puesto en peligro. El error de otra persona nunca te da derecho a atropellarla."
+    },
+    "ra01": {
+      "prompt": "¿Cuándo debes esperar en este paso a nivel?",
+      "options": ["Cuando se acerca un tren", "Cuando parpadean las luces rojas o bajan las barreras", "Solo cuando las barreras están del todo bajadas"],
+      "why": "En los pasos a nivel los trenes tienen prioridad (§ 19 apdo. 1 StVO). Debes esperar cuando viene un tren, cuando hay luces rojas o intermitentes, cuando las barreras bajan o están bajadas, o cuando personal ferroviario te indica que pares (§ 19 apdo. 2 StVO).",
+      "tip": "Una barrera que baja ya está cerrada."
+    },
+    "ra02": {
+      "prompt": "Justo después del paso a nivel hay retención. ¿Qué haces?",
+      "options": ["Espero antes del paso a nivel", "Entro en las vías y espero allí", "Toco el claxon para que los demás avancen"],
+      "why": "Entra en un paso a nivel solo si puedes atravesarlo del todo sin parar (§ 19 apdo. 1 StVO). Si te quedas sobre las vías en una retención, no hay escapatoria."
+    },
+    "ra03": {
+      "prompt": "Tu coche se avería sobre un paso a nivel. ¿Qué haces?",
+      "options": ["Saco a todo el mundo enseguida y lejos de la zona de peligro", "Llamo al número de emergencias o al que aparece en el paso", "Me quedo en el coche intentando arrancarlo"],
+      "why": "Un tren no puede esquivar y a menudo necesita más de un kilómetro para parar. Primero las personas: fuera, lejos de las vías, y luego avisa a la compañía ferroviaria por el número de emergencias."
+    },
+    "ra04": {
+      "prompt": "Un autobús se acerca a una parada con las luces de emergencia encendidas. ¿Qué rige?",
+      "options": ["No puedo adelantarlo", "Puedo adelantarlo rápido antes de que pare", "Debo parar de inmediato"],
+      "why": "Los autobuses y los autobuses escolares señalizados que se acercan a una parada con las luces de emergencia encendidas no pueden ser adelantados (§ 20 apdo. 3 StVO)."
+    },
+    "ra05": {
+      "prompt": "Un autobús está en la parada con las luces de emergencia encendidas. ¿Cómo puedes pasar?",
+      "options": ["Solo al paso", "Sin poner en peligro a los pasajeros — esperando si hace falta", "A 30 km/h"],
+      "why": "Junto a autobuses y autobuses escolares parados en una parada con las luces de emergencia encendidas solo se puede pasar al paso y con distancia suficiente para no poner en peligro a los pasajeros. Esto vale también para el tráfico de frente en la misma calzada (§ 20 apdo. 4 StVO).",
+      "tip": "Autobús con emergencia en la parada = al paso, incluso en sentido contrario."
+    },
+    "ra06": {
+      "prompt": "Un autobús pone el intermitente izquierdo para salir de la parada. ¿Qué haces?",
+      "options": ["Le dejo salir, esperando si hace falta", "Lo rebaso deprisa", "Toco el claxon"],
+      "why": "Hay que dejar salir a los autobuses y autobuses escolares de las paradas señalizadas; los demás vehículos esperan si hace falta (§ 20 apdo. 5 StVO)."
+    },
+    "ra07": {
+      "prompt": "Un tranvía ha parado en una parada sin isleta y bajan pasajeros. ¿Qué haces?",
+      "options": ["Paso por la derecha al paso, sin molestar a los pasajeros", "Espero si hace falta", "Paso rápido por la izquierda"],
+      "why": "Mientras los pasajeros suben o bajan, solo se puede pasar por la derecha, al paso y con margen; no se puede molestar a los pasajeros, y si hace falta se espera (§ 20 apdo. 2 StVO)."
+    },
+    "ra08": {
+      "prompt": "Te acercas a un paso a nivel con cruz de San Andrés. ¿Cómo te acercas?",
+      "options": ["A velocidad moderada", "Lo más rápido posible, para cruzar enseguida", "Adelanto rápido al camión de delante"],
+      "why": "A los pasos a nivel se llega a velocidad moderada (§ 19 apdo. 1 StVO), para poder parar si viene un tren. Desde la señal 151 o 156 no se adelanta a vehículos de motor."
+    },
+    "mw01": {
+      "prompt": "Te incorporas a la autopista. ¿Qué es correcto?",
+      "options": ["Uso el carril de aceleración para adaptarme a la velocidad de la autopista", "El tráfico de la autopista tiene prioridad", "Quien va por la autopista tiene que dejarme entrar"],
+      "why": "El tráfico de la calzada principal tiene prioridad (§ 18 apdo. 3 StVO). Usa el carril de aceleración para llegar a un hueco adecuado a una velocidad adecuada; incorporarse demasiado despacio es peligroso."
+    },
+    "mw02": {
+      "prompt": "En la autopista se forma una retención. ¿Dónde formas el corredor de emergencia?",
+      "options": ["Entre el carril de más a la izquierda y el de al lado", "En el arcén", "Repartido por igual en todos los carriles"],
+      "why": "En cuanto el tráfico baja al paso en autopistas y vías de varios carriles fuera de poblado, forma el corredor entre el carril de más a la izquierda y el de su derecha (§ 11 apdo. 2 StVO) — antes de que lleguen los servicios de emergencia.",
+      "tip": "El carril de más a la izquierda se aparta a la izquierda; todos los demás, a la derecha."
+    },
+    "mw03": {
+      "prompt": "¿Qué está prohibido en la autopista?",
+      "options": ["Cambiar de sentido y dar marcha atrás", "Parar, incluso en el arcén (salvo emergencia)", "Usar el carril izquierdo para adelantar"],
+      "why": "Cambiar de sentido y dar marcha atrás están prohibidos en las autopistas, incluidos los ramales. Parar también, incluso en el arcén (§ 18 apdos. 7 y 8 StVO). ¿Te pasaste la salida? Toma la siguiente."
+    },
+    "mw04": {
+      "prompt": "Tienes una avería en la autopista. ¿Qué haces?",
+      "options": ["Enciendo las luces de emergencia y, si puedo, me paso al arcén", "Me pongo el chaleco reflectante y llevo a todos detrás de la barrera", "Coloco el triángulo unos 200 m por detrás"],
+      "why": "Primero la seguridad: emergencia, a la derecha, chaleco, todos bajan por el lado del acompañante y detrás de la barrera. Después el triángulo: unos 200 m detrás en autopista, 100 m en carretera, 50 m en ciudad (§ 15 StVO).",
+      "tip": "50 — 100 — 200 m: ciudad, carretera, autopista."
+    },
+    "mw05": {
+      "prompt": "En la autopista te acercas al final de una retención. ¿Qué haces?",
+      "options": ["Freno con antelación y enciendo las luces de emergencia", "Dejo suficiente distancia con el último vehículo", "Me meto en el arcén"],
+      "why": "Al final de la retención avisa al tráfico que viene detrás con las luces de emergencia (§ 16 apdo. 2 StVO). Deja un hueco para poder apartarte si alguien detrás frena demasiado tarde."
+    },
+    "mw06": {
+      "prompt": "La radio avisa de un vehículo en sentido contrario en tu tramo de autopista. ¿Qué haces?",
+      "options": ["Me mantengo a la derecha y no adelanto", "Reduzco la velocidad y aumento la distancia", "Me quedo en el carril izquierdo"],
+      "why": "Quien circula en sentido contrario suele venir hacia ti por el carril izquierdo, creyendo que es el derecho. Mantente a la derecha, no adelantes, reduce la velocidad y enciende las luces de emergencia si se acerca."
+    },
+    "mw07": {
+      "prompt": "¿Cuántos metros antes de la salida está la baliza de tres franjas?",
+      "why": "Las balizas de preaviso (señal 450) están a unos 300, 200 y 100 m del inicio del carril de salida. Pásate al carril derecho con tiempo.",
+      "tip": "Autopista: 100 m por franja. Paso a nivel: 80 m."
+    },
+    "mw08": {
+      "prompt": "¿A qué distancia unos de otros suelen estar los hitos de arista?",
+      "why": "Los hitos de arista suelen estar cada 50 m. Úsalos para calcular distancias y visibilidad: si con niebla no ves el siguiente, la visibilidad es inferior a 50 m y no puedes ir a más de 50 km/h."
+    },
+    "mw09": {
+      "prompt": "¿Quién puede circular por el arcén de la autopista?",
+      "options": ["Nadie — salvo que las señales lo abran al tráfico", "Los vehículos lentos", "Cualquiera que esté en una retención"],
+      "why": "El arcén no es un carril de circulación. Solo puedes circular por él donde las señales lo abren expresamente; si no, es para averías y servicios de emergencia."
+    },
+    "mw10": {
+      "prompt": "¿Qué rige en una vía para automóviles (Kraftfahrstraße)?",
+      "options": ["Solo pueden usarla vehículos de motor fabricados para más de 60 km/h", "En los cruces tiene prioridad el tráfico de la vía para automóviles", "Los peatones pueden andar por el borde"],
+      "why": "En las vías para automóviles (señal 331.1) rigen en gran parte las normas de autopista: solo vehículos de motor rápidos, prohibido parar y cambiar de sentido, y su tráfico tiene prioridad en los cruces."
+    }
+  }
+}
