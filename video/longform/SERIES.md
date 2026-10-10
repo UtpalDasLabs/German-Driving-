@@ -43,19 +43,28 @@ them. 220 questions, so 220 shorts; right of way first.
 
 ## Tone
 
-The same as the citizenship series (see that repository's SERIES.md): a
-documentary storyteller, `[dramatic]` on every paragraph for Eleven v4, no
-hype lines, no punchline paragraphs.
+The same storyteller as the citizenship series (`basic-rights.md`,
+`europe.md` in that repository): curious, warm and conversational, with
+contractions and the viewer addressed as "you". Each lesson opens with a small
+scene or moment rather than a definition. Every trap answer gets a beat on
+*why* it's wrong, and the odd dry line keeps it light. No hype and no cheesy
+punchlines.
 
+- Delivery tags for Eleven v4, one per spoken paragraph, varied: `[curious]`,
+  `[warm]`, `[serious]`, `[firm]` (to set up a trap), `[dry amusement]`
+  and `[pause]`.
 - Read the question in English. Do not read the options: they are on screen,
   and a read-out option is ruled out by ear before the countdown.
 - Every question ends in a `[countdown]` paragraph that opens with the answer
   as it is written on the card (`npm run check:quiz -- <topic>` enforces it).
 - German appears where it helps on the road and on test day: sign names, the
   three-word rules ("rechts vor links"), what the examiner says. Mark it
-  `[[like this]]` so it is spoken in German and captioned.
+  `[[like this]]` so it is spoken in German and captioned. A `term` card shows
+  its German when it is spoken, so say it early in the paragraph.
 - These are the app's own practice questions, not the official catalogue's.
   Never say "this is an official question"; say "a question like this".
+- About 430 spoken characters per question explained. Voice credits are the
+  limit, so tight beats long.
 
 ## Making one lesson
 
