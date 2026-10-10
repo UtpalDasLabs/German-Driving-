@@ -83,11 +83,12 @@ punchlines.
 ## Voice budget
 
 About 430 characters per question explained; a theory lesson is 7,000 to
-10,500 characters and the whole series about 118,000. On this account Eleven v4
-bills far less than one credit per character: lesson 1 (9,559 characters) cost
-about 1,050 credits and lesson 2 (6,976) about 770, so roughly 0.11 credits per
-character, about 13,000 credits for all fourteen lessons. Check the balance
-before and after the first lesson of a batch: the rate is ElevenLabs' to change.
+10,500 characters and the whole series about 118,000. Eleven v4 normally bills
+one credit per character. Lessons 1 to 11 were voiced during ElevenLabs'
+October 2026 "Eleven v4 free for two weeks" offer, which billed only about 0.11
+credits per character, so they cost about 13,000 credits in all. Re-voicing a
+lesson at the normal rate costs its full length: check the balance before a
+batch.
 
 ## Every upload
 
