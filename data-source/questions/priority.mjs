@@ -22,6 +22,7 @@ export default [
     ),
     tip: t('Rechts vor links: Wer von rechts kommt, fährt zuerst.', 'Rechts vor links: whoever comes from your right goes first.'),
     scene: { road: 'cross', actors: [{ kind: 'you', arm: 's', turn: 'straight' }, { kind: 'car', arm: 'e', turn: 'straight' }] },
+    motion: [[1], [0]],
   }),
   q('pr02', {
     pts: 5, sec: '1.3', basic: true,
@@ -39,26 +40,28 @@ export default [
     ),
     tip: null,
     scene: { road: 'cross', actors: [{ kind: 'you', arm: 's', turn: 'straight' }, { kind: 'car', arm: 'w', turn: 'straight' }] },
+    motion: [[0], [1]],
   }),
   q('pr03', {
     pts: 5, sec: '1.3', basic: true,
     de: 'Keine Verkehrszeichen, alle fahren geradeaus. In welcher Reihenfolge fahren die Fahrzeuge?',
     en: 'No signs, everyone is going straight on. In what order do the vehicles go?',
-    opts: [t('B, C, A', 'B, C, A'), t('A, B, C', 'A, B, C'), t('C, A, B', 'C, A, B')],
+    opts: [t('2, 3, 1', '2, 3, 1'), t('1, 2, 3', '1, 2, 3'), t('3, 1, 2', '3, 1, 2')],
     ok: [0],
     why: t(
-      'Für B ist rechts frei, also fährt B zuerst. Der Radfahrer C muss nur B (von seiner Rechten) abwarten. Sie (A) haben C rechts von sich und fahren deshalb zuletzt.',
-      'B has nobody on its right, so B goes first. The cyclist C only has to wait for B, who is on its right. You (A) have C on your right, so you go last.',
+      'Für den Pkw 2 ist rechts frei, also fährt er zuerst. Der Radfahrer 3 muss nur den Pkw 2 abwarten, der von seiner Rechten kommt. Sie (1) haben den Radfahrer rechts von sich und fahren deshalb zuletzt.',
+      'Car 2 has nobody on its right, so it goes first. The cyclist, 3, only has to wait for car 2, which is on its right. You (1) have the cyclist on your right, so you go last.',
     ),
     tip: t('Bei mehreren Fahrzeugen: Suche zuerst das, das rechts frei hat.', 'With several vehicles: first find the one whose right-hand side is clear.'),
     scene: {
       road: 'cross',
       actors: [
-        { kind: 'you', arm: 's', turn: 'straight', label: 'A' },
-        { kind: 'car', arm: 'n', turn: 'straight', label: 'B' },
-        { kind: 'bike', arm: 'e', turn: 'straight', label: 'C' },
+        { kind: 'you', arm: 's', turn: 'straight', label: '1' },
+        { kind: 'car', arm: 'n', turn: 'straight', label: '2' },
+        { kind: 'bike', arm: 'e', turn: 'straight', label: '3' },
       ],
     },
+    motion: [[1], [2], [0]],
   }),
   q('pr04', {
     pts: 5, sec: '1.3', basic: true,
@@ -79,6 +82,7 @@ export default [
       road: 'cross',
       actors: [{ kind: 'you', arm: 's', turn: 'left', blinker: 'left' }, { kind: 'car', arm: 'n', turn: 'straight' }],
     },
+    motion: [[1], [0]],
   }),
   q('pr05', {
     pts: 5, sec: '1.3', basic: true,
@@ -99,6 +103,7 @@ export default [
       road: 'cross',
       actors: [{ kind: 'you', arm: 's', turn: 'left', blinker: 'left' }, { kind: 'car', arm: 'n', turn: 'left', blinker: 'left' }],
     },
+    motion: [[0, 1]],
   }),
   q('pr06', {
     pts: 5, sec: '1.3', basic: true,
@@ -126,6 +131,7 @@ export default [
       markings: ['giveWayLine'],
     },
     signs: ['205'],
+    motion: [[1, 2], [0]],
   }),
   q('pr07', {
     pts: 5, sec: '1.3', basic: true,
@@ -149,6 +155,7 @@ export default [
       markings: ['stopLine'],
     },
     signs: ['206'],
+    motion: [[0]],
   }),
   q('pr08', {
     pts: 5, sec: '1.3', basic: true,
@@ -172,6 +179,7 @@ export default [
       markings: ['giveWayLine:e', 'giveWayLine:w'],
     },
     signs: ['306'],
+    motion: [[0], [1]],
   }),
   q('pr09', {
     pts: 4, sec: '1.3', basic: true,
@@ -213,20 +221,21 @@ export default [
       signs: [{ sign: '306', arm: 's', extra: '1002' }],
     },
     signs: ['306', '1002'],
+    motion: [[0]],
   }),
   q('pr11', {
     pts: 5, sec: '1.3', basic: true,
     de: 'Die Vorfahrtstraße knickt ab (gelb markiert). Sie wollen geradeaus fahren. Wen lassen Sie durchfahren?',
     en: 'The priority road bends (shown in yellow). You want to go straight on. Whom do you let go first?',
     opts: [
-      t('Den Pkw A', 'Car A'),
+      t('Den Pkw 1', 'Car 1'),
       t('Niemanden – ich fahre ja geradeaus', 'Nobody - I am going straight on'),
       t('Nur Fahrzeuge von rechts', 'Only vehicles from the right'),
     ],
     ok: [0],
     why: t(
-      'Sie stehen an der Seitenstraße (Zeichen 205). Pkw A fährt auf der Vorfahrtstraße und biegt mit ihr ab – sein Weg kreuzt Ihren. Geradeaus fahren gibt Ihnen keine Vorfahrt.',
-      'You are on the side road (sign 205). Car A is on the priority road and follows its bend, crossing your path. Going straight on gives you no priority.',
+      'Sie stehen an der Seitenstraße (Zeichen 205). Der Pkw 1 fährt auf der Vorfahrtstraße und biegt mit ihr ab – sein Weg kreuzt Ihren. Geradeaus fahren gibt Ihnen keine Vorfahrt.',
+      'You are on the side road (sign 205). Car 1 is on the priority road and follows its bend, crossing your path. Going straight on gives you no priority.',
     ),
     tip: null,
     scene: {
@@ -234,12 +243,13 @@ export default [
       priorityPath: ['w', 'n'],
       actors: [
         { kind: 'you', arm: 's', turn: 'straight' },
-        { kind: 'car', arm: 'w', turn: 'left', blinker: 'left', label: 'A' },
+        { kind: 'car', arm: 'w', turn: 'left', blinker: 'left', label: '1' },
       ],
       signs: [{ sign: '205', arm: 's', extra: '1002' }],
       markings: ['giveWayLine'],
     },
     signs: ['205'],
+    motion: [[1], [0]],
   }),
   q('pr12', {
     pts: 4, sec: '1.3', basic: true,
@@ -277,6 +287,7 @@ export default [
       road: 'tee',
       actors: [{ kind: 'you', arm: 's', turn: 'right', blinker: 'right' }, { kind: 'car', arm: 'w', turn: 'straight' }],
     },
+    motion: [[1], [0]],
   }),
   q('pr14', {
     pts: 4, sec: '1.3', basic: true,
@@ -336,28 +347,30 @@ export default [
       road: 'tee',
       actors: [{ kind: 'you', arm: 'w', turn: 'straight' }, { kind: 'car', arm: 's', turn: 'left', blinker: 'left' }],
     },
+    motion: [[1], [0]],
   }),
   q('pr17', {
     pts: 5, sec: '1.3', basic: true,
     de: 'In welcher Reihenfolge fahren die Fahrzeuge?',
     en: 'In what order do the vehicles go?',
-    opts: [t('C, A, B', 'C, A, B'), t('A, B, C', 'A, B, C'), t('C, B, A', 'C, B, A')],
+    opts: [t('3, 1, 2', '3, 1, 2'), t('1, 2, 3', '1, 2, 3'), t('3, 2, 1', '3, 2, 1')],
     ok: [0],
     why: t(
-      'C fährt auf der Vorfahrtstraße und darf zuerst. A und B stehen sich an den Seitenstraßen gegenüber; B biegt links ab und muss den geradeaus fahrenden Gegenverkehr A durchlassen.',
-      'C is on the priority road and goes first. A and B face each other on the side roads; B is turning left and has to let A, coming the other way and going straight, go first.',
+      'Der Lkw 3 fährt auf der Vorfahrtstraße und darf zuerst. 1 und 2 stehen sich an den Seitenstraßen gegenüber; 2 biegt links ab und muss den geradeaus fahrenden Gegenverkehr 1 durchlassen.',
+      'The lorry, 3, is on the priority road and goes first. 1 and 2 face each other on the side roads; 2 is turning left and has to let 1, coming the other way and going straight, go first.',
     ),
     tip: null,
     scene: {
       road: 'cross',
       actors: [
-        { kind: 'you', arm: 's', turn: 'straight', label: 'A' },
-        { kind: 'car', arm: 'n', turn: 'left', blinker: 'left', label: 'B' },
-        { kind: 'truck', arm: 'e', turn: 'straight', label: 'C' },
+        { kind: 'you', arm: 's', turn: 'straight', label: '1' },
+        { kind: 'car', arm: 'n', turn: 'left', blinker: 'left', label: '2' },
+        { kind: 'truck', arm: 'e', turn: 'straight', label: '3' },
       ],
       signs: [{ sign: '205', arm: 's' }, { sign: '205', arm: 'n' }, { sign: '306', arm: 'e' }],
       markings: ['giveWayLine', 'giveWayLine:n'],
     },
+    motion: [[2], [0], [1]],
   }),
   q('pr18', {
     pts: 5, sec: '1.3', basic: true,
@@ -379,6 +392,7 @@ export default [
       actors: [{ kind: 'you', arm: 's', turn: 'left', blinker: 'left' }, { kind: 'car', arm: 'n', turn: 'straight' }],
       signs: [{ sign: '306', arm: 's' }, { sign: '306', arm: 'n' }],
     },
+    motion: [[1], [0]],
   }),
   q('pr19', {
     pts: 5, sec: '1.3', basic: true,
@@ -402,24 +416,26 @@ export default [
       markings: ['giveWayLine'],
     },
     signs: ['205'],
+    motion: [[1], [0]],
   }),
   q('pr20', {
     pts: 5, sec: '1.3', basic: true,
     de: 'Keine Verkehrszeichen. Sie wollen links abbiegen. In welcher Reihenfolge wird gefahren?',
     en: 'No signs. You want to turn left. In what order do the vehicles go?',
-    opts: [t('B, A', 'B, A'), t('A, B', 'A, B'), t('Gleichzeitig', 'At the same time')],
+    opts: [t('2, 1', '2, 1'), t('1, 2', '1, 2'), t('Gleichzeitig', 'At the same time')],
     ok: [0],
     why: t(
-      'B kommt von rechts und hat nach „rechts vor links“ Vorfahrt. Dass Sie abbiegen und nicht geradeaus fahren, ändert daran nichts: B fährt geradeaus und kreuzt Ihren Weg.',
-      'B is coming from your right and has priority under "right before left". It makes no difference that you are turning rather than going straight on: B crosses your path.',
+      'Der Pkw 2 kommt von rechts und hat nach „rechts vor links“ Vorfahrt. Dass Sie abbiegen und nicht geradeaus fahren, ändert daran nichts: Er fährt geradeaus und kreuzt Ihren Weg.',
+      'Car 2 is coming from your right and has priority under "right before left". It makes no difference that you are turning rather than going straight on: it crosses your path.',
     ),
     tip: null,
     scene: {
       road: 'cross',
       actors: [
-        { kind: 'you', arm: 's', turn: 'left', blinker: 'left', label: 'A' },
-        { kind: 'car', arm: 'e', turn: 'straight', label: 'B' },
+        { kind: 'you', arm: 's', turn: 'left', blinker: 'left', label: '1' },
+        { kind: 'car', arm: 'e', turn: 'straight', label: '2' },
       ],
     },
+    motion: [[1], [0]],
   }),
 ];

@@ -183,6 +183,12 @@ export type Question = {
   officialRef: string | null;
   /** True when the text is the official catalogue wording. */
   official: boolean;
+  /**
+   * Who drives when, for the videos: groups of actor indexes in the scene,
+   * each group moving together once the one before has cleared. Null when
+   * the scene is not about an order of moves.
+   */
+  motion: number[][] | null;
 };
 
 /* -------------------------------------------------------------- signs */

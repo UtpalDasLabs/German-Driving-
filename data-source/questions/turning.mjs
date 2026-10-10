@@ -42,6 +42,7 @@ export default [
       road: 'cross',
       actors: [{ kind: 'you', arm: 's', turn: 'right', blinker: 'right' }, { kind: 'ped', at: [68, 47], heading: 0 }, { kind: 'child', at: [68, 53], heading: 0 }],
     },
+    motion: [[0]],
   }),
   q('tu03', {
     pts: 4, sec: '1.2', basic: true,

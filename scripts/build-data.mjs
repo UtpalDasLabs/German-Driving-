@@ -162,6 +162,14 @@ for (const file of files) {
     }
 
     checkScene(raw.scene, where);
+    if (raw.motion != null) {
+      const n = raw.scene?.actors?.length ?? 0;
+      const flat = raw.motion.flat();
+      check(Array.isArray(raw.motion) && raw.motion.every(Array.isArray), `${where}: motion must be a list of groups`);
+      check(flat.every((i) => Number.isInteger(i) && i >= 0 && i < n), `${where}: motion names an actor that is not in the scene`);
+      check(new Set(flat).size === flat.length, `${where}: an actor moves twice in motion`);
+      check(flat.every((i) => raw.scene.actors[i].arm && raw.scene.actors[i].turn && !raw.scene.actors[i].at), `${where}: only actors on an arm with a turn can move`);
+    }
     for (const s of raw.signs ?? []) check(signIds.has(s), `${where}: sign ${s} unknown`);
 
     questions.push({
@@ -182,6 +190,7 @@ for (const file of files) {
       signs: raw.signs ?? [],
       officialRef: raw.officialRef ?? null,
       official: raw.official === true,
+      motion: raw.motion ?? null,
     });
   }
 }

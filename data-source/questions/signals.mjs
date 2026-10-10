@@ -37,6 +37,7 @@ export default [
     ),
     tip: null,
     scene: { road: 'cross', actors: [{ kind: 'you', arm: 'w', turn: 'straight' }], officer: { facing: 'ns', arms: 'side' } },
+    motion: [[0]],
   }),
   q('sg03', {
     pts: 4, sec: '1.3', basic: true,
@@ -110,6 +111,7 @@ export default [
       lights: [{ arm: 's', state: 'greenArrow' }],
       markings: ['stopLine'],
     },
+    motion: [[0]],
   }),
   q('sg07', {
     pts: 4, sec: '1.2', basic: true,
@@ -166,6 +168,7 @@ export default [
       lights: [{ arm: 's', state: 'off' }],
       signs: [{ sign: '205', arm: 's' }],
     },
+    motion: [[1], [0]],
   }),
   q('sg10', {
     pts: 3, sec: '1.2', basic: true,
@@ -266,6 +269,7 @@ export default [
       ],
       lights: [{ arm: 's', state: 'green' }, { arm: 'n', state: 'green' }],
     },
+    motion: [[1], [0]],
   }),
   q('sg15', {
     pts: 3, sec: '1.2', basic: true,
