@@ -165,7 +165,7 @@ emergency 2.
 
 [serious] React on the command, not before. Press fully down, not gradually. And afterwards, switch on the hazards or check your mirror before you move on.
 
-[dry amusement] The classic mistake here is a polite one: braking too gently. This is the one moment in your test when you're meant to be rough with the car.
+[dry amusement] The classic mistake here is a polite one: braking too gently. The examiner has already checked the road behind you. This is the one moment in your test when you're meant to be rough with the car.
 
 ## What to take with you
 
@@ -178,7 +178,7 @@ emergency 2.
 
 [warm] So, the five manoeuvres. Parallel parking: fifty centimetres beside, full right, then full left. Bay parking: reverse in, and finish centred. Round the corner: follow the kerb, and watch the front. Turning round: look both ways before every move. And the emergency stop: fully down, and hold.
 
-[curious] Practise them with your instructor until they bore you. Boring is exactly what you want on test day.
+[curious] Practise them with your instructor until they bore you. Boring is exactly what you want on test day. And if one doesn't go perfectly, stop, breathe, and correct it calmly. A small slip doesn't fail you.
 
 > SCENE (outro): The key line, then the app.
 > Langsam fahren, schnell lenken. | Move slowly, steer quickly. | Grundfahraufgaben

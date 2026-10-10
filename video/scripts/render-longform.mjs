@@ -199,7 +199,9 @@ function describe() {
   return [
     script.meta.title,
     '',
-    `${asked.length} questions in the style of the German driving theory test (Führerschein, class B), explained in English, with the German you will meet on the road and on test day.`,
+    asked.length
+      ? `${asked.length} questions in the style of the German driving theory test (Führerschein, class B), explained in English, with the German you will meet on the road and on test day.`
+      : 'Part of a free English-language series on the German driving licence (Führerschein, class B), with the German you will meet on the road and on test day.',
     '',
     `Practise the theory test in 13 languages, plus the practical test and licence conversion, free, no account: ${APP_URL}`,
     '',
