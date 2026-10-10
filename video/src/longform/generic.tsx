@@ -331,14 +331,17 @@ export function Outro() {
   );
 }
 
-/** Closing card, with the AI-voice disclosure on screen. */
+/** Closing card, with the AI-voice disclosure on screen. `> Headline | line` under the scene replaces the default sign-off. */
 export function End() {
   const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+  const [custom] = screenLines(useShot(), fps);
+  const [headline, sub] = custom ? custom.fields : ['Bis bald.', 'See you in the next one.'];
   return (
     <AbsoluteFill style={{ backgroundColor: C.bg, alignItems: 'center', justifyContent: 'center', gap: 40 }}>
       <Glow strength={0.06} />
-      <div style={{ fontFamily: FONT, fontWeight: 800, fontSize: 100, color: C.text, opacity: rise(frame, 6, 18) }}>Bis bald.</div>
-      <div style={{ fontFamily: FONT, fontWeight: 600, fontSize: 44, color: C.textMuted, opacity: rise(frame, 14, 18) }}>See you in the next one.</div>
+      <div style={{ fontFamily: FONT, fontWeight: 800, fontSize: 100, color: C.text, opacity: rise(frame, 6, 18) }}>{headline}</div>
+      <div style={{ fontFamily: FONT, fontWeight: 600, fontSize: 44, color: C.textMuted, opacity: rise(frame, 14, 18) }}>{sub}</div>
       <div style={{ position: 'absolute', bottom: 70, fontFamily: FONT, fontWeight: 500, fontSize: 28, color: C.textFaint, opacity: rise(frame, 4, 18) }}>
         Narrated with an AI version of the creator's voice. Rules checked against the StVO and FeV.
       </div>
