@@ -7,14 +7,16 @@
    "en": "Danger point",
    "tr": "Tehlikeli yer",
    "ar": "موضع خطر",
-   "ru": "Опасный участок"
+   "ru": "Опасный участок",
+   "pl": "Niebezpieczeństwo"
   },
   "meaning": {
    "de": "Warnt vor einer Gefahr, die kein eigenes Zeichen hat. Ein Zusatzzeichen sagt oft, welche.",
    "en": "Warns of a hazard that has no sign of its own. A plate underneath often says what it is.",
    "tr": "Kendi levhası olmayan bir tehlikeye karşı uyarır. Altındaki ek levha çoğu zaman ne olduğunu söyler.",
    "ar": "تحذّر من خطر ليس له إشارة خاصة. وغالبًا ما تبيّن لوحة تحتها ما هو.",
-   "ru": "Предупреждает об опасности, для которой нет отдельного знака. Табличка под ним часто уточняет, о какой."
+   "ru": "Предупреждает об опасности, для которой нет отдельного знака. Табличка под ним часто уточняет, о какой.",
+   "pl": "Ostrzega przed zagrożeniem, które nie ma własnego znaku. Tabliczka pod spodem często mówi, jakim."
   }
  },
  {
@@ -25,14 +27,16 @@
    "en": "Junction with priority from the right",
    "tr": "Sağdan gelenin öncelikli olduğu kavşak",
    "ar": "تقاطع بأولوية للقادم من اليمين",
-   "ru": "Перекрёсток с преимуществом справа"
+   "ru": "Перекрёсток с преимуществом справа",
+   "pl": "Skrzyżowanie z pierwszeństwem z prawej"
   },
   "meaning": {
    "de": "An der nächsten Kreuzung gilt „rechts vor links“.",
    "en": "At the next junction, \"right before left\" applies.",
    "tr": "Bir sonraki kavşakta \"sağdan gelen önce geçer\" geçerlidir.",
    "ar": "عند التقاطع التالي تسري قاعدة «اليمين قبل اليسار».",
-   "ru": "На ближайшем перекрёстке действует «правый перед левым»."
+   "ru": "На ближайшем перекрёстке действует «правый перед левым».",
+   "pl": "Na najbliższym skrzyżowaniu obowiązuje „prawa przed lewą”."
   }
  },
  {
@@ -43,14 +47,16 @@
    "en": "Bend (left)",
    "tr": "Viraj (sola)",
    "ar": "منعطف (إلى اليسار)",
-   "ru": "Поворот (налево)"
+   "ru": "Поворот (налево)",
+   "pl": "Zakręt (w lewo)"
   },
   "meaning": {
    "de": "Eine Kurve nach links. Vorher bremsen.",
    "en": "A bend to the left. Brake before it.",
    "tr": "Sola viraj. Öncesinde fren yapın.",
    "ar": "منعطف إلى اليسار. اكبح قبله.",
-   "ru": "Поворот налево. Тормозите до него."
+   "ru": "Поворот налево. Тормозите до него.",
+   "pl": "Zakręt w lewo. Hamuj przed nim."
   }
  },
  {
@@ -61,14 +67,16 @@
    "en": "Bend (right)",
    "tr": "Viraj (sağa)",
    "ar": "منعطف (إلى اليمين)",
-   "ru": "Поворот (направо)"
+   "ru": "Поворот (направо)",
+   "pl": "Zakręt (w prawo)"
   },
   "meaning": {
    "de": "Eine Kurve nach rechts. Vorher bremsen.",
    "en": "A bend to the right. Brake before it.",
    "tr": "Sağa viraj. Öncesinde fren yapın.",
    "ar": "منعطف إلى اليمين. اكبح قبله.",
-   "ru": "Поворот направо. Тормозите до него."
+   "ru": "Поворот направо. Тормозите до него.",
+   "pl": "Zakręt w prawo. Hamuj przed nim."
   }
  },
  {
@@ -79,14 +87,16 @@
    "en": "Double bend (right first)",
    "tr": "Çift viraj (önce sağa)",
    "ar": "منعطف مزدوج (اليمين أولًا)",
-   "ru": "Двойной поворот (сначала направо)"
+   "ru": "Двойной поворот (сначала направо)",
+   "pl": "Podwójny zakręt (najpierw w prawo)"
   },
   "meaning": {
    "de": "Zwei Kurven hintereinander, die erste nach rechts.",
    "en": "Two bends in a row, the first to the right.",
    "tr": "Art arda iki viraj, ilki sağa.",
    "ar": "منعطفان متتاليان، الأول إلى اليمين.",
-   "ru": "Два поворота подряд, первый направо."
+   "ru": "Два поворота подряд, первый направо.",
+   "pl": "Dwa zakręty po sobie, pierwszy w prawo."
   }
  },
  {
@@ -97,14 +107,16 @@
    "en": "Steep descent",
    "tr": "Dik iniş",
    "ar": "انحدار شديد",
-   "ru": "Крутой спуск"
+   "ru": "Крутой спуск",
+   "pl": "Niebezpieczny zjazd"
   },
   "meaning": {
    "de": "Steiles Gefälle. Kleinen Gang wählen und die Motorbremse nutzen.",
    "en": "Steep downhill. Choose a low gear and use engine braking.",
    "tr": "Dik yokuş aşağı. Düşük vites seçin ve motor frenini kullanın.",
    "ar": "نزول شديد. اختر ترسًا منخفضًا واستخدم كبح المحرك.",
-   "ru": "Крутой спуск. Выберите низкую передачу и тормозите двигателем."
+   "ru": "Крутой спуск. Выберите низкую передачу и тормозите двигателем.",
+   "pl": "Stromy zjazd. Wybierz niski bieg i hamuj silnikiem."
   }
  },
  {
@@ -115,14 +127,16 @@
    "en": "Steep climb",
    "tr": "Dik çıkış",
    "ar": "صعود شديد",
-   "ru": "Крутой подъём"
+   "ru": "Крутой подъём",
+   "pl": "Stromy podjazd"
   },
   "meaning": {
    "de": "Steile Steigung. Rechtzeitig herunterschalten.",
    "en": "Steep uphill. Change down in good time.",
    "tr": "Dik yokuş yukarı. Zamanında vites küçültün.",
    "ar": "صعود شديد. خفّض الترس في الوقت المناسب.",
-   "ru": "Крутой подъём. Заранее переключитесь вниз."
+   "ru": "Крутой подъём. Заранее переключитесь вниз.",
+   "pl": "Stromy podjazd. Zawczasu zredukuj bieg."
   }
  },
  {
@@ -133,14 +147,16 @@
    "en": "Uneven road",
    "tr": "Bozuk yol",
    "ar": "طريق غير مستوٍ",
-   "ru": "Неровная дорога"
+   "ru": "Неровная дорога",
+   "pl": "Nierówna droga"
   },
   "meaning": {
    "de": "Die Fahrbahn ist uneben. Langsamer fahren.",
    "en": "The surface is uneven. Slow down.",
    "tr": "Yol yüzeyi bozuk. Yavaşlayın.",
    "ar": "سطح الطريق غير مستوٍ. خفّف السرعة.",
-   "ru": "Покрытие неровное. Снизьте скорость."
+   "ru": "Покрытие неровное. Снизьте скорость.",
+   "pl": "Nawierzchnia jest nierówna. Zwolnij."
   }
  },
  {
@@ -151,14 +167,16 @@
    "en": "Slippery road",
    "tr": "Kaygan yol",
    "ar": "طريق زلق",
-   "ru": "Скользкая дорога"
+   "ru": "Скользкая дорога",
+   "pl": "Śliska jezdnia"
   },
   "meaning": {
    "de": "Gefahr, ins Schleudern zu kommen – besonders bei Nässe oder Schmutz.",
    "en": "Risk of skidding - especially when wet or dirty.",
    "tr": "Kayma tehlikesi - özellikle ıslak ya da kirliyken.",
    "ar": "خطر الانزلاق - خاصة عند البلل أو الاتساخ.",
-   "ru": "Опасность заноса — особенно на мокрой или грязной дороге."
+   "ru": "Опасность заноса — особенно на мокрой или грязной дороге.",
+   "pl": "Niebezpieczeństwo poślizgu — zwłaszcza gdy jest mokro lub brudno."
   }
  },
  {
@@ -169,14 +187,16 @@
    "en": "Crosswind",
    "tr": "Yan rüzgâr",
    "ar": "رياح جانبية",
-   "ru": "Боковой ветер"
+   "ru": "Боковой ветер",
+   "pl": "Boczny wiatr"
   },
   "meaning": {
    "de": "Mit starken Windböen von der Seite rechnen.",
    "en": "Expect strong gusts from the side.",
    "tr": "Yandan güçlü rüzgâr darbeleri bekleyin.",
    "ar": "توقّع هبّات قوية من الجانب.",
-   "ru": "Ожидайте сильных порывов сбоку."
+   "ru": "Ожидайте сильных порывов сбоку.",
+   "pl": "Licz się z silnymi podmuchami z boku."
   }
  },
  {
@@ -187,14 +207,16 @@
    "en": "Road narrows",
    "tr": "Yol daralıyor",
    "ar": "الطريق يضيق",
-   "ru": "Сужение дороги"
+   "ru": "Сужение дороги",
+   "pl": "Zwężenie jezdni"
   },
   "meaning": {
    "de": "Die Fahrbahn wird auf beiden Seiten enger.",
    "en": "The road narrows on both sides.",
    "tr": "Yol iki taraftan daralıyor.",
    "ar": "الطريق يضيق من الجانبين.",
-   "ru": "Дорога сужается с обеих сторон."
+   "ru": "Дорога сужается с обеих сторон.",
+   "pl": "Jezdnia zwęża się z obu stron."
   }
  },
  {
@@ -205,14 +227,16 @@
    "en": "Roadworks",
    "tr": "Yol çalışması",
    "ar": "أشغال طرق",
-   "ru": "Дорожные работы"
+   "ru": "Дорожные работы",
+   "pl": "Roboty drogowe"
   },
   "meaning": {
    "de": "Baustelle voraus. Mit Arbeitern und Fahrzeugen auf der Fahrbahn rechnen.",
    "en": "Roadworks ahead. Expect workers and vehicles on the road.",
    "tr": "İleride yol çalışması. Yolda işçiler ve araçlar bekleyin.",
    "ar": "أشغال طرق أمامك. توقّع عمالًا ومركبات على الطريق.",
-   "ru": "Впереди дорожные работы. Ожидайте рабочих и технику на дороге."
+   "ru": "Впереди дорожные работы. Ожидайте рабочих и технику на дороге.",
+   "pl": "Przed tobą roboty drogowe. Licz się z pracownikami i maszynami na jezdni."
   }
  },
  {
@@ -223,14 +247,16 @@
    "en": "Queues likely",
    "tr": "Trafik sıkışıklığı olabilir",
    "ar": "احتمال ازدحام",
-   "ru": "Возможна пробка"
+   "ru": "Возможна пробка",
+   "pl": "Możliwy korek"
   },
   "meaning": {
    "de": "Mit Stau rechnen. Bremsbereit sein, am Stauende Warnblinklicht.",
    "en": "Expect queues. Be ready to brake; hazard lights at the tail.",
    "tr": "Kuyruk bekleyin. Fren yapmaya hazır olun; kuyruğun sonunda dörtlü flaşörler.",
    "ar": "توقّع طوابير. كن مستعدًا للكبح؛ أضواء التحذير عند النهاية.",
-   "ru": "Ожидайте затора. Будьте готовы тормозить; в конце пробки — аварийка."
+   "ru": "Ожидайте затора. Будьте готовы тормозить; в конце пробки — аварийка.",
+   "pl": "Licz się z korkiem. Bądź w gotowości do hamowania; na końcu korka światła awaryjne."
   }
  },
  {
@@ -241,14 +267,16 @@
    "en": "Two-way traffic",
    "tr": "Çift yönlü trafik",
    "ar": "حركة في الاتجاهين",
-   "ru": "Двустороннее движение"
+   "ru": "Двустороннее движение",
+   "pl": "Ruch dwukierunkowy"
   },
   "meaning": {
    "de": "Ab hier Gegenverkehr, z. B. nach einer Einbahnstraße oder auf einer Baustellenfahrbahn.",
    "en": "Two-way traffic from here, for example after a one-way section or at roadworks.",
    "tr": "Buradan itibaren çift yönlü trafik, örneğin tek yönlü bir kesimden sonra ya da yol çalışmasında.",
    "ar": "حركة في الاتجاهين من هنا، مثلًا بعد مقطع باتجاه واحد أو عند الأشغال.",
-   "ru": "Отсюда движение в обе стороны, например после участка с односторонним движением или на ремонте."
+   "ru": "Отсюда движение в обе стороны, например после участка с односторонним движением или на ремонте.",
+   "pl": "Od tego miejsca ruch w obu kierunkach, np. po odcinku jednokierunkowym lub przy robotach."
   }
  },
  {
@@ -259,14 +287,16 @@
    "en": "Traffic lights ahead",
    "tr": "Trafik ışıkları",
    "ar": "إشارات ضوئية أمامك",
-   "ru": "Светофор"
+   "ru": "Светофор",
+   "pl": "Sygnalizacja świetlna"
   },
   "meaning": {
    "de": "Eine Ampel folgt, oft hinter einer Kurve.",
    "en": "Traffic lights ahead, often round a bend.",
    "tr": "İleride trafik ışıkları, çoğu zaman bir virajın arkasında.",
    "ar": "إشارات ضوئية أمامك، غالبًا خلف منعطف.",
-   "ru": "Впереди светофор, часто за поворотом."
+   "ru": "Впереди светофор, часто за поворотом.",
+   "pl": "Przed tobą sygnalizacja, często za zakrętem."
   }
  },
  {
@@ -277,14 +307,16 @@
    "en": "Pedestrians",
    "tr": "Yayalar",
    "ar": "مشاة",
-   "ru": "Пешеходы"
+   "ru": "Пешеходы",
+   "pl": "Piesi"
   },
   "meaning": {
    "de": "Mit Fußgängern auf der Fahrbahn rechnen.",
    "en": "Expect pedestrians on the road.",
    "tr": "Yolda yayalar bekleyin.",
    "ar": "توقّع مشاة على الطريق.",
-   "ru": "Ожидайте пешеходов на дороге."
+   "ru": "Ожидайте пешеходов на дороге.",
+   "pl": "Licz się z pieszymi na jezdni."
   }
  },
  {
@@ -295,14 +327,16 @@
    "en": "Children",
    "tr": "Çocuklar",
    "ar": "أطفال",
-   "ru": "Дети"
+   "ru": "Дети",
+   "pl": "Dzieci"
   },
   "meaning": {
    "de": "Mit Kindern rechnen, z. B. an Schulen und Spielplätzen. Langsam und bremsbereit.",
    "en": "Expect children, for example near schools and playgrounds. Slow and ready to brake.",
    "tr": "Örneğin okulların ve oyun parklarının yakınında çocuklar bekleyin. Yavaş ve fren yapmaya hazır.",
    "ar": "توقّع أطفالًا، مثلًا قرب المدارس والملاعب. ببطء واستعداد للكبح.",
-   "ru": "Ожидайте детей, например у школ и площадок. Медленно и в готовности тормозить."
+   "ru": "Ожидайте детей, например у школ и площадок. Медленно и в готовности тормозить.",
+   "pl": "Licz się z dziećmi, np. przy szkołach i placach zabaw. Wolno i w gotowości do hamowania."
   }
  },
  {
@@ -313,14 +347,16 @@
    "en": "Cyclists",
    "tr": "Bisikletliler",
    "ar": "راكبو الدراجات",
-   "ru": "Велосипедисты"
+   "ru": "Велосипедисты",
+   "pl": "Rowerzyści"
   },
   "meaning": {
    "de": "Radfahrer kreuzen oder fahren auf der Fahrbahn.",
    "en": "Cyclists cross or ride on the road.",
    "tr": "Bisikletliler yolu geçer ya da yolda gider.",
    "ar": "راكبو دراجات يعبرون الطريق أو يسيرون عليه.",
-   "ru": "Велосипедисты пересекают дорогу или едут по ней."
+   "ru": "Велосипедисты пересекают дорогу или едут по ней.",
+   "pl": "Rowerzyści przecinają jezdnię albo nią jadą."
   }
  },
  {
@@ -331,14 +367,16 @@
    "en": "Wild animals",
    "tr": "Yaban hayvanları",
    "ar": "حيوانات برية",
-   "ru": "Дикие животные"
+   "ru": "Дикие животные",
+   "pl": "Dzikie zwierzęta"
   },
   "meaning": {
    "de": "Wild kann die Straße kreuzen, besonders in der Dämmerung.",
    "en": "Wild animals may cross, especially at dawn and dusk.",
    "tr": "Özellikle şafakta ve alacakaranlıkta yaban hayvanları yola çıkabilir.",
    "ar": "قد تعبر حيوانات برية، خاصة عند الفجر والغسق.",
-   "ru": "Могут выходить дикие животные, особенно на рассвете и в сумерках."
+   "ru": "Могут выходить дикие животные, особенно на рассвете и в сумерках.",
+   "pl": "Mogą przebiegać dzikie zwierzęta, zwłaszcza o świcie i zmierzchu."
   }
  },
  {
@@ -349,14 +387,16 @@
    "en": "Level crossing",
    "tr": "Hemzemin geçit",
    "ar": "معبر سكة حديدية",
-   "ru": "Железнодорожный переезд"
+   "ru": "Железнодорожный переезд",
+   "pl": "Przejazd kolejowy"
   },
   "meaning": {
    "de": "Ein Bahnübergang folgt. Ab hier keine Kraftfahrzeuge mehr überholen.",
    "en": "A level crossing ahead. From here, do not overtake motor vehicles.",
    "tr": "İleride hemzemin geçit. Buradan itibaren motorlu araçları sollamayın.",
    "ar": "معبر سكة حديدية أمامك. من هنا لا تتجاوز المركبات الآلية.",
-   "ru": "Впереди переезд. Отсюда не обгоняйте механические транспортные средства."
+   "ru": "Впереди переезд. Отсюда не обгоняйте механические транспортные средства.",
+   "pl": "Przed tobą przejazd kolejowy. Od tego miejsca nie wyprzedzaj pojazdów silnikowych."
   }
  },
  {
@@ -367,14 +407,16 @@
    "en": "Countdown marker, three stripes",
    "tr": "Geri sayım işareti, üç çizgi",
    "ar": "علامة عد تنازلي، ثلاثة خطوط",
-   "ru": "Отсчётный знак, три полосы"
+   "ru": "Отсчётный знак, три полосы",
+   "pl": "Słupek wskaźnikowy, trzy kreski"
   },
   "meaning": {
    "de": "Etwa 240 m bis zum Bahnübergang.",
    "en": "About 240 m to the level crossing.",
    "tr": "Hemzemin geçide yaklaşık 240 m.",
    "ar": "نحو 240 م حتى معبر السكة الحديدية.",
-   "ru": "Около 240 м до переезда."
+   "ru": "Около 240 м до переезда.",
+   "pl": "Ok. 240 m do przejazdu kolejowego."
   }
  },
  {
@@ -385,14 +427,16 @@
    "en": "Countdown marker, two stripes",
    "tr": "Geri sayım işareti, iki çizgi",
    "ar": "علامة عد تنازلي، خطان",
-   "ru": "Отсчётный знак, две полосы"
+   "ru": "Отсчётный знак, две полосы",
+   "pl": "Słupek wskaźnikowy, dwie kreski"
   },
   "meaning": {
    "de": "Etwa 160 m bis zum Bahnübergang.",
    "en": "About 160 m to the level crossing.",
    "tr": "Hemzemin geçide yaklaşık 160 m.",
    "ar": "نحو 160 م حتى معبر السكة الحديدية.",
-   "ru": "Около 160 м до переезда."
+   "ru": "Около 160 м до переезда.",
+   "pl": "Ok. 160 m do przejazdu kolejowego."
   }
  },
  {
@@ -403,14 +447,16 @@
    "en": "Countdown marker, one stripe",
    "tr": "Geri sayım işareti, tek çizgi",
    "ar": "علامة عد تنازلي، خط واحد",
-   "ru": "Отсчётный знак, одна полоса"
+   "ru": "Отсчётный знак, одна полоса",
+   "pl": "Słupek wskaźnikowy, jedna kreska"
   },
   "meaning": {
    "de": "Etwa 80 m bis zum Bahnübergang.",
    "en": "About 80 m to the level crossing.",
    "tr": "Hemzemin geçide yaklaşık 80 m.",
    "ar": "نحو 80 م حتى معبر السكة الحديدية.",
-   "ru": "Около 80 м до переезда."
+   "ru": "Около 80 м до переезда.",
+   "pl": "Ok. 80 m do przejazdu kolejowego."
   }
  },
  {
@@ -421,14 +467,16 @@
    "en": "St Andrew’s cross",
    "tr": "Andreas haçı",
    "ar": "صليب القديس أندراوس",
-   "ru": "Андреевский крест"
+   "ru": "Андреевский крест",
+   "pl": "Krzyż św. Andrzeja"
   },
   "meaning": {
    "de": "Schienenfahrzeuge haben Vorrang. Vor dem Kreuz warten, wenn sich ein Zug nähert.",
    "en": "Rail vehicles have priority. Wait before the cross when a train approaches.",
    "tr": "Raylı araçların önceliği vardır. Tren yaklaşırken haçtan önce bekleyin.",
    "ar": "للمركبات السككية الأولوية. انتظر قبل الصليب عندما يقترب قطار.",
-   "ru": "У рельсового транспорта преимущество. Ждите перед крестом, когда приближается поезд."
+   "ru": "У рельсового транспорта преимущество. Ждите перед крестом, когда приближается поезд.",
+   "pl": "Pojazdy szynowe mają pierwszeństwo. Czekaj przed krzyżem, gdy zbliża się pociąg."
   }
  },
  {
@@ -439,14 +487,16 @@
    "en": "Give way",
    "tr": "Yol ver",
    "ar": "أعطِ الأولوية",
-   "ru": "Уступите дорогу"
+   "ru": "Уступите дорогу",
+   "pl": "Ustąp pierwszeństwa"
   },
   "meaning": {
    "de": "Dem Verkehr auf der kreuzenden Straße Vorfahrt gewähren.",
    "en": "Give way to traffic on the road you are joining or crossing.",
    "tr": "Gireceğiniz ya da geçeceğiniz yoldaki trafiğe yol verin.",
    "ar": "أعطِ الأولوية لحركة المرور على الطريق الذي تدخله أو تعبره.",
-   "ru": "Уступите транспорту на дороге, на которую выезжаете или которую пересекаете."
+   "ru": "Уступите транспорту на дороге, на которую выезжаете или которую пересекаете.",
+   "pl": "Ustąp pierwszeństwa pojazdom na drodze, na którą wjeżdżasz lub którą przecinasz."
   }
  },
  {
@@ -457,14 +507,16 @@
    "en": "Stop. Give way.",
    "tr": "Dur. Yol ver.",
    "ar": "قف. أعطِ الأولوية.",
-   "ru": "Стоп. Уступите дорогу."
+   "ru": "Стоп. Уступите дорогу.",
+   "pl": "Stop. Ustąp pierwszeństwa."
   },
   "meaning": {
    "de": "Vollständig anhalten – an der Haltlinie oder wo die Straße einzusehen ist – und Vorfahrt gewähren.",
    "en": "Come to a complete stop - at the line, or where you can see - and give way.",
    "tr": "Tamamen durun - çizgide ya da görebildiğiniz yerde - ve yol verin.",
    "ar": "توقف تمامًا - عند الخط، أو حيث ترى - وأعطِ الأولوية.",
-   "ru": "Полная остановка — у линии или там, откуда видно, — и уступите дорогу."
+   "ru": "Полная остановка — у линии или там, откуда видно, — и уступите дорогу.",
+   "pl": "Zatrzymaj się całkowicie — przy linii albo tam, skąd widać — i ustąp pierwszeństwa."
   }
  },
  {
@@ -475,14 +527,16 @@
    "en": "Give way to oncoming traffic",
    "tr": "Karşıdan gelen trafiğe öncelik",
    "ar": "الأولوية لحركة المرور المقابلة",
-   "ru": "Преимущество встречного движения"
+   "ru": "Преимущество встречного движения",
+   "pl": "Pierwszeństwo dla nadjeżdżających z przeciwka"
   },
   "meaning": {
    "de": "An der Engstelle hat der Gegenverkehr Vorrang. Wenn nötig, warten.",
    "en": "Oncoming traffic has priority at the narrow section. Wait if necessary.",
    "tr": "Dar kesimde karşıdan gelen trafiğin önceliği vardır. Gerekirse bekleyin.",
    "ar": "لحركة المرور المقابلة الأولوية في المقطع الضيق. انتظر عند الحاجة.",
-   "ru": "На узком участке преимущество у встречных. При необходимости ждите."
+   "ru": "На узком участке преимущество у встречных. При необходимости ждите.",
+   "pl": "Na zwężeniu pierwszeństwo mają pojazdy z naprzeciwka. W razie potrzeby czekaj."
   }
  },
  {
@@ -493,14 +547,16 @@
    "en": "Priority at the next junction",
    "tr": "Bir sonraki kavşakta öncelik",
    "ar": "أولوية عند التقاطع التالي",
-   "ru": "Преимущество на ближайшем перекрёстке"
+   "ru": "Преимущество на ближайшем перекрёстке",
+   "pl": "Pierwszeństwo na najbliższym skrzyżowaniu"
   },
   "meaning": {
    "de": "Vorfahrt nur an der nächsten Kreuzung oder Einmündung.",
    "en": "Priority at the next junction only.",
    "tr": "Yalnızca bir sonraki kavşakta öncelik.",
    "ar": "أولوية عند التقاطع التالي فقط.",
-   "ru": "Преимущество только на ближайшем перекрёстке."
+   "ru": "Преимущество только на ближайшем перекрёстке.",
+   "pl": "Pierwszeństwo tylko na najbliższym skrzyżowaniu."
   }
  },
  {
@@ -511,14 +567,16 @@
    "en": "Priority road",
    "tr": "Ana yol",
    "ar": "طريق ذو أولوية",
-   "ru": "Главная дорога"
+   "ru": "Главная дорога",
+   "pl": "Droga z pierwszeństwem"
   },
   "meaning": {
    "de": "Vorfahrt an allen folgenden Kreuzungen, bis Zeichen 307 oder 205 kommt.",
    "en": "Priority at every junction until sign 307 or 205.",
    "tr": "307 ya da 205 numaralı levhaya kadar her kavşakta öncelik.",
    "ar": "أولوية عند كل تقاطع حتى الإشارة 307 أو 205.",
-   "ru": "Преимущество на каждом перекрёстке до знака 307 или 205."
+   "ru": "Преимущество на каждом перекрёстке до знака 307 или 205.",
+   "pl": "Pierwszeństwo na każdym skrzyżowaniu aż do znaku 307 lub 205."
   }
  },
  {
@@ -529,14 +587,16 @@
    "en": "End of priority road",
    "tr": "Ana yol sonu",
    "ar": "نهاية الطريق ذي الأولوية",
-   "ru": "Конец главной дороги"
+   "ru": "Конец главной дороги",
+   "pl": "Koniec drogi z pierwszeństwem"
   },
   "meaning": {
    "de": "Die Vorfahrtstraße endet. Danach wieder auf Schilder oder „rechts vor links“ achten.",
    "en": "The priority road ends. Signs or \"right before left\" decide again.",
    "tr": "Ana yol bitiyor. Yine levhalar ya da \"sağdan gelen önce geçer\" belirler.",
    "ar": "ينتهي الطريق ذو الأولوية. تقرر الإشارات أو «اليمين قبل اليسار» من جديد.",
-   "ru": "Главная дорога заканчивается. Снова решают знаки или «правый перед левым»."
+   "ru": "Главная дорога заканчивается. Снова решают знаки или «правый перед левым».",
+   "pl": "Droga z pierwszeństwem się kończy. Znów decydują znaki albo „prawa przed lewą”."
   }
  },
  {
@@ -547,14 +607,16 @@
    "en": "Priority over oncoming traffic",
    "tr": "Karşıdan gelen trafiğe karşı öncelik",
    "ar": "أولوية على حركة المرور المقابلة",
-   "ru": "Преимущество перед встречным движением"
+   "ru": "Преимущество перед встречным движением",
+   "pl": "Pierwszeństwo przed nadjeżdżającymi z przeciwka"
   },
   "meaning": {
    "de": "An der Engstelle haben Sie Vorrang – achten Sie trotzdem auf den Gegenverkehr.",
    "en": "You have priority at the narrow section - still watch the oncoming traffic.",
    "tr": "Dar kesimde öncelik sizde - yine de karşıdan gelen trafiğe dikkat edin.",
    "ar": "لك الأولوية في المقطع الضيق - ومع ذلك راقب حركة المرور المقابلة.",
-   "ru": "На узком участке преимущество у вас — но следите за встречными."
+   "ru": "На узком участке преимущество у вас — но следите за встречными.",
+   "pl": "Na zwężeniu masz pierwszeństwo — mimo to uważaj na pojazdy z naprzeciwka."
   }
  },
  {
@@ -565,14 +627,16 @@
    "en": "Turn right",
    "tr": "Sağa dön",
    "ar": "انعطف يمينًا",
-   "ru": "Поворот направо"
+   "ru": "Поворот направо",
+   "pl": "Nakaz jazdy w prawo"
   },
   "meaning": {
    "de": "Hier nur nach rechts fahren.",
    "en": "You must turn right here.",
    "tr": "Burada sağa dönmek zorundasınız.",
    "ar": "يجب أن تنعطف يمينًا هنا.",
-   "ru": "Здесь нужно повернуть направо."
+   "ru": "Здесь нужно повернуть направо.",
+   "pl": "Tu musisz skręcić w prawo."
   }
  },
  {
@@ -583,14 +647,16 @@
    "en": "Turn left",
    "tr": "Sola dön",
    "ar": "انعطف يسارًا",
-   "ru": "Поворот налево"
+   "ru": "Поворот налево",
+   "pl": "Nakaz jazdy w lewo"
   },
   "meaning": {
    "de": "Hier nur nach links fahren.",
    "en": "You must turn left here.",
    "tr": "Burada sola dönmek zorundasınız.",
    "ar": "يجب أن تنعطف يسارًا هنا.",
-   "ru": "Здесь нужно повернуть налево."
+   "ru": "Здесь нужно повернуть налево.",
+   "pl": "Tu musisz skręcić w lewo."
   }
  },
  {
@@ -601,14 +667,16 @@
    "en": "Straight on only",
    "tr": "Yalnızca düz",
    "ar": "مستقيمًا فقط",
-   "ru": "Только прямо"
+   "ru": "Только прямо",
+   "pl": "Nakaz jazdy prosto"
   },
   "meaning": {
    "de": "Hier nur geradeaus fahren.",
    "en": "You must go straight on.",
    "tr": "Düz gitmek zorundasınız.",
    "ar": "يجب أن تسير مستقيمًا.",
-   "ru": "Нужно ехать прямо."
+   "ru": "Нужно ехать прямо.",
+   "pl": "Musisz jechać prosto."
   }
  },
  {
@@ -619,14 +687,16 @@
    "en": "Turn right here",
    "tr": "Burada sağa dön",
    "ar": "انعطف يمينًا هنا",
-   "ru": "Поворот направо здесь"
+   "ru": "Поворот направо здесь",
+   "pl": "Nakaz skrętu w prawo w tym miejscu"
   },
   "meaning": {
    "de": "An dieser Stelle rechts abbiegen.",
    "en": "Turn right at this point.",
    "tr": "Bu noktada sağa dönün.",
    "ar": "انعطف يمينًا عند هذه النقطة.",
-   "ru": "Поверните направо в этом месте."
+   "ru": "Поверните направо в этом месте.",
+   "pl": "Skręć w prawo w tym miejscu."
   }
  },
  {
@@ -637,14 +707,16 @@
    "en": "Straight on or right",
    "tr": "Düz ya da sağa",
    "ar": "مستقيمًا أو يمينًا",
-   "ru": "Прямо или направо"
+   "ru": "Прямо или направо",
+   "pl": "Nakaz jazdy prosto lub w prawo"
   },
   "meaning": {
    "de": "Nur geradeaus oder nach rechts.",
    "en": "Only straight on or right.",
    "tr": "Yalnızca düz ya da sağa.",
    "ar": "مستقيمًا أو يمينًا فقط.",
-   "ru": "Только прямо или направо."
+   "ru": "Только прямо или направо.",
+   "pl": "Tylko prosto lub w prawo."
   }
  },
  {
@@ -655,14 +727,16 @@
    "en": "Roundabout",
    "tr": "Dönel kavşak",
    "ar": "دوّار",
-   "ru": "Круговое движение"
+   "ru": "Круговое движение",
+   "pl": "Ruch okrężny"
   },
   "meaning": {
    "de": "Im Kreisverkehr nur rechts herum fahren. Mit Zeichen 205 hat der Kreis Vorfahrt.",
    "en": "Drive anticlockwise only. With sign 205, traffic on the roundabout has priority.",
    "tr": "Yalnızca saat yönünün tersine gidin. 205 numaralı levhayla birlikte dönel kavşaktaki trafiğin önceliği vardır.",
    "ar": "سِر عكس اتجاه عقارب الساعة فقط. مع الإشارة 205 تكون الأولوية لحركة المرور على الدوّار.",
-   "ru": "Двигайтесь только против часовой стрелки. Со знаком 205 преимущество у транспорта на кольце."
+   "ru": "Двигайтесь только против часовой стрелки. Со знаком 205 преимущество у транспорта на кольце.",
+   "pl": "Jedź tylko przeciwnie do ruchu wskazówek zegara. Ze znakiem 205 pierwszeństwo ma ruch na rondzie."
   }
  },
  {
@@ -673,14 +747,16 @@
    "en": "One-way street",
    "tr": "Tek yönlü yol",
    "ar": "شارع باتجاه واحد",
-   "ru": "Одностороннее движение"
+   "ru": "Одностороннее движение",
+   "pl": "Droga jednokierunkowa"
   },
   "meaning": {
    "de": "Nur in Pfeilrichtung fahren. Halten und Parken auch links erlaubt.",
    "en": "Drive only in the direction of the arrow. Stopping and parking also allowed on the left.",
    "tr": "Yalnızca ok yönünde gidin. Solda durmak ve park etmek de serbesttir.",
    "ar": "سِر في اتجاه السهم فقط. التوقف والوقوف مسموحان على اليسار أيضًا.",
-   "ru": "Двигайтесь только по стрелке. Остановка и стоянка разрешены и слева."
+   "ru": "Двигайтесь только по стрелке. Остановка и стоянка разрешены и слева.",
+   "pl": "Jedź tylko w kierunku strzałki. Zatrzymanie i postój dozwolone także po lewej."
   }
  },
  {
@@ -691,14 +767,16 @@
    "en": "Keep right",
    "tr": "Sağdan geç",
    "ar": "الزم اليمين",
-   "ru": "Объезд справа"
+   "ru": "Объезд справа",
+   "pl": "Nakaz jazdy z prawej strony"
   },
   "meaning": {
    "de": "Rechts am Hindernis oder der Insel vorbeifahren.",
    "en": "Pass the obstacle or island on the right.",
    "tr": "Engeli ya da adayı sağdan geçin.",
    "ar": "مُرّ بالعائق أو الجزيرة من اليمين.",
-   "ru": "Объезжайте препятствие или островок справа."
+   "ru": "Объезжайте препятствие или островок справа.",
+   "pl": "Omiń przeszkodę lub wysepkę z prawej."
   }
  },
  {
@@ -709,14 +787,16 @@
    "en": "Cycle path",
    "tr": "Bisiklet yolu",
    "ar": "ممر دراجات",
-   "ru": "Велодорожка"
+   "ru": "Велодорожка",
+   "pl": "Droga dla rowerów"
   },
   "meaning": {
    "de": "Nur für Radfahrer (und E-Scooter). Radfahrer müssen ihn benutzen.",
    "en": "For cyclists (and e-scooters) only. Cyclists must use it.",
    "tr": "Yalnızca bisikletliler (ve elektrikli scooterlar) için. Bisikletliler kullanmak zorundadır.",
    "ar": "لراكبي الدراجات (والسكوترات الكهربائية) فقط. يجب على راكبي الدراجات استخدامه.",
-   "ru": "Только для велосипедистов (и электросамокатов). Велосипедисты обязаны ею пользоваться."
+   "ru": "Только для велосипедистов (и электросамокатов). Велосипедисты обязаны ею пользоваться.",
+   "pl": "Tylko dla rowerzystów (i hulajnóg elektrycznych). Rowerzyści muszą z niej korzystać."
   }
  },
  {
@@ -727,14 +807,16 @@
    "en": "Footpath",
    "tr": "Yaya yolu",
    "ar": "ممر مشاة",
-   "ru": "Пешеходная дорожка"
+   "ru": "Пешеходная дорожка",
+   "pl": "Droga dla pieszych"
   },
   "meaning": {
    "de": "Nur für Fußgänger.",
    "en": "For pedestrians only.",
    "tr": "Yalnızca yayalar için.",
    "ar": "للمشاة فقط.",
-   "ru": "Только для пешеходов."
+   "ru": "Только для пешеходов.",
+   "pl": "Tylko dla pieszych."
   }
  },
  {
@@ -745,14 +827,16 @@
    "en": "Shared foot and cycle path",
    "tr": "Ortak yaya ve bisiklet yolu",
    "ar": "ممر مشترك للمشاة والدراجات",
-   "ru": "Общая пешеходно-велосипедная дорожка"
+   "ru": "Общая пешеходно-велосипедная дорожка",
+   "pl": "Wspólna droga dla pieszych i rowerów"
   },
   "meaning": {
    "de": "Fußgänger und Radfahrer teilen sich den Weg. Kein Kfz-Verkehr.",
    "en": "Pedestrians and cyclists share the path. No motor vehicles.",
    "tr": "Yayalar ve bisikletliler yolu paylaşır. Motorlu araç yok.",
    "ar": "المشاة وراكبو الدراجات يتقاسمون الممر. لا مركبات آلية.",
-   "ru": "Пешеходы и велосипедисты делят дорожку. Без механического транспорта."
+   "ru": "Пешеходы и велосипедисты делят дорожку. Без механического транспорта.",
+   "pl": "Piesi i rowerzyści dzielą drogę. Bez pojazdów silnikowych."
   }
  },
  {
@@ -763,14 +847,16 @@
    "en": "Split cycle and footpath",
    "tr": "Ayrılmış bisiklet ve yaya yolu",
    "ar": "ممر مقسوم للدراجات والمشاة",
-   "ru": "Раздельная вело- и пешеходная дорожка"
+   "ru": "Раздельная вело- и пешеходная дорожка",
+   "pl": "Rozdzielona droga dla rowerów i pieszych"
   },
   "meaning": {
    "de": "Radfahrer und Fußgänger haben jeweils ihre Seite.",
    "en": "Cyclists and pedestrians each keep to their side.",
    "tr": "Bisikletliler ve yayalar kendi taraflarında kalır.",
    "ar": "يلتزم كل من راكبي الدراجات والمشاة بجانبه.",
-   "ru": "Велосипедисты и пешеходы держатся своей стороны."
+   "ru": "Велосипедисты и пешеходы держатся своей стороны.",
+   "pl": "Rowerzyści i piesi trzymają się swojej strony."
   }
  },
  {
@@ -781,14 +867,16 @@
    "en": "Pedestrian zone",
    "tr": "Yaya bölgesi",
    "ar": "منطقة مشاة",
-   "ru": "Пешеходная зона"
+   "ru": "Пешеходная зона",
+   "pl": "Strefa ruchu pieszego"
   },
   "meaning": {
    "de": "Fußgängerzone. Fahrzeuge nur, wenn ein Zusatzzeichen es erlaubt, dann mit Schrittgeschwindigkeit.",
    "en": "Pedestrian zone. Vehicles only if a plate allows, then at walking pace.",
    "tr": "Yaya bölgesi. Araçlar yalnızca ek levha izin veriyorsa, o zaman da yürüme hızında.",
    "ar": "منطقة مشاة. المركبات فقط إذا سمحت لوحة، وحينها بسرعة المشي.",
-   "ru": "Пешеходная зона. Транспорт только если разрешает табличка, и тогда со скоростью пешехода."
+   "ru": "Пешеходная зона. Транспорт только если разрешает табличка, и тогда со скоростью пешехода.",
+   "pl": "Strefa pieszych. Pojazdy tylko, jeśli pozwala tabliczka, i wtedy z prędkością pieszego."
   }
  },
  {
@@ -799,14 +887,16 @@
    "en": "Cycle street",
    "tr": "Bisiklet sokağı",
    "ar": "شارع الدراجات",
-   "ru": "Велоулица"
+   "ru": "Велоулица",
+   "pl": "Ulica rowerowa"
   },
   "meaning": {
    "de": "Fahrradstraße: andere Fahrzeuge nur mit Zusatzzeichen, höchstens 30 km/h, Radfahrer dürfen nebeneinander fahren.",
    "en": "Cycle street: other vehicles only with a plate, 30 km/h max, cyclists may ride side by side.",
    "tr": "Bisiklet sokağı: diğer araçlar yalnızca ek levhayla, en fazla 30 km/sa, bisikletliler yan yana gidebilir.",
    "ar": "شارع الدراجات: المركبات الأخرى فقط بلوحة، 30 كم/س كحد أقصى، ويجوز لراكبي الدراجات السير جنبًا إلى جنب.",
-   "ru": "Велоулица: другой транспорт только по табличке, максимум 30 км/ч, велосипедисты могут ехать рядом."
+   "ru": "Велоулица: другой транспорт только по табличке, максимум 30 км/ч, велосипедисты могут ехать рядом.",
+   "pl": "Ulica rowerowa: inne pojazdy tylko z tabliczką, maks. 30 km/h, rowerzyści mogą jechać obok siebie."
   }
  },
  {
@@ -817,14 +907,16 @@
    "en": "Bus lane",
    "tr": "Otobüs şeridi",
    "ar": "مسار الحافلات",
-   "ru": "Полоса для автобусов"
+   "ru": "Полоса для автобусов",
+   "pl": "Pas autobusowy"
   },
   "meaning": {
    "de": "Nur für Linienbusse und, wenn ein Zusatzzeichen es erlaubt, z. B. Taxis oder Radfahrer.",
    "en": "For buses only, and others such as taxis or cyclists if a plate allows.",
    "tr": "Yalnızca otobüsler için; ek levha izin veriyorsa taksiler ya da bisikletliler gibi başkaları da.",
    "ar": "للحافلات فقط، ولغيرها كسيارات الأجرة أو راكبي الدراجات إذا سمحت لوحة.",
-   "ru": "Только для автобусов, а также, если разрешает табличка, для такси или велосипедистов."
+   "ru": "Только для автобусов, а также, если разрешает табличка, для такси или велосипедистов.",
+   "pl": "Tylko dla autobusów, a jeśli pozwala tabliczka — także np. dla taksówek lub rowerzystów."
   }
  },
  {
@@ -835,14 +927,16 @@
    "en": "Minimum speed",
    "tr": "Asgari hız",
    "ar": "حد أدنى للسرعة",
-   "ru": "Минимальная скорость"
+   "ru": "Минимальная скорость",
+   "pl": "Prędkość minimalna"
   },
   "meaning": {
    "de": "Nicht langsamer fahren als angegeben, wenn Verkehr, Sicht und Wetter es zulassen.",
    "en": "Do not drive slower than shown, unless traffic, visibility or weather require it.",
    "tr": "Trafik, görüş ya da hava gerektirmedikçe gösterilenden yavaş gitmeyin.",
    "ar": "لا تسر أبطأ من المبيّن، ما لم تتطلب حركة المرور أو الرؤية أو الطقس ذلك.",
-   "ru": "Не ехать медленнее указанного, если этого не требуют движение, видимость или погода."
+   "ru": "Не ехать медленнее указанного, если этого не требуют движение, видимость или погода.",
+   "pl": "Nie jedź wolniej niż podano, chyba że wymaga tego ruch, widoczność lub pogoda."
   }
  },
  {
@@ -853,14 +947,16 @@
    "en": "No vehicles",
    "tr": "Araç giremez",
    "ar": "ممنوع مرور المركبات",
-   "ru": "Движение запрещено"
+   "ru": "Движение запрещено",
+   "pl": "Zakaz ruchu w obu kierunkach"
   },
   "meaning": {
    "de": "Kein Fahrzeug darf fahren. Fahrräder und Krafträder schieben ist erlaubt.",
    "en": "No vehicles at all. Pushing bicycles and motorbikes is allowed.",
    "tr": "Hiçbir araç giremez. Bisiklet ve motosiklet yürütülerek götürülebilir.",
    "ar": "ممنوع مرور أي مركبات. دفع الدراجات والدراجات النارية باليد مسموح.",
-   "ru": "Запрещён любой транспорт. Вести велосипеды и мотоциклы рядом можно."
+   "ru": "Запрещён любой транспорт. Вести велосипеды и мотоциклы рядом можно.",
+   "pl": "Zakaz wszelkich pojazdów. Prowadzenie rowerów i motocykli jest dozwolone."
   }
  },
  {
@@ -871,14 +967,16 @@
    "en": "No cars",
    "tr": "Otomobil giremez",
    "ar": "ممنوع مرور السيارات",
-   "ru": "Движение легковых запрещено"
+   "ru": "Движение легковых запрещено",
+   "pl": "Zakaz wjazdu samochodów"
   },
   "meaning": {
    "de": "Verbot für Kraftwagen und sonstige mehrspurige Kraftfahrzeuge.",
    "en": "No cars or other multi-track motor vehicles.",
    "tr": "Otomobiller ve diğer çok izli motorlu araçlar giremez.",
    "ar": "ممنوع مرور السيارات والمركبات الآلية الأخرى متعددة المسارات.",
-   "ru": "Запрещены легковые и другие многоколейные механические транспортные средства."
+   "ru": "Запрещены легковые и другие многоколейные механические транспортные средства.",
+   "pl": "Zakaz wjazdu samochodów i innych wielośladowych pojazdów silnikowych."
   }
  },
  {
@@ -889,14 +987,16 @@
    "en": "No goods vehicles over 3.5 t",
    "tr": "3,5 tonun üzerindeki yük araçları giremez",
    "ar": "ممنوع مرور مركبات البضائع فوق 3.5 طن",
-   "ru": "Грузовикам более 3,5 т запрещено"
+   "ru": "Грузовикам более 3,5 т запрещено",
+   "pl": "Zakaz wjazdu pojazdów ciężarowych powyżej 3,5 t"
   },
   "meaning": {
    "de": "Verbot für Lkw und Zugmaschinen über 3,5 t zulässige Gesamtmasse, auch mit Anhänger.",
    "en": "No lorries or tractors over 3.5 t gross weight, trailers included.",
    "tr": "Römorklar dahil 3,5 ton toplam ağırlığın üzerindeki kamyonlar ve traktörler giremez.",
    "ar": "ممنوع مرور الشاحنات والجرارات فوق 3.5 طن من الوزن الإجمالي، بما في ذلك المقطورات.",
-   "ru": "Запрещены грузовики и тягачи полной массой более 3,5 т, включая прицепы."
+   "ru": "Запрещены грузовики и тягачи полной массой более 3,5 т, включая прицепы.",
+   "pl": "Zakaz wjazdu ciężarówek i ciągników powyżej 3,5 t dopuszczalnej masy całkowitej, łącznie z przyczepami."
   }
  },
  {
@@ -907,14 +1007,16 @@
    "en": "No cycling",
    "tr": "Bisiklet giremez",
    "ar": "ممنوع ركوب الدراجات",
-   "ru": "Велосипедам запрещено"
+   "ru": "Велосипедам запрещено",
+   "pl": "Zakaz wjazdu rowerów"
   },
   "meaning": {
    "de": "Radfahren verboten.",
    "en": "No cycling.",
    "tr": "Bisiklet sürmek yasak.",
    "ar": "ممنوع ركوب الدراجات.",
-   "ru": "Ездить на велосипеде запрещено."
+   "ru": "Ездить на велосипеде запрещено.",
+   "pl": "Zakaz jazdy rowerem."
   }
  },
  {
@@ -925,14 +1027,16 @@
    "en": "No motorbikes",
    "tr": "Motosiklet giremez",
    "ar": "ممنوع مرور الدراجات النارية",
-   "ru": "Мотоциклам запрещено"
+   "ru": "Мотоциклам запрещено",
+   "pl": "Zakaz wjazdu motocykli"
   },
   "meaning": {
    "de": "Verbot für Krafträder.",
    "en": "No motorbikes.",
    "tr": "Motosiklet giremez.",
    "ar": "ممنوع مرور الدراجات النارية.",
-   "ru": "Мотоциклам запрещено."
+   "ru": "Мотоциклам запрещено.",
+   "pl": "Zakaz wjazdu motocykli."
   }
  },
  {
@@ -943,14 +1047,16 @@
    "en": "No pedestrians",
    "tr": "Yaya giremez",
    "ar": "ممنوع مرور المشاة",
-   "ru": "Пешеходам запрещено"
+   "ru": "Пешеходам запрещено",
+   "pl": "Zakaz ruchu pieszych"
   },
   "meaning": {
    "de": "Fußgänger dürfen hier nicht gehen.",
    "en": "No pedestrians.",
    "tr": "Yaya giremez.",
    "ar": "ممنوع مرور المشاة.",
-   "ru": "Пешеходам запрещено."
+   "ru": "Пешеходам запрещено.",
+   "pl": "Zakaz ruchu pieszych."
   }
  },
  {
@@ -961,14 +1067,16 @@
    "en": "No motor vehicles",
    "tr": "Motorlu araç giremez",
    "ar": "ممنوع مرور المركبات الآلية",
-   "ru": "Механическому транспорту запрещено"
+   "ru": "Механическому транспорту запрещено",
+   "pl": "Zakaz wjazdu pojazdów silnikowych"
   },
   "meaning": {
    "de": "Verbot für Krafträder und alle anderen Kraftfahrzeuge.",
    "en": "No motorbikes or other motor vehicles.",
    "tr": "Motosikletler ve diğer motorlu araçlar giremez.",
    "ar": "ممنوع مرور الدراجات النارية والمركبات الآلية الأخرى.",
-   "ru": "Запрещены мотоциклы и другие механические транспортные средства."
+   "ru": "Запрещены мотоциклы и другие механические транспортные средства.",
+   "pl": "Zakaz wjazdu motocykli i innych pojazdów silnikowych."
   }
  },
  {
@@ -979,14 +1087,16 @@
    "en": "Weight limit",
    "tr": "Ağırlık sınırı",
    "ar": "حد الوزن",
-   "ru": "Ограничение массы"
+   "ru": "Ограничение массы",
+   "pl": "Ograniczenie masy"
   },
   "meaning": {
    "de": "Verbot für Fahrzeuge, die schwerer sind als angegeben.",
    "en": "No vehicles weighing more than shown.",
    "tr": "Gösterilenden ağır araçlar giremez.",
    "ar": "ممنوع مرور المركبات الأثقل من المبيّن.",
-   "ru": "Запрещён транспорт тяжелее указанного."
+   "ru": "Запрещён транспорт тяжелее указанного.",
+   "pl": "Zakaz wjazdu pojazdów cięższych niż podano."
   }
  },
  {
@@ -997,14 +1107,16 @@
    "en": "Width limit",
    "tr": "Genişlik sınırı",
    "ar": "حد العرض",
-   "ru": "Ограничение ширины"
+   "ru": "Ограничение ширины",
+   "pl": "Ograniczenie szerokości"
   },
   "meaning": {
    "de": "Verbot für Fahrzeuge, die breiter sind als angegeben (einschließlich Ladung).",
    "en": "No vehicles wider than shown, load included.",
    "tr": "Yük dahil gösterilenden geniş araçlar giremez.",
    "ar": "ممنوع مرور المركبات الأعرض من المبيّن، بما في ذلك الحمولة.",
-   "ru": "Запрещён транспорт шире указанного, включая груз."
+   "ru": "Запрещён транспорт шире указанного, включая груз.",
+   "pl": "Zakaz wjazdu pojazdów szerszych niż podano, łącznie z ładunkiem."
   }
  },
  {
@@ -1015,14 +1127,16 @@
    "en": "Height limit",
    "tr": "Yükseklik sınırı",
    "ar": "حد الارتفاع",
-   "ru": "Ограничение высоты"
+   "ru": "Ограничение высоты",
+   "pl": "Ograniczenie wysokości"
   },
   "meaning": {
    "de": "Verbot für Fahrzeuge, die höher sind als angegeben (einschließlich Ladung).",
    "en": "No vehicles taller than shown, load included.",
    "tr": "Yük dahil gösterilenden yüksek araçlar giremez.",
    "ar": "ممنوع مرور المركبات الأعلى من المبيّن، بما في ذلك الحمولة.",
-   "ru": "Запрещён транспорт выше указанного, включая груз."
+   "ru": "Запрещён транспорт выше указанного, включая груз.",
+   "pl": "Zakaz wjazdu pojazdów wyższych niż podano, łącznie z ładunkiem."
   }
  },
  {
@@ -1033,14 +1147,16 @@
    "en": "No entry",
    "tr": "Girilmez",
    "ar": "ممنوع الدخول",
-   "ru": "Въезд запрещён"
+   "ru": "Въезд запрещён",
+   "pl": "Zakaz wjazdu"
   },
   "meaning": {
    "de": "Hier darf nicht eingefahren werden.",
    "en": "Do not enter.",
    "tr": "Girmeyin.",
    "ar": "لا تدخل.",
-   "ru": "Не въезжать."
+   "ru": "Не въезжать.",
+   "pl": "Nie wjeżdżaj."
   }
  },
  {
@@ -1051,14 +1167,16 @@
    "en": "Low-emission zone",
    "tr": "Düşük emisyon bölgesi",
    "ar": "منطقة انبعاثات منخفضة",
-   "ru": "Экологическая зона"
+   "ru": "Экологическая зона",
+   "pl": "Strefa niskiej emisji"
   },
   "meaning": {
    "de": "Nur Fahrzeuge mit der vorgeschriebenen Plakette dürfen einfahren.",
    "en": "Only vehicles with the required sticker may enter.",
    "tr": "Yalnızca gerekli etikete sahip araçlar girebilir.",
    "ar": "لا يدخل إلا المركبات التي تحمل الملصق المطلوب.",
-   "ru": "Въезд только для автомобилей с нужной наклейкой."
+   "ru": "Въезд только для автомобилей с нужной наклейкой.",
+   "pl": "Wjazd tylko dla pojazdów z wymaganą naklejką."
   }
  },
  {
@@ -1069,14 +1187,16 @@
    "en": "No U-turns",
    "tr": "Geri dönmek yasak",
    "ar": "ممنوع الالتفاف",
-   "ru": "Разворот запрещён"
+   "ru": "Разворот запрещён",
+   "pl": "Zakaz zawracania"
   },
   "meaning": {
    "de": "Hier darf nicht gewendet werden.",
    "en": "No turning round here.",
    "tr": "Burada geri dönülmez.",
    "ar": "ممنوع الالتفاف هنا.",
-   "ru": "Здесь нельзя разворачиваться."
+   "ru": "Здесь нельзя разворачиваться.",
+   "pl": "Tu nie wolno zawracać."
   }
  },
  {
@@ -1087,14 +1207,16 @@
    "en": "Speed limit 10",
    "tr": "Hız sınırı 10",
    "ar": "حد السرعة 10",
-   "ru": "Ограничение 10"
+   "ru": "Ограничение 10",
+   "pl": "Ograniczenie prędkości 10"
   },
   "meaning": {
    "de": "Nicht schneller als 10 km/h.",
    "en": "No faster than 10 km/h.",
    "tr": "10 km/sa’ten hızlı gitmeyin.",
    "ar": "لا أسرع من 10 كم/س.",
-   "ru": "Не быстрее 10 км/ч."
+   "ru": "Не быстрее 10 км/ч.",
+   "pl": "Nie szybciej niż 10 km/h."
   }
  },
  {
@@ -1105,14 +1227,16 @@
    "en": "Speed limit 20",
    "tr": "Hız sınırı 20",
    "ar": "حد السرعة 20",
-   "ru": "Ограничение 20"
+   "ru": "Ограничение 20",
+   "pl": "Ograniczenie prędkości 20"
   },
   "meaning": {
    "de": "Nicht schneller als 20 km/h.",
    "en": "No faster than 20 km/h.",
    "tr": "20 km/sa’ten hızlı gitmeyin.",
    "ar": "لا أسرع من 20 كم/س.",
-   "ru": "Не быстрее 20 км/ч."
+   "ru": "Не быстрее 20 км/ч.",
+   "pl": "Nie szybciej niż 20 km/h."
   }
  },
  {
@@ -1123,14 +1247,16 @@
    "en": "Speed limit 30",
    "tr": "Hız sınırı 30",
    "ar": "حد السرعة 30",
-   "ru": "Ограничение 30"
+   "ru": "Ограничение 30",
+   "pl": "Ograniczenie prędkości 30"
   },
   "meaning": {
    "de": "Nicht schneller als 30 km/h.",
    "en": "No faster than 30 km/h.",
    "tr": "30 km/sa’ten hızlı gitmeyin.",
    "ar": "لا أسرع من 30 كم/س.",
-   "ru": "Не быстрее 30 км/ч."
+   "ru": "Не быстрее 30 км/ч.",
+   "pl": "Nie szybciej niż 30 km/h."
   }
  },
  {
@@ -1141,14 +1267,16 @@
    "en": "Speed limit 50",
    "tr": "Hız sınırı 50",
    "ar": "حد السرعة 50",
-   "ru": "Ограничение 50"
+   "ru": "Ограничение 50",
+   "pl": "Ograniczenie prędkości 50"
   },
   "meaning": {
    "de": "Nicht schneller als 50 km/h, bis ein Zeichen die Beschränkung aufhebt.",
    "en": "No faster than 50 km/h until a sign lifts the limit.",
    "tr": "Bir levha sınırı kaldırana kadar 50 km/sa’ten hızlı gitmeyin.",
    "ar": "لا أسرع من 50 كم/س حتى ترفع إشارة الحد.",
-   "ru": "Не быстрее 50 км/ч, пока знак не снимет ограничение."
+   "ru": "Не быстрее 50 км/ч, пока знак не снимет ограничение.",
+   "pl": "Nie szybciej niż 50 km/h, dopóki znak nie odwoła ograniczenia."
   }
  },
  {
@@ -1159,14 +1287,16 @@
    "en": "Speed limit 60",
    "tr": "Hız sınırı 60",
    "ar": "حد السرعة 60",
-   "ru": "Ограничение 60"
+   "ru": "Ограничение 60",
+   "pl": "Ograniczenie prędkości 60"
   },
   "meaning": {
    "de": "Nicht schneller als 60 km/h.",
    "en": "No faster than 60 km/h.",
    "tr": "60 km/sa’ten hızlı gitmeyin.",
    "ar": "لا أسرع من 60 كم/س.",
-   "ru": "Не быстрее 60 км/ч."
+   "ru": "Не быстрее 60 км/ч.",
+   "pl": "Nie szybciej niż 60 km/h."
   }
  },
  {
@@ -1177,14 +1307,16 @@
    "en": "Speed limit 70",
    "tr": "Hız sınırı 70",
    "ar": "حد السرعة 70",
-   "ru": "Ограничение 70"
+   "ru": "Ограничение 70",
+   "pl": "Ograniczenie prędkości 70"
   },
   "meaning": {
    "de": "Nicht schneller als 70 km/h.",
    "en": "No faster than 70 km/h.",
    "tr": "70 km/sa’ten hızlı gitmeyin.",
    "ar": "لا أسرع من 70 كم/س.",
-   "ru": "Не быстрее 70 км/ч."
+   "ru": "Не быстрее 70 км/ч.",
+   "pl": "Nie szybciej niż 70 km/h."
   }
  },
  {
@@ -1195,14 +1327,16 @@
    "en": "Speed limit 80",
    "tr": "Hız sınırı 80",
    "ar": "حد السرعة 80",
-   "ru": "Ограничение 80"
+   "ru": "Ограничение 80",
+   "pl": "Ograniczenie prędkości 80"
   },
   "meaning": {
    "de": "Nicht schneller als 80 km/h.",
    "en": "No faster than 80 km/h.",
    "tr": "80 km/sa’ten hızlı gitmeyin.",
    "ar": "لا أسرع من 80 كم/س.",
-   "ru": "Не быстрее 80 км/ч."
+   "ru": "Не быстрее 80 км/ч.",
+   "pl": "Nie szybciej niż 80 km/h."
   }
  },
  {
@@ -1213,14 +1347,16 @@
    "en": "Speed limit 100",
    "tr": "Hız sınırı 100",
    "ar": "حد السرعة 100",
-   "ru": "Ограничение 100"
+   "ru": "Ограничение 100",
+   "pl": "Ograniczenie prędkości 100"
   },
   "meaning": {
    "de": "Nicht schneller als 100 km/h.",
    "en": "No faster than 100 km/h.",
    "tr": "100 km/sa’ten hızlı gitmeyin.",
    "ar": "لا أسرع من 100 كم/س.",
-   "ru": "Не быстрее 100 км/ч."
+   "ru": "Не быстрее 100 км/ч.",
+   "pl": "Nie szybciej niż 100 km/h."
   }
  },
  {
@@ -1231,14 +1367,16 @@
    "en": "Speed limit 120",
    "tr": "Hız sınırı 120",
    "ar": "حد السرعة 120",
-   "ru": "Ограничение 120"
+   "ru": "Ограничение 120",
+   "pl": "Ograniczenie prędkości 120"
   },
   "meaning": {
    "de": "Nicht schneller als 120 km/h.",
    "en": "No faster than 120 km/h.",
    "tr": "120 km/sa’ten hızlı gitmeyin.",
    "ar": "لا أسرع من 120 كم/س.",
-   "ru": "Не быстрее 120 км/ч."
+   "ru": "Не быстрее 120 км/ч.",
+   "pl": "Nie szybciej niż 120 km/h."
   }
  },
  {
@@ -1249,14 +1387,16 @@
    "en": "Speed limit 130",
    "tr": "Hız sınırı 130",
    "ar": "حد السرعة 130",
-   "ru": "Ограничение 130"
+   "ru": "Ограничение 130",
+   "pl": "Ograniczenie prędkości 130"
   },
   "meaning": {
    "de": "Nicht schneller als 130 km/h.",
    "en": "No faster than 130 km/h.",
    "tr": "130 km/sa’ten hızlı gitmeyin.",
    "ar": "لا أسرع من 130 كم/س.",
-   "ru": "Не быстрее 130 км/ч."
+   "ru": "Не быстрее 130 км/ч.",
+   "pl": "Nie szybciej niż 130 km/h."
   }
  },
  {
@@ -1267,14 +1407,16 @@
    "en": "30 zone",
    "tr": "30 bölgesi",
    "ar": "منطقة 30",
-   "ru": "Зона 30"
+   "ru": "Зона 30",
+   "pl": "Strefa 30"
   },
   "meaning": {
    "de": "In der ganzen Zone höchstens 30 km/h, meist „rechts vor links“.",
    "en": "30 km/h throughout the zone; usually \"right before left\".",
    "tr": "Bölge boyunca 30 km/sa; genellikle \"sağdan gelen önce geçer\".",
    "ar": "30 كم/س في كامل المنطقة؛ وغالبًا «اليمين قبل اليسار».",
-   "ru": "30 км/ч во всей зоне; обычно «правый перед левым»."
+   "ru": "30 км/ч во всей зоне; обычно «правый перед левым».",
+   "pl": "30 km/h w całej strefie; zwykle „prawa przed lewą”."
   }
  },
  {
@@ -1285,14 +1427,16 @@
    "en": "End of 30 zone",
    "tr": "30 bölgesi sonu",
    "ar": "نهاية منطقة 30",
-   "ru": "Конец зоны 30"
+   "ru": "Конец зоны 30",
+   "pl": "Koniec strefy 30"
   },
   "meaning": {
    "de": "Die Tempo-30-Zone endet.",
    "en": "The 30 zone ends.",
    "tr": "30 bölgesi bitiyor.",
    "ar": "تنتهي منطقة 30.",
-   "ru": "Зона 30 заканчивается."
+   "ru": "Зона 30 заканчивается.",
+   "pl": "Strefa 30 się kończy."
   }
  },
  {
@@ -1303,14 +1447,16 @@
    "en": "No overtaking",
    "tr": "Sollamak yasak",
    "ar": "ممنوع التجاوز",
-   "ru": "Обгон запрещён"
+   "ru": "Обгон запрещён",
+   "pl": "Zakaz wyprzedzania"
   },
   "meaning": {
    "de": "Mehrspurige Kraftfahrzeuge dürfen nicht überholt werden. Einspurige (Rad, Motorrad) schon.",
    "en": "Do not overtake multi-track motor vehicles. Single-track ones (bikes, motorbikes) you may.",
    "tr": "Çok izli motorlu araçları sollamayın. Tek izlileri (bisiklet, motosiklet) sollayabilirsiniz.",
    "ar": "لا تتجاوز المركبات الآلية متعددة المسارات. أحادية المسار (الدراجات، الدراجات النارية) يجوز تجاوزها.",
-   "ru": "Не обгонять многоколейные механические транспортные средства. Одноколейные (велосипеды, мотоциклы) можно."
+   "ru": "Не обгонять многоколейные механические транспортные средства. Одноколейные (велосипеды, мотоциклы) можно.",
+   "pl": "Nie wyprzedzaj wielośladowych pojazdów silnikowych. Jednoślady (rowery, motocykle) wolno."
   }
  },
  {
@@ -1321,14 +1467,16 @@
    "en": "No overtaking for lorries over 3.5 t",
    "tr": "3,5 tonun üzerindeki kamyonlar için sollama yasağı",
    "ar": "ممنوع التجاوز للشاحنات فوق 3.5 طن",
-   "ru": "Обгон грузовикам более 3,5 т запрещён"
+   "ru": "Обгон грузовикам более 3,5 т запрещён",
+   "pl": "Zakaz wyprzedzania przez ciężarówki powyżej 3,5 t"
   },
   "meaning": {
    "de": "Gilt für Kfz über 3,5 t und Zugmaschinen – nicht für Pkw und Busse, auch nicht mit Anhänger.",
    "en": "Applies to vehicles over 3.5 t and tractors - not to cars or buses, even with a trailer.",
    "tr": "3,5 tonun üzerindeki araçlar ve traktörler için geçerlidir - römorklu olsalar bile otomobiller ve otobüsler için değil.",
    "ar": "يسري على المركبات فوق 3.5 طن والجرارات - لا على السيارات أو الحافلات، حتى مع مقطورة.",
-   "ru": "Действует для транспорта более 3,5 т и тягачей — не для легковых и автобусов, даже с прицепом."
+   "ru": "Действует для транспорта более 3,5 т и тягачей — не для легковых и автобусов, даже с прицепом.",
+   "pl": "Dotyczy pojazdów powyżej 3,5 t i ciągników — nie samochodów osobowych ani autobusów, nawet z przyczepą."
   }
  },
  {
@@ -1339,14 +1487,16 @@
    "en": "End of speed limit",
    "tr": "Hız sınırı sonu",
    "ar": "نهاية حد السرعة",
-   "ru": "Конец ограничения скорости"
+   "ru": "Конец ограничения скорости",
+   "pl": "Koniec ograniczenia prędkości"
   },
   "meaning": {
    "de": "Die angezeigte Beschränkung endet. Es gilt wieder das allgemeine Limit.",
    "en": "The limit shown ends. The general limit applies again.",
    "tr": "Gösterilen sınır bitiyor. Yine genel sınır geçerlidir.",
    "ar": "ينتهي الحد المبيّن. يسري الحد العام من جديد.",
-   "ru": "Указанное ограничение заканчивается. Снова действует общее ограничение."
+   "ru": "Указанное ограничение заканчивается. Снова действует общее ограничение.",
+   "pl": "Podane ograniczenie się kończy. Znów obowiązuje ogólny limit."
   }
  },
  {
@@ -1357,14 +1507,16 @@
    "en": "End of no overtaking",
    "tr": "Sollama yasağı sonu",
    "ar": "نهاية منع التجاوز",
-   "ru": "Конец запрета обгона"
+   "ru": "Конец запрета обгона",
+   "pl": "Koniec zakazu wyprzedzania"
   },
   "meaning": {
    "de": "Das Überholverbot endet.",
    "en": "The overtaking ban ends.",
    "tr": "Sollama yasağı bitiyor.",
    "ar": "ينتهي منع التجاوز.",
-   "ru": "Запрет обгона заканчивается."
+   "ru": "Запрет обгона заканчивается.",
+   "pl": "Zakaz wyprzedzania się kończy."
   }
  },
  {
@@ -1375,14 +1527,16 @@
    "en": "End of all restrictions",
    "tr": "Tüm yasakların sonu",
    "ar": "نهاية كل القيود",
-   "ru": "Конец всех ограничений"
+   "ru": "Конец всех ограничений",
+   "pl": "Koniec zakazów"
   },
   "meaning": {
    "de": "Alle vorher angeordneten Streckenverbote (Tempo, Überholen) enden.",
    "en": "All restrictions along the stretch (speed, overtaking) end.",
    "tr": "Güzergâh boyunca geçerli tüm kısıtlamalar (hız, sollama) bitiyor.",
    "ar": "تنتهي كل القيود على امتداد المقطع (السرعة، التجاوز).",
-   "ru": "Все ограничения на участке (скорость, обгон) заканчиваются."
+   "ru": "Все ограничения на участке (скорость, обгон) заканчиваются.",
+   "pl": "Kończą się wszystkie ograniczenia na odcinku (prędkość, wyprzedzanie)."
   }
  },
  {
@@ -1393,14 +1547,16 @@
    "en": "No stopping",
    "tr": "Durmak yasak",
    "ar": "ممنوع التوقف",
-   "ru": "Остановка запрещена"
+   "ru": "Остановка запрещена",
+   "pl": "Zakaz zatrzymywania się"
   },
   "meaning": {
    "de": "Halten auf der Fahrbahn ist ganz verboten, auch kurz.",
    "en": "No stopping on the carriageway at all, not even briefly.",
    "tr": "Taşıt yolunda hiçbir şekilde, kısa süreliğine bile durulmaz.",
    "ar": "ممنوع التوقف على الطريق إطلاقًا، ولا حتى لفترة قصيرة.",
-   "ru": "Никакой остановки на проезжей части, даже короткой."
+   "ru": "Никакой остановки на проезжей части, даже короткой.",
+   "pl": "Na jezdni nie wolno się zatrzymywać wcale, nawet na chwilę."
   }
  },
  {
@@ -1411,14 +1567,16 @@
    "en": "Limited stopping",
    "tr": "Sınırlı durma yasağı",
    "ar": "توقف محدود",
-   "ru": "Ограниченная остановка"
+   "ru": "Ограниченная остановка",
+   "pl": "Zakaz postoju"
   },
   "meaning": {
    "de": "Halten höchstens 3 Minuten, außer zum Ein- und Aussteigen oder Be- und Entladen. Kein Parken.",
    "en": "Stop for 3 minutes at most, except to let people in or out or to load. No parking.",
    "tr": "Yolcu bindirip indirmek ya da yükleme dışında en fazla 3 dakika durun. Park etmek yasak.",
    "ar": "توقف 3 دقائق على الأكثر، إلا لإركاب الناس أو إنزالهم أو للتحميل. ممنوع الوقوف.",
-   "ru": "Остановка не больше 3 минут, кроме посадки, высадки или погрузки. Стоянка запрещена."
+   "ru": "Остановка не больше 3 минут, кроме посадки, высадки или погрузки. Стоянка запрещена.",
+   "pl": "Zatrzymanie najwyżej 3 minuty, z wyjątkiem wsiadania, wysiadania lub załadunku. Postój zabroniony."
   }
  },
  {
@@ -1429,14 +1587,16 @@
    "en": "Limited-stopping zone",
    "tr": "Sınırlı durma yasağı bölgesi",
    "ar": "منطقة توقف محدود",
-   "ru": "Зона ограниченной остановки"
+   "ru": "Зона ограниченной остановки",
+   "pl": "Strefa ograniczonego postoju"
   },
   "meaning": {
    "de": "In der ganzen Zone gilt das eingeschränkte Haltverbot, außer auf markierten Parkflächen.",
    "en": "Limited stopping applies throughout the zone, except in marked spaces.",
    "tr": "İşaretli yerler dışında bölge boyunca sınırlı durma yasağı geçerlidir.",
    "ar": "يسري التوقف المحدود في كامل المنطقة، إلا في الأماكن المخططة.",
-   "ru": "Ограниченная остановка действует во всей зоне, кроме размеченных мест."
+   "ru": "Ограниченная остановка действует во всей зоне, кроме размеченных мест.",
+   "pl": "W całej strefie obowiązuje ograniczony zakaz zatrzymywania, poza wyznaczonymi miejscami."
   }
  },
  {
@@ -1447,14 +1607,16 @@
    "en": "Parking",
    "tr": "Park yeri",
    "ar": "موقف",
-   "ru": "Парковка"
+   "ru": "Парковка",
+   "pl": "Parking"
   },
   "meaning": {
    "de": "Hier ist Parken erlaubt; Zusatzzeichen können es beschränken.",
    "en": "Parking is allowed here; plates may restrict it.",
    "tr": "Burada park etmek serbesttir; ek levhalar sınırlayabilir.",
    "ar": "الوقوف مسموح هنا؛ وقد تقيّده لوحات.",
-   "ru": "Здесь можно парковаться; таблички могут ограничивать."
+   "ru": "Здесь можно парковаться; таблички могут ограничивать.",
+   "pl": "Tu wolno parkować; tabliczki mogą to ograniczać."
   }
  },
  {
@@ -1465,14 +1627,16 @@
    "en": "Bus or tram stop",
    "tr": "Otobüs ya da tramvay durağı",
    "ar": "موقف حافلة أو ترام",
-   "ru": "Остановка автобуса или трамвая"
+   "ru": "Остановка автобуса или трамвая",
+   "pl": "Przystanek autobusowy lub tramwajowy"
   },
   "meaning": {
    "de": "Haltestelle. Bis zu je 15 m davor und dahinter nicht parken.",
    "en": "Bus or tram stop. No parking for 15 m either side.",
    "tr": "Otobüs ya da tramvay durağı. İki tarafta 15 m boyunca park etmek yasak.",
    "ar": "موقف حافلة أو ترام. ممنوع الوقوف لمسافة 15 م على الجانبين.",
-   "ru": "Остановка автобуса или трамвая. Стоянка запрещена в 15 м с обеих сторон."
+   "ru": "Остановка автобуса или трамвая. Стоянка запрещена в 15 м с обеих сторон.",
+   "pl": "Przystanek autobusu lub tramwaju. Zakaz postoju 15 m po obu stronach."
   }
  },
  {
@@ -1483,14 +1647,16 @@
    "en": "Town sign",
    "tr": "Yerleşim yeri levhası",
    "ar": "لوحة اسم البلدة",
-   "ru": "Знак населённого пункта"
+   "ru": "Знак населённого пункта",
+   "pl": "Tablica miejscowości"
   },
   "meaning": {
    "de": "Beginn der geschlossenen Ortschaft: Ab hier 50 km/h, wenn nichts anderes gilt.",
    "en": "Start of a built-up area: 50 km/h from here unless signed otherwise.",
    "tr": "Yerleşim yerinin başlangıcı: aksi belirtilmedikçe buradan itibaren 50 km/sa.",
    "ar": "بداية منطقة مأهولة: 50 كم/س من هنا ما لم يُذكر غير ذلك.",
-   "ru": "Начало населённого пункта: отсюда 50 км/ч, если не указано иное."
+   "ru": "Начало населённого пункта: отсюда 50 км/ч, если не указано иное.",
+   "pl": "Początek obszaru zabudowanego: od tego miejsca 50 km/h, jeśli nie oznaczono inaczej."
   }
  },
  {
@@ -1501,14 +1667,16 @@
    "en": "End of town",
    "tr": "Yerleşim yeri sonu",
    "ar": "نهاية البلدة",
-   "ru": "Конец населённого пункта"
+   "ru": "Конец населённого пункта",
+   "pl": "Koniec miejscowości"
   },
   "meaning": {
    "de": "Ende der geschlossenen Ortschaft: Es gelten die Regeln für außerorts.",
    "en": "End of the built-up area: the rules for outside towns apply.",
    "tr": "Yerleşim yerinin sonu: yerleşim yeri dışı kuralları geçerlidir.",
    "ar": "نهاية المنطقة المأهولة: تسري قواعد خارج المدن.",
-   "ru": "Конец населённого пункта: действуют правила вне населённых пунктов."
+   "ru": "Конец населённого пункта: действуют правила вне населённых пунктов.",
+   "pl": "Koniec obszaru zabudowanego: obowiązują zasady poza obszarem zabudowanym."
   }
  },
  {
@@ -1519,14 +1687,16 @@
    "en": "Traffic-calmed area",
    "tr": "Trafiği sakinleştirilmiş bölge",
    "ar": "منطقة مهدّأة المرور",
-   "ru": "Жилая зона"
+   "ru": "Жилая зона",
+   "pl": "Strefa zamieszkania"
   },
   "meaning": {
    "de": "Schrittgeschwindigkeit. Fußgänger dürfen die ganze Straße nutzen, Kinder überall spielen.",
    "en": "Walking pace. Pedestrians may use the whole street and children may play anywhere.",
    "tr": "Yürüme hızı. Yayalar yolun tamamını kullanabilir, çocuklar her yerde oynayabilir.",
    "ar": "سرعة المشي. يجوز للمشاة استخدام الشارع كله ويجوز للأطفال اللعب في أي مكان.",
-   "ru": "Скорость пешехода. Пешеходы могут пользоваться всей улицей, дети могут играть везде."
+   "ru": "Скорость пешехода. Пешеходы могут пользоваться всей улицей, дети могут играть везде.",
+   "pl": "Prędkość pieszego. Piesi mogą korzystać z całej ulicy, dzieci mogą bawić się wszędzie."
   }
  },
  {
@@ -1537,14 +1707,16 @@
    "en": "End of traffic-calmed area",
    "tr": "Trafiği sakinleştirilmiş bölge sonu",
    "ar": "نهاية المنطقة المهدّأة المرور",
-   "ru": "Конец жилой зоны"
+   "ru": "Конец жилой зоны",
+   "pl": "Koniec strefy zamieszkania"
   },
   "meaning": {
    "de": "Wer hinausfährt, muss allen anderen Vorfahrt lassen.",
    "en": "When leaving, give way to everyone else.",
    "tr": "Çıkarken herkese yol verin.",
    "ar": "عند الخروج أعطِ الأولوية للجميع.",
-   "ru": "При выезде уступите всем остальным."
+   "ru": "При выезде уступите всем остальным.",
+   "pl": "Wyjeżdżając, ustąp pierwszeństwa wszystkim."
   }
  },
  {
@@ -1555,14 +1727,16 @@
    "en": "Motorway",
    "tr": "Otoyol",
    "ar": "طريق سريع",
-   "ru": "Автобан"
+   "ru": "Автобан",
+   "pl": "Autostrada"
   },
   "meaning": {
    "de": "Nur für Kfz über 60 km/h bauartbedingt. Kein Halten, Wenden, Rückwärtsfahren.",
    "en": "Only for motor vehicles built for over 60 km/h. No stopping, turning round or reversing.",
    "tr": "Yalnızca 60 km/sa’ten hızlı gitmek üzere yapılmış motorlu araçlar için. Durmak, geri dönmek ve geri gitmek yasak.",
    "ar": "فقط للمركبات الآلية المصممة لأكثر من 60 كم/س. ممنوع التوقف والالتفاف والرجوع إلى الخلف.",
-   "ru": "Только для механических транспортных средств быстрее 60 км/ч. Остановка, разворот и задний ход запрещены."
+   "ru": "Только для механических транспортных средств быстрее 60 км/ч. Остановка, разворот и задний ход запрещены.",
+   "pl": "Tylko dla pojazdów silnikowych szybszych niż 60 km/h. Zakaz zatrzymywania, zawracania i cofania."
   }
  },
  {
@@ -1573,14 +1747,16 @@
    "en": "End of motorway",
    "tr": "Otoyol sonu",
    "ar": "نهاية الطريق السريع",
-   "ru": "Конец автобана"
+   "ru": "Конец автобана",
+   "pl": "Koniec autostrady"
   },
   "meaning": {
    "de": "Die Autobahnregeln enden.",
    "en": "Motorway rules end.",
    "tr": "Otoyol kuralları bitiyor.",
    "ar": "تنتهي قواعد الطريق السريع.",
-   "ru": "Правила автобана заканчиваются."
+   "ru": "Правила автобана заканчиваются.",
+   "pl": "Zasady autostrady przestają obowiązywać."
   }
  },
  {
@@ -1591,14 +1767,16 @@
    "en": "Expressway",
    "tr": "Ekspres yol",
    "ar": "طريق السيارات",
-   "ru": "Автомагистраль"
+   "ru": "Автомагистраль",
+   "pl": "Droga ekspresowa"
   },
   "meaning": {
    "de": "Wie Autobahn: nur schnelle Kfz, kein Halten, kein Wenden. Vorfahrt an Einmündungen.",
    "en": "Like a motorway: fast motor vehicles only, no stopping or turning round. Priority at junctions.",
    "tr": "Otoyol gibi: yalnızca hızlı motorlu araçlar, durmak ve geri dönmek yasak. Kavşaklarda öncelik.",
    "ar": "مثل الطريق السريع: مركبات آلية سريعة فقط، ممنوع التوقف والالتفاف. أولوية عند التقاطعات.",
-   "ru": "Как автобан: только быстрый механический транспорт, остановка и разворот запрещены. Преимущество на перекрёстках."
+   "ru": "Как автобан: только быстрый механический транспорт, остановка и разворот запрещены. Преимущество на перекрёстках.",
+   "pl": "Jak autostrada: tylko szybkie pojazdy silnikowe, zakaz zatrzymywania i zawracania. Pierwszeństwo na skrzyżowaniach."
   }
  },
  {
@@ -1609,14 +1787,16 @@
    "en": "End of expressway",
    "tr": "Ekspres yol sonu",
    "ar": "نهاية طريق السيارات",
-   "ru": "Конец автомагистрали"
+   "ru": "Конец автомагистрали",
+   "pl": "Koniec drogi ekspresowej"
   },
   "meaning": {
    "de": "Die Regeln der Kraftfahrstraße enden.",
    "en": "Expressway rules end.",
    "tr": "Ekspres yol kuralları bitiyor.",
    "ar": "تنتهي قواعد طريق السيارات.",
-   "ru": "Правила автомагистрали заканчиваются."
+   "ru": "Правила автомагистрали заканчиваются.",
+   "pl": "Zasady drogi ekspresowej przestają obowiązywać."
   }
  },
  {
@@ -1627,14 +1807,16 @@
    "en": "Zebra crossing",
    "tr": "Yaya geçidi",
    "ar": "معبر مشاة مخطط",
-   "ru": "Пешеходный переход"
+   "ru": "Пешеходный переход",
+   "pl": "Przejście dla pieszych"
   },
   "meaning": {
    "de": "Fußgänger, die erkennbar hinüber wollen, haben Vorrang. Nicht überholen, 5 m davor nicht halten.",
    "en": "Pedestrians who clearly want to cross have priority. No overtaking; no stopping for 5 m before it.",
    "tr": "Açıkça geçmek isteyen yayaların önceliği vardır. Sollamak yasak; 5 m öncesinde durmak yasak.",
    "ar": "للمشاة الذين يريدون العبور بوضوح الأولوية. ممنوع التجاوز؛ ممنوع التوقف لمسافة 5 م قبله.",
-   "ru": "Пешеходы, явно желающие перейти, имеют преимущество. Обгон запрещён; остановка запрещена за 5 м до него."
+   "ru": "Пешеходы, явно желающие перейти, имеют преимущество. Обгон запрещён; остановка запрещена за 5 м до него.",
+   "pl": "Piesi, którzy wyraźnie chcą przejść, mają pierwszeństwo. Zakaz wyprzedzania; zakaz zatrzymywania 5 m przed przejściem."
   }
  },
  {
@@ -1645,14 +1827,16 @@
    "en": "Dead end",
    "tr": "Çıkmaz yol",
    "ar": "طريق مسدود",
-   "ru": "Тупик"
+   "ru": "Тупик",
+   "pl": "Droga bez przejazdu"
   },
   "meaning": {
    "de": "Für Fahrzeuge geht es hier nicht weiter.",
    "en": "No through road for vehicles.",
    "tr": "Araçlar için çıkışı olmayan yol.",
    "ar": "لا منفذ للمركبات.",
-   "ru": "Нет сквозного проезда для транспорта."
+   "ru": "Нет сквозного проезда для транспорта.",
+   "pl": "Brak przejazdu dla pojazdów."
   }
  },
  {
@@ -1663,14 +1847,16 @@
    "en": "Exit countdown marker",
    "tr": "Çıkış geri sayım işareti",
    "ar": "علامة العد التنازلي للمخرج",
-   "ru": "Отсчётный знак съезда"
+   "ru": "Отсчётный знак съезда",
+   "pl": "Tablica odliczająca przed zjazdem"
   },
   "meaning": {
    "de": "Etwa 300, 200 und 100 m bis zur Autobahnausfahrt.",
    "en": "About 300, 200 and 100 m to the motorway exit.",
    "tr": "Otoyol çıkışına yaklaşık 300, 200 ve 100 m.",
    "ar": "نحو 300 و200 و100 م حتى مخرج الطريق السريع.",
-   "ru": "Около 300, 200 и 100 м до съезда с автобана."
+   "ru": "Около 300, 200 и 100 м до съезда с автобана.",
+   "pl": "Ok. 300, 200 i 100 m do zjazdu z autostrady."
   }
  },
  {
@@ -1681,14 +1867,16 @@
    "en": "Chevron board",
    "tr": "Yön levhası",
    "ar": "لوحة أسهم اتجاهية",
-   "ru": "Направляющий щит"
+   "ru": "Направляющий щит",
+   "pl": "Tablica kierunkowa"
   },
   "meaning": {
    "de": "Zeigt die Richtung einer Kurve an, die oft enger ist, als sie wirkt.",
    "en": "Shows the direction of a bend, often tighter than it looks.",
    "tr": "Virajın yönünü gösterir; viraj çoğu zaman göründüğünden keskindir.",
    "ar": "تُظهر اتجاه المنعطف، الذي يكون غالبًا أضيق مما يبدو.",
-   "ru": "Показывает направление поворота, часто более крутого, чем кажется."
+   "ru": "Показывает направление поворота, часто более крутого, чем кажется.",
+   "pl": "Pokazuje kierunek łuku, często ostrzejszego, niż się wydaje."
   }
  },
  {
@@ -1699,14 +1887,16 @@
    "en": "Length of restriction (\"for 800 m\")",
    "tr": "Kısıtlama uzunluğu (\"800 m boyunca\")",
    "ar": "طول القيد («على امتداد 800 م»)",
-   "ru": "Протяжённость («на 800 м»)"
+   "ru": "Протяжённость («на 800 м»)",
+   "pl": "Długość odcinka („na 800 m”)"
   },
   "meaning": {
    "de": "Das Zeichen darüber gilt auf der angegebenen Länge.",
    "en": "The sign above applies for the distance shown.",
    "tr": "Üstteki levha gösterilen mesafe boyunca geçerlidir.",
    "ar": "الإشارة أعلاه تسري على المسافة المبيّنة.",
-   "ru": "Знак выше действует на указанном протяжении."
+   "ru": "Знак выше действует на указанном протяжении.",
+   "pl": "Znak powyżej obowiązuje na podanej długości."
   }
  },
  {
@@ -1717,14 +1907,16 @@
    "en": "Distance (\"in 200 m\")",
    "tr": "Mesafe (\"200 m sonra\")",
    "ar": "المسافة («بعد 200 م»)",
-   "ru": "Расстояние («через 200 м»)"
+   "ru": "Расстояние («через 200 м»)",
+   "pl": "Odległość („za 200 m”)"
   },
   "meaning": {
    "de": "Was das Zeichen darüber ankündigt, beginnt nach der angegebenen Entfernung.",
    "en": "What the sign above announces begins after the distance shown.",
    "tr": "Üstteki levhanın bildirdiği şey gösterilen mesafeden sonra başlar.",
    "ar": "ما تعلنه الإشارة أعلاه يبدأ بعد المسافة المبيّنة.",
-   "ru": "То, о чём сообщает знак выше, начинается через указанное расстояние."
+   "ru": "То, о чём сообщает знак выше, начинается через указанное расстояние.",
+   "pl": "To, co zapowiada znak powyżej, zaczyna się po podanej odległości."
   }
  },
  {
@@ -1735,14 +1927,16 @@
    "en": "Access only",
    "tr": "Yalnızca ilgililer",
    "ar": "للمعنيين فقط",
-   "ru": "Только для имеющих там дела"
+   "ru": "Только для имеющих там дела",
+   "pl": "Nie dotyczy dojazdu"
   },
   "meaning": {
    "de": "Wer dort ein Anliegen hat – Anwohner, Besucher, Lieferanten –, darf trotz Verbot einfahren.",
    "en": "Anyone with business there - residents, visitors, deliveries - may still enter.",
    "tr": "Orada işi olan herkes - sakinler, ziyaretçiler, teslimatlar - yine de girebilir.",
    "ar": "يجوز لكل من لديه شأن هناك - السكان والزوار والتوصيل - الدخول.",
-   "ru": "Все, у кого есть дела, — жители, гости, доставка — могут въезжать."
+   "ru": "Все, у кого есть дела, — жители, гости, доставка — могут въезжать.",
+   "pl": "Każdy, kto ma tam sprawę — mieszkańcy, goście, dostawy — może wjechać."
   }
  },
  {
@@ -1753,14 +1947,16 @@
    "en": "Cyclists excepted",
    "tr": "Bisikletliler hariç",
    "ar": "باستثناء راكبي الدراجات",
-   "ru": "Кроме велосипедистов"
+   "ru": "Кроме велосипедистов",
+   "pl": "Nie dotyczy rowerzystów"
   },
   "meaning": {
    "de": "Das Verbot darüber gilt nicht für Radfahrer.",
    "en": "The ban above does not apply to cyclists.",
    "tr": "Üstteki yasak bisikletliler için geçerli değildir.",
    "ar": "المنع أعلاه لا يسري على راكبي الدراجات.",
-   "ru": "Запрет выше не действует для велосипедистов."
+   "ru": "Запрет выше не действует для велосипедистов.",
+   "pl": "Zakaz powyżej nie dotyczy rowerzystów."
   }
  },
  {
@@ -1771,14 +1967,16 @@
    "en": "Times of operation",
    "tr": "Geçerlilik saatleri",
    "ar": "أوقات السريان",
-   "ru": "Время действия"
+   "ru": "Время действия",
+   "pl": "Godziny obowiązywania"
   },
   "meaning": {
    "de": "Das Zeichen darüber gilt nur zu den angegebenen Zeiten.",
    "en": "The sign above applies only at the times shown.",
    "tr": "Üstteki levha yalnızca gösterilen saatlerde geçerlidir.",
    "ar": "الإشارة أعلاه تسري فقط في الأوقات المبيّنة.",
-   "ru": "Знак выше действует только в указанное время."
+   "ru": "Знак выше действует только в указанное время.",
+   "pl": "Znak powyżej obowiązuje tylko w podanych godzinach."
   }
  },
  {
@@ -1789,14 +1987,16 @@
    "en": "When wet",
    "tr": "Islakken",
    "ar": "عند البلل",
-   "ru": "При влажном покрытии"
+   "ru": "При влажном покрытии",
+   "pl": "Przy mokrej nawierzchni"
   },
   "meaning": {
    "de": "Das Zeichen darüber gilt nur bei nasser Fahrbahn.",
    "en": "The sign above applies only when the road is wet.",
    "tr": "Üstteki levha yalnızca yol ıslakken geçerlidir.",
    "ar": "الإشارة أعلاه تسري فقط عندما يكون الطريق مبتلًّا.",
-   "ru": "Знак выше действует только на мокрой дороге."
+   "ru": "Знак выше действует только на мокрой дороге.",
+   "pl": "Znak powyżej obowiązuje tylko na mokrej jezdni."
   }
  },
  {
@@ -1807,14 +2007,16 @@
    "en": "Applies to vehicles over 7.5 t",
    "tr": "7,5 tonun üzerindeki araçlar için geçerli",
    "ar": "تسري على المركبات فوق 7.5 طن",
-   "ru": "Для транспорта более 7,5 т"
+   "ru": "Для транспорта более 7,5 т",
+   "pl": "Dotyczy pojazdów powyżej 7,5 t"
   },
   "meaning": {
    "de": "Das Zeichen darüber gilt nur für Kfz über der angegebenen Masse.",
    "en": "The sign above applies only to vehicles over the weight shown.",
    "tr": "Üstteki levha yalnızca gösterilen ağırlığın üzerindeki araçlar için geçerlidir.",
    "ar": "الإشارة أعلاه تسري فقط على المركبات فوق الوزن المبيّن.",
-   "ru": "Знак выше действует только для транспорта тяжелее указанного."
+   "ru": "Знак выше действует только для транспорта тяжелее указанного.",
+   "pl": "Znak powyżej dotyczy tylko pojazdów cięższych niż podano."
   }
  },
  {
@@ -1825,14 +2027,16 @@
    "en": "Bending priority road",
    "tr": "Kıvrılan ana yol",
    "ar": "طريق ذو أولوية منعطف",
-   "ru": "Направление главной дороги"
+   "ru": "Направление главной дороги",
+   "pl": "Przebieg drogi z pierwszeństwem"
   },
   "meaning": {
    "de": "Die dicke Linie zeigt, wie die Vorfahrtstraße verläuft. Wer ihr folgt, muss blinken.",
    "en": "The thick line shows the course of the priority road. Signal if you follow it.",
    "tr": "Kalın çizgi ana yolun gidişini gösterir. Onu takip ederseniz sinyal verin.",
    "ar": "الخط العريض يُظهر مسار الطريق ذي الأولوية. أشر إذا تبعته.",
-   "ru": "Толстая линия показывает направление главной дороги. Если следуете по ней — включайте поворотник."
+   "ru": "Толстая линия показывает направление главной дороги. Если следуете по ней — включайте поворотник.",
+   "pl": "Gruba linia pokazuje przebieg drogi z pierwszeństwem. Jadąc nią, włącz kierunkowskaz."
   }
  },
  {
@@ -1843,14 +2047,16 @@
    "en": "Zebra crossing (marking)",
    "tr": "Yaya geçidi (yol çizgisi)",
    "ar": "معبر مشاة (علامة)",
-   "ru": "Пешеходный переход (разметка)"
+   "ru": "Пешеходный переход (разметка)",
+   "pl": "Przejście dla pieszych (oznakowanie)"
   },
   "meaning": {
    "de": "Zebrastreifen: Fußgänger haben Vorrang. Halten auf ihm und 5 m davor verboten.",
    "en": "Zebra crossing: pedestrians have priority. No stopping on it or for 5 m before.",
    "tr": "Yaya geçidi: yayaların önceliği vardır. Üzerinde ve 5 m öncesinde durmak yasak.",
    "ar": "معبر مشاة: للمشاة الأولوية. ممنوع التوقف عليه ولمسافة 5 م قبله.",
-   "ru": "«Зебра»: у пешеходов преимущество. Остановка на ней и за 5 м до неё запрещена."
+   "ru": "«Зебра»: у пешеходов преимущество. Остановка на ней и за 5 м до неё запрещена.",
+   "pl": "Przejście dla pieszych: piesi mają pierwszeństwo. Zakaz zatrzymywania na nim i 5 m przed nim."
   }
  },
  {
@@ -1861,14 +2067,16 @@
    "en": "Stop line",
    "tr": "Dur çizgisi",
    "ar": "خط التوقف",
-   "ru": "Стоп-линия"
+   "ru": "Стоп-линия",
+   "pl": "Linia zatrzymania"
   },
   "meaning": {
    "de": "Hier halten, wenn Zeichen 206, eine Ampel oder die Polizei es verlangt.",
    "en": "Stop here when sign 206, lights or the police require it.",
    "tr": "206 numaralı levha, ışıklar ya da polis gerektirdiğinde burada durun.",
    "ar": "توقف هنا عندما تتطلب ذلك الإشارة 206 أو الإشارات الضوئية أو الشرطة.",
-   "ru": "Остановитесь здесь, если этого требуют знак 206, светофор или полиция."
+   "ru": "Остановитесь здесь, если этого требуют знак 206, светофор или полиция.",
+   "pl": "Zatrzymaj się tu, gdy wymaga tego znak 206, sygnalizacja lub policja."
   }
  },
  {
@@ -1879,14 +2087,16 @@
    "en": "Solid line",
    "tr": "Düz çizgi",
    "ar": "خط متصل",
-   "ru": "Сплошная линия"
+   "ru": "Сплошная линия",
+   "pl": "Linia ciągła"
   },
   "meaning": {
    "de": "Nicht überfahren und nicht auf ihr fahren. Links davon nicht halten.",
    "en": "Do not cross or drive on it. No stopping to its left.",
    "tr": "Geçmeyin ve üzerinden gitmeyin. Solunda durmak yasak.",
    "ar": "لا تعبره ولا تسر عليه. ممنوع التوقف على يساره.",
-   "ru": "Не пересекать и не ехать по ней. Остановка слева от неё запрещена."
+   "ru": "Не пересекать и не ехать по ней. Остановка слева от неё запрещена.",
+   "pl": "Nie przekraczaj i nie najeżdżaj. Zakaz zatrzymywania po jej lewej stronie."
   }
  },
  {
@@ -1897,14 +2107,16 @@
    "en": "Solid and broken line",
    "tr": "Düz ve kesik çizgi",
    "ar": "خط متصل ومتقطع",
-   "ru": "Сплошная и прерывистая линия"
+   "ru": "Сплошная и прерывистая линия",
+   "pl": "Linia ciągła i przerywana"
   },
   "meaning": {
    "de": "Von der unterbrochenen Seite darf überfahren werden, von der durchgehenden nicht.",
    "en": "You may cross from the broken side, not from the solid side.",
    "tr": "Kesik taraftan geçebilirsiniz, düz taraftan geçemezsiniz.",
    "ar": "يجوز العبور من الجانب المتقطع، لا من الجانب المتصل.",
-   "ru": "Пересекать можно со стороны прерывистой, но не сплошной."
+   "ru": "Пересекать можно со стороны прерывистой, но не сплошной.",
+   "pl": "Przekraczać wolno od strony przerywanej, nie od ciągłej."
   }
  },
  {
@@ -1915,14 +2127,16 @@
    "en": "Lane arrows",
    "tr": "Şerit okları",
    "ar": "أسهم المسارات",
-   "ru": "Стрелки на полосах"
+   "ru": "Стрелки на полосах",
+   "pl": "Strzałki na pasach"
   },
   "meaning": {
    "de": "Die Pfeile geben die Fahrtrichtung für den Fahrstreifen vor.",
    "en": "The arrows set the direction for the lane.",
    "tr": "Oklar şeridin yönünü belirler.",
    "ar": "الأسهم تحدد اتجاه المسار.",
-   "ru": "Стрелки задают направление полосы."
+   "ru": "Стрелки задают направление полосы.",
+   "pl": "Strzałki wyznaczają kierunek jazdy z pasa."
   }
  },
  {
@@ -1933,14 +2147,16 @@
    "en": "Hatched area",
    "tr": "Taralı alan",
    "ar": "منطقة مخططة",
-   "ru": "Заштрихованная область"
+   "ru": "Заштрихованная область",
+   "pl": "Powierzchnia wyłączona z ruchu"
   },
   "meaning": {
    "de": "Darf nicht benutzt werden – weder befahren noch zum Halten.",
    "en": "May not be used - not driven on, not stopped on.",
    "tr": "Kullanılamaz - üzerinden gidilmez, üzerinde durulmaz.",
    "ar": "لا يجوز استخدامها - لا للسير ولا للتوقف.",
-   "ru": "Использовать нельзя — ни ехать, ни останавливаться."
+   "ru": "Использовать нельзя — ни ехать, ни останавливаться.",
+   "pl": "Nie wolno z niej korzystać — ani jechać, ani się zatrzymywać."
   }
  },
  {
@@ -1951,14 +2167,16 @@
    "en": "Zigzag line",
    "tr": "Zikzak çizgi",
    "ar": "خط متعرج",
-   "ru": "Зигзагообразная линия"
+   "ru": "Зигзагообразная линия",
+   "pl": "Linia zygzakowa"
   },
   "meaning": {
    "de": "Kennzeichnet oder verlängert ein Halt- oder Parkverbot.",
    "en": "Marks or extends a no-stopping or no-parking area.",
    "tr": "Durma ya da park etme yasağı olan bir alanı gösterir veya uzatır.",
    "ar": "يحدد أو يمدّد منطقة منع توقف أو منع وقوف.",
-   "ru": "Обозначает или продлевает зону запрета остановки или стоянки."
+   "ru": "Обозначает или продлевает зону запрета остановки или стоянки.",
+   "pl": "Oznacza lub wydłuża obszar zakazu zatrzymywania lub postoju."
   }
  },
  {
@@ -1969,14 +2187,16 @@
    "en": "Broken line",
    "tr": "Kesik çizgi",
    "ar": "خط متقطع",
-   "ru": "Прерывистая линия"
+   "ru": "Прерывистая линия",
+   "pl": "Linia przerywana"
   },
   "meaning": {
    "de": "Darf überfahren werden, wenn niemand gefährdet wird.",
    "en": "May be crossed if nobody is endangered.",
    "tr": "Kimse tehlikeye girmiyorsa geçilebilir.",
    "ar": "يجوز عبوره إذا لم يتعرض أحد للخطر.",
-   "ru": "Можно пересекать, если никто не окажется в опасности."
+   "ru": "Можно пересекать, если никто не окажется в опасности.",
+   "pl": "Wolno ją przekroczyć, jeśli nikt nie zostanie narażony."
   }
  }
 ]

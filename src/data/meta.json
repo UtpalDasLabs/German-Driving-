@@ -10,14 +10,16 @@
     "en": "Right of way",
     "tr": "Geçiş hakkı",
     "ar": "حق الأولوية",
-    "ru": "Преимущество"
+    "ru": "Преимущество",
+    "pl": "Pierwszeństwo"
    },
    "blurb": {
     "de": "Rechts vor links, Schilder, Abbiegen, Kreisverkehr",
     "en": "Right before left, signs, turning, roundabouts",
     "tr": "Sağdan gelen önce geçer, levhalar, dönüş, dönel kavşaklar",
     "ar": "اليمين قبل اليسار، الإشارات، الانعطاف، الدوّارات",
-    "ru": "Правый перед левым, знаки, повороты, кольца"
+    "ru": "Правый перед левым, знаки, повороты, кольца",
+    "pl": "Prawa przed lewą, znaki, skręty, ronda"
    }
   },
   {
@@ -30,14 +32,16 @@
     "en": "Lights & police",
     "tr": "Işıklar ve polis",
     "ar": "الإشارات الضوئية والشرطة",
-    "ru": "Светофоры и полиция"
+    "ru": "Светофоры и полиция",
+    "pl": "Światła i policja"
    },
    "blurb": {
     "de": "Wer wen überstimmt, Blaulicht, Grünpfeil",
     "en": "Who overrules whom, blue lights, green arrow",
     "tr": "Kim kimden önce gelir, mavi ışık, yeşil ok",
     "ar": "من يتقدم على من، الأضواء الزرقاء، السهم الأخضر",
-    "ru": "Кто главнее, синие маячки, зелёная стрелка"
+    "ru": "Кто главнее, синие маячки, зелёная стрелка",
+    "pl": "Kto przed kim, niebieskie światła, zielona strzałka"
    }
   },
   {
@@ -50,14 +54,16 @@
     "en": "Road signs",
     "tr": "Trafik levhaları",
     "ar": "إشارات المرور",
-    "ru": "Дорожные знаки"
+    "ru": "Дорожные знаки",
+    "pl": "Znaki drogowe"
    },
    "blurb": {
     "de": "Gefahr, Gebot, Verbot, Markierungen",
     "en": "Warning, mandatory, prohibition, markings",
     "tr": "Uyarı, zorunluluk, yasak, yol çizgileri",
     "ar": "تحذير، إلزام، منع، علامات الطريق",
-    "ru": "Предупреждающие, предписывающие, запрещающие, разметка"
+    "ru": "Предупреждающие, предписывающие, запрещающие, разметка",
+    "pl": "Ostrzegawcze, nakazu, zakazu, oznakowanie poziome"
    }
   },
   {
@@ -70,14 +76,16 @@
     "en": "Ground rules",
     "tr": "Temel kurallar",
     "ar": "القواعد الأساسية",
-    "ru": "Основные правила"
+    "ru": "Основные правила",
+    "pl": "Podstawowe zasady"
    },
    "blurb": {
     "de": "Rechtsfahren, Spurwechsel, Reißverschluss",
     "en": "Keeping right, lane changes, zip merge",
     "tr": "Sağdan gitme, şerit değiştirme, fermuar sistemi",
     "ar": "السير على اليمين، تغيير المسار، الاندماج بالتناوب",
-    "ru": "Правостороннее движение, перестроение, «молния»"
+    "ru": "Правостороннее движение, перестроение, «молния»",
+    "pl": "Ruch prawostronny, zmiana pasa, jazda na suwak"
    }
   },
   {
@@ -90,14 +98,16 @@
     "en": "Speed & distance",
     "tr": "Hız ve mesafe",
     "ar": "السرعة والمسافة",
-    "ru": "Скорость и дистанция"
+    "ru": "Скорость и дистанция",
+    "pl": "Prędkość i odstęp"
    },
    "blurb": {
     "de": "Limits, Anhalteweg, Faustformeln",
     "en": "Limits, stopping distance, rules of thumb",
     "tr": "Sınırlar, durma mesafesi, pratik formüller",
     "ar": "الحدود، مسافة التوقف، القواعد التقريبية",
-    "ru": "Ограничения, остановочный путь, формулы"
+    "ru": "Ограничения, остановочный путь, формулы",
+    "pl": "Ograniczenia, droga zatrzymania, wzory"
    }
   },
   {
@@ -110,14 +120,16 @@
     "en": "Overtaking",
     "tr": "Sollama",
     "ar": "التجاوز",
-    "ru": "Обгон"
+    "ru": "Обгон",
+    "pl": "Wyprzedzanie"
    },
    "blurb": {
     "de": "Wann, wie, mit wie viel Abstand",
     "en": "When, how, with how much room",
     "tr": "Ne zaman, nasıl, ne kadar mesafeyle",
     "ar": "متى، وكيف، وبأي مسافة",
-    "ru": "Когда, как, с каким интервалом"
+    "ru": "Когда, как, с каким интервалом",
+    "pl": "Kiedy, jak, z jakim odstępem"
    }
   },
   {
@@ -130,14 +142,16 @@
     "en": "Turning & reversing",
     "tr": "Dönüş ve geri gitme",
     "ar": "الانعطاف والرجوع",
-    "ru": "Повороты и задний ход"
+    "ru": "Повороты и задний ход",
+    "pl": "Skręcanie i cofanie"
    },
    "blurb": {
     "de": "Schulterblick, Einordnen, Rückwärtsfahren",
     "en": "Shoulder checks, positioning, reversing",
     "tr": "Omuz kontrolü, konumlanma, geri gitme",
     "ar": "النظر فوق الكتف، التموضع، الرجوع إلى الخلف",
-    "ru": "Взгляд через плечо, положение, задний ход"
+    "ru": "Взгляд через плечо, положение, задний ход",
+    "pl": "Spojrzenie przez ramię, ustawienie, cofanie"
    }
   },
   {
@@ -150,14 +164,16 @@
     "en": "Pedestrians & cyclists",
     "tr": "Yayalar ve bisikletliler",
     "ar": "المشاة وراكبو الدراجات",
-    "ru": "Пешеходы и велосипедисты"
+    "ru": "Пешеходы и велосипедисты",
+    "pl": "Piesi i rowerzyści"
    },
    "blurb": {
     "de": "Kinder, Zebrastreifen, Seitenabstand",
     "en": "Children, zebra crossings, clearance",
     "tr": "Çocuklar, yaya geçitleri, yan mesafe",
     "ar": "الأطفال، معابر المشاة، المسافة الجانبية",
-    "ru": "Дети, «зебры», интервал"
+    "ru": "Дети, «зебры», интервал",
+    "pl": "Dzieci, przejścia dla pieszych, odstęp"
    }
   },
   {
@@ -170,14 +186,16 @@
     "en": "Trains & buses",
     "tr": "Trenler ve otobüsler",
     "ar": "القطارات والحافلات",
-    "ru": "Поезда и автобусы"
+    "ru": "Поезда и автобусы",
+    "pl": "Pociągi i autobusy"
    },
    "blurb": {
     "de": "Bahnübergang, Straßenbahn, Haltestellen",
     "en": "Level crossings, trams, bus stops",
     "tr": "Hemzemin geçitler, tramvaylar, otobüs durakları",
     "ar": "معابر السكة، الترام، مواقف الحافلات",
-    "ru": "Переезды, трамваи, остановки"
+    "ru": "Переезды, трамваи, остановки",
+    "pl": "Przejazdy kolejowe, tramwaje, przystanki"
    }
   },
   {
@@ -190,14 +208,16 @@
     "en": "Stopping & parking",
     "tr": "Durma ve park etme",
     "ar": "التوقف والوقوف",
-    "ru": "Остановка и стоянка"
+    "ru": "Остановка и стоянка",
+    "pl": "Zatrzymanie i postój"
    },
    "blurb": {
     "de": "Wo nicht, wie lange, Parkscheibe",
     "en": "Where not, how long, parking disc",
     "tr": "Nerede değil, ne kadar, park diski",
     "ar": "أين لا، كم من الوقت، قرص الوقوف",
-    "ru": "Где нельзя, как долго, парковочный диск"
+    "ru": "Где нельзя, как долго, парковочный диск",
+    "pl": "Gdzie nie, jak długo, tarcza parkingowa"
    }
   },
   {
@@ -210,14 +230,16 @@
     "en": "Motorway",
     "tr": "Otoyol",
     "ar": "الطريق السريع",
-    "ru": "Автобан"
+    "ru": "Автобан",
+    "pl": "Autostrada"
    },
    "blurb": {
     "de": "Auffahren, Rettungsgasse, Panne",
     "en": "Joining, emergency corridor, breakdowns",
     "tr": "Katılma, acil durum koridoru, arızalar",
     "ar": "الدخول، ممر الطوارئ، الأعطال",
-    "ru": "Въезд, коридор для спасателей, поломки"
+    "ru": "Въезд, коридор для спасателей, поломки",
+    "pl": "Włączanie się, korytarz życia, awarie"
    }
   },
   {
@@ -230,14 +252,16 @@
     "en": "Hazards",
     "tr": "Tehlikeler",
     "ar": "المخاطر",
-    "ru": "Опасности"
+    "ru": "Опасности",
+    "pl": "Zagrożenia"
    },
    "blurb": {
     "de": "Nässe, Glätte, Nacht, Wild, Ablenkung",
     "en": "Wet, ice, night, animals, distraction",
     "tr": "Islaklık, buz, gece, hayvanlar, dikkat dağınıklığı",
     "ar": "البلل، الجليد، الليل، الحيوانات، التشتت",
-    "ru": "Влага, лёд, ночь, животные, отвлечение"
+    "ru": "Влага, лёд, ночь, животные, отвлечение",
+    "pl": "Mokro, lód, noc, zwierzęta, rozproszenie"
    }
   },
   {
@@ -250,14 +274,16 @@
     "en": "Alcohol & fatigue",
     "tr": "Alkol ve yorgunluk",
     "ar": "الكحول والتعب",
-    "ru": "Алкоголь и усталость"
+    "ru": "Алкоголь и усталость",
+    "pl": "Alkohol i zmęczenie"
    },
    "blurb": {
     "de": "Promille, Cannabis, Medikamente",
     "en": "Alcohol limits, cannabis, medicines",
     "tr": "Alkol sınırları, esrar, ilaçlar",
     "ar": "حدود الكحول، القنب، الأدوية",
-    "ru": "Пределы алкоголя, каннабис, лекарства"
+    "ru": "Пределы алкоголя, каннабис, лекарства",
+    "pl": "Limity alkoholu, marihuana, leki"
    }
   },
   {
@@ -270,14 +296,16 @@
     "en": "Car & technology",
     "tr": "Araç ve teknik",
     "ar": "السيارة والتقنية",
-    "ru": "Автомобиль и техника"
+    "ru": "Автомобиль и техника",
+    "pl": "Samochód i technika"
    },
    "blurb": {
     "de": "Reifen, Warnleuchten, Ladung, Anhänger",
     "en": "Tyres, warning lights, loads, trailers",
     "tr": "Lastikler, uyarı lambaları, yükler, römorklar",
     "ar": "الإطارات، أضواء التحذير، الحمولات، المقطورات",
-    "ru": "Шины, контрольные лампы, груз, прицепы"
+    "ru": "Шины, контрольные лампы, груз, прицепы",
+    "pl": "Opony, kontrolki, ładunek, przyczepy"
    }
   },
   {
@@ -290,14 +318,16 @@
     "en": "Environment",
     "tr": "Çevre",
     "ar": "البيئة",
-    "ru": "Окружающая среда"
+    "ru": "Окружающая среда",
+    "pl": "Środowisko"
    },
    "blurb": {
     "de": "Sparsam fahren, Lärm, Umweltzone",
     "en": "Economical driving, noise, low-emission zones",
     "tr": "Ekonomik sürüş, gürültü, düşük emisyon bölgeleri",
     "ar": "القيادة الاقتصادية، الضجيج، مناطق الانبعاثات المنخفضة",
-    "ru": "Экономичная езда, шум, экологические зоны"
+    "ru": "Экономичная езда, шум, экологические зоны",
+    "pl": "Ekonomiczna jazda, hałas, strefy niskiej emisji"
    }
   },
   {
@@ -310,14 +340,16 @@
     "en": "Duties & the law",
     "tr": "Yükümlülükler ve hukuk",
     "ar": "الواجبات والقانون",
-    "ru": "Обязанности и закон"
+    "ru": "Обязанности и закон",
+    "pl": "Obowiązki i prawo"
    },
    "blurb": {
     "de": "Unfall, Probezeit, Punkte, Papiere",
     "en": "Accidents, probation, points, papers",
     "tr": "Kazalar, deneme süresi, puanlar, belgeler",
     "ar": "الحوادث، فترة الاختبار، النقاط، الوثائق",
-    "ru": "Аварии, испытательный срок, баллы, документы"
+    "ru": "Аварии, испытательный срок, баллы, документы",
+    "pl": "Wypadki, okres próbny, punkty, dokumenty"
    }
   }
  ],
@@ -351,7 +383,7 @@
   "tr": 1,
   "ar": 1,
   "ru": 1,
-  "pl": 0,
+  "pl": 1,
   "ro": 0,
   "hr": 0,
   "el": 0,

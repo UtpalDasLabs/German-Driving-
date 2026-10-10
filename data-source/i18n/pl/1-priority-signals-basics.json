@@ -1,0 +1,233 @@
+{
+  "questions": {
+    "pr01": {
+      "prompt": "Chcesz jechać prosto. Na tym skrzyżowaniu nie ma żadnych znaków. Kto ma pierwszeństwo?",
+      "options": ["Samochód z prawej", "Ja, bo jadę prosto", "Ten, kto pierwszy dojedzie do skrzyżowania"],
+      "why": "Bez znaków i sygnalizacji obowiązuje zasada „prawa przed lewą” (rechts vor links, § 8 ust. 1 StVO). Samochód nadjeżdża z twojej prawej strony, więc go przepuszczasz — niezależnie od tego, czy jedziesz prosto, czy skręcasz.",
+      "tip": "Rechts vor links: kto z prawej, ten jedzie pierwszy."
+    },
+    "pr02": {
+      "prompt": "Chcesz jechać prosto. Nie ma znaków. Czy musisz przepuścić ten samochód?",
+      "options": ["Nie — jedzie z lewej i musi przepuścić mnie", "Tak — jest bliżej skrzyżowania", "Tak — na skrzyżowaniach bez znaków zawsze trzeba się zatrzymać"],
+      "why": "Samochód jest po twojej lewej. Zgodnie z zasadą „prawa przed lewą” to on czeka na ciebie, nie odwrotnie. Mimo to jedź ostrożnie: nie wiadomo, czy ten kierowca cię widzi."
+    },
+    "pr03": {
+      "prompt": "Nie ma znaków, wszyscy jadą prosto. W jakiej kolejności przejeżdżają pojazdy?",
+      "options": ["2, 3, 1", "1, 2, 3", "3, 1, 2"],
+      "why": "Samochód 2 nie ma nikogo po prawej, więc jedzie pierwszy. Rowerzysta 3 czeka tylko na samochód 2, który jest po jego prawej. Ty (1) masz rowerzystę po prawej, więc jedziesz na końcu.",
+      "tip": "Przy kilku pojazdach: najpierw znajdź ten, który ma wolno po prawej."
+    },
+    "pr04": {
+      "prompt": "Chcesz skręcić w lewo; samochód z naprzeciwka chce jechać prosto. Kto jedzie pierwszy?",
+      "options": ["Samochód z naprzeciwka", "Ja, bo mój kierunkowskaz włączył się wcześniej", "Jedziemy jednocześnie"],
+      "why": "Skręcając w lewo, musisz przepuścić pojazdy z naprzeciwka (§ 9 ust. 3 StVO). Dotyczy to każdego skrzyżowania, nawet na drodze z pierwszeństwem.",
+      "tip": "Skręcający w lewo czeka na jadących z naprzeciwka."
+    },
+    "pr05": {
+      "prompt": "Ty i samochód z naprzeciwka chcecie skręcić w lewo. Jak skręcacie?",
+      "options": ["Przed sobą — każdy skręca przed drugim", "Za sobą — mijając się z tyłu", "Kto pierwszy włączy kierunkowskaz, ten jedzie pierwszy"],
+      "why": "Dwa naprzeciwległe pojazdy skręcające w lewo skręcają przed sobą (§ 9 ust. 4 StVO), chyba że ruch lub układ skrzyżowania na to nie pozwala."
+    },
+    "pr06": {
+      "prompt": "Chcesz skręcić w lewo. Kogo musisz przepuścić?",
+      "options": ["Samochód z lewej", "Samochód z prawej", "Nikogo, bo mam włączony kierunkowskaz"],
+      "why": "Znak 205 „Ustąp pierwszeństwa” dotyczy twojej drogi. Wszyscy na drodze głównej mają pierwszeństwo — z lewej i z prawej. Skręcając w lewo, przecinasz oba pasy."
+    },
+    "pr07": {
+      "prompt": "Co musisz zrobić przy tym znaku?",
+      "options": ["Zatrzymać się przy linii zatrzymania, nawet jeśli droga jest wolna", "Ustąpić pierwszeństwa", "Zatrzymać się tylko wtedy, gdy coś jedzie"],
+      "why": "Znak 206 „Stop. Ustąp pierwszeństwa.” wymaga całkowitego zatrzymania — koła nie mogą się obracać — przy linii zatrzymania albo, gdy jej nie ma, w miejscu, skąd widać drogę. Potem ustępujesz pierwszeństwa.",
+      "tip": "STOP znaczy, że koła stoją. Powolne przetoczenie się nie wystarczy."
+    },
+    "pr08": {
+      "prompt": "Jedziesz prosto. Kto ma pierwszeństwo?",
+      "options": ["Ja", "Samochód z prawej", "Ten, kto będzie pierwszy"],
+      "why": "Jesteś na drodze z pierwszeństwem (znak 306); na drodze podporządkowanej stoi znak 205. Zasada „prawa przed lewą” tu nie obowiązuje — samochód musi czekać."
+    },
+    "pr09": {
+      "prompt": "Jak daleko sięga pierwszeństwo dawane przez ten znak?",
+      "options": ["Tylko do najbliższego skrzyżowania", "Do końca miejscowości", "Do znaku „koniec drogi z pierwszeństwem”"],
+      "why": "Znak 301 daje pierwszeństwo tylko na najbliższym skrzyżowaniu. Pierwszeństwo na całym odcinku daje tylko znak drogi z pierwszeństwem (306).",
+      "tip": "301 = raz. 306 = na całej trasie."
+    },
+    "pr10": {
+      "prompt": "Jedziesz drogą z pierwszeństwem, która skręca w lewo. Co musisz zrobić?",
+      "options": ["Włączyć lewy kierunkowskaz", "Uważać na pieszych przechodzących przez jezdnię", "Nie włączać kierunkowskazu, bo zostaję na drodze z pierwszeństwem"],
+      "why": "Kto jedzie drogą z pierwszeństwem zmieniającą kierunek, musi zawczasu włączyć kierunkowskaz i szczególnie uważać na pieszych, w razie potrzeby czekając (tabliczka 1002 pod znakiem 306).",
+      "tip": "Kierunkowskaz podąża za łukiem drogi, a nie za znakiem."
+    },
+    "pr11": {
+      "prompt": "Droga z pierwszeństwem skręca (zaznaczona na żółto). Chcesz jechać prosto. Kogo przepuszczasz?",
+      "options": ["Samochód 1", "Nikogo — jadę prosto", "Tylko pojazdy z prawej"],
+      "why": "Jesteś na drodze podporządkowanej (znak 205). Samochód 1 jest na drodze z pierwszeństwem, jedzie jej łukiem i przecina twój tor. Jazda prosto nie daje ci pierwszeństwa."
+    },
+    "pr12": {
+      "prompt": "Wyjeżdżasz z posesji na drogę. Co obowiązuje?",
+      "options": ["Muszę przepuścić ruch na drodze", "Trzeba wykluczyć wszelkie zagrożenie dla innych", "„Prawa przed lewą” obowiązuje także tutaj"],
+      "why": "Kto wyjeżdża z posesji, ze strefy zamieszkania lub od krawędzi jezdni, musi wykluczyć zagrożenie dla innych — w razie potrzeby z pomocą osoby kierującej (§ 10 StVO). „Prawa przed lewą” nic tu nie daje."
+    },
+    "pr13": {
+      "prompt": "Wyjeżdżasz z drogi polnej na drogę bez znaków. Z lewej jedzie samochód. Kto ma pierwszeństwo?",
+      "options": ["Samochód", "Ja — jestem po jego prawej", "Ten, kto jedzie wolniej"],
+      "why": "Wyjeżdżający z drogi polnej lub leśnej nigdy nie ma pierwszeństwa (§ 8 ust. 1 StVO) — nawet przed pojazdami z lewej."
+    },
+    "pr14": {
+      "prompt": "Co obowiązuje na tym rondzie?",
+      "options": ["Pojazdy na rondzie mają pierwszeństwo", "Przy wjeździe nie włącza się kierunkowskazu", "Przy zjeździe włącza się prawy kierunkowskaz"],
+      "why": "Gdy znak 215 stoi pod znakiem 205, pierwszeństwo ma ruch na rondzie. Sygnalizowanie przy wjeździe jest niedozwolone, przy zjeździe — obowiązkowe. Zatrzymywanie się na rondzie jest zabronione (§ 9a StVO).",
+      "tip": "Wjazd bez kierunkowskazu, zjazd z kierunkowskazem."
+    },
+    "pr15": {
+      "prompt": "Przy tym okrągłym skrzyżowaniu nie ma znaków. Kto ma pierwszeństwo?",
+      "options": ["Ja — samochód na okręgu jedzie z mojej lewej", "Samochód na okręgu", "Ten, kto pierwszy włączy kierunkowskaz"],
+      "why": "Bez znaku 215 nie jest to rondo w rozumieniu § 9a StVO, tylko zwykłe skrzyżowanie. Obowiązuje „prawa przed lewą” — ruch na okręgu musi cię wpuścić.",
+      "tip": "Brak niebieskiego znaku ronda = prawa przed lewą."
+    },
+    "pr16": {
+      "prompt": "Jedziesz prosto drogą przelotową. Nie ma znaków. Kto ma pierwszeństwo?",
+      "options": ["Samochód wyjeżdżający z bocznej ulicy po prawej", "Ja — jestem na drodze przelotowej", "Ten, kto jest szybszy"],
+      "why": "Droga biegnąca prosto nie jest drogą z pierwszeństwem bez znaku. Na skrzyżowaniach w kształcie litery T też obowiązuje „prawa przed lewą”, a samochód jest po twojej prawej.",
+      "tip": "Szersza albo prostsza nie znaczy: z pierwszeństwem."
+    },
+    "pr17": {
+      "prompt": "W jakiej kolejności przejeżdżają pojazdy?",
+      "options": ["3, 1, 2", "1, 2, 3", "3, 2, 1"],
+      "why": "Ciężarówka 3 jest na drodze z pierwszeństwem i jedzie pierwsza. 1 i 2 stoją naprzeciw siebie na drogach podporządkowanych; 2 skręca w lewo i musi przepuścić jadący z naprzeciwka prosto pojazd 1."
+    },
+    "pr18": {
+      "prompt": "Jesteś na drodze z pierwszeństwem i chcesz skręcić w lewo. Kto musi czekać?",
+      "options": ["Ja", "Samochód z naprzeciwka", "Nikt, oboje jesteśmy na drodze z pierwszeństwem"],
+      "why": "Droga z pierwszeństwem rozstrzyga tylko relację wobec dróg podporządkowanych. Między pojazdami na niej obowiązują zasady skrętu: skręcający w lewo przepuszcza jadących z naprzeciwka (§ 9 ust. 3 StVO)."
+    },
+    "pr19": {
+      "prompt": "Chcesz skręcić w prawo. Co oznacza dla ciebie ten znak?",
+      "options": ["Muszę ustąpić pierwszeństwa ruchowi z lewej", "Mam pierwszeństwo, bo skręcam w prawo", "Mogę wyjechać bez patrzenia"],
+      "why": "Znak 205 oznacza „Ustąp pierwszeństwa”. Skręcając w prawo, wjeżdżasz na pas, którym jadą pojazdy z twojej lewej — musisz je przepuścić."
+    },
+    "pr20": {
+      "prompt": "Nie ma znaków. Chcesz skręcić w lewo. W jakiej kolejności przejeżdżają pojazdy?",
+      "options": ["2, 1", "1, 2", "Jednocześnie"],
+      "why": "Samochód 2 nadjeżdża z twojej prawej i ma pierwszeństwo zgodnie z zasadą „prawa przed lewą”. To, że skręcasz zamiast jechać prosto, niczego nie zmienia: przecina twój tor."
+    },
+    "sg01": {
+      "prompt": "Policjant stoi przodem do ciebie z obiema rękami wyciągniętymi na boki. Co to dla ciebie znaczy?",
+      "options": ["Zatrzymać się przed skrzyżowaniem — jak na czerwonym", "Jechać — jak na zielonym", "Szybko opuścić skrzyżowanie"],
+      "why": "Ręce wyciągnięte w poprzek twojego kierunku jazdy oznaczają „stop” dla ruchu przed policjantem i za nim. Ruch wzdłuż linii rąk może jechać (§ 36 ust. 2 StVO).",
+      "tip": "Pierś lub plecy do ciebie = czerwone. Ręka wskazuje na ciebie = zielone."
+    },
+    "sg02": {
+      "prompt": "Zbliżasz się do policjanta z boku. Ręce policjanta wskazują wzdłuż twojego kierunku. Co to dla ciebie znaczy?",
+      "options": ["Mogę jechać — jak na zielonym", "Stop — jak na czerwonym", "Muszę czekać, aż policjant machnie"],
+      "why": "Policjant stoi do ciebie bokiem, a ręce wskazują wzdłuż twojego kierunku: twój ruch jest dopuszczony. Jeśli skręcasz, zasady skrętu nadal obowiązują."
+    },
+    "sg03": {
+      "prompt": "Policjant podnosi jedną rękę pionowo do góry. Co to znaczy?",
+      "options": ["Kto jest przed skrzyżowaniem, czeka na następny sygnał", "Kto już jest na skrzyżowaniu, opuszcza je", "Wszyscy mogą jechać"],
+      "why": "Podniesiona ręka odpowiada żółtemu światłu: „Uwaga, sygnał zaraz się zmieni”. Przed skrzyżowaniem czekaj, na skrzyżowaniu — opuść je (§ 36 ust. 2 pkt 2 StVO)."
+    },
+    "sg04": {
+      "prompt": "Pali się zielone. Policjant daje ci znak, żeby się zatrzymać. Co robisz?",
+      "options": ["Zatrzymuję się — policja ma pierwszeństwo", "Jadę dalej — zielone ma pierwszeństwo", "Trąbię i powoli jadę dalej"],
+      "why": "Sygnały i polecenia policjantów mają pierwszeństwo przed wszystkim innym, także przed sygnalizacją świetlną (§ 36 ust. 1 StVO)."
+    },
+    "sg05": {
+      "prompt": "Która kolejność ważności jest prawidłowa?",
+      "options": ["Policja, sygnalizacja, znaki, zasady ogólne", "Sygnalizacja, policja, znaki, zasady ogólne", "Znaki, sygnalizacja, policja, zasady ogólne"],
+      "why": "Policja jest ważniejsza od wszystkiego (§ 36), sygnalizacja od znaków i zasad pierwszeństwa (§ 37), a znaki od zasady „prawa przed lewą”.",
+      "tip": "Człowiek, światło, znak, zasada."
+    },
+    "sg06": {
+      "prompt": "Masz czerwone, obok jest tabliczka z zieloną strzałką. Chcesz skręcić w prawo. Co obowiązuje?",
+      "options": ["Najpierw muszę się zatrzymać przy linii zatrzymania", "Potem mogę skręcić, jeśli nikomu nie utrudniam i nikogo nie narażam", "Mogę skręcić bez zatrzymywania się"],
+      "why": "Tabliczka z zieloną strzałką (720) pozwala skręcić w prawo na czerwonym tylko po całkowitym zatrzymaniu przy linii i tylko bez utrudniania i narażania kogokolwiek, zwłaszcza pieszych i rowerzystów, którzy mają zielone (§ 37 ust. 2 StVO).",
+      "tip": "Zielona strzałka = znak STOP, który pozwala skręcić."
+    },
+    "sg07": {
+      "prompt": "Zapala się żółte. Co robisz?",
+      "options": ["Zatrzymuję się, jeśli mogę to jeszcze zrobić bezpiecznie", "Przyspieszam, żeby zdążyć", "Zawsze od razu hamuję z całej siły"],
+      "why": "Żółte oznacza: przed skrzyżowaniem czekaj na następny sygnał. Jeśli jesteś za blisko, by bezpiecznie się zatrzymać, jedziesz dalej — ale przyspieszanie nigdy nie jest częścią tego."
+    },
+    "sg08": {
+      "prompt": "Sygnalizator pokazuje jednocześnie czerwone i żółte. Co to znaczy?",
+      "options": ["Zaraz będzie zielone — jeszcze czekam", "Mogę już jechać", "Sygnalizator jest zepsuty"],
+      "why": "Czerwone i żółte razem oznaczają „Uwaga, następne jest zielone”. Zostajesz w miejscu, aż zapali się zielone."
+    },
+    "sg09": {
+      "prompt": "Sygnalizacja nie działa. Co obowiązuje teraz?",
+      "options": ["Znaki pierwszeństwa na skrzyżowaniu", "Jeśli nie ma znaków: prawa przed lewą", "Kto pierwszy, ten lepszy"],
+      "why": "Gdy sygnalizacja jest wyłączona lub tylko miga na żółto, obowiązują znaki. Jeśli ich nie ma — „prawa przed lewą”."
+    },
+    "sg10": {
+      "prompt": "Co oznacza pojedyncze migające żółte światło na skrzyżowaniu?",
+      "options": ["Uwaga — obowiązują znaki drogowe", "Wszyscy mogą jechać", "Zatrzymać się jak na czerwonym"],
+      "why": "Migające żółte to ostrzeżenie (§ 37 ust. 2 pkt 5 StVO). Niczego nie reguluje; pierwszeństwo wynika ze znaków."
+    },
+    "sg11": {
+      "prompt": "Z tyłu zbliża się karetka z niebieskimi światłami i syreną. Co robisz?",
+      "options": ["Natychmiast robię miejsce", "Jadę dalej do najbliższej zatoczki", "Ostro hamuję i staję na swoim pasie"],
+      "why": "Niebieskie światła razem z syreną oznaczają, że wszyscy inni muszą natychmiast zrobić miejsce (§ 38 ust. 1 StVO). Zatrzymanie się na środku pasa nie pomaga."
+    },
+    "sg12": {
+      "prompt": "Radiowóz stoi przy drodze z włączonymi niebieskimi światłami, ale bez syreny. Co to znaczy?",
+      "options": ["Ostrzega przed niebezpieczeństwem, np. wypadkiem", "Muszę natychmiast się zatrzymać", "Muszę zrobić miejsce"],
+      "why": "Samo niebieskie światło to ostrzeżenie na miejscu wypadku lub zdarzenia (§ 38 ust. 2 StVO). Przejedź powoli i ostrożnie.",
+      "tip": "Niebieskie + syrena = zrób miejsce. Samo niebieskie = uważaj."
+    },
+    "sg13": {
+      "prompt": "Masz zielone, ale za skrzyżowaniem stoi korek. Co robisz?",
+      "options": ["Czekam przed skrzyżowaniem", "Wjeżdżam na skrzyżowanie, bo mam zielone", "Powoli wtaczam się na skrzyżowanie"],
+      "why": "Jeśli trzeba by się zatrzymać na skrzyżowaniu, nie wolno na nie wjeżdżać nawet na zielonym (§ 11 ust. 1 StVO). Inaczej zablokujesz ruch poprzeczny, gdy zmieni mu się światło."
+    },
+    "sg14": {
+      "prompt": "Masz zielone i chcesz skręcić w lewo. Na co musisz uważać?",
+      "options": ["Przepuścić jadących z naprzeciwka", "Na pieszych przechodzących przez drogę, w którą skręcam", "Na nic — zielone znaczy, że mam pierwszeństwo"],
+      "why": "Zielone nie wyłącza zasad skrętu: przepuść jadących z naprzeciwka i szczególnie uważaj na pieszych (§ 9 ust. 3 StVO). Tylko zielona strzałka w samym sygnalizatorze oznacza bezkolizyjny skręt."
+    },
+    "sg15": {
+      "prompt": "Śmieciarka stoi na jezdni z migającym żółtym światłem. Co oznacza to światło?",
+      "options": ["Ostrzega przed niebezpieczeństwem", "Muszę zrobić miejsce", "Ten pojazd ma pierwszeństwo"],
+      "why": "Żółte migające światło na pojeździe ostrzega przed niebezpieczeństwem (§ 38 ust. 3 StVO) — tu przed pracownikami wychodzącymi zza pojazdu. Przejedź powoli i z dużym odstępem."
+    },
+    "ba01": {
+      "prompt": "Którą stroną drogi jedziesz?",
+      "options": ["Możliwie blisko prawej krawędzi, w rozsądnych granicach", "Środkiem, żeby trzymać się z dala od krawędzi", "Tam, gdzie wygodniej"],
+      "why": "W Niemczech obowiązuje ruch prawostronny: tak daleko w prawo, jak to rozsądne — nie tylko przy ruchu z naprzeciwka lub przy wyprzedzaniu, ale też na pustej drodze i na wzniesieniach (§ 2 ust. 2 StVO)."
+    },
+    "ba02": {
+      "prompt": "Pas ruchu się kończy. Jak zmieniasz pas?",
+      "options": ["Na suwak, tuż przed zwężeniem", "Jak najwcześniej, nawet jeśli pas ciągnie się jeszcze długo", "Kierowcy na kontynuowanym pasie nie muszą nikogo wpuszczać"],
+      "why": "Gdy pas się kończy lub jest zablokowany, pojazdy włączają się na przemian, po jednym, dokładnie na początku zwężenia (§ 7 ust. 4 StVO). Pas kontynuowany musi to umożliwić.",
+      "tip": "Dojedź do końca, potem po jednym."
+    },
+    "ba03": {
+      "prompt": "Co musisz zrobić przed zmianą pasa?",
+      "options": ["Spojrzeć w lusterko i przez ramię", "Zawczasu włączyć kierunkowskaz", "Krótko zatrąbić"],
+      "why": "Zmiana pasa jest dozwolona tylko wtedy, gdy nikt nie zostanie narażony, i trzeba ją wyraźnie i zawczasu zasygnalizować (§ 7 ust. 5 StVO). Martwe pole pokazuje tylko spojrzenie przez ramię."
+    },
+    "ba04": {
+      "prompt": "Kiedy wolno używać klaksonu?",
+      "options": ["Aby ostrzec innych przed niebezpieczeństwem", "Poza obszarem zabudowanym, aby zasygnalizować wyprzedzanie", "Aby pozdrowić znajomego"],
+      "why": "Klakson i sygnały świetlne służą tylko do zapowiedzi wyprzedzania poza obszarem zabudowanym albo gdy ty lub inni jesteście w niebezpieczeństwie (§ 16 ust. 1 StVO). Pozdrawianie, poganianie czy odreagowanie się nie liczą."
+    },
+    "ba05": {
+      "prompt": "Kiedy wolno włączyć światła awaryjne?",
+      "options": ["Przy awarii albo podczas holowania", "Aby ostrzec innych przed niebezpieczeństwem, np. na końcu korka", "Gdy na chwilę parkuję w drugim rzędzie"],
+      "why": "Światła awaryjne służą przy awarii, holowaniu, autobusach szkolnych na przystankach i do ostrzegania przed niebezpieczeństwem, np. korkiem przed tobą (§ 16 ust. 2 StVO). Nie uprawniają do nieprawidłowego parkowania."
+    },
+    "ba06": {
+      "prompt": "W obszarze zabudowanym, na drodze z dwoma oznaczonymi pasami w twoim kierunku, czy możesz wybrać dowolny pas?",
+      "options": ["Tak, samochodem osobowym", "Nie, zawsze trzeba trzymać się prawej", "Tylko do wyprzedzania"],
+      "why": "W obszarze zabudowanym pojazdy do 3,5 t mogą swobodnie wybierać pas na drogach z kilkoma oznaczonymi pasami w jednym kierunku (§ 7 ust. 3 StVO). Lawirowanie między pasami jest nadal zabronione."
+    },
+    "ba07": {
+      "prompt": "Co oznacza niejasna sytuacja w ruchu?",
+      "options": ["Nie da się pewnie przewidzieć, co zrobią inni", "Jest noc", "Droga jest szeroka"],
+      "why": "Sytuacja jest niejasna, gdy nie możesz pewnie ocenić, co zrobią inni — np. samochód sygnalizuje lewy skręt, ale nie zjeżdża do środka. Wtedy wyprzedzanie jest zabronione i trzeba być w gotowości do hamowania."
+    },
+    "ba08": {
+      "prompt": "Co należy do jazdy z przewidywaniem?",
+      "options": ["Patrzenie daleko przed siebie, a nie tylko na samochód z przodu", "Regularne zerkanie w lusterka", "Jazda jak najbliżej, żeby szybciej reagować"],
+      "why": "Kto patrzy daleko przed siebie i wie, co jest z tyłu, wcześnie dostrzega zagrożenia i spokojnie reaguje. Jazda na zderzaku odbiera dokładnie ten czas."
+    }
+  }
+}

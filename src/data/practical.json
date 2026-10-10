@@ -8,7 +8,8 @@
    "en": "How the test works",
    "tr": "Sınav nasıl işler",
    "ar": "كيف يسير الامتحان",
-   "ru": "Как проходит экзамен"
+   "ru": "Как проходит экзамен",
+   "pl": "Jak przebiega egzamin"
   },
   "body": [
    {
@@ -16,28 +17,32 @@
     "en": "The test lasts 55 minutes in total, at least 30 of them actual driving. You drive the driving school car with your instructor beside you; the examiner (from TÜV or DEKRA) sits in the back.",
     "tr": "Sınav toplam 55 dakika sürer, bunun en az 30 dakikası gerçek sürüştür. Yanınızda eğitmeninizle sürücü kursunun aracını kullanırsınız; sınav görevlisi (TÜV ya da DEKRA’dan) arkada oturur.",
     "ar": "يستغرق الامتحان 55 دقيقة إجمالًا، منها 30 دقيقة على الأقل قيادة فعلية. تقود سيارة مدرسة القيادة ومدرّبك بجانبك؛ ويجلس الممتحن (من TÜV أو DEKRA) في الخلف.",
-    "ru": "Экзамен длится всего 55 минут, из них не меньше 30 — само вождение. Вы ведёте учебный автомобиль автошколы, рядом сидит инструктор; экзаменатор (из TÜV или DEKRA) сидит сзади."
+    "ru": "Экзамен длится всего 55 минут, из них не меньше 30 — само вождение. Вы ведёте учебный автомобиль автошколы, рядом сидит инструктор; экзаменатор (из TÜV или DEKRA) сидит сзади.",
+    "pl": "Egzamin trwa łącznie 55 minut, w tym co najmniej 30 minut samej jazdy. Prowadzisz samochód szkoły jazdy, obok siedzi instruktor; egzaminator (z TÜV lub DEKRA) siedzi z tyłu."
    },
    {
     "de": "Zuerst prüft der Prüfer Ihren Ausweis. Dann folgen die Fahrtvorbereitung und Abfahrtkontrolle, die Fahrt durch Stadt, über Land und meist auf Autobahn oder Kraftfahrstraße, und die Grundfahraufgaben.",
     "en": "First the examiner checks your ID. Then come the preparation and vehicle checks, the drive through town, on country roads and usually on a motorway or expressway, and the set manoeuvres.",
     "tr": "Önce sınav görevlisi kimliğinizi kontrol eder. Ardından hazırlık ve araç kontrolleri, şehir içinde, kırsal yollarda ve genellikle otoyol ya da ekspres yolda sürüş ve belirlenmiş manevralar gelir.",
     "ar": "أولًا يتحقق الممتحن من هويتك. ثم تأتي التحضيرات وفحوص المركبة، والقيادة في المدينة وعلى الطرق الريفية وعادة على طريق سريع أو طريق سيارات، والمناورات المحددة.",
-    "ru": "Сначала экзаменатор проверяет документ, удостоверяющий личность. Затем подготовка и проверка автомобиля, езда по городу, за городом и обычно по автобану или автомагистрали, а также обязательные манёвры."
+    "ru": "Сначала экзаменатор проверяет документ, удостоверяющий личность. Затем подготовка и проверка автомобиля, езда по городу, за городом и обычно по автобану или автомагистрали, а также обязательные манёвры.",
+    "pl": "Najpierw egzaminator sprawdza dokument tożsamości. Potem przygotowanie i kontrola pojazdu, jazda po mieście, poza miastem i zwykle po autostradzie lub drodze ekspresowej oraz wyznaczone manewry."
    },
    {
     "de": "Am Ende bekommen Sie sofort das Ergebnis und eine Rückmeldung zu jedem der fünf Kompetenzbereiche. Haben Sie bestanden, erhalten Sie Ihren Führerschein oder eine vorläufige Bescheinigung direkt nach der Prüfung.",
     "en": "At the end you get the result straight away, with feedback on each of the five competence areas. If you pass, you receive your licence - or a provisional certificate - right after the test.",
     "tr": "Sonunda sonucu hemen, beş yetkinlik alanının her biri için geri bildirimle birlikte alırsınız. Geçerseniz ehliyetinizi - ya da geçici bir belgeyi - sınavdan hemen sonra alırsınız.",
     "ar": "في النهاية تحصل على النتيجة فورًا، مع تقييم لكل مجال من مجالات الكفاءة الخمسة. إذا نجحت تستلم رخصتك - أو شهادة مؤقتة - بعد الامتحان مباشرة.",
-    "ru": "В конце вы сразу узнаёте результат с отзывом по каждой из пяти областей компетенций. Если экзамен сдан, права — или временное удостоверение — выдают сразу после экзамена."
+    "ru": "В конце вы сразу узнаёте результат с отзывом по каждой из пяти областей компетенций. Если экзамен сдан, права — или временное удостоверение — выдают сразу после экзамена.",
+    "pl": "Na koniec od razu poznajesz wynik, z omówieniem każdego z pięciu obszarów kompetencji. Jeśli zdasz, prawo jazdy — albo tymczasowe zaświadczenie — dostajesz zaraz po egzaminie."
    },
    {
     "de": "Die praktische Prüfung muss innerhalb von 12 Monaten nach der bestandenen Theorieprüfung abgelegt werden. Nicht bestanden? Eine Wiederholung ist in der Regel frühestens nach zwei Wochen möglich.",
     "en": "The practical test must be taken within 12 months of passing the theory test. Failed? You can usually retake it after two weeks at the earliest.",
     "tr": "Direksiyon sınavına teorik sınavı geçtikten sonra 12 ay içinde girilmelidir. Kaldınız mı? Genellikle en erken iki hafta sonra tekrar girebilirsiniz.",
     "ar": "يجب أداء الامتحان العملي خلال 12 شهرًا من النجاح في الامتحان النظري. رسبت؟ يمكنك عادة إعادته بعد أسبوعين على الأقل.",
-    "ru": "Практический экзамен нужно сдать в течение 12 месяцев после сдачи теории. Не сдали? Обычно пересдать можно не раньше чем через две недели."
+    "ru": "Практический экзамен нужно сдать в течение 12 месяцев после сдачи теории. Не сдали? Обычно пересдать можно не раньше чем через две недели.",
+    "pl": "Egzamin praktyczny trzeba zdać w ciągu 12 miesięcy od zdania teorii. Nie udało się? Zwykle można powtórzyć najwcześniej po dwóch tygodniach."
    }
   ],
   "checklist": [
@@ -46,35 +51,40 @@
     "en": "ID card or passport with me",
     "tr": "Kimlik kartı ya da pasaport yanımda",
     "ar": "بطاقة الهوية أو جواز السفر معي",
-    "ru": "Удостоверение личности или паспорт с собой"
+    "ru": "Удостоверение личности или паспорт с собой",
+    "pl": "Dowód osobisty lub paszport przy sobie"
    },
    {
     "de": "Brille oder Kontaktlinsen, falls im Führerschein vorgeschrieben",
     "en": "Glasses or contacts, if my licence requires them",
     "tr": "Ehliyetim gerektiriyorsa gözlük ya da lens",
     "ar": "نظارة أو عدسات، إن كانت رخصتي تتطلبها",
-    "ru": "Очки или линзы, если этого требуют права"
+    "ru": "Очки или линзы, если этого требуют права",
+    "pl": "Okulary lub soczewki, jeśli wymaga tego prawo jazdy"
    },
    {
     "de": "Bequeme, flache Schuhe",
     "en": "Comfortable, flat shoes",
     "tr": "Rahat, düz ayakkabılar",
     "ar": "حذاء مريح ومسطح",
-    "ru": "Удобная обувь на плоской подошве"
+    "ru": "Удобная обувь на плоской подошве",
+    "pl": "Wygodne, płaskie buty"
    },
    {
     "de": "Ausgeschlafen und 0,0 Promille",
     "en": "Well rested and 0.0 alcohol",
     "tr": "İyi dinlenmiş ve 0,0 alkol",
     "ar": "مرتاح جيدًا و0.0 كحول",
-    "ru": "Выспаться и 0,0 алкоголя"
+    "ru": "Выспаться и 0,0 алкоголя",
+    "pl": "Wyspanie się i 0,0 alkoholu"
    },
    {
     "de": "15 Minuten vor dem Termin bei der Fahrschule",
     "en": "At the driving school 15 minutes early",
     "tr": "Sürücü kursunda 15 dakika erken",
     "ar": "في مدرسة القيادة قبل 15 دقيقة",
-    "ru": "Быть в автошколе за 15 минут"
+    "ru": "Быть в автошколе за 15 минут",
+    "pl": "W szkole jazdy 15 minut wcześniej"
    }
   ],
   "pitfalls": [
@@ -83,7 +93,8 @@
     "en": "Without valid ID the test does not go ahead - and the fee is usually lost anyway.",
     "tr": "Geçerli kimlik olmadan sınav yapılmaz - ve ücret genellikle yine de yanar.",
     "ar": "دون هوية سارية لا يُجرى الامتحان - وتضيع الرسوم عادة على أي حال.",
-    "ru": "Без действующего документа экзамен не проводится — а плата обычно всё равно сгорает."
+    "ru": "Без действующего документа экзамен не проводится — а плата обычно всё равно сгорает.",
+    "pl": "Bez ważnego dokumentu egzamin się nie odbędzie — a opłata zwykle i tak przepada."
    }
   ],
   "phrases": []
@@ -97,7 +108,8 @@
    "en": "Preparation and vehicle checks",
    "tr": "Hazırlık ve araç kontrolleri",
    "ar": "التحضير وفحوص المركبة",
-   "ru": "Подготовка и проверка автомобиля"
+   "ru": "Подготовка и проверка автомобиля",
+   "pl": "Przygotowanie i kontrola pojazdu"
   },
   "body": [
    {
@@ -105,14 +117,16 @@
     "en": "Before driving off you adjust the seat, steering wheel, mirrors and head restraint and fasten your belt. The examiner will usually ask you to show or explain a few things on the car.",
     "tr": "Yola çıkmadan önce koltuğu, direksiyonu, aynaları ve koltuk başlığını ayarlar ve kemerinizi takarsınız. Sınav görevlisi genellikle araçta birkaç şeyi göstermenizi ya da açıklamanızı ister.",
     "ar": "قبل الانطلاق تضبط المقعد والمقود والمرايا ومسند الرأس وتربط حزامك. وعادة يطلب منك الممتحن أن تُريه أو تشرح له بعض الأشياء في السيارة.",
-    "ru": "Перед началом движения вы регулируете сиденье, руль, зеркала и подголовник и пристёгиваетесь. Обычно экзаменатор просит показать или объяснить несколько вещей в автомобиле."
+    "ru": "Перед началом движения вы регулируете сиденье, руль, зеркала и подголовник и пристёгиваетесь. Обычно экзаменатор просит показать или объяснить несколько вещей в автомобиле.",
+    "pl": "Przed ruszeniem ustawiasz fotel, kierownicę, lusterka i zagłówek oraz zapinasz pas. Egzaminator zwykle prosi o pokazanie lub objaśnienie kilku rzeczy w samochodzie."
    },
    {
     "de": "Typisch sind: Beleuchtung einschalten und prüfen, Reifen (Profil, Beschädigungen, wo steht der Luftdruck), Flüssigkeitsstände (Motoröl, Kühlmittel, Scheibenwaschwasser, Bremsflüssigkeit), Hupe, Warnleuchten im Display.",
     "en": "Typical items: switch on and check the lights; the tyres (tread, damage, where the pressures are listed); fluid levels (engine oil, coolant, screen wash, brake fluid); the horn; the warning lamps on the dashboard.",
     "tr": "Tipik konular: farları açıp kontrol etmek; lastikler (diş derinliği, hasar, basınç değerlerinin nerede yazdığı); sıvı seviyeleri (motor yağı, soğutma suyu, cam suyu, fren hidroliği); korna; gösterge panelindeki uyarı lambaları.",
     "ar": "بنود نموذجية: تشغيل الأضواء وفحصها؛ الإطارات (عمق النقشة، الأضرار، مكان كتابة قيم الضغط)؛ مستويات السوائل (زيت المحرك، سائل التبريد، سائل الزجاج، سائل المكابح)؛ البوق؛ أضواء التحذير في لوحة العدادات.",
-    "ru": "Типичные пункты: включить и проверить свет; шины (протектор, повреждения, где указано давление); уровни жидкостей (моторное масло, охлаждающая жидкость, омыватель, тормозная жидкость); звуковой сигнал; контрольные лампы на приборной панели."
+    "ru": "Типичные пункты: включить и проверить свет; шины (протектор, повреждения, где указано давление); уровни жидкостей (моторное масло, охлаждающая жидкость, омыватель, тормозная жидкость); звуковой сигнал; контрольные лампы на приборной панели.",
+    "pl": "Typowe punkty: włączenie i sprawdzenie świateł; opony (bieżnik, uszkodzenia, gdzie podano ciśnienie); poziomy płynów (olej silnikowy, płyn chłodniczy, płyn do spryskiwaczy, płyn hamulcowy); klakson; kontrolki na desce rozdzielczej."
    }
   ],
   "checklist": [
@@ -121,42 +135,48 @@
     "en": "Seat set so the clutch or brake pedal goes fully down",
     "tr": "Koltuk, debriyaj ya da fren pedalı tamamen basılabilecek şekilde ayarlı",
     "ar": "المقعد مضبوط بحيث تنزل دواسة القابض أو المكبح بالكامل",
-    "ru": "Сиденье настроено так, что педаль сцепления или тормоза выжимается до конца"
+    "ru": "Сиденье настроено так, что педаль сцепления или тормоза выжимается до конца",
+    "pl": "Fotel ustawiony tak, by sprzęgło lub hamulec dało się wcisnąć do końca"
    },
    {
     "de": "Innen- und Außenspiegel eingestellt",
     "en": "Interior and door mirrors adjusted",
     "tr": "İç ve dış aynalar ayarlı",
     "ar": "المرآة الداخلية ومرايا الأبواب مضبوطة",
-    "ru": "Салонное и наружные зеркала настроены"
+    "ru": "Салонное и наружные зеркала настроены",
+    "pl": "Lusterko wewnętrzne i boczne ustawione"
    },
    {
     "de": "Kopfstütze: Oberkante etwa auf Scheitelhöhe",
     "en": "Head restraint: top edge at about the top of my head",
     "tr": "Koltuk başlığı: üst kenarı yaklaşık başımın tepesi hizasında",
     "ar": "مسند الرأس: الحافة العليا عند مستوى قمة رأسي تقريبًا",
-    "ru": "Подголовник: верхний край примерно на уровне макушки"
+    "ru": "Подголовник: верхний край примерно на уровне макушки",
+    "pl": "Zagłówek: górna krawędź mniej więcej na wysokości czubka głowy"
    },
    {
     "de": "Abblendlicht, Fernlicht, Blinker, Warnblinker, Nebelschlussleuchte zeigen können",
     "en": "Can show dipped and main beam, indicators, hazards, rear fog light",
     "tr": "Kısa ve uzun far, sinyaller, dörtlüler, arka sis lambasını gösterebiliyorum",
     "ar": "أستطيع إظهار الأضواء القصيرة والعالية وإشارات الانعطاف وأضواء التحذير وضوء الضباب الخلفي",
-    "ru": "Могу показать ближний и дальний свет, поворотники, аварийку, задний противотуманный фонарь"
+    "ru": "Могу показать ближний и дальний свет, поворотники, аварийку, задний противотуманный фонарь",
+    "pl": "Umiem pokazać światła mijania i drogowe, kierunkowskazy, awaryjne, tylne przeciwmgłowe"
    },
    {
     "de": "Ölmessstab finden und Ölstand ablesen können",
     "en": "Can find the dipstick and read the oil level",
     "tr": "Yağ çubuğunu bulup yağ seviyesini okuyabiliyorum",
     "ar": "أستطيع إيجاد مقياس الزيت وقراءة مستواه",
-    "ru": "Могу найти щуп и определить уровень масла"
+    "ru": "Могу найти щуп и определить уровень масла",
+    "pl": "Umiem znaleźć bagnet i odczytać poziom oleju"
    },
    {
     "de": "Wissen, wo der vorgeschriebene Reifendruck steht",
     "en": "Know where the correct tyre pressures are listed",
     "tr": "Doğru lastik basınçlarının nerede yazdığını biliyorum",
     "ar": "أعرف أين تُكتب قيم ضغط الإطارات الصحيحة",
-    "ru": "Знаю, где указано правильное давление в шинах"
+    "ru": "Знаю, где указано правильное давление в шинах",
+    "pl": "Wiem, gdzie podano prawidłowe ciśnienie w oponach"
    }
   ],
   "pitfalls": [
@@ -165,7 +185,8 @@
     "en": "Setting off without adjusting the mirrors or fastening the belt.",
     "tr": "Aynaları ayarlamadan ya da kemeri takmadan yola çıkmak.",
     "ar": "الانطلاق دون ضبط المرايا أو ربط الحزام.",
-    "ru": "Тронуться, не настроив зеркала или не пристегнувшись."
+    "ru": "Тронуться, не настроив зеркала или не пристегнувшись.",
+    "pl": "Ruszenie bez ustawienia lusterek albo zapięcia pasa."
    }
   ],
   "phrases": []
@@ -179,7 +200,8 @@
    "en": "Reverse parallel parking",
    "tr": "Geri geri paralel park",
    "ar": "الوقوف الموازي إلى الخلف",
-   "ru": "Параллельная парковка задним ходом"
+   "ru": "Параллельная парковка задним ходом",
+   "pl": "Parkowanie równoległe tyłem"
   },
   "body": [
    {
@@ -187,14 +209,16 @@
     "en": "You reverse into a space at the right-hand kerb between two vehicles. The space should be at least about one and a half car lengths.",
     "tr": "Sağ kaldırım kenarında iki araç arasındaki bir boşluğa geri geri girersiniz. Boşluk en az yaklaşık bir buçuk araç boyu olmalıdır.",
     "ar": "ترجع إلى الخلف إلى مكان عند حافة الطريق اليمنى بين مركبتين. ينبغي أن يكون المكان بطول سيارة ونصف تقريبًا على الأقل.",
-    "ru": "Вы заезжаете задним ходом на место у правого края между двумя автомобилями. Место должно быть не меньше примерно полутора длин автомобиля."
+    "ru": "Вы заезжаете задним ходом на место у правого края между двумя автомобилями. Место должно быть не меньше примерно полутора длин автомобиля.",
+    "pl": "Wjeżdżasz tyłem w lukę przy prawej krawędzi między dwoma pojazdami. Luka powinna mieć co najmniej ok. półtorej długości samochodu."
    },
    {
     "de": "Halten Sie etwa 50 cm seitlich neben dem vorderen Auto, Heck auf Höhe von dessen Heck. Langsam zurück, bis Ihre Hinterachse auf Höhe von dessen Heck ist, dann voll rechts einschlagen. Wenn das Auto etwa 45° steht, geradeaus zurück, dann voll links einschlagen, bis Sie parallel stehen.",
     "en": "Stop about 50 cm beside the car in front, your rear level with its rear. Reverse slowly until your rear axle is level with its back bumper, then steer full right. At about 45°, straighten up and reverse, then steer full left until you are parallel.",
     "tr": "Öndeki aracın yaklaşık 50 cm yanında, arkanız onun arkasıyla aynı hizada durun. Arka aksınız onun arka tamponuyla aynı hizaya gelene kadar yavaşça geri gidin, sonra direksiyonu tamamen sağa kırın. Yaklaşık 45°’de düzeltin ve geri gidin, sonra paralel olana kadar direksiyonu tamamen sola kırın.",
     "ar": "توقف على بعد نحو 50 سم بجانب السيارة الأمامية، ومؤخرتك بمحاذاة مؤخرتها. ارجع ببطء حتى يصبح محورك الخلفي بمحاذاة صدّامها الخلفي، ثم أدر المقود إلى أقصى اليمين. عند نحو 45° عدّل المقود وارجع، ثم أدره إلى أقصى اليسار حتى تصبح موازيًا.",
-    "ru": "Остановитесь примерно в 50 см сбоку от переднего автомобиля, задом на уровне его задней части. Медленно сдавайте назад, пока задняя ось не окажется на уровне его заднего бампера, затем выверните руль полностью вправо. Примерно при 45° выровняйте руль и двигайтесь назад, затем выверните полностью влево, пока не встанете параллельно."
+    "ru": "Остановитесь примерно в 50 см сбоку от переднего автомобиля, задом на уровне его задней части. Медленно сдавайте назад, пока задняя ось не окажется на уровне его заднего бампера, затем выверните руль полностью вправо. Примерно при 45° выровняйте руль и двигайтесь назад, затем выверните полностью влево, пока не встанете параллельно.",
+    "pl": "Zatrzymaj się ok. 50 cm obok samochodu z przodu, tyłem na wysokości jego tyłu. Cofaj powoli, aż tylna oś znajdzie się na wysokości jego tylnego zderzaka, potem skręć kierownicę do oporu w prawo. Przy ok. 45° wyprostuj koła i cofaj, potem skręć do oporu w lewo, aż ustawisz się równolegle."
    }
   ],
   "checklist": [
@@ -203,28 +227,32 @@
     "en": "Signal right before stopping",
     "tr": "Durmadan önce sağa sinyal vermek",
     "ar": "الإشارة يمينًا قبل التوقف",
-    "ru": "Перед остановкой включить правый поворотник"
+    "ru": "Перед остановкой включить правый поворотник",
+    "pl": "Prawy kierunkowskaz przed zatrzymaniem"
    },
    {
     "de": "Rundumblick, bevor ich zurücksetze",
     "en": "All-round check before reversing",
     "tr": "Geri gitmeden önce her yöne bakmak",
     "ar": "النظر في كل الاتجاهات قبل الرجوع",
-    "ru": "Осмотреться вокруг перед движением назад"
+    "ru": "Осмотреться вокруг перед движением назад",
+    "pl": "Rozejrzenie się dookoła przed cofaniem"
    },
    {
     "de": "Ständig nach hinten und zur Seite schauen, nicht nur in den Spiegel",
     "en": "Keep looking behind and to the side, not only in the mirror",
     "tr": "Yalnızca aynaya değil, arkaya ve yana bakmaya devam etmek",
     "ar": "مواصلة النظر إلى الخلف والجانب، لا في المرآة فقط",
-    "ru": "Продолжать смотреть назад и в сторону, а не только в зеркало"
+    "ru": "Продолжать смотреть назад и в сторону, а не только в зеркало",
+    "pl": "Patrzenie do tyłu i na bok, nie tylko w lusterko"
    },
    {
     "de": "Am Ende höchstens etwa 30 cm vom Bordstein, Räder gerade",
     "en": "Finish no more than about 30 cm from the kerb, wheels straight",
     "tr": "Kaldırıma en fazla yaklaşık 30 cm uzaklıkta, tekerlekler düz bitirmek",
     "ar": "الانتهاء على بعد 30 سم تقريبًا على الأكثر من الحافة، والعجلات مستقيمة",
-    "ru": "Закончить не дальше примерно 30 см от бордюра, колёса прямо"
+    "ru": "Закончить не дальше примерно 30 см от бордюра, колёса прямо",
+    "pl": "Koniec najwyżej ok. 30 cm od krawężnika, koła prosto"
    }
   ],
   "pitfalls": [
@@ -233,21 +261,24 @@
     "en": "Mounting the kerb with the rear wheel.",
     "tr": "Arka tekerlekle kaldırıma çıkmak.",
     "ar": "صعود الحافة بالعجلة الخلفية.",
-    "ru": "Заехать задним колесом на бордюр."
+    "ru": "Заехать задним колесом на бордюр.",
+    "pl": "Najechanie tylnym kołem na krawężnik."
    },
    {
     "de": "Den Verkehr nicht beobachten, während die Front ausschwenkt.",
     "en": "Not watching traffic while the front swings out.",
     "tr": "Ön taraf dışarı savrulurken trafiği izlememek.",
     "ar": "عدم مراقبة حركة المرور بينما تتأرجح المقدمة إلى الخارج.",
-    "ru": "Не следить за движением, пока перед машины выносит в сторону."
+    "ru": "Не следить за движением, пока перед машины выносит в сторону.",
+    "pl": "Brak obserwacji ruchu, gdy przód wychyla się na bok."
    },
    {
     "de": "Zu viele Korrekturzüge.",
     "en": "Too many corrections.",
     "tr": "Çok fazla düzeltme.",
     "ar": "كثرة التصحيحات.",
-    "ru": "Слишком много поправок."
+    "ru": "Слишком много поправок.",
+    "pl": "Zbyt wiele poprawek."
    }
   ],
   "phrases": []
@@ -261,7 +292,8 @@
    "en": "Bay parking (straight or angled)",
    "tr": "Cep parkı (dik ya da açılı)",
    "ar": "الوقوف في مكان مخصص (عمودي أو مائل)",
-   "ru": "Парковка на место (перпендикулярно или под углом)"
+   "ru": "Парковка на место (перпендикулярно или под углом)",
+   "pl": "Parkowanie prostopadłe lub skośne"
   },
   "body": [
    {
@@ -269,14 +301,16 @@
     "en": "You park forwards or backwards in a bay at right angles or diagonally to the road, for instance in a car park. The car should end up centred and straight, without crossing the lines.",
     "tr": "Örneğin bir otoparkta, yola dik ya da çapraz bir park yerine ileri ya da geri park edersiniz. Araç, çizgileri geçmeden ortada ve düz durmalıdır.",
     "ar": "تقف إلى الأمام أو إلى الخلف في مكان عمودي أو مائل على الطريق، مثلًا في موقف سيارات. يجب أن تنتهي السيارة في الوسط ومستقيمة، دون تجاوز الخطوط.",
-    "ru": "Вы паркуетесь передом или задом на место перпендикулярно или наискосок к дороге, например на парковке. Автомобиль должен стоять по центру и ровно, не заезжая на линии."
+    "ru": "Вы паркуетесь передом или задом на место перпендикулярно или наискосок к дороге, например на парковке. Автомобиль должен стоять по центру и ровно, не заезжая на линии.",
+    "pl": "Parkujesz przodem lub tyłem na miejscu prostopadłym albo skośnym do jezdni, np. na parkingu. Samochód powinien stać na środku i prosto, bez najeżdżania na linie."
    },
    {
     "de": "Rückwärts ist meist leichter, weil die Vorderräder lenken: Fahren Sie an der Lücke vorbei, schlagen Sie ein, wenn Ihr Heck etwa an der zweiten Linie vorbei ist, und richten Sie das Auto an den Linien aus.",
     "en": "Reversing in is usually easier, because the front wheels do the steering: drive past the space, steer in once your rear is about past the far line, and line the car up with the markings.",
     "tr": "Geri geri girmek genellikle daha kolaydır, çünkü yönlendirmeyi ön tekerlekler yapar: park yerini geçin, arkanız yaklaşık uzak çizgiyi geçince direksiyonu kırın ve aracı çizgilere göre hizalayın.",
     "ar": "الرجوع إلى الداخل أسهل عادة، لأن العجلات الأمامية تتولى التوجيه: تجاوز المكان، وأدر المقود حين تكون مؤخرتك قد تجاوزت الخط البعيد تقريبًا، ثم اجعل السيارة بمحاذاة العلامات.",
-    "ru": "Задом обычно проще, потому что рулят передние колёса: проезжаете место, начинаете поворачивать, когда задняя часть примерно миновала дальнюю линию, и выравниваете машину по разметке."
+    "ru": "Задом обычно проще, потому что рулят передние колёса: проезжаете место, начинаете поворачивать, когда задняя часть примерно миновала дальнюю линию, и выравниваете машину по разметке.",
+    "pl": "Tyłem jest zwykle łatwiej, bo kierują przednie koła: miń miejsce, skręcaj, gdy tył minie mniej więcej dalszą linię, i wyrównaj samochód do linii."
    }
   ],
   "checklist": [
@@ -285,21 +319,24 @@
     "en": "Signal before turning into the space",
     "tr": "Park yerine dönmeden önce sinyal vermek",
     "ar": "الإشارة قبل الانعطاف إلى المكان",
-    "ru": "Включить поворотник перед заездом на место"
+    "ru": "Включить поворотник перед заездом на место",
+    "pl": "Kierunkowskaz przed wjazdem na miejsce"
    },
    {
     "de": "Auf Fußgänger auf dem Parkplatz achten",
     "en": "Watch for pedestrians in the car park",
     "tr": "Otoparkta yayalara dikkat etmek",
     "ar": "الانتباه للمشاة في الموقف",
-    "ru": "Следить за пешеходами на парковке"
+    "ru": "Следить за пешеходами на парковке",
+    "pl": "Uwaga na pieszych na parkingu"
    },
    {
     "de": "Mittig zwischen den Linien, Räder gerade",
     "en": "Centred between the lines, wheels straight",
     "tr": "Çizgiler arasında ortada, tekerlekler düz",
     "ar": "في الوسط بين الخطوط، والعجلات مستقيمة",
-    "ru": "По центру между линиями, колёса прямо"
+    "ru": "По центру между линиями, колёса прямо",
+    "pl": "Na środku między liniami, koła prosto"
    }
   ],
   "pitfalls": [
@@ -308,7 +345,8 @@
     "en": "Almost touching a neighbouring car without stopping.",
     "tr": "Durmadan komşu araca neredeyse değmek.",
     "ar": "الاقتراب حتى شبه ملامسة سيارة مجاورة دون توقف.",
-    "ru": "Почти коснуться соседней машины и не остановиться."
+    "ru": "Почти коснуться соседней машины и не остановиться.",
+    "pl": "Prawie dotknięcie sąsiedniego auta bez zatrzymania się."
    }
   ],
   "phrases": []
@@ -322,7 +360,8 @@
    "en": "Reversing round a corner",
    "tr": "Geri geri köşe dönme",
    "ar": "الرجوع حول زاوية",
-   "ru": "Задним ходом за угол"
+   "ru": "Задним ходом за угол",
+   "pl": "Cofanie z wjazdem za róg"
   },
   "body": [
    {
@@ -330,14 +369,16 @@
     "en": "You reverse to the right into a side road, junction or entrance, following the kerb at an even distance.",
     "tr": "Bir yan yola, kavşağa ya da girişe geri geri sağa dönersiniz; kaldırım kenarını eşit mesafeyle izlersiniz.",
     "ar": "ترجع إلى اليمين إلى طريق جانبي أو تقاطع أو مدخل، متتبعًا الحافة على مسافة متساوية.",
-    "ru": "Вы заезжаете задним ходом направо в боковую улицу, перекрёсток или въезд, держась на равном расстоянии от бордюра."
+    "ru": "Вы заезжаете задним ходом направо в боковую улицу, перекрёсток или въезд, держась на равном расстоянии от бордюра.",
+    "pl": "Cofasz w prawo w boczną ulicę, skrzyżowanie lub wjazd, trzymając równy odstęp od krawężnika."
    },
    {
     "de": "Fahren Sie an der Einmündung vorbei und halten Sie nahe am Bordstein. Langsam zurück; wenn der Bordstein im rechten Spiegel abknickt, rechts einlenken. Nach der Ecke geradeaus zurück, bis der Prüfer stoppt.",
     "en": "Drive past the opening and stop close to the kerb. Reverse slowly; when you see the kerb curve away in the right mirror, start steering right. After the corner, straighten and reverse until the examiner stops you.",
     "tr": "Ağzı geçin ve kaldırıma yakın durun. Yavaşça geri gidin; sağ aynada kaldırımın kıvrıldığını görünce direksiyonu sağa çevirmeye başlayın. Köşeden sonra düzeltin ve sınav görevlisi sizi durdurana kadar geri gidin.",
     "ar": "تجاوز الفتحة وتوقف قريبًا من الحافة. ارجع ببطء؛ وحين ترى في المرآة اليمنى الحافة تنحني بعيدًا، ابدأ بإدارة المقود يمينًا. بعد الزاوية عدّل المقود وارجع حتى يوقفك الممتحن.",
-    "ru": "Проезжаете проём и останавливаетесь близко к бордюру. Медленно сдаёте назад; когда в правом зеркале видно, что бордюр начинает загибаться, начинаете поворачивать вправо. После угла выравниваете руль и сдаёте назад, пока экзаменатор не остановит."
+    "ru": "Проезжаете проём и останавливаетесь близко к бордюру. Медленно сдаёте назад; когда в правом зеркале видно, что бордюр начинает загибаться, начинаете поворачивать вправо. После угла выравниваете руль и сдаёте назад, пока экзаменатор не остановит.",
+    "pl": "Miń wlot i zatrzymaj się blisko krawężnika. Cofaj powoli; gdy w prawym lusterku widać, że krawężnik zaczyna się zaginać, zacznij skręcać w prawo. Za rogiem wyprostuj koła i cofaj, aż egzaminator cię zatrzyma."
    }
   ],
   "checklist": [
@@ -346,21 +387,24 @@
     "en": "Look all round before and while reversing",
     "tr": "Geri gitmeden önce ve giderken her yöne bakmak",
     "ar": "النظر في كل الاتجاهات قبل الرجوع وأثناءه",
-    "ru": "Осматриваться до и во время движения назад"
+    "ru": "Осматриваться до и во время движения назад",
+    "pl": "Rozglądanie się przed cofaniem i w trakcie"
    },
    {
     "de": "Fußgänger an der Ecke durchlassen",
     "en": "Let pedestrians at the corner go first",
     "tr": "Köşedeki yayaları önce geçirmek",
     "ar": "ترك المشاة عند الزاوية يمرون أولًا",
-    "ru": "Пропускать пешеходов на углу"
+    "ru": "Пропускать пешеходов на углу",
+    "pl": "Przepuszczenie pieszych na rogu"
    },
    {
     "de": "Gleichmäßiger Abstand zum Bordstein",
     "en": "Even distance from the kerb",
     "tr": "Kaldırımdan eşit mesafe",
     "ar": "مسافة متساوية من الحافة",
-    "ru": "Равное расстояние до бордюра"
+    "ru": "Равное расстояние до бордюра",
+    "pl": "Równy odstęp od krawężnika"
    }
   ],
   "pitfalls": [
@@ -369,7 +413,8 @@
     "en": "The front swings out into oncoming traffic without my noticing.",
     "tr": "Ön tarafın fark etmeden karşıdan gelen trafiğe savrulması.",
     "ar": "المقدمة تتأرجح نحو حركة المرور المقابلة دون أن ألاحظ.",
-    "ru": "Перед машины незаметно выносит на встречную полосу."
+    "ru": "Перед машины незаметно выносит на встречную полосу.",
+    "pl": "Przód niepostrzeżenie wychyla się na pas przeciwny."
    }
   ],
   "phrases": []
@@ -383,7 +428,8 @@
    "en": "Turning round",
    "tr": "Geri dönme",
    "ar": "الالتفاف",
-   "ru": "Разворот"
+   "ru": "Разворот",
+   "pl": "Zawracanie"
   },
   "body": [
    {
@@ -391,7 +437,8 @@
     "en": "You turn the car to face the other way on a road, using forward and reverse. You must not touch the kerbs.",
     "tr": "Aracı ileri ve geri hareketlerle bir yolda ters yöne çevirirsiniz. Kaldırımlara değmemelisiniz.",
     "ar": "تدير السيارة لتواجه الاتجاه الآخر على طريق، باستخدام التقدم والرجوع. يجب ألا تلمس الحواف.",
-    "ru": "Вы разворачиваете автомобиль на дороге в обратную сторону, двигаясь вперёд и назад. Касаться бордюров нельзя."
+    "ru": "Вы разворачиваете автомобиль на дороге в обратную сторону, двигаясь вперёд и назад. Касаться бордюров нельзя.",
+    "pl": "Obracasz samochód na drodze w przeciwnym kierunku, jadąc do przodu i do tyłu. Nie wolno dotknąć krawężników."
    }
   ],
   "checklist": [
@@ -400,21 +447,24 @@
     "en": "Only where it is allowed and you can see well",
     "tr": "Yalnızca izin verilen ve iyi görebildiğiniz yerde",
     "ar": "فقط حيث يُسمح بذلك وحيث تكون الرؤية جيدة",
-    "ru": "Только там, где это разрешено и хорошо видно"
+    "ru": "Только там, где это разрешено и хорошо видно",
+    "pl": "Tylko tam, gdzie jest to dozwolone i dobrze widać"
    },
    {
     "de": "Vor jedem Zug in beide Richtungen schauen",
     "en": "Look both ways before each move",
     "tr": "Her hareketten önce iki yöne bakmak",
     "ar": "النظر في الاتجاهين قبل كل حركة",
-    "ru": "Смотреть в обе стороны перед каждым движением"
+    "ru": "Смотреть в обе стороны перед каждым движением",
+    "pl": "Spojrzenie w obie strony przed każdym ruchem"
    },
    {
     "de": "Langsam fahren, schnell lenken",
     "en": "Move slowly, steer quickly",
     "tr": "Yavaş hareket etmek, hızlı direksiyon çevirmek",
     "ar": "التحرك ببطء، وإدارة المقود بسرعة",
-    "ru": "Двигаться медленно, рулить быстро"
+    "ru": "Двигаться медленно, рулить быстро",
+    "pl": "Jechać powoli, kręcić szybko"
    }
   ],
   "pitfalls": [
@@ -423,7 +473,8 @@
     "en": "Holding traffic up instead of letting it pass.",
     "tr": "Trafiği geçirmek yerine bekletmek.",
     "ar": "تعطيل حركة المرور بدل تركها تمر.",
-    "ru": "Задерживать движение вместо того, чтобы пропустить."
+    "ru": "Задерживать движение вместо того, чтобы пропустить.",
+    "pl": "Blokowanie ruchu zamiast jego przepuszczenia."
    }
   ],
   "phrases": []
@@ -437,7 +488,8 @@
    "en": "Emergency stop",
    "tr": "Acil fren",
    "ar": "الكبح الطارئ",
-   "ru": "Экстренное торможение"
+   "ru": "Экстренное торможение",
+   "pl": "Hamowanie awaryjne"
   },
   "body": [
    {
@@ -445,14 +497,16 @@
     "en": "From about 30 km/h you brake as hard as possible to a standstill when the examiner gives the signal. The car should stay straight.",
     "tr": "Sınav görevlisi işaret verdiğinde yaklaşık 30 km/sa’ten olabildiğince sert frenleyerek durursunuz. Araç düz kalmalıdır.",
     "ar": "من نحو 30 كم/س تكبح بأقصى قوة ممكنة حتى التوقف عندما يعطي الممتحن الإشارة. يجب أن تبقى السيارة مستقيمة.",
-    "ru": "По сигналу экзаменатора вы тормозите со скорости около 30 км/ч как можно сильнее до полной остановки. Машина должна остаться прямо."
+    "ru": "По сигналу экзаменатора вы тормозите со скорости около 30 км/ч как можно сильнее до полной остановки. Машина должна остаться прямо.",
+    "pl": "Na sygnał egzaminatora hamujesz z ok. 30 km/h najmocniej, jak się da, aż do zatrzymania. Samochód powinien jechać prosto."
    },
    {
     "de": "Mit ABS: Bremse und Kupplung voll durchtreten und halten. Das Rattern im Pedal ist normal. Vorher prüft der Prüfer, dass niemand hinter Ihnen fährt.",
     "en": "With ABS: press brake and clutch fully down and hold them. The juddering in the pedal is normal. The examiner checks beforehand that nobody is behind you.",
     "tr": "ABS ile: fren ve debriyaja tamamen basın ve basılı tutun. Pedaldaki titreşim normaldir. Sınav görevlisi önceden arkanızda kimse olmadığını kontrol eder.",
     "ar": "مع ABS: اضغط المكبح والقابض بالكامل وأبقهما مضغوطين. الارتجاج في الدواسة طبيعي. يتأكد الممتحن مسبقًا من عدم وجود أحد خلفك.",
-    "ru": "С ABS: выжмите тормоз и сцепление до конца и держите. Дрожание педали — это нормально. Экзаменатор заранее убедится, что сзади никого нет."
+    "ru": "С ABS: выжмите тормоз и сцепление до конца и держите. Дрожание педали — это нормально. Экзаменатор заранее убедится, что сзади никого нет.",
+    "pl": "Z ABS: wciśnij hamulec i sprzęgło do końca i trzymaj. Drganie pedału jest normalne. Egzaminator wcześniej sprawdza, czy nikt nie jedzie z tyłu."
    }
   ],
   "checklist": [
@@ -461,21 +515,24 @@
     "en": "React on the command, not before",
     "tr": "Komutla tepki vermek, önce değil",
     "ar": "التفاعل مع الأمر، لا قبله",
-    "ru": "Реагировать по команде, а не раньше"
+    "ru": "Реагировать по команде, а не раньше",
+    "pl": "Reakcja na komendę, nie wcześniej"
    },
    {
     "de": "Voll durchtreten, nicht zögerlich steigern",
     "en": "Press fully, not gradually",
     "tr": "Kademeli değil, tamamen basmak",
     "ar": "الضغط بالكامل، لا تدريجيًا",
-    "ru": "Нажать до конца, а не постепенно"
+    "ru": "Нажать до конца, а не постепенно",
+    "pl": "Wciśnięcie do końca, nie stopniowo"
    },
    {
     "de": "Danach Warnblinker oder Spiegelblick, bevor ich weiterfahre",
     "en": "Afterwards, hazards or a mirror check before moving on",
     "tr": "Sonrasında devam etmeden önce dörtlüler ya da ayna kontrolü",
     "ar": "بعد ذلك، أضواء التحذير أو نظرة في المرآة قبل المتابعة",
-    "ru": "После — аварийка или взгляд в зеркало, прежде чем ехать дальше"
+    "ru": "После — аварийка или взгляд в зеркало, прежде чем ехать дальше",
+    "pl": "Potem światła awaryjne albo spojrzenie w lusterko przed dalszą jazdą"
    }
   ],
   "pitfalls": [
@@ -484,7 +541,8 @@
     "en": "Braking too gently.",
     "tr": "Çok yumuşak fren yapmak.",
     "ar": "الكبح بلطف زائد.",
-    "ru": "Тормозить слишком мягко."
+    "ru": "Тормозить слишком мягко.",
+    "pl": "Zbyt delikatne hamowanie."
    }
   ],
   "phrases": []
@@ -498,7 +556,8 @@
    "en": "The five competence areas",
    "tr": "Beş yetkinlik alanı",
    "ar": "مجالات الكفاءة الخمسة",
-   "ru": "Пять областей компетенций"
+   "ru": "Пять областей компетенций",
+   "pl": "Pięć obszarów kompetencji"
   },
   "body": [
    {
@@ -506,7 +565,8 @@
     "en": "The examiner does not just tally individual \"mistakes\" but judges how you drive in five areas - across the whole test and in situations such as junctions, roundabouts, lane changes, motorway slip roads, bends and zebra crossings.",
     "tr": "Sınav görevlisi yalnızca tek tek \"hataları\" saymaz, sürüşünüzü beş alanda değerlendirir - tüm sınav boyunca ve kavşaklar, dönel kavşaklar, şerit değiştirmeler, otoyol bağlantı yolları, virajlar ve yaya geçitleri gibi durumlarda.",
     "ar": "لا يكتفي الممتحن بعدّ «الأخطاء» المنفردة، بل يقيّم قيادتك في خمسة مجالات - طوال الامتحان وفي مواقف مثل التقاطعات والدوّارات وتغيير المسارات ومداخل الطرق السريعة والمنعطفات ومعابر المشاة.",
-    "ru": "Экзаменатор не просто считает отдельные «ошибки», а оценивает вождение в пяти областях — на протяжении всего экзамена и в таких ситуациях, как перекрёстки, кольца, перестроения, въезды на автобан, повороты дороги и «зебры»."
+    "ru": "Экзаменатор не просто считает отдельные «ошибки», а оценивает вождение в пяти областях — на протяжении всего экзамена и в таких ситуациях, как перекрёстки, кольца, перестроения, въезды на автобан, повороты дороги и «зебры».",
+    "pl": "Egzaminator nie tylko liczy pojedyncze „błędy”, ale ocenia jazdę w pięciu obszarach — przez cały egzamin i w sytuacjach takich jak skrzyżowania, ronda, zmiany pasa, wjazdy na autostradę, zakręty i przejścia dla pieszych."
    }
   ],
   "checklist": [
@@ -515,35 +575,40 @@
     "en": "Observation: mirrors, shoulder checks, looking ahead",
     "tr": "Gözlem: aynalar, omuz kontrolleri, ileriye bakmak",
     "ar": "المراقبة: المرايا، النظر فوق الكتف، النظر إلى الأمام",
-    "ru": "Наблюдение: зеркала, взгляд через плечо, взгляд вперёд"
+    "ru": "Наблюдение: зеркала, взгляд через плечо, взгляд вперёд",
+    "pl": "Obserwacja: lusterka, spojrzenie przez ramię, patrzenie daleko przed siebie"
    },
    {
     "de": "Fahrzeugpositionierung: richtige Spur, Abstand nach vorne und zur Seite",
     "en": "Positioning: the right lane, distance ahead and to the side",
     "tr": "Konumlanma: doğru şerit, öne ve yana mesafe",
     "ar": "التموضع: المسار الصحيح، المسافة الأمامية والجانبية",
-    "ru": "Положение на дороге: правильная полоса, дистанция и боковой интервал"
+    "ru": "Положение на дороге: правильная полоса, дистанция и боковой интервал",
+    "pl": "Pozycja na drodze: właściwy pas, odstęp z przodu i z boku"
    },
    {
     "de": "Geschwindigkeitsanpassung: Tempo passend zu Limit, Sicht und Situation",
     "en": "Speed: matched to the limit, the view and the situation",
     "tr": "Hız: sınıra, görüşe ve duruma uygun",
     "ar": "السرعة: متوافقة مع الحد والرؤية والموقف",
-    "ru": "Скорость: по ограничению, обзору и ситуации"
+    "ru": "Скорость: по ограничению, обзору и ситуации",
+    "pl": "Prędkość: dostosowana do ograniczenia, widoczności i sytuacji"
    },
    {
     "de": "Kommunikation: rechtzeitig blinken, Blickkontakt, klare Absichten",
     "en": "Communication: signal in time, eye contact, clear intentions",
     "tr": "İletişim: zamanında sinyal, göz teması, açık niyetler",
     "ar": "التواصل: الإشارة في الوقت المناسب، التواصل البصري، نوايا واضحة",
-    "ru": "Коммуникация: вовремя включённый поворотник, зрительный контакт, ясные намерения"
+    "ru": "Коммуникация: вовремя включённый поворотник, зрительный контакт, ясные намерения",
+    "pl": "Komunikacja: kierunkowskaz w porę, kontakt wzrokowy, jasne zamiary"
    },
    {
     "de": "Fahrzeugbedienung und umweltbewusstes Fahren: Schalten, Lenken, sanftes Bremsen",
     "en": "Vehicle control and eco driving: gear changes, steering, smooth braking",
     "tr": "Araç kontrolü ve ekonomik sürüş: vites değiştirme, direksiyon, yumuşak frenleme",
     "ar": "التحكم بالمركبة والقيادة الاقتصادية: تغيير التروس، التوجيه، الكبح السلس",
-    "ru": "Управление и экономичная езда: переключение передач, руление, плавное торможение"
+    "ru": "Управление и экономичная езда: переключение передач, руление, плавное торможение",
+    "pl": "Obsługa pojazdu i jazda ekonomiczna: zmiana biegów, kierowanie, płynne hamowanie"
    }
   ],
   "pitfalls": [],
@@ -558,7 +623,8 @@
    "en": "What people most often fail for",
    "tr": "İnsanlar en çok neden kalıyor",
    "ar": "أكثر أسباب الرسوب شيوعًا",
-   "ru": "Из-за чего чаще всего не сдают"
+   "ru": "Из-за чего чаще всего не сдают",
+   "pl": "Za co najczęściej się oblewa"
   },
   "body": [
    {
@@ -566,7 +632,8 @@
     "en": "Small slips do not fail you. You fail for a serious mistake - for example when someone is put in danger - or when smaller mistakes keep repeating.",
     "tr": "Küçük hatalar sizi sınavdan bırakmaz. Ciddi bir hatadan - örneğin biri tehlikeye atıldığında - ya da küçük hatalar tekrarlandığında kalırsınız.",
     "ar": "الهفوات الصغيرة لا تُسقطك. ترسب بسبب خطأ جسيم - مثلًا عندما يُعرَّض أحد للخطر - أو عندما تتكرر الأخطاء الصغيرة.",
-    "ru": "Мелкие промахи не приводят к провалу. Провал — за серьёзную ошибку, например когда кто-то оказался в опасности, или когда мелкие ошибки повторяются."
+    "ru": "Мелкие промахи не приводят к провалу. Провал — за серьёзную ошибку, например когда кто-то оказался в опасности, или когда мелкие ошибки повторяются.",
+    "pl": "Drobne potknięcia nie oznaczają niezdania. Oblewa się za poważny błąd — np. gdy ktoś zostanie narażony — albo gdy drobne błędy się powtarzają."
    }
   ],
   "checklist": [],
@@ -576,49 +643,56 @@
     "en": "Ignoring right of way, especially \"right before left\" in 30 zones",
     "tr": "Geçiş hakkını, özellikle 30 bölgelerinde \"sağdan gelen önce geçer\" kuralını görmezden gelmek",
     "ar": "تجاهل حق الأولوية، خاصة «اليمين قبل اليسار» في مناطق 30",
-    "ru": "Несоблюдение преимущества, особенно «правый перед левым» в зонах 30"
+    "ru": "Несоблюдение преимущества, особенно «правый перед левым» в зонах 30",
+    "pl": "Nieustąpienie pierwszeństwa, zwłaszcza „prawa przed lewą” w strefach 30"
    },
    {
     "de": "Kein Schulterblick beim Abbiegen, Anfahren oder Spurwechsel",
     "en": "No shoulder check when turning, pulling away or changing lanes",
     "tr": "Dönerken, hareket ederken ya da şerit değiştirirken omuz kontrolü yapmamak",
     "ar": "عدم النظر فوق الكتف عند الانعطاف أو الانطلاق أو تغيير المسار",
-    "ru": "Нет взгляда через плечо при повороте, начале движения или перестроении"
+    "ru": "Нет взгляда через плечо при повороте, начале движения или перестроении",
+    "pl": "Brak spojrzenia przez ramię przy skręcie, ruszaniu lub zmianie pasa"
    },
    {
     "de": "Am Stoppschild nicht vollständig angehalten",
     "en": "Not coming to a full stop at a STOP sign",
     "tr": "DUR levhasında tam olarak durmamak",
     "ar": "عدم التوقف التام عند إشارة STOP",
-    "ru": "Нет полной остановки у знака STOP"
+    "ru": "Нет полной остановки у знака STOP",
+    "pl": "Brak całkowitego zatrzymania przy znaku STOP"
    },
    {
     "de": "Fußgänger am Zebrastreifen nicht durchgelassen",
     "en": "Not letting pedestrians cross at a zebra",
     "tr": "Yaya geçidinde yayaları geçirmemek",
     "ar": "عدم ترك المشاة يعبرون عند معبر المشاة",
-    "ru": "Не пропустить пешеходов на «зебре»"
+    "ru": "Не пропустить пешеходов на «зебре»",
+    "pl": "Nieprzepuszczenie pieszych na przejściu"
    },
    {
     "de": "Deutlich zu schnell, z. B. in einer 30-Zone",
     "en": "Clearly speeding, for example in a 30 zone",
     "tr": "Örneğin 30 bölgesinde açıkça hız yapmak",
     "ar": "تجاوز السرعة بوضوح، مثلًا في منطقة 30",
-    "ru": "Явное превышение скорости, например в зоне 30"
+    "ru": "Явное превышение скорости, например в зоне 30",
+    "pl": "Wyraźne przekroczenie prędkości, np. w strefie 30"
    },
    {
     "de": "Rote Ampel überfahren",
     "en": "Running a red light",
     "tr": "Kırmızı ışıkta geçmek",
     "ar": "قطع الإشارة الحمراء",
-    "ru": "Проезд на красный"
+    "ru": "Проезд на красный",
+    "pl": "Przejazd na czerwonym"
    },
    {
     "de": "Der Fahrlehrer muss eingreifen (Doppelbremse oder Lenkrad)",
     "en": "The instructor has to intervene (dual brake or steering)",
     "tr": "Eğitmenin müdahale etmek zorunda kalması (çift fren ya da direksiyon)",
     "ar": "اضطرار المدرّب إلى التدخل (المكبح المزدوج أو المقود)",
-    "ru": "Инструктору пришлось вмешаться (второй тормоз или руль)"
+    "ru": "Инструктору пришлось вмешаться (второй тормоз или руль)",
+    "pl": "Interwencja instruktora (dodatkowy hamulec lub kierownica)"
    }
   ],
   "phrases": []
@@ -632,7 +706,8 @@
    "en": "What the examiner says",
    "tr": "Sınav görevlisi ne der",
    "ar": "ما يقوله الممتحن",
-   "ru": "Что говорит экзаменатор"
+   "ru": "Что говорит экзаменатор",
+   "pl": "Co mówi egzaminator"
   },
   "body": [
    {
@@ -640,7 +715,8 @@
     "en": "The practical test is in German. The examiner gives directions in good time. If you do not understand, ask - that is not a mistake.",
     "tr": "Direksiyon sınavı Almancadır. Sınav görevlisi talimatları zamanında verir. Anlamazsanız sorun - bu bir hata değildir.",
     "ar": "الامتحان العملي باللغة الألمانية. يعطي الممتحن التوجيهات في الوقت المناسب. إذا لم تفهم فاسأل - هذا ليس خطأ.",
-    "ru": "Практический экзамен проходит на немецком. Экзаменатор даёт указания заранее. Если что-то непонятно, спросите — это не ошибка."
+    "ru": "Практический экзамен проходит на немецком. Экзаменатор даёт указания заранее. Если что-то непонятно, спросите — это не ошибка.",
+    "pl": "Egzamin praktyczny odbywa się po niemiecku. Egzaminator podaje polecenia zawczasu. Jeśli czegoś nie rozumiesz, zapytaj — to nie jest błąd."
    }
   ],
   "checklist": [],
@@ -651,84 +727,96 @@
     "en": "At the next junction, please turn right.",
     "tr": "Bir sonraki kavşakta lütfen sağa dönün.",
     "ar": "عند التقاطع التالي انعطف يمينًا من فضلك.",
-    "ru": "На следующем перекрёстке, пожалуйста, направо."
+    "ru": "На следующем перекрёстке, пожалуйста, направо.",
+    "pl": "Na następnym skrzyżowaniu proszę skręcić w prawo."
    },
    {
     "de": "Bitte biegen Sie links ab.",
     "en": "Please turn left.",
     "tr": "Lütfen sola dönün.",
     "ar": "انعطف يسارًا من فضلك.",
-    "ru": "Пожалуйста, поверните налево."
+    "ru": "Пожалуйста, поверните налево.",
+    "pl": "Proszę skręcić w lewo."
    },
    {
     "de": "Fahren Sie bitte geradeaus weiter.",
     "en": "Please carry straight on.",
     "tr": "Lütfen düz devam edin.",
     "ar": "تابع مستقيمًا من فضلك.",
-    "ru": "Пожалуйста, езжайте прямо."
+    "ru": "Пожалуйста, езжайте прямо.",
+    "pl": "Proszę jechać dalej prosto."
    },
    {
     "de": "Folgen Sie bitte dem Straßenverlauf.",
     "en": "Please follow the road.",
     "tr": "Lütfen yolu takip edin.",
     "ar": "اتبع مسار الطريق من فضلك.",
-    "ru": "Пожалуйста, следуйте по дороге."
+    "ru": "Пожалуйста, следуйте по дороге.",
+    "pl": "Proszę jechać zgodnie z przebiegiem drogi."
    },
    {
     "de": "Folgen Sie der Beschilderung Richtung Autobahn.",
     "en": "Follow the signs for the motorway.",
     "tr": "Otoyol levhalarını takip edin.",
     "ar": "اتبع اللافتات نحو الطريق السريع.",
-    "ru": "Следуйте по указателям на автобан."
+    "ru": "Следуйте по указателям на автобан.",
+    "pl": "Proszę jechać za drogowskazami na autostradę."
    },
    {
     "de": "Im Kreisverkehr bitte die zweite Ausfahrt nehmen.",
     "en": "At the roundabout, please take the second exit.",
     "tr": "Dönel kavşakta lütfen ikinci çıkışı alın.",
     "ar": "في الدوّار خذ المخرج الثاني من فضلك.",
-    "ru": "На кольце, пожалуйста, второй съезд."
+    "ru": "На кольце, пожалуйста, второй съезд.",
+    "pl": "Na rondzie proszę wybrać drugi zjazd."
    },
    {
     "de": "Halten Sie bitte hier rechts am Fahrbahnrand an.",
     "en": "Please pull over here on the right.",
     "tr": "Lütfen burada sağda yol kenarında durun.",
     "ar": "توقف هنا على حافة الطريق اليمنى من فضلك.",
-    "ru": "Пожалуйста, остановитесь здесь справа у края дороги."
+    "ru": "Пожалуйста, остановитесь здесь справа у края дороги.",
+    "pl": "Proszę zatrzymać się tutaj przy prawej krawędzi jezdni."
    },
    {
     "de": "Parken Sie bitte hinter dem blauen Auto rückwärts ein.",
     "en": "Please reverse park behind the blue car.",
     "tr": "Lütfen mavi otomobilin arkasına geri geri park edin.",
     "ar": "قف إلى الخلف خلف السيارة الزرقاء من فضلك.",
-    "ru": "Пожалуйста, припаркуйтесь задним ходом за синим автомобилем."
+    "ru": "Пожалуйста, припаркуйтесь задним ходом за синим автомобилем.",
+    "pl": "Proszę zaparkować tyłem za niebieskim samochodem."
    },
    {
     "de": "Bitte wenden Sie hier.",
     "en": "Please turn round here.",
     "tr": "Lütfen burada geri dönün.",
     "ar": "التفّ هنا من فضلك.",
-    "ru": "Пожалуйста, развернитесь здесь."
+    "ru": "Пожалуйста, развернитесь здесь.",
+    "pl": "Proszę tutaj zawrócić."
    },
    {
     "de": "Wenn ich „Stopp“ sage, machen Sie bitte eine Gefahrbremsung.",
     "en": "When I say \"Stopp\", please do an emergency stop.",
     "tr": "\"Stopp\" dediğimde lütfen acil fren yapın.",
     "ar": "عندما أقول «Stopp» قم بكبح طارئ من فضلك.",
-    "ru": "Когда я скажу «Stopp», пожалуйста, выполните экстренное торможение."
+    "ru": "Когда я скажу «Stopp», пожалуйста, выполните экстренное торможение.",
+    "pl": "Gdy powiem „Stopp”, proszę wykonać hamowanie awaryjne."
    },
    {
     "de": "Fahren Sie bitte wieder an, wenn es die Verkehrslage erlaubt.",
     "en": "Please move off again when traffic allows.",
     "tr": "Trafik izin verdiğinde lütfen yeniden hareket edin.",
     "ar": "انطلق من جديد عندما تسمح حركة المرور من فضلك.",
-    "ru": "Пожалуйста, трогайтесь, когда позволит обстановка."
+    "ru": "Пожалуйста, трогайтесь, когда позволит обстановка.",
+    "pl": "Proszę ruszyć, gdy pozwoli na to sytuacja na drodze."
    },
    {
     "de": "Die Prüfung ist beendet. Sie haben bestanden.",
     "en": "The test is over. You have passed.",
     "tr": "Sınav bitti. Geçtiniz.",
     "ar": "انتهى الامتحان. لقد نجحت.",
-    "ru": "Экзамен окончен. Вы сдали."
+    "ru": "Экзамен окончен. Вы сдали.",
+    "pl": "Egzamin zakończony. Zdane."
    }
   ]
  }

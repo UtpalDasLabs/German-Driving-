@@ -1,0 +1,270 @@
+{
+  "questions": {
+    "tu01": {
+      "prompt": "Chcesz skręcić w prawo. Drogą dla rowerów po twojej prawej jedzie prosto rowerzysta. Co robisz?",
+      "options": ["Przepuszczam rowerzystę", "Przed skrętem patrzę przez prawe ramię", "Szybko skręcam przed rowerzystą"],
+      "why": "Skręcając, musisz przepuścić rowerzystów jadących prosto w tym samym kierunku po jezdni lub obok niej (§ 9 ust. 3 StVO). W martwym polu widać ich tylko przez ramię.",
+      "tip": "Skręt w prawo = spojrzenie przez prawe ramię. Za każdym razem."
+    },
+    "tu02": {
+      "prompt": "Skręcasz. Przez drogę, w którą skręcasz, przechodzą piesi. Co robisz?",
+      "options": ["Czekam, aż przejdą", "Powoli przeciskam się między nimi", "Trąbię, żeby się pospieszyli"],
+      "why": "Skręcając, trzeba szczególnie uważać na pieszych i w razie potrzeby czekać (§ 9 ust. 3 StVO)."
+    },
+    "tu03": {
+      "prompt": "Jak ustawiasz się do skrętu w lewo?",
+      "options": ["Na drodze dwukierunkowej — do osi jezdni", "Na ulicy jednokierunkowej — jak najbardziej w lewo", "Zawsze przy prawej krawędzi"],
+      "why": "Do skrętu w lewo zawczasu zjeżdżasz jak najbardziej w lewo: do środka przy ruchu z naprzeciwka, do lewej krawędzi na ulicy jednokierunkowej (§ 9 ust. 1 StVO)."
+    },
+    "tu04": {
+      "prompt": "Co należy do skrętu w lewo?",
+      "options": ["Zawczasu włączyć kierunkowskaz i się ustawić", "Spojrzeć w lusterko przed zjechaniem", "Tuż przed skrętem jeszcze raz spojrzeć do tyłu"],
+      "why": "Skręt w lewo wymaga podwójnego spojrzenia do tyłu: przed zjechaniem i jeszcze raz tuż przed skrętem, bo ktoś może właśnie zaczynać wyprzedzanie (§ 9 ust. 1 StVO).",
+      "tip": "Lusterko — kierunkowskaz — ustawienie — spojrzenie przez ramię — skręt."
+    },
+    "tu05": {
+      "prompt": "Chcesz wjechać na posesję. Co obowiązuje?",
+      "options": ["Trzeba wykluczyć wszelkie zagrożenie dla innych", "W razie potrzeby korzystam z pomocy osoby kierującej", "Obowiązują mnie tylko zasady skrętu na skrzyżowaniu"],
+      "why": "Wjazd na posesję, zawracanie i cofanie wymagają, by nikt nie był zagrożony; w razie potrzeby skorzystaj z pomocy osoby kierującej (§ 9 ust. 5 StVO)."
+    },
+    "tu06": {
+      "prompt": "Gdzie zawracanie jest zabronione?",
+      "options": ["Na autostradach i drogach ekspresowych", "Tam, gdzie stoi znak 272", "Na każdej ulicy w mieście"],
+      "why": "Zawracanie i cofanie są zabronione na autostradach i drogach ekspresowych (§ 18 ust. 7 StVO). Znak 272 wyraźnie tego zakazuje. Gdzie indziej możesz zawracać, dopóki nikt nie jest zagrożony."
+    },
+    "tu07": {
+      "prompt": "Chcesz wyjechać tyłem z miejsca parkingowego i mało widzisz za sobą. Co robisz?",
+      "options": ["Jadę powoli, cały czas się rozglądam, w razie potrzeby proszę kogoś o kierowanie", "Cofam szybko, żeby nikogo długo nie blokować", "Polegam tylko na kamerze cofania"],
+      "why": "Cofanie nie może nikogo narażać (§ 9 ust. 5 StVO). Kamery i czujniki pomagają, ale nie zastępują patrzenia i mogą przeoczyć dzieci lub niskie przeszkody."
+    },
+    "tu08": {
+      "prompt": "Jak skręcasz w prawo?",
+      "options": ["Trzymając się jak najbliżej prawej", "Szerokim łukiem przez środek poprzecznej ulicy", "Bez kierunkowskazu, jeśli droga jest wolna"],
+      "why": "Skręcający w prawo trzymają się jak najbliżej prawej (§ 9 ust. 1 StVO) i skręcają ciasnym łukiem. Kierunkowskaz włączasz zawsze, nawet jeśli nikogo nie widać."
+    },
+    "tu09": {
+      "prompt": "Chcesz skręcić. Tramwaj obok ciebie jedzie prosto w tym samym kierunku. Kto jedzie pierwszy?",
+      "options": ["Tramwaj", "Ja, bo mój kierunkowskaz włączył się wcześniej", "Ten, kto szybszy"],
+      "why": "Skręcający muszą przepuścić pojazdy szynowe, nawet gdy jadą obok w tym samym kierunku (§ 9 ust. 3 StVO)."
+    },
+    "tu10": {
+      "prompt": "Kiedy włączasz kierunkowskaz?",
+      "options": ["Zawczasu przed skrętem", "Przed każdą zmianą pasa", "Dopiero w trakcie skrętu"],
+      "why": "Kierunkowskaz zapowiada, co zamierzasz zrobić — wcześniej, a nie w trakcie. Przy skręcie, zmianie pasa i ruszaniu od krawędzi jezdni."
+    },
+    "pa01": {
+      "prompt": "Kiedy to postój (a nie zatrzymanie)?",
+      "options": ["Gdy opuszczam pojazd", "Gdy stoję dłużej niż trzy minuty", "Gdy stoję w korku"],
+      "why": "Opuszczenie pojazdu albo stanie dłużej niż trzy minuty to postój (§ 12 ust. 2 StVO). Zatrzymanie z powodu ruchu — w korku, na czerwonym — nie jest ani jednym, ani drugim."
+    },
+    "pa02": {
+      "prompt": "Gdzie zatrzymywanie się jest zabronione?",
+      "options": ["W wąskich miejscach i przy słabej widoczności", "Na przejazdach kolejowych", "Przed piekarnią"],
+      "why": "Zatrzymanie jest zabronione m.in. w wąskich miejscach i przy słabej widoczności, na ostrych zakrętach, na łącznicach, na przejazdach kolejowych i przed dojazdami pożarowymi (§ 12 ust. 1 StVO)."
+    },
+    "pa03": {
+      "prompt": "Ile metrów przed przejściem dla pieszych nie wolno się zatrzymywać?",
+      "why": "Zatrzymanie jest zabronione na przejściach dla pieszych i 5 m przed nimi. Stojący samochód zasłania pieszych, przede wszystkim dzieci."
+    },
+    "pa04": {
+      "prompt": "Ile metrów przed skrzyżowaniem i za nim nie wolno parkować (bez osobnej drogi dla rowerów)?",
+      "why": "Postój jest zabroniony 5 m przed skrzyżowaniem i za nim, licząc od miejsca przecięcia linii krawężników. Gdy po prawej jest osobna droga dla rowerów — 8 m przed skrzyżowaniem (§ 12 ust. 3 StVO)."
+    },
+    "pa05": {
+      "prompt": "Gdzie postój jest zabroniony?",
+      "options": ["Przed wjazdami i wyjazdami z posesji", "Przed obniżonymi krawężnikami", "Na wyznaczonym miejscu parkingowym"],
+      "why": "Postój jest zabroniony przed wjazdami (a na wąskich drogach także naprzeciw nich) i przed obniżonymi krawężnikami, których potrzebują wózki inwalidzkie i dziecięce (§ 12 ust. 3 StVO)."
+    },
+    "pa06": {
+      "prompt": "Przyjeżdżasz o 9:10 i ustawiasz tarczę parkingową. Jaką godzinę ustawiasz?",
+      "options": ["9:30", "9:10", "9:00"],
+      "why": "Tarczę ustawia się na najbliższe pełne pół godziny po przyjeździe: o 9:10 na 9:30.",
+      "tip": "Zawsze w górę, do następnego pół godziny."
+    },
+    "pa07": {
+      "prompt": "Po której stronie drogi zwykle wolno parkować?",
+      "options": ["Po prawej", "Po lewej na ulicach jednokierunkowych", "Po lewej wszędzie, gdzie jest miejsce"],
+      "why": "Zatrzymujesz się i parkujesz po prawej, przy prawej krawędzi lub na poboczu. Po lewej tylko na ulicach jednokierunkowych albo gdy po prawej są tory (§ 12 ust. 4 StVO)."
+    },
+    "pa08": {
+      "prompt": "Chcesz otworzyć drzwi kierowcy. Jak najlepiej chronisz rowerzystów?",
+      "options": ["Otwieram je prawą ręką, żeby się obrócić i zobaczyć, co z tyłu", "Szybko otwieram drzwi na oścież", "Patrzę tylko w lusterko wsteczne"],
+      "why": "Wsiadając i wysiadając, nie wolno nikogo narażać (§ 14 ust. 1 StVO). Otwieranie drzwi kierowcy prawą ręką („holenderski chwyt”) obraca tułów, więc widzisz rowerzystów w martwym polu.",
+      "tip": "Dalsza ręka na klamce."
+    },
+    "pa09": {
+      "prompt": "Co robisz, zanim opuścisz zaparkowany samochód?",
+      "options": ["Wyłączam silnik i zaciągam hamulec postojowy", "Zabezpieczam go przed stoczeniem się i przed użyciem przez osoby niepowołane", "Zostawiam włączony silnik, jeśli zaraz wracam"],
+      "why": "Opuszczając pojazd, trzeba go zabezpieczyć, żeby nie spowodował wypadku ani utrudnienia, oraz przed użyciem przez osoby niepowołane (§ 14 ust. 2 StVO). Pozostawienie pracującego silnika bez nadzoru jest zabronione."
+    },
+    "pa10": {
+      "prompt": "Parkujesz nocą przy krawędzi drogi poza obszarem zabudowanym. Co musisz zrobić?",
+      "options": ["Oświetlić pojazd, np. światłami postojowymi", "Nic, światła odblaskowe wystarczą", "Włączyć tylne światło przeciwmgłowe"],
+      "why": "Poza obszarem zabudowanym zatrzymane i zaparkowane pojazdy muszą być w ciemności oświetlone. W mieście wystarczy światło postojowe od strony ruchu, a tam, gdzie latarnie świecą całą noc, zwykle żadne (§ 17 ust. 4 StVO)."
+    },
+    "pa11": {
+      "prompt": "Czy wolno parkować w drugim rzędzie?",
+      "options": ["Nie", "Tak, ze światłami awaryjnymi", "Tak, do dziesięciu minut"],
+      "why": "Parkowanie w drugim rzędzie jest zabronione, a światła awaryjne go nie legalizują. Blokuje jezdnię i zmusza innych do wyjeżdżania na pas przeciwny."
+    },
+    "pa12": {
+      "prompt": "Gdzie nie wolno parkować?",
+      "options": ["Na chodniku, chyba że pozwala na to znak lub oznakowanie", "Przed dojazdem pożarowym", "W wyznaczonej zatoce parkingowej"],
+      "why": "Chodniki są dla pieszych. Parkowanie na nich wolno tylko tam, gdzie pozwala znak 315 albo oznakowanie. Przed dojazdami pożarowymi nie wolno się nawet zatrzymać."
+    },
+    "pe01": {
+      "prompt": "Przy przejściu dla pieszych czeka pieszy. Co robisz?",
+      "options": ["Zatrzymuję się i przepuszczam", "Jadę dalej — jeszcze nie zaczął przechodzić", "Trąbię, żeby wiedział, że jadę"],
+      "why": "Na przejściach dla pieszych musisz umożliwić przejście pieszym i osobom na wózkach, którzy wyraźnie chcą przejść. Zbliżaj się z umiarkowaną prędkością i w razie potrzeby czekaj (§ 26 ust. 1 StVO).",
+      "tip": "Kto czeka przy przejściu, już ma pierwszeństwo."
+    },
+    "pe02": {
+      "prompt": "Przy drodze są dzieci. Jak się zachowujesz?",
+      "options": ["Zwalniam i jestem w gotowości do hamowania", "Liczę się z tym, że dziecko nagle wbiegnie na jezdnię", "Trąbię i utrzymuję prędkość"],
+      "why": "Przy dzieciach, osobach starszych i wszystkich potrzebujących pomocy trzeba zwolnić i być w gotowości do hamowania, tak by nic im się nie stało (§ 3 ust. 2a StVO). Dzieci nie potrafią jeszcze ocenić prędkości i odległości."
+    },
+    "pe03": {
+      "prompt": "Między zaparkowanymi samochodami na jezdnię wtacza się piłka. Czego się spodziewasz?",
+      "options": ["Że za nią wybiegnie dziecko", "Niczego szczególnego", "Że piłka może uszkodzić samochód"],
+      "why": "Dziecko goniące piłkę widzi tylko piłkę. Hamuj od razu i licz się z tym, że wyskoczy spomiędzy samochodów.",
+      "tip": "Piłka = dziecko."
+    },
+    "pe04": {
+      "prompt": "Pieszy z białą laską chce przejść przez jezdnię. Co to znaczy?",
+      "options": ["To osoba niewidoma lub mocno niedowidząca", "Trzeba szczególnie uważać i w razie potrzeby się zatrzymać", "Ta osoba mnie widzi i poczeka"],
+      "why": "Biała laska, pies przewodnik w białej uprzęży albo żółta opaska z trzema czarnymi kropkami oznaczają osobę niewidomą. Nie widzi cię, więc w razie potrzeby się zatrzymaj."
+    },
+    "pe05": {
+      "prompt": "Starsza osoba powoli przechodzi przez jezdnię, a tobie zapala się zielone. Co robisz?",
+      "options": ["Czekam, aż zejdzie z jezdni", "Powoli ją omijam", "Trąbię, żeby ją ponaglić"],
+      "why": "Zielone nie daje prawa do narażania kogokolwiek. Osoby starsze często potrzebują więcej czasu i łatwo je przestraszyć. Pozwól spokojnie dokończyć przejście."
+    },
+    "pe06": {
+      "prompt": "Do jakiego wieku dzieci muszą jeździć rowerem po chodniku?",
+      "why": "Dzieci do 8. urodzin muszą jeździć po chodniku, a do 10. mogą (§ 2 ust. 5 StVO). Przy wjazdach i skrzyżowaniach licz się z tym, że dzieci zjadą z chodnika na jezdnię."
+    },
+    "pe07": {
+      "prompt": "Rowerzysta przed tobą zbliża się do zaparkowanego samochodu. Czego się spodziewasz?",
+      "options": ["Że odbije w lewo, być może bez sygnalizowania", "Że się zatrzyma i poczeka", "Że wjedzie na chodnik"],
+      "why": "Rowerzyści muszą omijać przeszkody i nie zawsze najpierw oglądają się do tyłu. Zachowaj odstęp i wyprzedzaj dopiero wtedy, gdy jasne jest, co zrobią."
+    },
+    "pe08": {
+      "prompt": "Czy rowerzyści mogą jechać obok siebie?",
+      "options": ["Tak, jeśli nie utrudniają ruchu", "Nie, nigdy", "Tylko w grupach od 16 osób"],
+      "why": "Rowerzyści mogą jechać parami obok siebie, jeśli nie utrudniają ruchu (§ 2 ust. 4 StVO). Na ulicy rowerowej i w grupie od 16 osób — nawet jeśli spowalnia to innych."
+    },
+    "pe09": {
+      "prompt": "Nocą pieszych w ciemnych ubraniach trudno zobaczyć. Co jest prawdą?",
+      "options": ["Na światłach mijania często widzę ich bardzo późno", "Dopasowuję prędkość do zasięgu świateł", "Światła do jazdy dziennej wystarczą w nocy"],
+      "why": "Na światłach mijania pieszego w ciemnym ubraniu widać często dopiero z 25–30 m — mniej niż droga zatrzymania przy 50 km/h. Światła do jazdy dziennej nie oświetlają drogi, a tył pozostaje nieoświetlony."
+    },
+    "pe10": {
+      "prompt": "Gdzie i jak wolno jeździć hulajnogami elektrycznymi?",
+      "options": ["Drogami dla rowerów, a gdzie ich nie ma — jezdnią", "Tylko w jedną osobę", "Po chodniku"],
+      "why": "Hulajnogi elektryczne muszą korzystać z dróg dla rowerów, a w ich braku z jezdni; chodniki są zakazane. Może nimi jechać tylko jedna osoba w wieku od 14 lat (eKFV). Przy skręcie traktuj je jak rowerzystów."
+    },
+    "pe11": {
+      "prompt": "Autobus szkolny zatrzymał się przy drodze i wysiadają dzieci. Co robisz?",
+      "options": ["Mijam powoli, z dużym odstępem, w gotowości do hamowania", "Liczę się z tym, że dzieci przebiegną przed autobusem lub za nim", "Szybko przejeżdżam, żeby dzieci mogły bezpiecznie wysiąść"],
+      "why": "Dzieci często przebiegają tuż przed autobusem albo za nim. Jeśli ma włączone światła awaryjne, trzeba zwolnić nawet do prędkości pieszego (§ 20 ust. 4 StVO)."
+    },
+    "pe12": {
+      "prompt": "Pieszy przechodzi przez jezdnię poza przejściem. Co robisz?",
+      "options": ["Hamuję i pozwalam przejść, nawet jeśli powinien był poczekać", "Jadę dalej — nie ma pierwszeństwa", "Przejeżdżam tuż za nim"],
+      "why": "Piesi muszą uważać na pojazdy (§ 25 StVO), ale § 1 StVO wymaga stałej ostrożności: nikogo nie wolno narażać. Cudzy błąd nigdy nie daje prawa, by kogoś potrącić."
+    },
+    "ra01": {
+      "prompt": "Kiedy musisz czekać na tym przejeździe kolejowym?",
+      "options": ["Gdy zbliża się pociąg", "Gdy migają czerwone światła albo opuszczają się rogatki", "Dopiero gdy rogatki są całkiem opuszczone"],
+      "why": "Na przejazdach kolejowych pociągi mają pierwszeństwo (§ 19 ust. 1 StVO). Musisz czekać, gdy jedzie pociąg, świecą czerwone lub migające światła, rogatki się opuszczają lub są opuszczone albo pracownik kolei daje znak do zatrzymania (§ 19 ust. 2 StVO).",
+      "tip": "Opuszczająca się rogatka jest już zamknięta."
+    },
+    "ra02": {
+      "prompt": "Tuż za przejazdem kolejowym stoi korek. Co robisz?",
+      "options": ["Czekam przed przejazdem", "Wjeżdżam na tory i tam czekam", "Trąbię, żeby inni podjechali"],
+      "why": "Wjeżdżaj na przejazd tylko wtedy, gdy możesz go całkowicie opuścić bez zatrzymywania się (§ 19 ust. 1 StVO). Utknąwszy na torach w korku, nie masz dokąd uciec."
+    },
+    "ra03": {
+      "prompt": "Twój samochód psuje się na przejeździe kolejowym. Co robisz?",
+      "options": ["Od razu wyprowadzam wszystkich z samochodu i ze strefy zagrożenia", "Dzwonię pod numer alarmowy albo numer podany na przejeździe", "Zostaję w samochodzie i próbuję go uruchomić"],
+      "why": "Pociąg nie może ominąć przeszkody i często potrzebuje ponad kilometra, by się zatrzymać. Najpierw ludzie: z samochodu, z dala od torów, potem zaalarmuj kolej przez numer alarmowy."
+    },
+    "ra04": {
+      "prompt": "Autobus zbliża się do przystanku z włączonymi światłami awaryjnymi. Co obowiązuje?",
+      "options": ["Nie wolno mi go wyprzedzić", "Mogę go szybko wyprzedzić, zanim stanie", "Muszę się natychmiast zatrzymać"],
+      "why": "Autobusów i oznaczonych autobusów szkolnych zbliżających się do przystanku z włączonymi światłami awaryjnymi nie wolno wyprzedzać (§ 20 ust. 3 StVO)."
+    },
+    "ra05": {
+      "prompt": "Autobus stoi na przystanku z włączonymi światłami awaryjnymi. Jak możesz go minąć?",
+      "options": ["Tylko z prędkością pieszego", "Nie narażając pasażerów — w razie potrzeby czekając", "Z prędkością 30 km/h"],
+      "why": "Autobusy i autobusy szkolne stojące na przystanku z włączonymi światłami awaryjnymi wolno mijać tylko z prędkością pieszego i z takim odstępem, by nie narażać pasażerów. Dotyczy to także pojazdów z naprzeciwka na tej samej jezdni (§ 20 ust. 4 StVO).",
+      "tip": "Autobus miga na przystanku = prędkość pieszego, nawet z naprzeciwka."
+    },
+    "ra06": {
+      "prompt": "Autobus włącza lewy kierunkowskaz, by odjechać z przystanku. Co robisz?",
+      "options": ["Pozwalam mu wyjechać, w razie potrzeby czekam", "Szybko go mijam", "Trąbię"],
+      "why": "Autobusom i autobusom szkolnym trzeba umożliwić odjazd z oznaczonych przystanków; inne pojazdy w razie potrzeby czekają (§ 20 ust. 5 StVO)."
+    },
+    "ra07": {
+      "prompt": "Tramwaj zatrzymał się na przystanku bez wysepki i wysiadają pasażerowie. Co robisz?",
+      "options": ["Mijam z prawej z prędkością pieszego, nie utrudniając pasażerom", "W razie potrzeby czekam", "Szybko mijam z lewej"],
+      "why": "Gdy pasażerowie wsiadają lub wysiadają, wolno mijać tylko z prawej, z prędkością pieszego i z zapasem; pasażerom nie wolno utrudniać, w razie potrzeby czekasz (§ 20 ust. 2 StVO)."
+    },
+    "ra08": {
+      "prompt": "Zbliżasz się do przejazdu kolejowego oznaczonego krzyżem św. Andrzeja. Jak się zbliżasz?",
+      "options": ["Z umiarkowaną prędkością", "Jak najszybciej, żeby szybko przejechać", "Szybko wyprzedzam ciężarówkę przede mną"],
+      "why": "Do przejazdów kolejowych zbliżasz się z umiarkowaną prędkością (§ 19 ust. 1 StVO), by móc się zatrzymać, gdy nadjedzie pociąg. Od znaku 151 lub 156 nie wolno wyprzedzać pojazdów silnikowych."
+    },
+    "mw01": {
+      "prompt": "Wjeżdżasz na autostradę. Co jest prawidłowe?",
+      "options": ["Wykorzystuję pas rozbiegowy, by dopasować się do prędkości na autostradzie", "Pojazdy na autostradzie mają pierwszeństwo", "Kierowcy na autostradzie muszą mnie wpuścić"],
+      "why": "Pierwszeństwo mają pojazdy na jezdni głównej (§ 18 ust. 3 StVO). Wykorzystaj pas rozbiegowy, by z odpowiednią prędkością trafić w odpowiednią lukę; zbyt wolne włączanie się jest niebezpieczne."
+    },
+    "mw02": {
+      "prompt": "Na autostradzie tworzy się korek. Gdzie tworzysz korytarz życia?",
+      "options": ["Między skrajnie lewym pasem a pasem obok", "Na pasie awaryjnym", "Równo na wszystkich pasach"],
+      "why": "Gdy tylko ruch na autostradach i wielopasmowych drogach poza miastem zwalnia do tempa pieszego, utwórz korytarz między skrajnie lewym pasem a pasem po jego prawej (§ 11 ust. 2 StVO) — zanim pojawią się służby ratunkowe.",
+      "tip": "Skrajnie lewy pas w lewo; wszyscy pozostali w prawo."
+    },
+    "mw03": {
+      "prompt": "Co jest zabronione na autostradzie?",
+      "options": ["Zawracanie i cofanie", "Zatrzymanie, także na pasie awaryjnym (poza sytuacją awaryjną)", "Korzystanie z lewego pasa do wyprzedzania"],
+      "why": "Na autostradach, łącznie z łącznicami, zawracanie i cofanie są zabronione. Zatrzymanie też, także na pasie awaryjnym (§ 18 ust. 7 i 8 StVO). Przegapiony zjazd? Jedź do następnego."
+    },
+    "mw04": {
+      "prompt": "Masz awarię na autostradzie. Co robisz?",
+      "options": ["Włączam światła awaryjne i, jeśli się da, zjeżdżam na pas awaryjny", "Zakładam kamizelkę odblaskową i wyprowadzam wszystkich za barierę", "Ustawiam trójkąt ostrzegawczy ok. 200 m za pojazdem"],
+      "why": "Najpierw bezpieczeństwo: awaryjne, w prawo, kamizelka, wszyscy wysiadają od strony pasażera i za barierę. Potem trójkąt: ok. 200 m na autostradzie, 100 m na drogach poza miastem, 50 m w mieście (§ 15 StVO).",
+      "tip": "50 — 100 — 200 m: miasto, poza miastem, autostrada."
+    },
+    "mw05": {
+      "prompt": "Na autostradzie zbliżasz się do końca korka. Co robisz?",
+      "options": ["Hamuję zawczasu i włączam światła awaryjne", "Zostawiam dość miejsca do ostatniego pojazdu", "Uciekam na pas awaryjny"],
+      "why": "Na końcu korka ostrzeż jadących za tobą światłami awaryjnymi (§ 16 ust. 2 StVO). Zostaw odstęp, by móc uciec na bok, jeśli ktoś z tyłu zahamuje za późno."
+    },
+    "mw06": {
+      "prompt": "Radio podaje, że na twoim odcinku autostrady ktoś jedzie pod prąd. Co robisz?",
+      "options": ["Trzymam się prawej i nie wyprzedzam", "Zwalniam i zwiększam odstęp", "Zostaję na lewym pasie"],
+      "why": "Jadący pod prąd zwykle nadjeżdża lewym pasem, myśląc, że to prawy. Trzymaj się prawej, nie wyprzedzaj, zwolnij i włącz awaryjne, gdy się zbliży."
+    },
+    "mw07": {
+      "prompt": "Ile metrów przed zjazdem stoi tablica z trzema kreskami?",
+      "why": "Tablice odliczające (znak 450) stoją ok. 300, 200 i 100 m przed początkiem pasa zjazdowego. Zjedź na prawy pas zawczasu.",
+      "tip": "Autostrada: 100 m na kreskę. Przejazd kolejowy: 80 m."
+    },
+    "mw08": {
+      "prompt": "Co ile metrów stoją zwykle słupki przy drodze?",
+      "why": "Słupki prowadzące stoją zwykle co 50 m. Służą do oceny odstępu i widoczności: jeśli we mgle nie widać następnego, widoczność jest poniżej 50 m i nie wolno jechać szybciej niż 50 km/h."
+    },
+    "mw09": {
+      "prompt": "Kto może jechać pasem awaryjnym autostrady?",
+      "options": ["Nikt — chyba że znaki otwierają go dla ruchu", "Wolne pojazdy", "Każdy, kto stoi w korku"],
+      "why": "Pas awaryjny nie jest pasem ruchu. Wolno nim jechać tylko tam, gdzie znaki wyraźnie go otwierają; poza tym jest dla awarii i służb ratunkowych."
+    },
+    "mw10": {
+      "prompt": "Co obowiązuje na drodze ekspresowej (Kraftfahrstraße)?",
+      "options": ["Mogą z niej korzystać tylko pojazdy silnikowe konstrukcyjnie szybsze niż 60 km/h", "Na skrzyżowaniach pierwszeństwo mają pojazdy na drodze ekspresowej", "Piesi mogą iść poboczem"],
+      "why": "Na drogach ekspresowych (znak 331.1) obowiązują w dużej mierze zasady autostrady: tylko szybkie pojazdy silnikowe, zakaz zatrzymywania i zawracania, a na skrzyżowaniach pierwszeństwo mają pojazdy na niej."
+    }
+  }
+}

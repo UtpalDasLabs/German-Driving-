@@ -6,7 +6,8 @@
    "en": "A licence from the EU or EEA",
    "tr": "AB ya da AEA ülkesinden ehliyet",
    "ar": "رخصة من الاتحاد الأوروبي أو المنطقة الاقتصادية الأوروبية",
-   "ru": "Права из ЕС или ЕЭЗ"
+   "ru": "Права из ЕС или ЕЭЗ",
+   "pl": "Prawo jazdy z UE lub EOG"
   },
   "body": [
    {
@@ -14,14 +15,16 @@
     "en": "A valid licence from an EU or EEA country (the EU plus Iceland, Liechtenstein and Norway) stays valid in Germany. You do not need to convert it.",
     "tr": "Bir AB ya da AEA ülkesinden (AB artı İzlanda, Lihtenştayn ve Norveç) alınmış geçerli bir ehliyet Almanya’da geçerli kalır. Değiştirmeniz gerekmez.",
     "ar": "الرخصة السارية من دولة في الاتحاد الأوروبي أو المنطقة الاقتصادية الأوروبية (الاتحاد الأوروبي إضافة إلى آيسلندا وليختنشتاين والنرويج) تبقى سارية في ألمانيا. لا تحتاج إلى تحويلها.",
-    "ru": "Действующие права из страны ЕС или ЕЭЗ (ЕС плюс Исландия, Лихтенштейн и Норвегия) остаются действительными в Германии. Менять их не нужно."
+    "ru": "Действующие права из страны ЕС или ЕЭЗ (ЕС плюс Исландия, Лихтенштейн и Норвегия) остаются действительными в Германии. Менять их не нужно.",
+    "pl": "Ważne prawo jazdy z kraju UE lub EOG (UE oraz Islandia, Liechtenstein i Norwegia) pozostaje ważne w Niemczech. Nie trzeba go wymieniać."
    },
    {
     "de": "Befristete Führerscheine verlängern Sie nach dem Umzug bei der deutschen Fahrerlaubnisbehörde.",
     "en": "If your licence has an expiry date, you renew it at the German licensing office once you live here.",
     "tr": "Ehliyetinizin bir son geçerlilik tarihi varsa, burada yaşamaya başladıktan sonra Alman ehliyet dairesinde yenilersiniz.",
     "ar": "إذا كان لرخصتك تاريخ انتهاء، فإنك تجددها لدى مكتب الرخص الألماني بعد أن تقيم هنا.",
-    "ru": "Если у прав есть срок действия, вы продлеваете их в немецком отделе водительских удостоверений, когда живёте здесь."
+    "ru": "Если у прав есть срок действия, вы продлеваете их в немецком отделе водительских удостоверений, когда живёте здесь.",
+    "pl": "Jeśli prawo jazdy ma datę ważności, przedłużasz je w niemieckim wydziale praw jazdy, gdy już tu mieszkasz."
    }
   ]
  },
@@ -32,7 +35,8 @@
    "en": "Everyone else: six months",
    "tr": "Diğer herkes: altı ay",
    "ar": "كل الآخرين: ستة أشهر",
-   "ru": "Все остальные: шесть месяцев"
+   "ru": "Все остальные: шесть месяцев",
+   "pl": "Pozostali: sześć miesięcy"
   },
   "body": [
    {
@@ -40,21 +44,24 @@
     "en": "With a licence from any other country you may drive for six months from the day you take up residence in Germany. If you are only staying temporarily, you can apply for up to six more months.",
     "tr": "Başka bir ülkeden alınmış ehliyetle, Almanya’ya yerleştiğiniz günden itibaren altı ay araç kullanabilirsiniz. Yalnızca geçici olarak kalıyorsanız altı aya kadar ek süre için başvurabilirsiniz.",
     "ar": "برخصة من أي دولة أخرى يجوز لك القيادة ستة أشهر من يوم إقامتك في ألمانيا. وإذا كنت مقيمًا مؤقتًا فقط، يمكنك طلب ستة أشهر إضافية على الأكثر.",
-    "ru": "С правами любой другой страны можно ездить шесть месяцев со дня, когда вы поселились в Германии. Если вы здесь лишь временно, можно попросить ещё до шести месяцев."
+    "ru": "С правами любой другой страны можно ездить шесть месяцев со дня, когда вы поселились в Германии. Если вы здесь лишь временно, можно попросить ещё до шести месяцев.",
+    "pl": "Z prawem jazdy z innego kraju możesz jeździć przez sześć miesięcy od dnia zamieszkania w Niemczech. Jeśli jesteś tu tylko czasowo, możesz wnioskować o kolejne najwyżej sześć miesięcy."
    },
    {
     "de": "Danach brauchen Sie einen deutschen Führerschein. Wer nach Ablauf der Frist mit dem ausländischen Führerschein fährt, fährt ohne Fahrerlaubnis – das ist eine Straftat.",
     "en": "After that you need a German licence. Driving on the foreign one after the deadline counts as driving without a licence, which is a criminal offence.",
     "tr": "Bundan sonra Alman ehliyetine ihtiyacınız vardır. Süre dolduktan sonra yabancı ehliyetle araç kullanmak ehliyetsiz araç kullanmak sayılır ve suçtur.",
     "ar": "بعد ذلك تحتاج إلى رخصة ألمانية. القيادة بالرخصة الأجنبية بعد انقضاء المهلة تُعدّ قيادة دون رخصة، وهي جريمة.",
-    "ru": "После этого нужны немецкие права. Езда на иностранных правах после срока считается ездой без прав, а это уголовное преступление."
+    "ru": "После этого нужны немецкие права. Езда на иностранных правах после срока считается ездой без прав, а это уголовное преступление.",
+    "pl": "Potem potrzebne jest niemieckie prawo jazdy. Jazda na zagranicznym po terminie to jazda bez uprawnień, czyli przestępstwo."
    },
    {
     "de": "Ist Ihr Führerschein nicht auf Deutsch und entspricht keinem internationalen Muster, brauchen Sie während der sechs Monate eine Übersetzung oder einen internationalen Führerschein.",
     "en": "If your licence is not in German and does not follow an international model, you need a translation or an International Driving Permit during those six months.",
     "tr": "Ehliyetiniz Almanca değilse ve uluslararası bir modele uymuyorsa, bu altı ay boyunca bir tercümeye ya da Uluslararası Sürücü Belgesine ihtiyacınız vardır.",
     "ar": "إذا لم تكن رخصتك بالألمانية ولا تتبع نموذجًا دوليًا، فإنك تحتاج خلال هذه الأشهر الستة إلى ترجمة أو إلى رخصة قيادة دولية.",
-    "ru": "Если права не на немецком и не соответствуют международному образцу, на эти шесть месяцев нужен перевод или международное водительское удостоверение."
+    "ru": "Если права не на немецком и не соответствуют международному образцу, на эти шесть месяцев нужен перевод или международное водительское удостоверение.",
+    "pl": "Jeśli prawo jazdy nie jest po niemiecku i nie odpowiada wzorowi międzynarodowemu, przez te sześć miesięcy potrzebne jest tłumaczenie albo międzynarodowe prawo jazdy."
    }
   ]
  },
@@ -65,7 +72,8 @@
    "en": "Which tests you need",
    "tr": "Hangi sınavlara ihtiyacınız var",
    "ar": "أي الامتحانات تحتاجها",
-   "ru": "Какие экзамены нужны"
+   "ru": "Какие экзамены нужны",
+   "pl": "Jakie egzaminy są potrzebne"
   },
   "body": [
    {
@@ -73,35 +81,40 @@
     "en": "It depends on whether your issuing country is listed in Annex 11 of the Driving Licence Regulation, and for which class. There are three cases:",
     "tr": "Bu, ehliyeti veren ülkenin Sürücü Belgesi Yönetmeliği’nin 11. Ek’inde ve hangi sınıf için listelendiğine bağlıdır. Üç durum vardır:",
     "ar": "يعتمد ذلك على ما إذا كانت الدولة المُصدِرة مدرجة في الملحق 11 من لائحة رخص القيادة، ولأي فئة. هناك ثلاث حالات:",
-    "ru": "Это зависит от того, указана ли страна выдачи в приложении 11 к Положению о водительских удостоверениях и для какой категории. Есть три случая:"
+    "ru": "Это зависит от того, указана ли страна выдачи в приложении 11 к Положению о водительских удостоверениях и для какой категории. Есть три случая:",
+    "pl": "Zależy to od tego, czy kraj wydania jest wymieniony w załączniku 11 do rozporządzenia o prawie jazdy i dla jakiej kategorii. Są trzy przypadki:"
    },
    {
     "de": "1. Ihr Staat steht für Klasse B ohne Prüfung in der Liste (zum Beispiel Japan, die Schweiz, das Vereinigte Königreich und seit August 2026 die Ukraine): Sie beantragen die Umschreibung, Prüfungen entfallen.",
     "en": "1. Your country is listed for class B with no tests (for example Japan, Switzerland, the United Kingdom and, since August 2026, Ukraine): you apply and the tests are waived.",
     "tr": "1. Ülkeniz B sınıfı için sınavsız listelenmiştir (örneğin Japonya, İsviçre, Birleşik Krallık ve Ağustos 2026’dan beri Ukrayna): başvurursunuz ve sınavlardan muaf tutulursunuz.",
     "ar": "1. دولتك مدرجة للفئة B دون امتحانات (مثل اليابان وسويسرا والمملكة المتحدة، ومنذ أغسطس 2026 أوكرانيا): تقدّم الطلب وتُعفى من الامتحانات.",
-    "ru": "1. Ваша страна указана для категории B без экзаменов (например, Япония, Швейцария, Великобритания и, с августа 2026 года, Украина): вы подаёте заявление, экзамены не требуются."
+    "ru": "1. Ваша страна указана для категории B без экзаменов (например, Япония, Швейцария, Великобритания и, с августа 2026 года, Украина): вы подаёте заявление, экзамены не требуются.",
+    "pl": "1. Twój kraj jest wymieniony dla kategorii B bez egzaminów (np. Japonia, Szwajcaria, Wielka Brytania i od sierpnia 2026 r. Ukraina): składasz wniosek i egzaminy są zniesione."
    },
    {
     "de": "2. Ihr Staat steht mit „nur theoretische Prüfung“ in der Liste: Sie legen die Theorieprüfung ab, die Fahrprüfung entfällt.",
     "en": "2. Your country is listed as \"theory test only\": you take the theory test and the practical test is waived.",
     "tr": "2. Ülkeniz \"yalnızca teorik sınav\" olarak listelenmiştir: teorik sınava girersiniz, direksiyon sınavından muaf tutulursunuz.",
     "ar": "2. دولتك مدرجة بعبارة «الامتحان النظري فقط»: تؤدي الامتحان النظري وتُعفى من العملي.",
-    "ru": "2. Ваша страна указана как «только теория»: вы сдаёте теорию, практику не сдаёте."
+    "ru": "2. Ваша страна указана как «только теория»: вы сдаёте теорию, практику не сдаёте.",
+    "pl": "2. Twój kraj jest wymieniony jako „tylko egzamin teoretyczny”: zdajesz teorię, egzamin praktyczny odpada."
    },
    {
     "de": "3. Ihr Staat steht nicht in der Liste (das betrifft viele Länder, darunter auch einige US-Bundesstaaten und kanadische Provinzen, die einzeln aufgeführt sind): Sie legen Theorie- und Fahrprüfung ab. Fahrstunden sind dann nicht vorgeschrieben – die Prüfung machen Sie aber im Auto einer Fahrschule.",
     "en": "3. Your country is not listed (true of many countries, and of some US states and Canadian provinces, which are listed individually): you take both the theory and the practical test. Lessons are not compulsory, but you take the test in a driving school car.",
     "tr": "3. Ülkeniz listelenmemiştir (birçok ülke ile ayrı ayrı listelenen bazı ABD eyaletleri ve Kanada eyaletleri için geçerlidir): hem teorik hem direksiyon sınavına girersiniz. Dersler zorunlu değildir, ama sınava sürücü kursu aracıyla girersiniz.",
     "ar": "3. دولتك غير مدرجة (وهذا حال دول كثيرة، وبعض الولايات الأمريكية والمقاطعات الكندية المدرجة كلٌّ على حدة): تؤدي الامتحانين النظري والعملي. الدروس ليست إلزامية، لكنك تؤدي الامتحان بسيارة مدرسة قيادة.",
-    "ru": "3. Вашей страны в списке нет (так у многих стран, а также у некоторых штатов США и провинций Канады, которые указаны по отдельности): вы сдаёте и теорию, и практику. Уроки не обязательны, но экзамен сдают на автомобиле автошколы."
+    "ru": "3. Вашей страны в списке нет (так у многих стран, а также у некоторых штатов США и провинций Канады, которые указаны по отдельности): вы сдаёте и теорию, и практику. Уроки не обязательны, но экзамен сдают на автомобиле автошколы.",
+    "pl": "3. Twojego kraju nie ma na liście (dotyczy wielu krajów, a także niektórych stanów USA i prowincji Kanady, wymienianych osobno): zdajesz teorię i praktykę. Lekcje nie są obowiązkowe, ale egzamin zdaje się samochodem szkoły jazdy."
    },
    {
     "de": "Die Liste ändert sich. Prüfen Sie den aktuellen Text der Anlage 11 und fragen Sie Ihre Fahrerlaubnisbehörde, bevor Sie etwas buchen.",
     "en": "The list changes. Check the current text of Annex 11 and ask your local licensing office before you book anything.",
     "tr": "Liste değişir. Bir şey ayarlamadan önce 11. Ek’in güncel metnini kontrol edin ve yerel ehliyet dairenize sorun.",
     "ar": "القائمة تتغير. تحقق من النص الحالي للملحق 11 واسأل مكتب الرخص المحلي قبل حجز أي شيء.",
-    "ru": "Список меняется. Прежде чем что-либо бронировать, проверьте актуальный текст приложения 11 и спросите в местном отделе водительских удостоверений."
+    "ru": "Список меняется. Прежде чем что-либо бронировать, проверьте актуальный текст приложения 11 и спросите в местном отделе водительских удостоверений.",
+    "pl": "Lista się zmienia. Zanim cokolwiek zarezerwujesz, sprawdź aktualny tekst załącznika 11 i zapytaj w lokalnym wydziale praw jazdy."
    }
   ]
  },
@@ -112,7 +125,8 @@
    "en": "Applying and what to bring",
    "tr": "Başvuru ve getirilecekler",
    "ar": "تقديم الطلب وما تحضره",
-   "ru": "Заявление и что взять с собой"
+   "ru": "Заявление и что взять с собой",
+   "pl": "Wniosek i co zabrać"
   },
   "body": [
    {
@@ -120,21 +134,24 @@
     "en": "You apply at the licensing office (Führerscheinstelle) where you live, as early as you can; processing often takes weeks.",
     "tr": "Oturduğunuz yerdeki ehliyet dairesine (Führerscheinstelle) olabildiğince erken başvurursunuz; işlem çoğu zaman haftalar sürer.",
     "ar": "تقدّم الطلب لدى مكتب الرخص (Führerscheinstelle) في مكان سكنك، في أبكر وقت ممكن؛ فالمعالجة تستغرق غالبًا أسابيع.",
-    "ru": "Заявление подаётся в отдел водительских удостоверений (Führerscheinstelle) по месту жительства — как можно раньше: оформление часто занимает недели."
+    "ru": "Заявление подаётся в отдел водительских удостоверений (Führerscheinstelle) по месту жительства — как можно раньше: оформление часто занимает недели.",
+    "pl": "Wniosek składasz w wydziale praw jazdy (Führerscheinstelle) w miejscu zamieszkania, możliwie wcześnie; załatwienie często trwa tygodnie."
    },
    {
     "de": "Üblich sind: Ihr ausländischer Führerschein im Original, eine Übersetzung (z. B. von ADAC oder einem vereidigten Übersetzer), Pass oder Ausweis, Meldebescheinigung, ein biometrisches Passfoto, ein Sehtest und meist ein Nachweis über einen Erste-Hilfe-Kurs. Welche Unterlagen genau nötig sind, sagt Ihnen die Behörde.",
     "en": "Usually: your original foreign licence, a translation (e.g. from ADAC or a sworn translator), passport or ID, registration certificate (Meldebescheinigung), a biometric photo, an eye test and usually a first-aid course certificate. The office tells you exactly what it needs.",
     "tr": "Genellikle: yabancı ehliyetinizin aslı, bir tercüme (örneğin ADAC’tan ya da yeminli bir tercümandan), pasaport ya da kimlik, ikamet belgesi (Meldebescheinigung), biyometrik fotoğraf, göz testi ve genellikle ilk yardım kursu belgesi. Daire tam olarak neye ihtiyaç duyduğunu size söyler.",
     "ar": "عادة: رخصتك الأجنبية الأصلية، وترجمة (مثلًا من ADAC أو من مترجم محلّف)، وجواز السفر أو الهوية، وشهادة تسجيل السكن (Meldebescheinigung)، وصورة بيومترية، وفحص النظر، وعادة شهادة دورة إسعافات أولية. يخبرك المكتب بالضبط بما يحتاجه.",
-    "ru": "Обычно: оригинал иностранных прав, перевод (например, от ADAC или присяжного переводчика), паспорт или удостоверение личности, справка о регистрации (Meldebescheinigung), биометрическое фото, проверка зрения и обычно справка о курсе первой помощи. Отдел скажет точно, что нужно."
+    "ru": "Обычно: оригинал иностранных прав, перевод (например, от ADAC или присяжного переводчика), паспорт или удостоверение личности, справка о регистрации (Meldebescheinigung), биометрическое фото, проверка зрения и обычно справка о курсе первой помощи. Отдел скажет точно, что нужно.",
+    "pl": "Zwykle: oryginał zagranicznego prawa jazdy, tłumaczenie (np. z ADAC lub od tłumacza przysięgłego), paszport lub dowód osobisty, zaświadczenie o zameldowaniu (Meldebescheinigung), zdjęcie biometryczne, badanie wzroku i zwykle zaświadczenie o kursie pierwszej pomocy. Urząd powie dokładnie, czego potrzebuje."
    },
    {
     "de": "Mit dem deutschen Führerschein geben Sie den ausländischen ab.",
     "en": "When you receive the German licence, you hand in the foreign one.",
     "tr": "Alman ehliyetini aldığınızda yabancı ehliyetinizi teslim edersiniz.",
     "ar": "عندما تستلم الرخصة الألمانية تسلّم الرخصة الأجنبية.",
-    "ru": "Получая немецкие права, вы сдаёте иностранные."
+    "ru": "Получая немецкие права, вы сдаёте иностранные.",
+    "pl": "Odbierając niemieckie prawo jazdy, oddajesz zagraniczne."
    }
   ]
  },
@@ -145,7 +162,8 @@
    "en": "If you have to take the tests",
    "tr": "Sınavlara girmeniz gerekiyorsa",
    "ar": "إذا كان عليك أداء الامتحانات",
-   "ru": "Если нужно сдавать экзамены"
+   "ru": "Если нужно сдавать экзамены",
+   "pl": "Jeśli trzeba zdawać egzaminy"
   },
   "body": [
    {
@@ -153,14 +171,16 @@
     "en": "Sign up with a driving school; it registers you for the test with TÜV or DEKRA. You can sit the theory test in German or one of twelve other languages - the same languages as this app.",
     "tr": "Bir sürücü kursuna kaydolun; kurs sizi TÜV ya da DEKRA’da sınava kaydeder. Teorik sınava Almanca ya da diğer on iki dilden birinde girebilirsiniz - bu uygulamanın dilleriyle aynı.",
     "ar": "سجّل في مدرسة قيادة؛ وهي تسجّلك للامتحان لدى TÜV أو DEKRA. يمكنك أداء الامتحان النظري بالألمانية أو بإحدى اثنتي عشرة لغة أخرى - وهي اللغات نفسها في هذا التطبيق.",
-    "ru": "Запишитесь в автошколу; она регистрирует вас на экзамен в TÜV или DEKRA. Теорию можно сдавать на немецком или на одном из двенадцати других языков — тех же, что в этом приложении."
+    "ru": "Запишитесь в автошколу; она регистрирует вас на экзамен в TÜV или DEKRA. Теорию можно сдавать на немецком или на одном из двенадцати других языков — тех же, что в этом приложении.",
+    "pl": "Zapisz się do szkoły jazdy; ona rejestruje cię na egzamin w TÜV lub DEKRA. Teorię możesz zdawać po niemiecku albo w jednym z dwunastu innych języków — tych samych co w tej aplikacji."
    },
    {
     "de": "Auch erfahrene Fahrer sollten ein paar Fahrstunden nehmen: Die Prüfung achtet auf Dinge, die anderswo anders laufen – „rechts vor links“, der Schulterblick bei jedem Abbiegen, Tempo-30-Zonen und das genaue Halten am Stoppschild.",
     "en": "Even experienced drivers should take a few lessons: the test looks for things that work differently elsewhere - \"right before left\", a shoulder check on every turn, 30 zones and a full stop at every STOP sign.",
     "tr": "Deneyimli sürücüler bile birkaç ders almalıdır: sınav başka yerlerde farklı işleyen şeylere bakar - \"sağdan gelen önce geçer\", her dönüşte omuz kontrolü, 30 bölgeleri ve her DUR levhasında tam duruş.",
     "ar": "حتى السائقون ذوو الخبرة ينبغي أن يأخذوا بعض الدروس: فالامتحان يبحث عن أشياء تجري بشكل مختلف في أماكن أخرى - «اليمين قبل اليسار»، والنظر فوق الكتف عند كل انعطاف، ومناطق 30، والتوقف التام عند كل إشارة STOP.",
-    "ru": "Даже опытным водителям стоит взять несколько уроков: на экзамене смотрят на то, что в других странах устроено иначе, — «правый перед левым», взгляд через плечо при каждом повороте, зоны 30 и полная остановка у каждого знака STOP."
+    "ru": "Даже опытным водителям стоит взять несколько уроков: на экзамене смотрят на то, что в других странах устроено иначе, — «правый перед левым», взгляд через плечо при каждом повороте, зоны 30 и полная остановка у каждого знака STOP.",
+    "pl": "Nawet doświadczeni kierowcy powinni wziąć kilka lekcji: egzamin sprawdza rzeczy, które gdzie indziej działają inaczej — „prawa przed lewą”, spojrzenie przez ramię przy każdym skręcie, strefy 30 i całkowite zatrzymanie przy każdym znaku STOP."
    }
   ]
  },
@@ -171,7 +191,8 @@
    "en": "What it roughly costs",
    "tr": "Yaklaşık ne kadar tutar",
    "ar": "كم يكلف تقريبًا",
-   "ru": "Сколько это примерно стоит"
+   "ru": "Сколько это примерно стоит",
+   "pl": "Ile to mniej więcej kosztuje"
   },
   "body": [
    {
@@ -179,7 +200,8 @@
     "en": "Fees vary by city and driving school. As a rough guide: office fee around €40-50, translation €30-60, theory test at TÜV or DEKRA about €25, practical test about €130, plus the driving school’s costs for registration, lessons and the car on test day.",
     "tr": "Ücretler şehre ve sürücü kursuna göre değişir. Kabaca: daire ücreti yaklaşık 40-50 €, tercüme 30-60 €, TÜV ya da DEKRA’da teorik sınav yaklaşık 25 €, direksiyon sınavı yaklaşık 130 €, artı kaydı, dersleri ve sınav günü aracı için sürücü kursunun masrafları.",
     "ar": "تختلف الرسوم بحسب المدينة ومدرسة القيادة. كدليل تقريبي: رسوم المكتب نحو 40-50 يورو، والترجمة 30-60 يورو، والامتحان النظري لدى TÜV أو DEKRA نحو 25 يورو، والامتحان العملي نحو 130 يورو، إضافة إلى تكاليف مدرسة القيادة للتسجيل والدروس والسيارة في يوم الامتحان.",
-    "ru": "Стоимость зависит от города и автошколы. Ориентировочно: сбор отдела около 40–50 €, перевод 30–60 €, теория в TÜV или DEKRA около 25 €, практика около 130 €, плюс расходы автошколы на регистрацию, уроки и автомобиль в день экзамена."
+    "ru": "Стоимость зависит от города и автошколы. Ориентировочно: сбор отдела около 40–50 €, перевод 30–60 €, теория в TÜV или DEKRA около 25 €, практика около 130 €, плюс расходы автошколы на регистрацию, уроки и автомобиль в день экзамена.",
+    "pl": "Opłaty zależą od miasta i szkoły jazdy. Orientacyjnie: opłata urzędowa ok. 40–50 €, tłumaczenie 30–60 €, egzamin teoretyczny w TÜV lub DEKRA ok. 25 €, egzamin praktyczny ok. 130 €, do tego koszty szkoły jazdy za zgłoszenie, lekcje i samochód w dniu egzaminu."
    }
   ]
  }
