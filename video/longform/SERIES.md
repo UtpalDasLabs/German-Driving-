@@ -82,9 +82,12 @@ punchlines.
 
 ## Voice budget
 
-About 400 characters per question explained: Right of Way is 8,253
-characters for 20 questions. The whole theory series is roughly 75,000;
-a short is about 500. Eleven v4 bills one credit per character.
+About 430 characters per question explained; a theory lesson is 7,000 to
+10,500 characters and the whole series about 118,000. On this account Eleven v4
+bills far less than one credit per character: lesson 1 (9,559 characters) cost
+about 1,050 credits and lesson 2 (6,976) about 770, so roughly 0.11 credits per
+character, about 13,000 credits for all fourteen lessons. Check the balance
+before and after the first lesson of a batch: the rate is ElevenLabs' to change.
 
 ## Every upload
 
