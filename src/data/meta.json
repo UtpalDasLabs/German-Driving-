@@ -8,12 +8,14 @@
    "title": {
     "de": "Vorfahrt",
     "en": "Right of way",
-    "tr": "Geçiş hakkı"
+    "tr": "Geçiş hakkı",
+    "ar": "حق الأولوية"
    },
    "blurb": {
     "de": "Rechts vor links, Schilder, Abbiegen, Kreisverkehr",
     "en": "Right before left, signs, turning, roundabouts",
-    "tr": "Sağdan gelen önce geçer, levhalar, dönüş, dönel kavşaklar"
+    "tr": "Sağdan gelen önce geçer, levhalar, dönüş, dönel kavşaklar",
+    "ar": "اليمين قبل اليسار، الإشارات، الانعطاف، الدوّارات"
    }
   },
   {
@@ -24,12 +26,14 @@
    "title": {
     "de": "Ampel & Polizei",
     "en": "Lights & police",
-    "tr": "Işıklar ve polis"
+    "tr": "Işıklar ve polis",
+    "ar": "الإشارات الضوئية والشرطة"
    },
    "blurb": {
     "de": "Wer wen überstimmt, Blaulicht, Grünpfeil",
     "en": "Who overrules whom, blue lights, green arrow",
-    "tr": "Kim kimden önce gelir, mavi ışık, yeşil ok"
+    "tr": "Kim kimden önce gelir, mavi ışık, yeşil ok",
+    "ar": "من يتقدم على من، الأضواء الزرقاء، السهم الأخضر"
    }
   },
   {
@@ -40,12 +44,14 @@
    "title": {
     "de": "Verkehrszeichen",
     "en": "Road signs",
-    "tr": "Trafik levhaları"
+    "tr": "Trafik levhaları",
+    "ar": "إشارات المرور"
    },
    "blurb": {
     "de": "Gefahr, Gebot, Verbot, Markierungen",
     "en": "Warning, mandatory, prohibition, markings",
-    "tr": "Uyarı, zorunluluk, yasak, yol çizgileri"
+    "tr": "Uyarı, zorunluluk, yasak, yol çizgileri",
+    "ar": "تحذير، إلزام، منع، علامات الطريق"
    }
   },
   {
@@ -56,12 +62,14 @@
    "title": {
     "de": "Grundregeln",
     "en": "Ground rules",
-    "tr": "Temel kurallar"
+    "tr": "Temel kurallar",
+    "ar": "القواعد الأساسية"
    },
    "blurb": {
     "de": "Rechtsfahren, Spurwechsel, Reißverschluss",
     "en": "Keeping right, lane changes, zip merge",
-    "tr": "Sağdan gitme, şerit değiştirme, fermuar sistemi"
+    "tr": "Sağdan gitme, şerit değiştirme, fermuar sistemi",
+    "ar": "السير على اليمين، تغيير المسار، الاندماج بالتناوب"
    }
   },
   {
@@ -72,12 +80,14 @@
    "title": {
     "de": "Tempo & Abstand",
     "en": "Speed & distance",
-    "tr": "Hız ve mesafe"
+    "tr": "Hız ve mesafe",
+    "ar": "السرعة والمسافة"
    },
    "blurb": {
     "de": "Limits, Anhalteweg, Faustformeln",
     "en": "Limits, stopping distance, rules of thumb",
-    "tr": "Sınırlar, durma mesafesi, pratik formüller"
+    "tr": "Sınırlar, durma mesafesi, pratik formüller",
+    "ar": "الحدود، مسافة التوقف، القواعد التقريبية"
    }
   },
   {
@@ -88,12 +98,14 @@
    "title": {
     "de": "Überholen",
     "en": "Overtaking",
-    "tr": "Sollama"
+    "tr": "Sollama",
+    "ar": "التجاوز"
    },
    "blurb": {
     "de": "Wann, wie, mit wie viel Abstand",
     "en": "When, how, with how much room",
-    "tr": "Ne zaman, nasıl, ne kadar mesafeyle"
+    "tr": "Ne zaman, nasıl, ne kadar mesafeyle",
+    "ar": "متى، وكيف، وبأي مسافة"
    }
   },
   {
@@ -104,12 +116,14 @@
    "title": {
     "de": "Abbiegen & Wenden",
     "en": "Turning & reversing",
-    "tr": "Dönüş ve geri gitme"
+    "tr": "Dönüş ve geri gitme",
+    "ar": "الانعطاف والرجوع"
    },
    "blurb": {
     "de": "Schulterblick, Einordnen, Rückwärtsfahren",
     "en": "Shoulder checks, positioning, reversing",
-    "tr": "Omuz kontrolü, konumlanma, geri gitme"
+    "tr": "Omuz kontrolü, konumlanma, geri gitme",
+    "ar": "النظر فوق الكتف، التموضع، الرجوع إلى الخلف"
    }
   },
   {
@@ -120,12 +134,14 @@
    "title": {
     "de": "Fußgänger & Radfahrer",
     "en": "Pedestrians & cyclists",
-    "tr": "Yayalar ve bisikletliler"
+    "tr": "Yayalar ve bisikletliler",
+    "ar": "المشاة وراكبو الدراجات"
    },
    "blurb": {
     "de": "Kinder, Zebrastreifen, Seitenabstand",
     "en": "Children, zebra crossings, clearance",
-    "tr": "Çocuklar, yaya geçitleri, yan mesafe"
+    "tr": "Çocuklar, yaya geçitleri, yan mesafe",
+    "ar": "الأطفال، معابر المشاة، المسافة الجانبية"
    }
   },
   {
@@ -136,12 +152,14 @@
    "title": {
     "de": "Bahn & Bus",
     "en": "Trains & buses",
-    "tr": "Trenler ve otobüsler"
+    "tr": "Trenler ve otobüsler",
+    "ar": "القطارات والحافلات"
    },
    "blurb": {
     "de": "Bahnübergang, Straßenbahn, Haltestellen",
     "en": "Level crossings, trams, bus stops",
-    "tr": "Hemzemin geçitler, tramvaylar, otobüs durakları"
+    "tr": "Hemzemin geçitler, tramvaylar, otobüs durakları",
+    "ar": "معابر السكة، الترام، مواقف الحافلات"
    }
   },
   {
@@ -152,12 +170,14 @@
    "title": {
     "de": "Halten & Parken",
     "en": "Stopping & parking",
-    "tr": "Durma ve park etme"
+    "tr": "Durma ve park etme",
+    "ar": "التوقف والوقوف"
    },
    "blurb": {
     "de": "Wo nicht, wie lange, Parkscheibe",
     "en": "Where not, how long, parking disc",
-    "tr": "Nerede değil, ne kadar, park diski"
+    "tr": "Nerede değil, ne kadar, park diski",
+    "ar": "أين لا، كم من الوقت، قرص الوقوف"
    }
   },
   {
@@ -168,12 +188,14 @@
    "title": {
     "de": "Autobahn",
     "en": "Motorway",
-    "tr": "Otoyol"
+    "tr": "Otoyol",
+    "ar": "الطريق السريع"
    },
    "blurb": {
     "de": "Auffahren, Rettungsgasse, Panne",
     "en": "Joining, emergency corridor, breakdowns",
-    "tr": "Katılma, acil durum koridoru, arızalar"
+    "tr": "Katılma, acil durum koridoru, arızalar",
+    "ar": "الدخول، ممر الطوارئ، الأعطال"
    }
   },
   {
@@ -184,12 +206,14 @@
    "title": {
     "de": "Gefahren",
     "en": "Hazards",
-    "tr": "Tehlikeler"
+    "tr": "Tehlikeler",
+    "ar": "المخاطر"
    },
    "blurb": {
     "de": "Nässe, Glätte, Nacht, Wild, Ablenkung",
     "en": "Wet, ice, night, animals, distraction",
-    "tr": "Islaklık, buz, gece, hayvanlar, dikkat dağınıklığı"
+    "tr": "Islaklık, buz, gece, hayvanlar, dikkat dağınıklığı",
+    "ar": "البلل، الجليد، الليل، الحيوانات، التشتت"
    }
   },
   {
@@ -200,12 +224,14 @@
    "title": {
     "de": "Alkohol & Müdigkeit",
     "en": "Alcohol & fatigue",
-    "tr": "Alkol ve yorgunluk"
+    "tr": "Alkol ve yorgunluk",
+    "ar": "الكحول والتعب"
    },
    "blurb": {
     "de": "Promille, Cannabis, Medikamente",
     "en": "Alcohol limits, cannabis, medicines",
-    "tr": "Alkol sınırları, esrar, ilaçlar"
+    "tr": "Alkol sınırları, esrar, ilaçlar",
+    "ar": "حدود الكحول، القنب، الأدوية"
    }
   },
   {
@@ -216,12 +242,14 @@
    "title": {
     "de": "Fahrzeug & Technik",
     "en": "Car & technology",
-    "tr": "Araç ve teknik"
+    "tr": "Araç ve teknik",
+    "ar": "السيارة والتقنية"
    },
    "blurb": {
     "de": "Reifen, Warnleuchten, Ladung, Anhänger",
     "en": "Tyres, warning lights, loads, trailers",
-    "tr": "Lastikler, uyarı lambaları, yükler, römorklar"
+    "tr": "Lastikler, uyarı lambaları, yükler, römorklar",
+    "ar": "الإطارات، أضواء التحذير، الحمولات، المقطورات"
    }
   },
   {
@@ -232,12 +260,14 @@
    "title": {
     "de": "Umwelt",
     "en": "Environment",
-    "tr": "Çevre"
+    "tr": "Çevre",
+    "ar": "البيئة"
    },
    "blurb": {
     "de": "Sparsam fahren, Lärm, Umweltzone",
     "en": "Economical driving, noise, low-emission zones",
-    "tr": "Ekonomik sürüş, gürültü, düşük emisyon bölgeleri"
+    "tr": "Ekonomik sürüş, gürültü, düşük emisyon bölgeleri",
+    "ar": "القيادة الاقتصادية، الضجيج، مناطق الانبعاثات المنخفضة"
    }
   },
   {
@@ -248,12 +278,14 @@
    "title": {
     "de": "Pflichten & Recht",
     "en": "Duties & the law",
-    "tr": "Yükümlülükler ve hukuk"
+    "tr": "Yükümlülükler ve hukuk",
+    "ar": "الواجبات والقانون"
    },
    "blurb": {
     "de": "Unfall, Probezeit, Punkte, Papiere",
     "en": "Accidents, probation, points, papers",
-    "tr": "Kazalar, deneme süresi, puanlar, belgeler"
+    "tr": "Kazalar, deneme süresi, puanlar, belgeler",
+    "ar": "الحوادث، فترة الاختبار، النقاط، الوثائق"
    }
   }
  ],
@@ -285,7 +317,7 @@
   "de": 1,
   "en": 1,
   "tr": 1,
-  "ar": 0,
+  "ar": 1,
   "ru": 0,
   "pl": 0,
   "ro": 0,
