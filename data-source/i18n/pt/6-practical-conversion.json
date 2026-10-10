@@ -1,0 +1,214 @@
+{
+  "practical": {
+    "overview": {
+      "title": "Como é o exame",
+      "body": [
+        "O exame dura 55 minutos no total, pelo menos 30 de condução efetiva. Conduzes o carro da escola de condução com o teu instrutor ou a tua instrutora ao lado; a pessoa examinadora (do TÜV ou da DEKRA) senta-se atrás.",
+        "Primeiro é verificado o teu documento de identificação. Depois vêm a preparação e as verificações do veículo, a condução na cidade, na estrada e normalmente na autoestrada ou numa via reservada a automóveis, e as manobras previstas.",
+        "No fim recebes logo o resultado, com comentários sobre cada uma das cinco áreas de competência. Com aprovação, recebes a carta — ou um certificado provisório — logo a seguir.",
+        "O exame prático tem de ser feito nos 12 meses seguintes à aprovação na teoria. Não correu bem? Normalmente podes repeti-lo daí a duas semanas, no mínimo."
+      ],
+      "checklist": [
+        "Cartão de cidadão ou passaporte comigo",
+        "Óculos ou lentes, se a minha carta os exigir",
+        "Calçado confortável e raso",
+        "Ter dormido bem e 0,0 de álcool",
+        "Na escola de condução 15 minutos antes"
+      ],
+      "pitfalls": [
+        "Sem documento válido não há exame — e a taxa costuma perder-se na mesma."
+      ]
+    },
+    "checks": {
+      "title": "Preparação e verificações do veículo",
+      "body": [
+        "Antes de arrancar ajustas o banco, o volante, os espelhos e o apoio de cabeça, e pões o cinto. Normalmente pedem-te que mostres ou expliques algumas coisas do carro.",
+        "Pontos típicos: ligar e verificar as luzes; pneus (piso, danos, onde estão indicadas as pressões); níveis de líquidos (óleo do motor, líquido de arrefecimento, lava-vidros, líquido dos travões); buzina; luzes do painel."
+      ],
+      "checklist": [
+        "Banco ajustado para carregar a fundo na embraiagem ou no travão",
+        "Retrovisor interior e espelhos exteriores ajustados",
+        "Apoio de cabeça: bordo superior à altura do topo da cabeça",
+        "Sei mostrar médios e máximos, piscas, emergência, nevoeiro traseiro",
+        "Sei encontrar a vareta e ler o nível do óleo",
+        "Sei onde estão indicadas as pressões certas dos pneus"
+      ],
+      "pitfalls": [
+        "Arrancar sem ajustar os espelhos ou sem pôr o cinto."
+      ]
+    },
+    "parallel": {
+      "title": "Estacionamento paralelo em marcha-atrás",
+      "body": [
+        "Entras em marcha-atrás num espaço junto ao passeio direito, entre dois veículos. O espaço deve ter pelo menos uma vez e meia o comprimento do carro.",
+        "Para a cerca de 50 cm ao lado do carro da frente, com a tua traseira à altura da dele. Faz marcha-atrás devagar até o teu eixo traseiro ficar à altura do para-choques traseiro dele; depois vira tudo à direita. A cerca de 45°, endireita e continua para trás; depois vira tudo à esquerda até o carro ficar paralelo."
+      ],
+      "checklist": [
+        "Pisca direito antes de parar",
+        "Olhar à volta antes da marcha-atrás",
+        "Continuar a olhar para trás e para os lados, não só pelo espelho",
+        "Terminar a no máximo 30 cm do passeio, rodas direitas"
+      ],
+      "pitfalls": [
+        "Subir o passeio com a roda traseira.",
+        "Não vigiar o trânsito enquanto a frente do carro se abre.",
+        "Correções a mais."
+      ]
+    },
+    "bay": {
+      "title": "Estacionamento perpendicular ou em espinha",
+      "body": [
+        "Estacionas de frente ou em marcha-atrás num lugar perpendicular ou oblíquo à via, por exemplo num parque de estacionamento. O carro tem de ficar centrado e direito, sem pisar as linhas.",
+        "Em marcha-atrás costuma ser mais fácil, porque dirigem as rodas da frente: passa o lugar, vira quando a tua traseira tiver passado mais ou menos a linha mais afastada e alinha o carro com as marcas."
+      ],
+      "checklist": [
+        "Pisca antes de entrar no lugar",
+        "Atenção aos peões do parque",
+        "Centrado entre as linhas, rodas direitas"
+      ],
+      "pitfalls": [
+        "Quase tocar no carro do lado sem parar."
+      ]
+    },
+    "corner": {
+      "title": "Marcha-atrás numa esquina",
+      "body": [
+        "Fazes marcha-atrás para a direita para uma rua lateral, um cruzamento ou uma entrada, seguindo o passeio a uma distância constante.",
+        "Passa a entrada da rua e para perto do passeio. Faz marcha-atrás devagar; quando no espelho direito vires o passeio a curvar, começa a virar à direita. Depois da esquina, endireita e continua em marcha-atrás até te dizerem para parar."
+      ],
+      "checklist": [
+        "Olhar à volta antes e durante a marcha-atrás",
+        "Deixar passar os peões da esquina",
+        "Distância constante ao passeio"
+      ],
+      "pitfalls": [
+        "A frente do carro invade sem dar por isso a faixa contrária."
+      ]
+    },
+    "turnround": {
+      "title": "Inversão do sentido de marcha",
+      "body": [
+        "Dás a volta ao carro na faixa de rodagem, com manobras para a frente e para trás. Não podes tocar nos passeios."
+      ],
+      "checklist": [
+        "Só onde for permitido e houver boa visibilidade",
+        "Olhar para os dois lados antes de cada movimento",
+        "Andar devagar, virar o volante depressa"
+      ],
+      "pitfalls": [
+        "Bloquear o trânsito em vez de o deixar passar."
+      ]
+    },
+    "emergency": {
+      "title": "Travagem de emergência",
+      "body": [
+        "Ao sinal, travas a partir de cerca de 30 km/h o mais forte possível até parar. O carro tem de ficar direito.",
+        "Com ABS: carrega a fundo no travão e na embraiagem e mantém. A vibração do pedal é normal. Antes verifica-se que não vem ninguém atrás."
+      ],
+      "checklist": [
+        "Reagir à ordem, não antes",
+        "Carregar a fundo, não aos poucos",
+        "Depois, luzes de emergência ou olhar pelo espelho antes de continuar"
+      ],
+      "pitfalls": [
+        "Travar com demasiada suavidade."
+      ]
+    },
+    "competences": {
+      "title": "As cinco áreas de competência",
+      "body": [
+        "A pessoa examinadora não se limita a contar «erros» soltos: avalia a tua condução em cinco áreas — durante todo o exame e em situações como cruzamentos, rotundas, mudanças de faixa, entradas na autoestrada, curvas e passadeiras."
+      ],
+      "checklist": [
+        "Observação: espelhos, olhar por cima do ombro, olhar ao longe",
+        "Posição: faixa certa, distância à frente e ao lado",
+        "Velocidade: adequada ao limite, à visibilidade e à situação",
+        "Comunicação: pisca a tempo, contacto visual, intenções claras",
+        "Manuseamento do veículo e condução eficiente: mudanças, direção, travagem suave"
+      ]
+    },
+    "fail": {
+      "title": "Os motivos mais comuns de reprovação",
+      "body": [
+        "Os pequenos deslizes não levam à reprovação. A reprovação vem de um erro grave — por exemplo, quando alguém fica em perigo — ou de erros pequenos repetidos."
+      ],
+      "pitfalls": [
+        "Desrespeitar a prioridade, sobretudo a «prioridade à direita» em zonas 30",
+        "Não olhar por cima do ombro ao virar, arrancar ou mudar de faixa",
+        "Não parar por completo no STOP",
+        "Não deixar atravessar os peões na passadeira",
+        "Excesso claro de velocidade, por exemplo numa zona 30",
+        "Passar um semáforo vermelho",
+        "O instrutor ou a instrutora ter de intervir (pedal duplo ou volante)"
+      ]
+    },
+    "phrases": {
+      "title": "O que te vão dizer",
+      "body": [
+        "O exame prático é em alemão. As indicações são dadas a tempo. Se não perceberes algo, pergunta — não é um erro."
+      ],
+      "phrases": [
+        "No próximo cruzamento, à direita, por favor.",
+        "Vire à esquerda, por favor.",
+        "Siga em frente, por favor.",
+        "Siga o traçado da via, por favor.",
+        "Siga as indicações para a autoestrada.",
+        "Na rotunda, saia na segunda saída, por favor.",
+        "Pare aqui à direita, junto à berma, por favor.",
+        "Estacione em marcha-atrás atrás do carro azul, por favor.",
+        "Inverta aqui o sentido de marcha, por favor.",
+        "Quando eu disser «Stopp», faça uma travagem de emergência, por favor.",
+        "Volte a arrancar quando o trânsito o permitir, por favor.",
+        "O exame terminou. Teve aprovação."
+      ]
+    }
+  },
+  "conversion": {
+    "eu": {
+      "title": "Carta da UE ou do EEE",
+      "body": [
+        "Uma carta válida de um país da UE ou do EEE (a UE mais a Islândia, o Liechtenstein e a Noruega) continua válida na Alemanha. Não é preciso trocá-la.",
+        "Se a tua carta tiver data de validade, renovas no serviço alemão de cartas de condução quando já viveres cá."
+      ]
+    },
+    "six-months": {
+      "title": "Todos os outros: seis meses",
+      "body": [
+        "Com uma carta de qualquer outro país podes conduzir seis meses a partir do dia em que fixas residência na Alemanha. Se a estadia for só temporária, podes pedir até mais seis meses.",
+        "Depois precisas de uma carta alemã. Conduzir com a estrangeira depois do prazo conta como conduzir sem carta, o que é crime.",
+        "Se a tua carta não estiver em alemão e não seguir um modelo internacional, durante esses seis meses precisas de uma tradução ou de uma licença internacional de condução."
+      ]
+    },
+    "which-case": {
+      "title": "Que exames precisas de fazer",
+      "body": [
+        "Depende de o teu país de emissão constar do anexo 11 do Regulamento das Cartas de Condução, e para que categoria. Há três casos:",
+        "1. O teu país consta para a carta B sem exames (por exemplo, o Japão, a Suíça, o Reino Unido e, desde agosto de 2026, a Ucrânia): fazes o pedido e não há exames.",
+        "2. O teu país consta com «só exame teórico»: fazes a teoria e a prática não é precisa.",
+        "3. O teu país não consta (é o caso de muitos países, e de alguns estados dos EUA e províncias do Canadá, que aparecem separadamente): fazes teoria e prática. As aulas não são obrigatórias, mas o exame faz-se com um carro de escola de condução.",
+        "A lista muda. Consulta o texto atual do anexo 11 e pergunta no teu serviço local de cartas de condução antes de marcar seja o que for."
+      ]
+    },
+    "documents": {
+      "title": "O pedido e o que levar",
+      "body": [
+        "Fazes o pedido no serviço de cartas de condução (Führerscheinstelle) da tua área de residência, o mais cedo possível; o processo costuma levar semanas.",
+        "Normalmente: a tua carta estrangeira original, uma tradução (por exemplo, do ADAC ou uma tradução ajuramentada), passaporte ou documento de identificação, certificado de residência (Meldebescheinigung), uma fotografia biométrica, um exame à vista e normalmente um certificado de curso de primeiros socorros. O serviço diz-te exatamente o que precisa.",
+        "Quando recebes a carta alemã, entregas a estrangeira."
+      ]
+    },
+    "tests": {
+      "title": "Se tiveres de fazer exames",
+      "body": [
+        "Inscreve-te numa escola de condução; ela faz a tua inscrição para o exame no TÜV ou na DEKRA. Podes fazer a teoria em alemão ou numa de outras doze línguas — as mesmas desta app.",
+        "Mesmo com muita experiência vale a pena ter algumas aulas: o exame foca-se em coisas que noutros sítios funcionam de outra maneira — «prioridade à direita», olhar por cima do ombro em cada viragem, zonas 30 e parar por completo em cada STOP."
+      ]
+    },
+    "costs": {
+      "title": "Quanto custa, mais ou menos",
+      "body": [
+        "Os preços variam conforme a cidade e a escola de condução. Como referência: taxa do serviço cerca de 40–50 €, tradução 30–60 €, exame teórico no TÜV ou na DEKRA cerca de 25 €, exame prático cerca de 130 €, mais os custos da escola de condução com inscrição, aulas e o carro no dia do exame."
+      ]
+    }
+  }
+}

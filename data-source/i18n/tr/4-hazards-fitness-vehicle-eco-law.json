@@ -1,0 +1,317 @@
+{
+  "questions": {
+    "ha01": {
+      "prompt": "Şiddetli yağmurda direksiyon aniden hafifliyor - suda kızaklama (aquaplaning). Ne yaparsınız?",
+      "options": ["Debriyaja basarım ya da gazdan ayağımı çekerim", "Direksiyonu düz tutarım", "Sert fren yapıp karşı yöne direksiyon kırarım"],
+      "why": "Suda kızaklamada lastikler bir su tabakasının üzerinde kayar ve hiçbir kuvvet aktarmaz. Gazdan ayağınızı çekin (ya da debriyaja basın), fren yapmayın ve lastikler yeniden tutunana kadar direksiyonu düz tutun; aksi halde araç savrulur.",
+      "tip": "Ayak gazdan, eller sabit."
+    },
+    "ha02": {
+      "prompt": "Kışın özellikle nerede buzlanma beklemelisiniz?",
+      "options": ["Köprülerde", "Orman kesimlerinde ve gölgeli bölümlerde", "Isıtılmış yeraltı otoparklarında"],
+      "why": "Köprüler hem üstten hem alttan soğur ve ilk onlar donar. Ormanlarda ve gölgede, önceki yol kuru olsa bile buz daha uzun süre kalır."
+    },
+    "ha03": {
+      "prompt": "Uzun bir kurak dönemden sonra yağmur başlıyor. Ne doğrudur?",
+      "options": ["Yol şimdi özellikle kaygan olabilir", "Yağmur yolu temizler ve tutuşu iyileştirir", "Yalnızca parke taşları etkilenir"],
+      "why": "İlk yağmur tozu, lastik kalıntılarını ve yağı kaygan bir tabakaya dönüştürür. Bunu ancak uzun süren yağmur yıkar."
+    },
+    "ha04": {
+      "prompt": "Arka sis lambasını ne zaman açabilirsiniz?",
+      "options": ["Sis görüşü 50 m’nin altına düşürdüğünde", "Her yağmur yağdığında", "Gece kırsal yollarda"],
+      "why": "Arka sis lambası yalnızca sis görüşü 50 m’nin altına düşürdüğünde serbesttir - o zaman sınır 50 km/sa’tir (StVO § 17 f. 3). Daha iyi görüşte arkadaki sürücülerin gözünü kamaştırır.",
+      "tip": "Arka sis lambası açık = en fazla 50."
+    },
+    "ha05": {
+      "prompt": "Gece karşıdan gelen farlar gözünüzü kamaştırıyor. Ne yaparsınız?",
+      "options": ["Yolun sağ kenarına bakarım", "Yavaşlarım, gerekirse dururum", "Uzun farlarımla karşılık veririm"],
+      "why": "Sağ kenara bakın ve yavaşlayın. Kamaşmadan sonra gözleriniz birkaç saniye neredeyse kör olur ve bu sürede uzun bir yol kat edersiniz."
+    },
+    "ha06": {
+      "prompt": "Gece bir geyik farlarınızın önünde yolda duruyor. Ne yaparsınız?",
+      "options": ["Kısa fara geçer, korna çalar ve fren yaparım", "Çarpışma önlenemiyorsa: direksiyonu sıkı tutar ve tehlikeli bir manevra yapmam", "Uzaklaşsın diye uzun farları açık tutarım"],
+      "why": "Uzun far yaban hayvanlarını donakalır; kısa far ve korna onları kaçırır. Bir ağaca ya da karşıdan gelen trafiğe kaçmak, hayvana çarpmaktan daha tehlikelidir.",
+      "tip": "Kısa far, korna, fren - kaçma."
+    },
+    "ha07": {
+      "prompt": "Bir geyiğe çarptınız. Ne yaparsınız?",
+      "options": ["Kaza yerini emniyete alırım", "Polise ya da av sahası kiracısına haber veririm", "Hayvanı yanıma alırım"],
+      "why": "Dörtlüler, yelek, üçgen reflektör - sonra polisi arayın, polis av sahası kiracısıyla iletişime geçer. Hayvana dokunmayın ve almayın: bu kaçak avcılık olur. Sigortanız bir yaban hayvanı kazası belgesi isteyecektir."
+    },
+    "ha08": {
+      "prompt": "Bir viraj için ne zaman fren yaparsınız?",
+      "options": ["Virajdan önce, hâlâ düz giderken", "Virajın ortasında", "Virajın çıkışında"],
+      "why": "Virajda lastikler çizgiyi korumak için tutuşa ihtiyaç duyar. Orada fren yapmak aracın düz kaymasına yol açabilir. Önce fren yapın, sonra virajı sabit hızla geçin.",
+      "tip": "Yavaş gir, sabit çık."
+    },
+    "ha09": {
+      "prompt": "Uzun bir yolculukta yoruluyorsunuz. Gerçekten ne işe yarar?",
+      "options": ["Mola vermek ve mümkünse kısa bir uyku", "Camı açmak ve yüksek sesle müzik dinlemek", "Daha erken varmak için daha hızlı gitmek"],
+      "why": "Yorgunluğu yalnızca uyku giderir. Temiz hava ve müzik en fazla birkaç dakika kazandırır. 100 km/sa’te üç saniyelik bir mikro uyku, 80 metreden fazla kör sürüş demektir."
+    },
+    "ha10": {
+      "prompt": "Bir köprüde ya da ağaçlar arasındaki bir boşlukta yan rüzgâra yakalanıyorsunuz. Ne yaparsınız?",
+      "options": ["Yavaşlar ve direksiyonu sıkı tutarım", "Kamyonları geçerken bir rüzgâr darbesi beklerim", "Bir şey hisseder hissetmez sertçe karşı yöne direksiyon kırarım"],
+      "why": "Yan rüzgâr darbeler halinde gelir. Daha yavaş ve sakin, sıkı bir tutuşla küçük düzeltmeler yapabilirsiniz; ani direksiyon hareketleri aracı yalpalatır. 117 numaralı levha tipik yerlere karşı uyarır."
+    },
+    "ha11": {
+      "prompt": "Bir motosiklet yaklaşıyor ve siz sola dönmek istiyorsunuz. Bunu zorlaştıran nedir?",
+      "options": ["Hızını tahmin etmek zordur", "Çok dar olduğu için kolayca gözden kaçar", "Motosikletler sola dönenlere yol vermek zorundadır"],
+      "why": "Motosikletler dardır ve olduklarından daha uzakta ve daha yavaş görünür. Birçok kaza tam olarak böyle olur: sola dönen biri karşıdan gelen motosikleti gözden kaçırır. Şüphedeyseniz bekleyin."
+    },
+    "ha12": {
+      "prompt": "Araç kullanırken telefonunuz çalıyor. Ne yapabilirsiniz?",
+      "options": ["Telefonu elime almadan eller serbest konuşmak", "Kırmızı ışıkta beklerken kısaca elime almak", "Düz bir yolda bir mesaj okumak"],
+      "why": "Araç kullanırken telefonu elinize alamaz ya da tutamazsınız; kırmızı ışıkta ya da start-stop motoru kapattığında bile. Yalnızca sesli kontrol ya da sabitlenmiş bir telefona kısa bir bakışa izin verilir (StVO § 23 f. 1a).",
+      "tip": "Kırmızı ışık da sürüş sayılır. Yalnızca motor tamamen kapalıyken mola sayılır."
+    },
+    "ha13": {
+      "prompt": "Gece kırsal bir yolda uzun farla gidiyorsunuz. Ne zaman kısa fara geçmelisiniz?",
+      "options": ["Karşıdan biri geldiğinde", "Başka bir aracın yakın arkasındayken", "Yalnızca karşıdan gelen kamyonlar için"],
+      "why": "Karşıdan biri geldiğinde, başka bir aracın yakın arkasındayken ve başkalarının gözünü kamaştıracağınız her yerde kısa fara geçin (StVO § 17 f. 2) - yayalar ve bisikletliler dahil."
+    },
+    "ha14": {
+      "prompt": "Kış lastiklerine ne zaman ihtiyacınız olur?",
+      "options": ["Gizli buzda, sıkışmış karda, karlı çamurda, buzda ya da kırağıda", "Hava ne olursa olsun 1 Ekim’den 31 Mart’a kadar", "Yalnızca otoyolda"],
+      "why": "Almanya’da havaya bağlı bir kural vardır: kış koşullarında yalnızca Alp sembolü (kar taneli dağ) taşıyan kış ya da dört mevsim lastikleriyle gidebilirsiniz. Yalnızca M+S işaretli lastikler Ekim 2024’ten beri geçerli sayılmıyor.",
+      "tip": "Pratik kural: Ekim’den Paskalya’ya kadar."
+    },
+    "ha15": {
+      "prompt": "İleride bir dondurma arabası yol kenarında durmuş. Ne beklersiniz?",
+      "options": ["Çocukların aniden yolun karşısına koşmasını", "Arabanın kısa süre sonra hareket edeceğini", "Özel bir şey değil"],
+      "why": "Çocukları çeken her yerde - dondurma arabaları, oyun parkları, okullar - çocuklar bakmadan koşar. Yavaş gidin ve fren yapmaya hazır olun."
+    },
+    "ha16": {
+      "prompt": "Kırsal bir yolda bir kamyonu takip ediyorsunuz. Neden daha büyük mesafe bırakırsınız?",
+      "options": ["Yanından yolun ilerisini görebilmek için", "Kamyon şoförü beni göremeyebileceği için", "Kamyonlar asla fren yapmadığı için"],
+      "why": "Bir kamyonun hemen arkasında ilerideki yolu hiç görmezsiniz ve aynalarının kör noktasında kalırsınız. Daha büyük mesafe size görüş ve aniden fren yaparsa zaman kazandırır."
+    },
+    "fi01": {
+      "prompt": "Deneme süreniz sırasında ya da 21 yaşından küçükken araç kullanırken kanınızda ne kadar alkol olabilir?",
+      "why": "Deneme süresinde ve 21. yaş gününüzden önce mutlak alkol yasağı vardır (StVG § 24c): binde 0,0 - küçük bir bira bile değil. Bunu ihlal etmek, bir kurs ve daha uzun bir deneme süresiyle sonuçlanan ağır bir deneme süresi ihlalidir.",
+      "tip": "Yeni sürücü: sıfır virgül sıfır."
+    },
+    "fi02": {
+      "prompt": "Bozulma belirtisi olmasa bile hangi kan alkol düzeyinden itibaren bir ihlal işlemiş olursunuz?",
+      "options": ["Binde 0,5", "Binde 0,8", "Binde 1,1"],
+      "why": "Binde 0,5’ten itibaren idari bir ihlaldir (para cezası, ceza puanı, sürüş yasağı). Binde 0,3’ten itibaren sürüş hataları ya da bozulma görülürse zaten suçtur. Binde 1,1’den itibaren kesinlikle araç kullanmaya ehil sayılmazsınız - bu her zaman suçtur.",
+      "tip": "Hatalarla 0,3 - her zaman 0,5 - suç 1,1."
+    },
+    "fi03": {
+      "prompt": "Vücut alkolü yaklaşık ne kadar hızla parçalar?",
+      "options": ["Saatte yaklaşık binde 0,1", "Sert kahveyle daha hızlı", "Soğuk duş ve temiz havayla daha hızlı"],
+      "why": "Karaciğer saatte yaklaşık binde 0,1 temizler, daha hızlı değil. Kahve, duş ya da egzersiz hiçbir şeyi değiştirmez. Uzun bir gecenin ardından ertesi sabah hâlâ sınırın üzerinde olabilirsiniz."
+    },
+    "fi04": {
+      "prompt": "2024’ten beri esrar ve araç kullanma konusunda ne geçerlidir?",
+      "options": ["Kan serumunda 3,5 ng/ml THC’den itibaren ihlaldir", "Deneme süresinde ve 21 yaşın altında her türlü THC yasaktır", "Esrar ve alkol, ikisi de sınırın altındaysa sorun değildir"],
+      "why": "Ağustos 2024’ten beri THC sınırı kan serumunda 3,5 ng/ml’dir (StVG § 24a). Deneme süresindeki ve 21 yaşın altındaki sürücüler esrar etkisinde hiç araç kullanamaz. Esrarı alkolle birlikte kullanan herkes binde 0,0’da olmalıdır."
+    },
+    "fi05": {
+      "prompt": "İlaç kullanıyorsunuz. Araç kullanmadan önce ne yaparsınız?",
+      "options": ["Prospektüsü okur, şüphedeysem bir doktora ya da eczacıya sorarım", "Hiçbir şey - reçetesiz ilaçlar her zaman sorunsuzdur", "Etkiyi azaltmak için biraz alkol alırım"],
+      "why": "Reçetesiz soğuk algınlığı ve alerji ilaçları dahil birçok ilaç uyuşukluk yapar ya da tepkilerinizi yavaşlatır. Alkolle birlikte etki çoğu zaman çok daha güçlüdür."
+    },
+    "fi06": {
+      "prompt": "Ehliyetinizde 01 kodu (görme düzeltmesi) var. Bu ne anlama gelir?",
+      "options": ["Araç kullanırken gözlük ya da kontakt lens takmalıyım", "Yalnızca gün ışığında araç kullanabilirim", "Her zaman yedek gözlük taşımalıyım"],
+      "why": "Görme düzeltmesi şartı her yolculukta geçerlidir. Gözlük ya da lens olmadan araç kullanmak şartın ihlalidir - para cezası ve bir kazadan sonra sigortanızla sorun demektir."
+    },
+    "fi07": {
+      "prompt": "Araç kullanamayacak kadar yorgun olduğunuzu nasıl anlarsınız?",
+      "options": ["Sık esneme ve ağır göz kapakları", "Son birkaç kilometreyi hatırlamıyorum", "Kendimi özellikle uyanık hissediyorum"],
+      "why": "Esneme, yanan gözler, ürperme, hafıza boşlukları, şeritte kayma - bunlar uyarı işaretleridir. En geç o zaman mola vermek için durun."
+    },
+    "fi08": {
+      "prompt": "Bir tartışmadan sonra çok öfkelisiniz. Bu sürüşünüzü nasıl etkiler?",
+      "options": ["Daha riskli ve agresif sürmeye eğilimli olurum", "Tehlikeleri daha az fark ederim", "Hiç etkilemez"],
+      "why": "Güçlü duygular - öfke, keder, hatta sevinç - dikkatinizi dağıtır ve sizi risk almaya iter. Önce sakinleşin, sonra yola çıkın."
+    },
+    "ve01": {
+      "prompt": "Yasal asgari lastik diş derinliği nedir?",
+      "why": "Yasal asgari derinlik 1,6 mm’dir (StVZO § 36). Uzmanlar yaz lastikleri için 3 mm, kış lastikleri için 4 mm önerir; bunun altında ıslakta ve karda fren mesafeleri belirgin şekilde uzar."
+    },
+    "ve02": {
+      "prompt": "Lastik basıncını ne zaman doğru kontrol edersiniz?",
+      "options": ["Lastikler soğukken", "Üreticinin değerlerine göre, tam yük için artırarak", "Uzun bir otoyol yolculuğundan hemen sonra"],
+      "why": "Sıcak lastikler çok yüksek değer gösterir. Değerler kullanım kılavuzunda, çoğu zaman yakıt kapağının içinde ya da sürücü kapısında da yazar. Düşük basınç fren mesafesini uzatır, yakıt tüketimini artırır ve lastiği tahrip edebilir."
+    },
+    "ve03": {
+      "prompt": "Sürüş sırasında kırmızı yağ basıncı uyarı lambası yanıyor. Ne yaparsınız?",
+      "options": ["Güvenli olur olmaz durur ve motoru kapatırım", "Eve kadar gider, sonra bakarım", "Daha fazla yağ pompalamak için devri yükseltirim"],
+      "why": "Kırmızı uyarı lambaları hemen harekete geçin demektir. Yağ basıncı olmadan motor yağlanmaz ve birkaç dakika içinde hasar görebilir. Durun, motoru kapatın, yağ seviyesini kontrol edin.",
+      "tip": "Kırmızı = hemen dur. Sarı = yakında servise."
+    },
+    "ve04": {
+      "prompt": "Aracınızda ABS var. Acil durumda nasıl fren yaparsınız?",
+      "options": ["Frene sertçe basar ve basılı tutarım", "Tam fren sırasında direksiyonu çevirebilirim", "Tekerlekler kilitlenmesin diye frene pompalarım"],
+      "why": "ABS tekerleklerin kilitlenmesini önler - pedaldaki titreşim normaldir. Sertçe basın ve basılı tutun; yine de direksiyonu çevirebilirsiniz. Frene pompalamak yalnızca ABS olmadan anlamlıydı."
+    },
+    "ve05": {
+      "prompt": "Elektronik denge kontrolü (ESP) ne yapar?",
+      "options": ["Tek tek tekerleklere fren yaparak savrulmayı önlemeye yardımcı olur", "Fizik kurallarının sınırlarını kaldırır", "Buzda fren mesafesini normale indirir"],
+      "why": "ESP, aracı çizgisinde tutmak için tek tek tekerleklere fren yapar ve motor gücünü azaltır. Aşırı hıza çare değildir - fizik aynı kalır."
+    },
+    "ve06": {
+      "prompt": "Aracınızda gündüz farları var. Yine de ne zaman kısa farları açmalısınız?",
+      "options": ["Alacakaranlıkta ve karanlıkta", "Tünellerde ve kötü görüşte", "Asla - gündüz farları her zaman yeterlidir"],
+      "why": "Gündüz farları yalnızca önde yanar ve yolu pek aydınlatmaz; arka lambalar çoğu zaman kapalı kalır. Alacakaranlıkta, karanlıkta, tünellerde ve kötü görüşte kısa far zorunludur (StVO § 17)."
+    },
+    "ve07": {
+      "prompt": "Bir otomobili çekme halatıyla çekiyorsunuz. Ne doğrudur?",
+      "options": ["İki araç da dörtlü flaşörlerini açar", "Araçlar arasındaki mesafe en fazla 5 m’dir", "Çekilen araçta kontak kapalı kalır"],
+      "why": "Çekerken iki araç da dörtlü flaşör yakar (StVO § 15a), mesafe en fazla 5 m’dir ve halatın ortası işaretlenir. Çekilen aracın kontağı açık olmalıdır, aksi halde direksiyon kilidi devreye girer; motor kapalıyken direksiyon ve frenler ağırlaşır."
+    },
+    "ve08": {
+      "prompt": "Bagajı tavanda taşımak istiyorsunuz. Neye dikkat edersiniz?",
+      "options": ["Araç belgelerindeki izin verilen tavan yükünü aşmamaya", "Aracın davranışı değişir: ağırlık merkezi yükselir, yan rüzgâra daha duyarlı olur", "Yavaş gidersem bağlanmamış eşyalar sorun değildir"],
+      "why": "Yükler, acil frende ya da ani manevrada bile kayamayacak ya da düşemeyecek şekilde emniyete alınmalıdır (StVO § 22). Tavan yükü aracın davranışını değiştirir ve yakıt tüketimini artırır."
+    },
+    "ve09": {
+      "prompt": "B sınıfı ehliyetle hangi römorkları çekebilirsiniz?",
+      "options": ["750 kg’a kadar toplam ağırlıklı römorkları", "Tüm kombinasyon en fazla 3.500 kg toplam ağırlıktaysa daha ağır römorkları", "Aracımın çekmeye uygun olduğu her römorku"],
+      "why": "B sınıfı 750 kg’a kadar römorklara ya da kombinasyon 3.500 kg içinde kaldığı sürece daha ağırlarına izin verir. 96 kodu (bir eğitim kursundan sonra) 4.250 kg’a kadar izin verir; bunun ötesinde BE sınıfına ihtiyacınız vardır."
+    },
+    "ve10": {
+      "prompt": "Uzun, dik bir yokuştan iniyorsunuz. Frenleri nasıl korursunuz?",
+      "options": ["Düşük vites ve motor freni kullanırım", "Boşta inip yol boyunca hafifçe fren yaparım", "Kontağı kapatırım"],
+      "why": "Sürekli fren yapmak frenleri neredeyse hiç çalışmayana kadar ısıtır (fading). Pratik kural: inerken, çıkarken kullanacağınız vitesi kullanın. Kontağı kapatmak tehlikelidir - direksiyon ve fren desteğini kaybedersiniz."
+    },
+    "ve11": {
+      "prompt": "Her otomobilde ne bulunmalıdır?",
+      "options": ["Bir ilk yardım çantası", "Bir üçgen reflektör", "En az bir reflektörlü yelek"],
+      "why": "İlk yardım çantası, üçgen reflektör ve en az bir reflektörlü yelek zorunludur. Her yolcu için, araç içinde el altında bir yelek önerilir."
+    },
+    "ve12": {
+      "prompt": "Ön yolcu koltuğuna arkaya bakan bir çocuk koltuğu takmak istiyorsunuz. Ne yapmalısınız?",
+      "options": ["Yolcu hava yastığını kapatmak", "Hiçbir şey - hava yastığı koruma sağlar", "Koltuğu tamamen öne kaydırmak"],
+      "why": "Açılan bir hava yastığı, arkaya bakan koltuğun sırtına muazzam bir güçle çarpar - öldürebilir. Arkaya bakan çocuk koltuğuyla yolcu hava yastığı kapalı olmalıdır."
+    },
+    "ve13": {
+      "prompt": "12 yaşından küçük çocuklar hangi boya ulaşana kadar çocuk koltuğu kullanmak zorundadır?",
+      "why": "Boyu 150 cm’den kısa olan 12 yaşından küçük çocuklar yalnızca uygun, onaylı bir çocuk koltuğunda seyahat edebilir (StVO § 21 f. 1a).",
+      "tip": "12 yaş ya da 150 cm - hangisi önce gelirse."
+    },
+    "ve14": {
+      "prompt": "Bir otomobil ne sıklıkla ana muayeneye (\"TÜV\") gitmelidir?",
+      "options": ["İki yılda bir; yeni bir otomobil ilk kez üç yıl sonra", "Her yıl", "Yalnızca bir kazadan sonra"],
+      "why": "Otomobiller 24 ayda bir, yeni otomobiller ilk kez 36 ay sonra ana muayeneye girer. Arka plakadaki etiket bir sonrakinin ayını ve yılını gösterir."
+    },
+    "ve15": {
+      "prompt": "Koltuk başlığını nasıl doğru ayarlarsınız?",
+      "options": ["Üst kenarı yaklaşık başınızın tepesi hizasında, başınıza olabildiğince yakın", "Olabildiğince alçak", "Ensenizle aynı hizada"],
+      "why": "Arkadan çarpmada koltuk başlığı başınızı tutar. Çok alçak ayarlanırsa kaldıraç gibi davranır ve boynunuzu yaralayabilir."
+    },
+    "ve16": {
+      "prompt": "Elektrikli bir otomobili yavaş sürerken neye dikkat etmelisiniz?",
+      "options": ["Yayalar onu pek duyamaz ve beni beklemeyebilir", "Duruştan çok sert hızlanır", "Otoparklarda elektrikli otomobillerin her zaman önceliği vardır"],
+      "why": "Düşük hızda elektrikli otomobiller çok sessizdir; yayalar - özellikle görme engelliler ve çocuklar - onları geç fark eder. Anında gelen torkları sayesinde duruştan fırlarlar."
+    },
+    "ec01": {
+      "prompt": "En ekonomik nasıl sürersiniz?",
+      "options": ["Erken üst vitese geçip devri düşük tutarak", "Öngörülü sürüp gereksiz frenlemeden kaçınarak", "Düşük viteslerde yüksek devirle"],
+      "why": "Erken üst vitese geçmek (benzinli araçta yaklaşık 2.000-2.500 d/dk) ve öngörüyle yuvarlanmak çok yakıt tasarrufu sağlar. Her gereksiz duruş, yakıtla ödediğiniz enerjiyi boşa harcar."
+    },
+    "ec02": {
+      "prompt": "Vites takılıyken kırmızı ışığa doğru yuvarlanıyorsunuz. Ne olur?",
+      "options": ["Yakıt beslemesi kesilir (motor freni yakıt kesmesi)", "Motor rölantiden daha fazla yakıt tüketir", "Motor stop eder"],
+      "why": "Vites takılı ve ayak gazdan çekilmiş yuvarlanırken modern motorlar enjeksiyonu keser ve hiç yakıt tüketmez. Boşta ise motor rölantide kalmak için yakıt yakmaya devam eder."
+    },
+    "ec03": {
+      "prompt": "Gereksiz gürültü ve egzozdan kaçınmak için ne yasaktır?",
+      "options": ["Motoru dururken ısıtmak", "Şehirde amaçsızca bir aşağı bir yukarı gitmek", "Kırmızı ışıkta motoru çalışır tutmak"],
+      "why": "Gereksiz gürültü ve önlenebilir egzoz yasaktır; dururken motoru ısıtmak ve şehirde amaçsızca dolaşmak dahil (StVO § 30 f. 1). Kırmızı ışıkta motor çalışabilir, ama uzun beklemelerde kapatmak faydalıdır."
+    },
+    "ec04": {
+      "prompt": "Kapalı bir hemzemin geçit bariyerinde uzun süre beklemeniz gerekiyor. Ne yaparsınız?",
+      "options": ["Motoru kapatırım", "Sıcak kalsın diye çalışır tutarım", "Aküyü şarj etmek için gaz veririm"],
+      "why": "Bariyerlerde, kuyruklarda ya da yol çalışması ışıklarında uzun beklemelerde motoru kapatmak yakıt tasarrufu sağlar, gürültüyü ve egzozu azaltır."
+    },
+    "ec05": {
+      "prompt": "Yakıt tüketimini ne artırır?",
+      "options": ["Boş bir tavan bagajı", "Basıncı düşük lastikler", "Klima"],
+      "why": "Tavan ekipmanı hava direncini, düşük basınç yuvarlanma direncini artırır, klima da motor gücü alır. Sökün, basınçları kontrol edin ve klimayı yalnızca gerektiğinde kullanın."
+    },
+    "ec06": {
+      "prompt": "Yüksek hızda yakıt tüketimi neden hızla artar?",
+      "options": ["Hava direnci hızın karesiyle büyür", "Motor en yüksek viteste verimsiz olduğu için", "Artmaz - hızlı gitmek hem zamandan hem yakıttan tasarruf sağlar"],
+      "why": "İki kat hız, dört kat hava direnci demektir. Otoyolda 160 yerine 120 km/sa ile gitmek çoğu zaman yakıtın üçte birini kurtarır ve 100 km başına yalnızca yaklaşık on iki dakikaya mal olur."
+    },
+    "ec07": {
+      "prompt": "Kullanılmış motor yağını nereye atarsınız?",
+      "options": ["Bir toplama noktasına, örneğin yağı satın aldığım yere", "Kapalı bir şişe içinde evsel çöpe", "Kanalizasyona"],
+      "why": "Bir litre kullanılmış yağ bir milyon litre içme suyunu kirletebilir. Motor yağı satan dükkânlar aynı miktarda kullanılmış yağı ücretsiz geri almak zorundadır."
+    },
+    "ec08": {
+      "prompt": "Düşük emisyon bölgesine kim girebilir?",
+      "options": ["Gerekli emisyon etiketine sahip araçlar", "Yavaş giden her araç", "Yalnızca elektrikli otomobiller"],
+      "why": "Düşük emisyon bölgesine (270.1 numaralı levha) yalnızca doğru etikete sahip araçlar girebilir - bugün neredeyse her yerde bu yeşil etiket demektir. Etiket olmadan para cezası alabilirsiniz."
+    },
+    "ec09": {
+      "prompt": "Hangi yolculuklar motora ve çevreye en çok zarar verir?",
+      "options": ["Soğuk motorla kısa yolculuklar", "Uzun, düzenli sürüşler", "Hız sabitleyiciyle sürüşler"],
+      "why": "Soğuk motor çok daha fazla yakıt tüketir ve daha hızlı aşınır, katalitik konvertör de henüz ısınmamıştır. Kısa mesafeler için yürümek, bisiklet ya da otobüs çoğu zaman daha iyidir."
+    },
+    "la01": {
+      "prompt": "StVO § 1’deki temel kural ne ister?",
+      "options": ["Sürekli dikkat ve karşılıklı saygı", "Kimseye zarar verilmemesi, kimsenin tehlikeye atılmaması, kaçınılmaz olandan fazla engellenmemesi ya da rahatsız edilmemesi", "Önceliği olanın bunda ısrar edebilmesi"],
+      "why": "StVO § 1 diğer tüm kuralların üzerindedir: sürekli dikkat ve karşılıklı saygı. Öncelik, diğer sürücü açıkça görmezden gelirken zorla kullanamayacağınız bir haktır.",
+      "tip": "Haklı olmak, zorla geçmek demek değildir."
+    },
+    "la02": {
+      "prompt": "Yaralıların olduğu bir kazayla karşılaşıyorsunuz. Önce ne yaparsınız?",
+      "options": ["Kaza yerini emniyete alırım", "112’yi arar ve ilk yardım yaparım", "Devam ederim - başka biri mutlaka durur"],
+      "why": "Dörtlüler, yelek, üçgen reflektör: başka kimse çarpmasın diye önce kaza yerini emniyete alın. Sonra 112 ve ilk yardım. Makul ölçüde yapabilecekken yardım etmemek suçtur (StGB § 323c).",
+      "tip": "Emniyete al - ara - yardım et."
+    },
+    "la03": {
+      "prompt": "Park yerinden çıkarken başka bir otomobile hasar verdiniz. Sahibi orada değil. Ne yaparsınız?",
+      "options": ["Makul bir süre beklerim, kimse gelmezse polise haber veririm", "Silecek altına numaramın yazılı olduğu bir not bırakıp giderim", "Giderim - hasar küçük"],
+      "why": "Olayların kayda geçirilmesini sağlamadan olay yerinden ayrılmak suçtur (StGB § 142, kazadan kaçma). Not yeterli değildir. Makul bir süre bekleyin, sonra gecikmeden polise bildirin.",
+      "tip": "Not, bildirim değildir."
+    },
+    "la04": {
+      "prompt": "Araç kullanırken hangi belgeleri yanınızda taşımalısınız?",
+      "options": ["Ehliyetimi", "Ruhsatın I. bölümünü (Fahrzeugschein)", "Aracın satış sözleşmesini"],
+      "why": "Ehliyetinizi ve ruhsatın I. bölümünü yanınızda taşımalı ve istendiğinde göstermelisiniz. II. bölüm (mülkiyet belgesi) araçta bulunmamalıdır."
+    },
+    "la05": {
+      "prompt": "Yeni sürücüler için deneme süresi normalde kaç yıl sürer?",
+      "why": "Deneme süresi ilk ehliyetinizden itibaren iki yıl sürer. Bir ağır (A) ya da iki daha hafif (B) ihlalden sonra bir rehabilitasyon kursuna katılmanız gerekir ve deneme süresi dört yıla uzatılır (StVG § 2a)."
+    },
+    "la06": {
+      "prompt": "Deneme süresi sırasında hangi ihlal ağır (A kategorisi) sayılır?",
+      "options": ["Sınırın 20 km/sa’ten fazla üzerinde gitmek", "Kırmızı ışıkta geçmek", "Araçta reflektörlü yelek olmadan sürmek"],
+      "why": "A kategorisi 21 km/sa ya da daha fazla hız aşımını, kırmızı ışık ihlallerini, geçiş hakkı ihlallerini, tehlikeli sollamayı, direksiyonda alkol ya da esrarı kapsar. Bunlardan tek biri rehabilitasyon kursu demektir."
+    },
+    "la07": {
+      "prompt": "Sürücü siciline kaç puanda ehliyetiniz geri alınır?",
+      "why": "Flensburg’daki sürücü sicili aşamalı çalışır: 4-5 puanda hatırlatma, 6-7 puanda uyarı ve 8 puanda ehliyetiniz geri alınır."
+    },
+    "la08": {
+      "prompt": "Bir saniyeden uzun süredir kırmızı yanan ışıkta geçerseniz sizi ne bekler?",
+      "options": ["Bir aylık sürüş yasağı", "Sürücü siciline iki puan", "Yalnızca bir uyarı"],
+      "why": "\"Nitelikli\" kırmızı ışık ihlali (bir saniyeden uzun kırmızı) ceza kataloğuna göre 200 €, 2 puan ve bir aylık yasağa mal olur - deneme süresindeyseniz bir kurs ve uzatma da eklenir."
+    },
+    "la09": {
+      "prompt": "Yola çıktığınızda aracın yola uygun olmasından kim sorumludur?",
+      "options": ["Sürücü olarak ben", "Yalnızca ruhsat sahibi", "Servis"],
+      "why": "Aracın, yükünün ve yolcularının düzgün ve yola uygun olmasından sürücü sorumludur (StVO § 23 f. 1). Araç sahibi de sorumludur."
+    },
+    "la10": {
+      "prompt": "Otomobilde kim emniyet kemeri takmak zorundadır?",
+      "options": ["Kemeri olan bir koltukta oturan herkes", "Yalnızca sürücü ve ön yolcu", "Yalnızca otoyolda"],
+      "why": "Sürüş sırasında önde ve arkada emniyet kemeri takılmalıdır (StVO § 21a). Sürücü olarak çocukların düzgün bağlanmasından da sorumlusunuz."
+    },
+    "la11": {
+      "prompt": "17 yaşında refakatçili sürüş için refakatçi yetişkinin neye sahip olması gerekir?",
+      "options": ["En az 30 yaşında olmak", "En az 5 yıldır B sınıfı ehliyete sahip olmak", "Sürücü sicilinde en fazla bir puanı olmak"],
+      "why": "Refakatçiler en az 30 yaşında olmalı, en az 5 yıldır B sınıfına sahip olmalı, en fazla bir puanı olmalı ve belgede adı yazılı olmalıdır. Binde 0,5 alkol ve esrar sınırları onlar için de geçerlidir."
+    },
+    "la12": {
+      "prompt": "Tescilli her otomobil için hangi sigorta zorunludur?",
+      "options": ["Zorunlu mali sorumluluk sigortası", "Tam kasko sigortası", "Yolcular için ferdi kaza sigortası"],
+      "why": "Yalnızca mali sorumluluk sigortası zorunludur: başkalarına verdiğiniz zararı öder. Kendi aracınız için kısmi ve tam kasko isteğe bağlıdır."
+    }
+  }
+}

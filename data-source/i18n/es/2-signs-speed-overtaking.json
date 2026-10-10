@@ -1,0 +1,322 @@
+{
+  "questions": {
+    "si01": {
+      "prompt": "¿Dónde termina este límite de velocidad?",
+      "options": ["En una señal que indique su fin (por ejemplo, la 278 o la 282)", "Siempre en el siguiente cruce", "Después de exactamente 500 metros"],
+      "why": "Las limitaciones de un tramo duran hasta que una señal las levanta; no terminan solas tras un cruce. Excepciones: un panel complementario indica la longitud, o el límite va junto a una señal de peligro y termina claramente con el peligro.",
+      "tip": "Los cruces no anulan el límite de velocidad."
+    },
+    "si02": {
+      "prompt": "¿Qué está permitido en la calzada con esta señal?",
+      "options": ["Nada — parar está totalmente prohibido", "Una parada breve para que baje alguien", "Estacionar hasta tres minutos"],
+      "why": "La señal 283 es la prohibición absoluta de parada: en la calzada no puedes detenerte en absoluto, ni siquiera un momento para que alguien suba o baje.",
+      "tip": "Aspa = nunca. Una barra = un momento."
+    },
+    "si03": {
+      "prompt": "¿Qué permite esta señal?",
+      "options": ["Parar hasta tres minutos", "Parar más tiempo para cargar o para que suban y bajen pasajeros", "Estacionar"],
+      "why": "La señal 286, prohibición de parada restringida, prohíbe parar más de tres minutos, salvo para que suban o bajen personas o para cargar y descargar. Estacionar no está permitido."
+    },
+    "si04": {
+      "prompt": "¿Qué significa esta señal?",
+      "options": ["Prohibida la circulación de vehículos de cualquier tipo — se puede llevar la bici a mano", "Solo residentes", "Las bicis pueden circular"],
+      "why": "La señal 250 prohíbe vehículos de cualquier tipo. No se aplica a carretillas de mano ni a bicis y motos llevadas a mano."
+    },
+    "si05": {
+      "prompt": "¿Qué significa esta señal?",
+      "options": ["Prohibida la entrada", "Prohibida la circulación en ambos sentidos", "Prohibido parar"],
+      "why": "La señal 267 significa entrada prohibida. Suele estar en el extremo de una calle de sentido único en la que se puede entrar por el otro lado."
+    },
+    "si06": {
+      "prompt": "¿Qué rige en esta calle?",
+      "options": ["Solo puedo circular en el sentido de la flecha", "También puedo parar y estacionar a la izquierda", "Puedo cambiar de sentido aquí"],
+      "why": "La señal 220 indica una calle de sentido único. Solo se circula en el sentido de la flecha; parar y estacionar también se permite a la izquierda (§ 12 apdo. 4 StVO). Cambiar de sentido supondría ir en contra."
+    },
+    "si07": {
+      "prompt": "¿Qué te indica esta señal?",
+      "options": ["Calle sin salida", "Vía con prioridad", "Prohibido estacionar"],
+      "why": "La señal 357 indica una calle sin salida: los vehículos no pueden pasar. Cuenta con tener que dar la vuelta."
+    },
+    "si08": {
+      "prompt": "¿Qué rige dentro de esta zona?",
+      "options": ["Circular al paso de una persona", "Los peatones pueden usar toda la calle y los niños jugar en cualquier sitio", "Se puede estacionar en cualquier parte del borde"],
+      "why": "En una zona residencial (señal 325.1) se circula al paso. Los peatones pueden usar todo el ancho y los niños jugar en cualquier sitio. Solo se estaciona en plazas señalizadas.",
+      "tip": "Calle de juego: aquí estás de visita."
+    },
+    "si09": {
+      "prompt": "Sales de una zona residencial a una vía normal. ¿Quién tiene prioridad?",
+      "options": ["Todos los que van por la vía a la que me incorporo", "Yo, si vengo por la derecha", "Yo, porque voy al paso"],
+      "why": "Al salir de una zona residencial debes dejar pasar a todos y descartar cualquier peligro (§ 10 StVO), igual que al salir de un vado."
+    },
+    "si10": {
+      "prompt": "¿Qué rige normalmente dentro de esta zona?",
+      "options": ["Un máximo de 30 km/h", "En los cruces, normalmente «prioridad a la derecha»", "Prohibido adelantar a todos"],
+      "why": "En una zona 30 (señal 274.1) el límite es 30 km/h hasta que la señal 274.2 cierra la zona. Estas zonas no tienen vías con prioridad, así que en los cruces suele regir la «prioridad a la derecha»."
+    },
+    "si11": {
+      "prompt": "¿Cuál es el límite de velocidad para un turismo a partir de esta señal, si otras señales no dicen lo contrario?",
+      "why": "La señal de población (310) marca el inicio de una zona urbana. Dentro, el límite para todos los vehículos de motor es 50 km/h (§ 3 apdo. 3 StVO).",
+      "tip": "Cartel amarillo de población = 50."
+    },
+    "si12": {
+      "prompt": "¿Quién puede circular por la autopista?",
+      "options": ["Los vehículos de motor fabricados para superar los 60 km/h", "Todos los vehículos de motor", "También los ciclomotores limitados a 45 km/h"],
+      "why": "Las autopistas (señal 330.1) y las autovías son solo para vehículos de motor cuya velocidad máxima de fabricación supera los 60 km/h (§ 18 apdo. 1 StVO)."
+    },
+    "si13": {
+      "prompt": "¿Qué indica esta señal?",
+      "options": ["Fin de la vía con prioridad", "Inicio de la vía con prioridad", "Prioridad en el próximo cruce"],
+      "why": "La señal 307 pone fin a la vía con prioridad. Después vuelven a decidir las señales o la «prioridad a la derecha». A menudo poco después viene la señal 205."
+    },
+    "si14": {
+      "prompt": "¿Cuándo rige el aviso de estas señales?",
+      "options": ["Solo cuando la calzada está mojada", "Siempre", "Solo en invierno"],
+      "why": "La señal 114 avisa de pavimento deslizante. El panel complementario «bei Nässe» (con la calzada mojada) limita el aviso a la calzada mojada."
+    },
+    "si15": {
+      "prompt": "¿Qué debes esperar ante esta señal?",
+      "options": ["Niños que de repente salen corriendo a la calzada", "Niños jugando junto a la vía", "Niños solo en horario escolar"],
+      "why": "La señal 136 avisa de niños a cualquier hora del día. Reduce la velocidad y prepárate para frenar (§ 3 apdo. 2a StVO)."
+    },
+    "si16": {
+      "prompt": "¿Qué es cierto ante esta señal?",
+      "options": ["Los animales aparecen sobre todo al anochecer y al amanecer", "Donde cruza un animal, a menudo le siguen otros", "El aviso solo vale en otoño"],
+      "why": "La señal 142 avisa del paso de animales salvajes. Están más activos al amanecer y al anochecer y suelen moverse en grupo: tras el primer corzo a menudo viene un segundo."
+    },
+    "si17": {
+      "prompt": "¿Aproximadamente cuántos metros antes del paso a nivel está la baliza de tres franjas?",
+      "why": "Las balizas están a unos 240 m (tres franjas), 160 m (dos) y 80 m (una) antes del paso. Cada franja son unos 80 metros.",
+      "tip": "Una franja = 80 metros."
+    },
+    "si18": {
+      "prompt": "¿A quién puedes seguir adelantando ante esta señal?",
+      "options": ["A un ciclista", "A una moto sin sidecar", "A un turismo lento"],
+      "why": "La señal 276 prohíbe adelantar a vehículos de motor de varias huellas y a motos con sidecar. Los de una sola huella — bicis, ciclomotores, motos — se pueden seguir adelantando con espacio suficiente."
+    },
+    "si19": {
+      "prompt": "Conduces un turismo con remolque, de más de 3,5 t en conjunto. ¿Puedes adelantar con esta señal?",
+      "options": ["Sí — los turismos quedan excluidos de esta prohibición", "No — el conjunto pesa más de 3,5 t", "Solo a ciclistas"],
+      "why": "La señal 277 se aplica a vehículos de motor de más de 3,5 t, remolques incluidos, y a tractores. Turismos y autobuses quedan excluidos expresamente, con o sin remolque."
+    },
+    "si20": {
+      "prompt": "¿Qué anula esta señal?",
+      "options": ["Todas las limitaciones del tramo anterior, como límites de velocidad y prohibiciones de adelantar", "Solo la prohibición de adelantar", "La vía con prioridad"],
+      "why": "La señal 282 pone fin a todas las limitaciones del tramo. Después vuelven a regir las normas generales — fuera de poblado, por ejemplo, 100 km/h para turismos."
+    },
+    "si21": {
+      "prompt": "¿Qué exige esta señal?",
+      "options": ["No circular a menos de 30 km/h, salvo que el tráfico, la visibilidad o el tiempo lo exijan", "Circular como máximo a 30 km/h", "Circular exactamente a 30 km/h"],
+      "why": "Las señales redondas azules son obligaciones: la señal 275 es una velocidad mínima. Los vehículos que no pueden ir tan rápido no pueden usar esa vía.",
+      "tip": "Azul = obligación. Borde rojo = prohibición."
+    },
+    "si22": {
+      "prompt": "¿Quién puede usar estas vías?",
+      "options": ["Los ciclistas (y, en las dos de la derecha, también los peatones)", "Los coches, cuando la calzada está llena", "Las motos"],
+      "why": "La señal 237 es un carril bici, la 240 una vía compartida y la 241 una vía separada para peatones y bicis. Por ninguna se puede ir en coche; los patinetes eléctricos, en cambio, deben usar los carriles bici."
+    },
+    "si23": {
+      "prompt": "¿Cuántos metros antes y después de esta señal no se puede estacionar?",
+      "why": "La señal 224 indica una parada de autobús o tranvía. Está prohibido estacionar 15 m a cada lado, para que autobuses y tranvías puedan entrar y salir."
+    },
+    "si24": {
+      "prompt": "¿Quién puede entrar a pesar de la prohibición?",
+      "options": ["Residentes y quienes tienen algo que hacer allí, como visitas y repartos", "Cualquiera que busque un atajo", "Nadie"],
+      "why": "«Anlieger frei» deja entrar a cualquiera que tenga algo que hacer en esa calle — residentes, visitas, repartos. El tráfico de paso sigue prohibido."
+    },
+    "si25": {
+      "prompt": "¿Cuándo rige esta prohibición de parada?",
+      "options": ["Solo entre las 16 y las 18 h", "Todo el día", "Solo por las mañanas en días laborables"],
+      "why": "Un panel complementario restringe la señal principal. Con «16-18 h», la prohibición de parada rige solo en esas dos horas."
+    },
+    "si26": {
+      "prompt": "¿Qué significa esta línea continua?",
+      "options": ["No se puede rebasar", "Tampoco se puede circular sobre ella", "Se puede adelantar si la vía está libre"],
+      "why": "La línea continua de separación de carriles (295) no se puede rebasar ni pisar. Tampoco se puede parar a su izquierda."
+    },
+    "si27": {
+      "prompt": "¿Qué rige para esta línea discontinua?",
+      "options": ["Puedo rebasarla si nadie corre peligro", "Nunca puedo rebasarla", "Marca un carril de estacionamiento"],
+      "why": "La línea discontinua (340) separa los carriles. Se puede rebasar, por ejemplo para adelantar, cuando el tráfico lo permite."
+    },
+    "si28": {
+      "prompt": "¿Qué significa esta marca vial?",
+      "options": ["Cebreado — no se circula sobre él", "Estacionamiento permitido", "Solo autobuses"],
+      "why": "El cebreado (298) no puede usarse en absoluto por los vehículos — ni para circular, ni para parar o estacionar."
+    },
+    "si29": {
+      "prompt": "¿Qué indica esta línea en zigzag?",
+      "options": ["Una zona donde está prohibido parar o estacionar", "Una calle de juego", "Un carril bici"],
+      "why": "La línea en zigzag (299) marca o prolonga una zona de prohibición de parada o de estacionamiento, por ejemplo delante de salidas o paradas de autobús."
+    },
+    "si30": {
+      "prompt": "Ves esta señal antes de un estrechamiento. ¿Qué haces?",
+      "options": ["Cedo el paso al tráfico de frente, esperando si hace falta", "Paso rápido antes de que llegue el tráfico de frente", "Toco el claxon y paso"],
+      "why": "La señal 208 significa «prioridad al sentido contrario». La flecha roja eres tú: esperas. Quien viene de frente ve la señal 308.",
+      "tip": "Flecha roja = espero yo."
+    },
+    "si31": {
+      "prompt": "¿Qué significa este panel bajo un límite de velocidad?",
+      "options": ["El límite rige durante los próximos 800 metros", "El límite empieza dentro de 800 metros", "La próxima gasolinera está a 800 metros"],
+      "why": "«auf 800 m» indica la longitud en la que rige la limitación; no sigue ninguna señal de fin. «nach 200 m», en cambio, te dice dónde empieza algo.",
+      "tip": "«auf» = durante cuánto. «nach» = a qué distancia."
+    },
+    "si32": {
+      "prompt": "¿Qué indican estas flechas rojas y blancas?",
+      "options": ["La dirección de una curva", "Una salida de obras", "Una prohibición de adelantar"],
+      "why": "Los paneles direccionales (625) muestran hacia dónde va la curva. Donde están, la curva suele ser más cerrada de lo que parece."
+    },
+    "sp01": {
+      "prompt": "¿Cuál es el límite de velocidad para un turismo fuera de poblado sin señales (no en autopista)?",
+      "why": "Fuera de poblado el límite para turismos es 100 km/h (§ 3 apdo. 3 StVO). En autopista no hay límite general para turismos, pero la velocidad máxima recomendada es 130 km/h.",
+      "tip": "Ciudad 50, carretera 100, autopista 130 recomendados."
+    },
+    "sp02": {
+      "prompt": "¿Qué rige en la autopista si no hay límite señalizado?",
+      "options": ["Se recomienda un máximo de 130 km/h", "130 km/h es el límite legal", "No hay nada que tener en cuenta"],
+      "why": "Los 130 km/h son una recomendación, no un límite. Pero si vas más rápido y te ves en un accidente, pueden atribuirte parte de la responsabilidad aunque por lo demás no tengas culpa."
+    },
+    "sp03": {
+      "prompt": "¿Cuál es la velocidad máxima de un turismo con remolque fuera de poblado y en autopista (sin homologación especial)?",
+      "why": "Con remolque, los turismos están limitados a 80 km/h fuera de poblado y en autopista. Con la homologación «Tempo 100» para el conjunto se permiten 100 km/h en autopistas y autovías."
+    },
+    "sp04": {
+      "prompt": "La niebla, la nieve o la lluvia reducen la visibilidad a menos de 50 m. ¿A cuánto puedes ir como máximo?",
+      "why": "Con visibilidad inferior a 50 m por niebla, nieve o lluvia no puedes superar los 50 km/h, y a menudo debes ir más despacio (§ 3 apdo. 1 StVO). Los hitos del borde están a 50 m unos de otros, lo que ayuda a calcular la distancia.",
+      "tip": "¿No ves el siguiente hito? Menos de 50 km/h."
+    },
+    "sp05": {
+      "prompt": "¿Cuál es la velocidad máxima con cadenas para nieve?",
+      "why": "Con cadenas el límite es 50 km/h, incluso donde normalmente se permitiría más. Usa las cadenas solo sobre una capa continua de nieve."
+    },
+    "sp06": {
+      "prompt": "¿A qué velocidad puedes ir cuando no ves lejos?",
+      "options": ["Como para poder parar dentro de la distancia que veo", "En vías muy estrechas, como para poder parar en la mitad de esa distancia", "A la que permita la señal"],
+      "why": "Conducir dentro del alcance de la vista (§ 3 apdo. 1 StVO): tienes que poder parar dentro de la distancia que ves. En una vía tan estrecha que el tráfico de frente correría peligro, en la mitad — porque la otra persona también necesita espacio para parar."
+    },
+    "sp07": {
+      "prompt": "Según la regla práctica, ¿cuánto es la distancia de reacción a 50 km/h?",
+      "why": "50 ÷ 10 = 5, por 3 = 15 m. Reglas prácticas: distancia de reacción = (velocidad ÷ 10) × 3. Distancia de frenado = (velocidad ÷ 10) × (velocidad ÷ 10). En una frenada de emergencia la distancia de frenado se reduce a la mitad. Distancia de detención = reacción + frenado."
+    },
+    "sp08": {
+      "prompt": "Según la regla práctica, ¿cuánto es la distancia de frenado normal a 50 km/h?",
+      "why": "50 ÷ 10 = 5, por 5 = 25 m. Reglas prácticas: distancia de reacción = (velocidad ÷ 10) × 3. Distancia de frenado = (velocidad ÷ 10) × (velocidad ÷ 10). En una frenada de emergencia la distancia de frenado se reduce a la mitad. Distancia de detención = reacción + frenado."
+    },
+    "sp09": {
+      "prompt": "Según la regla práctica, ¿cuánto es la distancia de detención a 100 km/h (frenada normal)?",
+      "why": "Reacción 10 × 3 = 30 m, frenado 10 × 10 = 100 m, en total 130 m. Reglas prácticas: distancia de reacción = (velocidad ÷ 10) × 3. Distancia de frenado = (velocidad ÷ 10) × (velocidad ÷ 10). En una frenada de emergencia la distancia de frenado se reduce a la mitad. Distancia de detención = reacción + frenado."
+    },
+    "sp10": {
+      "prompt": "Según la regla práctica, ¿cuánto es la distancia de frenado en una frenada de emergencia desde 100 km/h?",
+      "why": "Frenada normal 10 × 10 = 100 m; la frenada de emergencia la reduce a la mitad: 50 m. Reglas prácticas: distancia de reacción = (velocidad ÷ 10) × 3. Distancia de frenado = (velocidad ÷ 10) × (velocidad ÷ 10). En una frenada de emergencia la distancia de frenado se reduce a la mitad. Distancia de detención = reacción + frenado."
+    },
+    "sp11": {
+      "prompt": "Según la regla práctica, ¿cuánto es la distancia de detención a 70 km/h (frenada normal)?",
+      "why": "Reacción 7 × 3 = 21 m, frenado 7 × 7 = 49 m, en total 70 m. Reglas prácticas: distancia de reacción = (velocidad ÷ 10) × 3. Distancia de frenado = (velocidad ÷ 10) × (velocidad ÷ 10). En una frenada de emergencia la distancia de frenado se reduce a la mitad. Distancia de detención = reacción + frenado."
+    },
+    "sp12": {
+      "prompt": "Vas al doble de velocidad. ¿Qué pasa con las distancias de reacción y de frenado?",
+      "options": ["La distancia de reacción se duplica", "La distancia de frenado se cuadruplica", "La distancia de frenado se duplica"],
+      "why": "La distancia de reacción crece en proporción a la velocidad; la de frenado, con su cuadrado. El doble de velocidad significa cuatro veces la distancia de frenado.",
+      "tip": "Doble velocidad, cuádruple frenado."
+    },
+    "sp13": {
+      "prompt": "Vas a 80 km/h fuera de poblado. ¿Qué distancia en metros debes mantener como mínimo con el vehículo de delante (regla de «la mitad del velocímetro»)?",
+      "why": "Fuera de poblado rige «la mitad del velocímetro»: la mitad de tu velocidad, en metros — 40 m a 80 km/h, algo menos de dos segundos. Menos de tres décimas partes de eso se considera ir pegado de forma peligrosa y se multa.",
+      "tip": "Cuenta dos segundos: «veintiuno, veintidós»."
+    },
+    "sp14": {
+      "prompt": "¿Qué alarga la distancia de detención?",
+      "options": ["El cansancio, porque la reacción llega más tarde", "Una calzada mojada o resbaladiza", "Neumáticos nuevos con dibujo profundo"],
+      "why": "La distancia de detención es reacción más frenado. El cansancio, las distracciones y el alcohol alargan la primera; el agua, las hojas, la nieve, los neumáticos gastados y la carga pesada, la segunda."
+    },
+    "sp15": {
+      "prompt": "¿Cuándo debes ir más despacio de lo que permite el límite?",
+      "options": ["Con niebla, lluvia o calzada resbaladiza", "Cuando hay niños junto a la vía", "Cuando alguien va pegado detrás de mí"],
+      "why": "El límite es un tope. La velocidad debe adaptarse a la vía, el tráfico, la visibilidad y el tiempo (§ 3 apdo. 1 StVO), con especial cuidado cerca de niños, personas mayores y cualquiera que necesite ayuda."
+    },
+    "sp16": {
+      "prompt": "¿Puedes ir muy despacio sin motivo?",
+      "options": ["No, no tan despacio que entorpezca la circulación", "Sí, despacio siempre es seguro", "Sí, pero solo en autopista"],
+      "why": "Sin un motivo justificado, los vehículos de motor no deben ir tan despacio que entorpezcan la circulación (§ 3 apdo. 2 StVO). Ir despacio sin necesidad empuja a otros a adelantamientos arriesgados."
+    },
+    "sp17": {
+      "prompt": "Según la regla práctica, ¿cuánto es la distancia de frenado en una frenada de emergencia desde 80 km/h?",
+      "why": "Frenada normal 8 × 8 = 64 m; la mitad son 32 m. Reglas prácticas: distancia de reacción = (velocidad ÷ 10) × 3. Distancia de frenado = (velocidad ÷ 10) × (velocidad ÷ 10). En una frenada de emergencia la distancia de frenado se reduce a la mitad. Distancia de detención = reacción + frenado."
+    },
+    "sp18": {
+      "prompt": "Según la regla práctica, ¿cuánto es la distancia de reacción a 100 km/h?",
+      "why": "100 ÷ 10 = 10, por 3 = 30 m — en ese segundo antes siquiera de tocar el freno. Reglas prácticas: distancia de reacción = (velocidad ÷ 10) × 3. Distancia de frenado = (velocidad ÷ 10) × (velocidad ÷ 10). En una frenada de emergencia la distancia de frenado se reduce a la mitad. Distancia de detención = reacción + frenado."
+    },
+    "sp19": {
+      "prompt": "Según la regla práctica, ¿cuánto es la distancia de frenado normal a 30 km/h?",
+      "why": "30 ÷ 10 = 3, por 3 = 9 m. Desde 50 km/h ya son 25 m — por eso delante de los colegios hay 30. Reglas prácticas: distancia de reacción = (velocidad ÷ 10) × 3. Distancia de frenado = (velocidad ÷ 10) × (velocidad ÷ 10). En una frenada de emergencia la distancia de frenado se reduce a la mitad. Distancia de detención = reacción + frenado."
+    },
+    "sp20": {
+      "prompt": "Vas a 50 km/h en ciudad. ¿Cuál es la distancia mínima sensata con el vehículo de delante?",
+      "options": ["Más o menos lo que recorro en un segundo (unos 15 m)", "Un largo de coche", "Tan cerca que nadie se cuele"],
+      "why": "La distancia debe permitirte parar aunque el de delante frene de golpe (§ 4 apdo. 1 StVO). En ciudad el mínimo es la distancia de un segundo; fuera, «la mitad del velocímetro»."
+    },
+    "ov01": {
+      "prompt": "¿Cuándo está prohibido adelantar?",
+      "options": ["Cuando la situación del tráfico no está clara", "Cuando mi velocidad no es mucho mayor que la del vehículo que quiero adelantar", "Cuando el tráfico de frente está lejos"],
+      "why": "Solo puedes adelantar si ves que no vas a entorpecer al tráfico de frente y si tu velocidad es claramente mayor que la del vehículo adelantado. Con una situación poco clara, adelantar está prohibido (§ 5 apdos. 2 y 3 StVO).",
+      "tip": "Si dudas, no adelantes."
+    },
+    "ov02": {
+      "prompt": "¿Cuál es la separación lateral mínima al adelantar a un ciclista fuera de poblado?",
+      "why": "Al adelantar a peatones, ciclistas y personas en patinete eléctrico la separación mínima es de 1,5 m en poblado y 2 m fuera (§ 5 apdo. 4 StVO). Si no cabe, no adelantas.",
+      "tip": "Ciudad 1,5 — carretera 2."
+    },
+    "ov03": {
+      "prompt": "Alguien te está adelantando. ¿Qué no debes hacer?",
+      "options": ["Acelerar", "Apartarme más a la derecha", "Seguir a velocidad constante"],
+      "why": "Mientras te adelantan, no puedes acelerar (§ 5 apdo. 6 StVO). Si hace falta, reduce la velocidad y mantente a la derecha."
+    },
+    "ov04": {
+      "prompt": "El vehículo de delante pone el intermitente izquierdo y se ha desplazado hacia el centro. ¿Cómo lo rebasas?",
+      "options": ["Por la derecha", "Por la izquierda", "De ninguna manera — siempre tengo que esperar detrás"],
+      "why": "Un vehículo que ha señalizado y se ha colocado para girar a la izquierda se rebasa por la derecha (§ 5 apdo. 7 StVO), si hay espacio suficiente."
+    },
+    "ov05": {
+      "prompt": "¿Dónde está prohibido adelantar?",
+      "options": ["Al acercarse a un paso de peatones y sobre él", "Desde las señales de peligro antes de un paso a nivel hasta haber pasado las vías", "En cualquier puente"],
+      "why": "En los pasos de peatones no se adelanta (§ 26 apdo. 3 StVO). Desde la señal 151 o 156 hasta haber pasado el paso a nivel, los vehículos de motor no pueden adelantar a otros vehículos de motor (§ 19 apdo. 1 StVO). Para los puentes no hay una regla general."
+    },
+    "ov06": {
+      "prompt": "¿Qué debes hacer al adelantar?",
+      "options": ["Antes de salir, intermitente izquierdo y mirar por encima del hombro", "Al volver, intermitente derecho", "Al volver, no cerrarle el paso al vehículo adelantado"],
+      "why": "Salir y volver son cambios de carril: intermitente con antelación, espejo y mirada por encima del hombro (§ 5 apdo. 4a StVO). Vuelve solo cuando no molestes al vehículo adelantado."
+    },
+    "ov07": {
+      "prompt": "En la autopista el carril izquierdo avanza despacio en retención. ¿Puedes ir más rápido por la derecha?",
+      "options": ["Sí, como mucho 20 km/h más rápido y con mucha precaución, si el izquierdo va a 60 km/h o menos", "Sí, todo lo rápido que quiera", "No, nunca"],
+      "why": "Si los vehículos de la izquierda están parados o van despacio, puedes rebasarlos por la derecha solo un poco más rápido y con mucha precaución (§ 7 apdo. 2a StVO). Los tribunales lo fijan en no más de 20 km/h más, con el carril izquierdo a 60 km/h o menos."
+    },
+    "ov08": {
+      "prompt": "En tu lado de la calzada hay un obstáculo y viene tráfico de frente. ¿Quién debe esperar?",
+      "options": ["Yo", "El tráfico de frente", "Quien llegue primero"],
+      "why": "Quien tiene el obstáculo en su lado debe dejar pasar a los vehículos de frente (§ 6 StVO). Pon el intermitente al salir para esquivarlo.",
+      "tip": "Quien tiene el lado bloqueado espera."
+    },
+    "ov09": {
+      "prompt": "¿Cómo adelantas a un tranvía en una calle de doble sentido?",
+      "options": ["Por la derecha", "Por la izquierda", "Por cualquier lado"],
+      "why": "Los vehículos sobre raíles se adelantan por la derecha. Por la izquierda solo en calles de sentido único o donde las vías están demasiado a la derecha (§ 5 apdo. 7 StVO)."
+    },
+    "ov10": {
+      "prompt": "¿Para qué debes prepararte al adelantar a un camión en carretera?",
+      "options": ["La distancia de adelantamiento es muy larga", "Al salir de detrás de él puede golpearme el viento lateral", "El camión me tapa la vista del tráfico de frente"],
+      "why": "Un camión es largo y a menudo apenas más lento que tú, así que el adelantamiento puede llevar varios cientos de metros. Detrás de él ves poco del tráfico de frente, y al salir de su rebufo el viento lateral puede desplazarte."
+    },
+    "ov11": {
+      "prompt": "¿Cuándo puedes rebasar a otros por la derecha en ciudad?",
+      "options": ["En vías con varios carriles marcados en un sentido", "Siempre que haya sitio a la derecha", "Nunca"],
+      "why": "En poblado, los vehículos de motor de hasta 3,5 t pueden elegir cualquier carril en vías con varios carriles marcados en un sentido, y entonces también pueden ir más rápido por la derecha (§ 7 apdo. 3 StVO)."
+    },
+    "ov12": {
+      "prompt": "Vas detrás de un ciclista, viene tráfico de frente y no hay sitio para 1,5 m de separación. ¿Qué haces?",
+      "options": ["Me quedo detrás del ciclista hasta poder adelantar con espacio suficiente", "Adelanto ajustado — el ciclista puede apartarse", "Toco el claxon para que el ciclista haga sitio"],
+      "why": "La separación mínima es ley, no un consejo. Si no hay sitio, no adelantas. El claxon es solo para avisar de un peligro."
+    }
+  }
+}

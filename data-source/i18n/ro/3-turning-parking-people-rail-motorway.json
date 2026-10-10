@@ -1,0 +1,270 @@
+{
+  "questions": {
+    "tu01": {
+      "prompt": "Vrei să virezi la dreapta. Pe pista pentru biciclete din dreapta ta merge înainte un biciclist. Ce faci?",
+      "options": ["Las biciclistul să treacă primul", "Mă uit peste umărul drept înainte de viraj", "Virez repede prin fața biciclistului"],
+      "why": "La viraj trebuie să lași să treacă bicicliștii care merg înainte în aceeași direcție, pe drum sau lângă el (§ 9 alin. 3 StVO). În unghiul mort îi vezi doar privind peste umăr.",
+      "tip": "Viraj la dreapta = privire peste umărul drept. De fiecare dată."
+    },
+    "tu02": {
+      "prompt": "Virezi. Pietoni traversează strada în care virezi. Ce faci?",
+      "options": ["Aștept până trec", "Mă strecor încet printre ei", "Claxonez ca să se grăbească"],
+      "why": "La viraj trebuie să acorzi atenție deosebită pietonilor și să aștepți la nevoie (§ 9 alin. 3 StVO)."
+    },
+    "tu03": {
+      "prompt": "Cum te poziționezi pentru virajul la stânga?",
+      "options": ["Pe un drum cu dublu sens, până la axul drumului", "Pe o stradă cu sens unic, cât mai la stânga", "Mereu cât mai la dreapta"],
+      "why": "Pentru virajul la stânga te deplasezi din timp cât mai la stânga: până la mijloc când există trafic din sens opus, până la marginea stângă pe o stradă cu sens unic (§ 9 alin. 1 StVO)."
+    },
+    "tu04": {
+      "prompt": "Ce face parte din virajul la stânga?",
+      "options": ["Semnalizarea și poziționarea din timp", "Privirea în oglindă înainte de deplasarea laterală", "Încă o privire înapoi chiar înainte de viraj"],
+      "why": "Virajul la stânga cere o dublă privire înapoi: înainte de deplasarea laterală și din nou chiar înainte de viraj, pentru că cineva poate fi pe punctul de a te depăși (§ 9 alin. 1 StVO).",
+      "tip": "Oglindă — semnalizare — poziție — privire peste umăr — viraj."
+    },
+    "tu05": {
+      "prompt": "Vrei să intri într-o curte. Ce se aplică?",
+      "options": ["Orice pericol pentru ceilalți trebuie exclus", "La nevoie cer cuiva să mă dirijeze", "Mi se aplică doar regulile de viraj de la intersecții"],
+      "why": "Intrarea într-o proprietate, întoarcerea și mersul înapoi cer ca nimeni să nu fie pus în pericol; la nevoie cere cuiva să te dirijeze (§ 9 alin. 5 StVO)."
+    },
+    "tu06": {
+      "prompt": "Unde e interzisă întoarcerea?",
+      "options": ["Pe autostrăzi și drumuri expres", "Acolo unde e indicatorul 272", "Pe orice stradă din oraș"],
+      "why": "Întoarcerea și mersul înapoi sunt interzise pe autostrăzi și drumuri expres (§ 18 alin. 7 StVO). Indicatorul 272 o interzice explicit. În rest poți întoarce dacă nimeni nu e pus în pericol."
+    },
+    "tu07": {
+      "prompt": "Vrei să ieși cu spatele dintr-un loc de parcare și vezi puțin în spate. Ce faci?",
+      "options": ["Merg încet, mă tot uit și la nevoie cer cuiva să mă dirijeze", "Dau repede înapoi ca să nu țin pe nimeni mult", "Mă bazez doar pe camera de marșarier"],
+      "why": "Mersul înapoi nu trebuie să pună pe nimeni în pericol (§ 9 alin. 5 StVO). Camerele și senzorii ajută, dar nu înlocuiesc privirea și pot rata copii sau obstacole joase."
+    },
+    "tu08": {
+      "prompt": "Cum virezi la dreapta?",
+      "options": ["Ținându-mă cât mai la dreapta", "Într-un arc larg prin mijlocul străzii transversale", "Fără semnalizare dacă drumul e liber"],
+      "why": "Cei care virează la dreapta se țin cât mai la dreapta (§ 9 alin. 1 StVO) și virează într-un arc strâns. Semnalizezi mereu, chiar dacă nu vezi pe nimeni."
+    },
+    "tu09": {
+      "prompt": "Vrei să virezi. Un tramvai de lângă tine merge înainte în aceeași direcție. Cine trece primul?",
+      "options": ["Tramvaiul", "Eu, pentru că semnalizarea mea a pornit prima", "Cel mai rapid"],
+      "why": "Vehiculele care virează trebuie să lase vehiculele pe șine să treacă, chiar dacă merg alături în aceeași direcție (§ 9 alin. 3 StVO)."
+    },
+    "tu10": {
+      "prompt": "Când semnalizezi?",
+      "options": ["Din timp, înainte de viraj", "Înainte de fiecare schimbare de bandă", "Doar când am început deja virajul"],
+      "why": "Semnalizarea anunță ce urmează să faci — dinainte, nu în timpul manevrei. La viraj, la schimbarea benzii și la plecarea de lângă bordură."
+    },
+    "pa01": {
+      "prompt": "Când e staționare (și nu oprire)?",
+      "options": ["Când părăsesc vehiculul", "Când stau mai mult de trei minute", "Când mașina e blocată într-o coloană"],
+      "why": "Părăsirea vehiculului sau oprirea de peste trei minute înseamnă staționare (§ 12 alin. 2 StVO). Oprirea din cauza traficului — într-o coloană, la roșu — nu e nici una, nici alta."
+    },
+    "pa02": {
+      "prompt": "Unde e interzisă oprirea?",
+      "options": ["În locuri înguste și cu vizibilitate redusă", "Pe trecerile la nivel cu calea ferată", "În fața unei brutării"],
+      "why": "Oprirea e interzisă, printre altele, în locuri înguste și cu vizibilitate redusă, în curbe strânse, pe drumurile de legătură, pe trecerile la nivel și în fața accesurilor pentru pompieri (§ 12 alin. 1 StVO)."
+    },
+    "pa03": {
+      "prompt": "Cu câți metri înainte de o trecere de pietoni nu ai voie să oprești?",
+      "why": "Oprirea e interzisă pe trecerile de pietoni și cu 5 m înainte de ele. O mașină oprită ar ascunde pietonii, mai ales copiii."
+    },
+    "pa04": {
+      "prompt": "Cu câți metri înainte și după o intersecție nu ai voie să parchezi (fără pistă separată pentru biciclete)?",
+      "why": "Parcarea e interzisă cu 5 m înainte și după intersecții, măsurat de unde se întâlnesc liniile bordurilor. Dacă în dreapta există o pistă separată pentru biciclete, sunt 8 m înainte de intersecție (§ 12 alin. 3 StVO)."
+    },
+    "pa05": {
+      "prompt": "Unde e interzisă parcarea?",
+      "options": ["În fața intrărilor și ieșirilor din curți", "În fața bordurilor coborâte", "Într-un loc de parcare marcat"],
+      "why": "Parcarea e interzisă în fața intrărilor în curți (iar pe drumurile înguste și vizavi de ele) și în fața bordurilor coborâte, de care au nevoie scaunele rulante și căruțurile (§ 12 alin. 3 StVO)."
+    },
+    "pa06": {
+      "prompt": "Ajungi la 9:10 și setezi discul de parcare. Ce oră setezi?",
+      "options": ["9:30", "9:10", "9:00"],
+      "why": "Discul se setează la următoarea jumătate de oră după sosire: la 9:10, pe 9:30.",
+      "tip": "Rotunjește mereu în sus, la următoarea jumătate de oră."
+    },
+    "pa07": {
+      "prompt": "Pe ce parte a drumului poți parca de obicei?",
+      "options": ["Pe dreapta", "Pe stânga, pe străzile cu sens unic", "Pe stânga oriunde e loc"],
+      "why": "Oprești și parchezi pe dreapta, la marginea dreaptă sau pe acostament. Pe stânga doar pe străzile cu sens unic sau unde în dreapta sunt șine (§ 12 alin. 4 StVO)."
+    },
+    "pa08": {
+      "prompt": "Vrei să deschizi portiera șoferului. Cum îi protejezi cel mai bine pe bicicliști?",
+      "options": ["O deschid cu mâna dreaptă, ca să mă răsucesc și să văd în spate", "Deschid portiera dintr-odată", "Mă uit doar în oglinda retrovizoare"],
+      "why": "La urcare și coborâre nu ai voie să pui pe nimeni în pericol (§ 14 alin. 1 StVO). Deschiderea portierei șoferului cu mâna dreaptă („metoda olandeză”) îți răsucește corpul, așa că vezi bicicliștii din unghiul mort.",
+      "tip": "Mâna îndepărtată pe mâner."
+    },
+    "pa09": {
+      "prompt": "Ce faci înainte să părăsești mașina parcată?",
+      "options": ["Opresc motorul și trag frâna de mână", "O asigur împotriva deplasării și a folosirii neautorizate", "Las motorul pornit dacă mă întorc repede"],
+      "why": "Când îți părăsești vehiculul trebuie să-l asiguri ca să nu provoace accidente sau blocaje și împotriva folosirii neautorizate (§ 14 alin. 2 StVO). Lăsarea motorului pornit nesupravegheat e interzisă."
+    },
+    "pa10": {
+      "prompt": "Parchezi noaptea la marginea drumului, în afara localității. Ce trebuie să faci?",
+      "options": ["Să iluminez vehiculul, de exemplu cu lumini de poziție", "Nimic, catadioptrii sunt de ajuns", "Să aprind lampa de ceață spate"],
+      "why": "În afara localităților vehiculele oprite și parcate trebuie iluminate pe întuneric. În localitate ajunge lumina de parcare dinspre trafic, iar unde iluminatul public arde toată noaptea, de obicei nu trebuie niciuna (§ 17 alin. 4 StVO)."
+    },
+    "pa11": {
+      "prompt": "Ai voie să parchezi pe al doilea rând?",
+      "options": ["Nu", "Da, cu luminile de avarie", "Da, până la zece minute"],
+      "why": "Parcarea pe al doilea rând e interzisă, iar luminile de avarie nu o fac legală. Blochează drumul și îi obligă pe alții să iasă în traficul din sens opus."
+    },
+    "pa12": {
+      "prompt": "Unde nu ai voie să parchezi?",
+      "options": ["Pe trotuar, dacă un indicator sau un marcaj nu permite", "În fața unui acces pentru pompieri", "Într-un loc de parcare marcat"],
+      "why": "Trotuarele sunt pentru pietoni. Parcarea pe ele e permisă doar unde indicatorul 315 sau un marcaj o permite. În fața accesurilor pentru pompieri e interzisă chiar și oprirea."
+    },
+    "pe01": {
+      "prompt": "Un pieton așteaptă la o trecere de pietoni. Ce faci?",
+      "options": ["Opresc și îl las să traverseze", "Continui — încă n-a început să traverseze", "Claxonez ca să știe că vin"],
+      "why": "La trecerile de pietoni trebuie să-i lași să traverseze pe pietonii și utilizatorii de scaune rulante care vor clar să traverseze. Apropie-te cu viteză moderată și așteaptă la nevoie (§ 26 alin. 1 StVO).",
+      "tip": "Cine așteaptă la trecere are deja prioritate."
+    },
+    "pe02": {
+      "prompt": "Pe marginea drumului sunt copii. Cum te comporți?",
+      "options": ["Încetinesc și sunt gata de frânare", "Iau în calcul că un copil poate fugi brusc pe drum", "Claxonez și îmi păstrez viteza"],
+      "why": "Lângă copii, vârstnici și oricine are nevoie de ajutor trebuie să încetinești și să fii gata de frânare, ca să nu li se întâmple nimic (§ 3 alin. 2a StVO). Copiii încă nu pot aprecia viteza și distanța."
+    },
+    "pe03": {
+      "prompt": "O minge se rostogolește pe drum printre mașinile parcate. La ce te aștepți?",
+      "options": ["Că un copil va fugi după ea", "La nimic deosebit", "Că mingea poate strica mașina"],
+      "why": "Un copil care fuge după o minge vede doar mingea. Frânează imediat și așteaptă-te să țâșnească dintre mașini.",
+      "tip": "Minge = copil."
+    },
+    "pe04": {
+      "prompt": "Un pieton cu baston alb vrea să traverseze. Ce înseamnă?",
+      "options": ["E o persoană nevăzătoare sau cu deficiențe grave de vedere", "Trebuie să acord atenție deosebită și să opresc la nevoie", "Persoana mă vede și va aștepta"],
+      "why": "Un baston alb, un câine-ghid cu ham alb sau o banderolă galbenă cu trei puncte negre marchează o persoană nevăzătoare. Nu te poate vedea, așa că oprește la nevoie."
+    },
+    "pe05": {
+      "prompt": "O persoană în vârstă traversează încet în timp ce ți se face verde. Ce faci?",
+      "options": ["Aștept până iese de pe carosabil", "Trec încet pe lângă ea", "Claxonez ca s-o grăbesc"],
+      "why": "Verdele nu-ți dă dreptul să pui pe cineva în pericol. Vârstnicii au adesea nevoie de mai mult timp și se pot speria. Las-o să termine liniștit traversarea."
+    },
+    "pe06": {
+      "prompt": "Până la ce vârstă trebuie copiii să meargă cu bicicleta pe trotuar?",
+      "why": "Copiii până la împlinirea a 8 ani trebuie să meargă pe trotuar, iar până la 10 ani pot (§ 2 alin. 5 StVO). La intrări și intersecții, așteaptă-te ca ei să coboare de pe trotuar pe drum."
+    },
+    "pe07": {
+      "prompt": "Un biciclist din față se apropie de o mașină parcată. La ce te aștepți?",
+      "options": ["Că va coti la stânga, poate fără să semnalizeze", "Că va opri și va aștepta", "Că va urca pe trotuar"],
+      "why": "Bicicliștii trebuie să ocolească obstacolele și nu se uită mereu întâi înapoi. Păstrează distanța și depășește doar când e clar ce vor face."
+    },
+    "pe08": {
+      "prompt": "Pot bicicliștii să meargă unul lângă altul?",
+      "options": ["Da, dacă nu împiedică traficul", "Nu, niciodată", "Doar în grupuri de 16 sau mai mulți"],
+      "why": "Bicicliștii pot merge câte doi alături dacă nu împiedică traficul (§ 2 alin. 4 StVO). Pe o stradă pentru biciclete și într-un grup de 16 sau mai mulți, chiar dacă îi încetinesc pe alții."
+    },
+    "pe09": {
+      "prompt": "Noaptea, pietonii îmbrăcați închis la culoare se văd greu. Ce e adevărat?",
+      "options": ["Cu faza scurtă îi văd adesea foarte târziu", "Îmi adaptez viteza la bătaia farurilor", "Luminile de zi sunt de ajuns noaptea"],
+      "why": "Cu faza scurtă vezi adesea un pieton îmbrăcat închis doar de la 25–30 m — mai puțin decât distanța de oprire la 50 km/h. Luminile de zi nu luminează drumul și lasă spatele neiluminat."
+    },
+    "pe10": {
+      "prompt": "Unde și cum se poate circula cu trotinetele electrice?",
+      "options": ["Pe pistele pentru biciclete, iar unde nu există, pe carosabil", "Doar cu o singură persoană", "Pe trotuar"],
+      "why": "Trotinetele electrice trebuie să folosească pistele pentru biciclete, altfel carosabilul; trotuarele sunt interzise. Pot fi conduse doar de o persoană de cel puțin 14 ani (eKFV). La viraj tratează-le ca pe bicicliști."
+    },
+    "pe11": {
+      "prompt": "Un autobuz școlar a oprit pe marginea drumului și coboară copii. Ce faci?",
+      "options": ["Trec încet, cu distanță mare, gata de frânare", "Iau în calcul că copiii vor traversa prin fața sau prin spatele autobuzului", "Trec repede ca să poată coborî copiii în siguranță"],
+      "why": "Copiii traversează adesea chiar prin fața sau prin spatele autobuzului. Dacă are luminile de avarie aprinse, trebuie chiar să reduci viteza la cea a pasului (§ 20 alin. 4 StVO)."
+    },
+    "pe12": {
+      "prompt": "Un pieton traversează departe de orice trecere. Ce faci?",
+      "options": ["Frânez și îl las să traverseze, chiar dacă ar fi trebuit să aștepte", "Continui — nu are prioritate", "Trec aproape prin spatele lui"],
+      "why": "Pietonii trebuie să fie atenți la vehicule (§ 25 StVO), dar § 1 StVO cere grijă permanentă: nimeni nu poate fi pus în pericol. Greșeala altcuiva nu-ți dă niciodată dreptul să-l lovești."
+    },
+    "ra01": {
+      "prompt": "Când trebuie să aștepți la această trecere la nivel?",
+      "options": ["Când se apropie un tren", "Când clipesc luminile roșii sau coboară barierele", "Doar când barierele sunt complet coborâte"],
+      "why": "La trecerile la nivel trenurile au prioritate (§ 19 alin. 1 StVO). Trebuie să aștepți când vine un tren, când ard lumini roșii sau intermitente, când barierele coboară sau sunt coborâte ori când un angajat al căii ferate îți face semn să oprești (§ 19 alin. 2 StVO).",
+      "tip": "O barieră care coboară e deja închisă."
+    },
+    "ra02": {
+      "prompt": "Traficul e blocat imediat după trecerea la nivel. Ce faci?",
+      "options": ["Aștept înaintea trecerii la nivel", "Intru pe șine și aștept acolo", "Claxonez ca ceilalți să înainteze"],
+      "why": "Intră pe o trecere la nivel doar dacă o poți traversa complet fără să oprești (§ 19 alin. 1 StVO). Dacă rămâi pe șine într-o coloană, nu ai scăpare."
+    },
+    "ra03": {
+      "prompt": "Mașina ți se strică pe o trecere la nivel. Ce faci?",
+      "options": ["Îi scot imediat pe toți din mașină și departe de zona de pericol", "Sun la numărul de urgență sau la numărul afișat la trecere", "Rămân în mașină și încerc s-o repornesc"],
+      "why": "Trenul nu poate ocoli și are adesea nevoie de peste un kilometru ca să oprească. Oamenii primii: afară, departe de șine, apoi anunță calea ferată prin numărul de urgență."
+    },
+    "ra04": {
+      "prompt": "Un autobuz se apropie de o stație cu luminile de avarie aprinse. Ce se aplică?",
+      "options": ["Nu am voie să-l depășesc", "Îl pot depăși repede înainte să oprească", "Trebuie să opresc imediat"],
+      "why": "Autobuzele și autobuzele școlare marcate care se apropie de o stație cu luminile de avarie aprinse nu pot fi depășite (§ 20 alin. 3 StVO)."
+    },
+    "ra05": {
+      "prompt": "Un autobuz stă în stație cu luminile de avarie aprinse. Cum poți trece pe lângă el?",
+      "options": ["Doar cu viteza pasului", "Fără a pune în pericol pasagerii — așteptând la nevoie", "Cu 30 km/h"],
+      "why": "Pe lângă autobuzele și autobuzele școlare oprite în stație cu luminile de avarie aprinse poți trece doar cu viteza pasului și cu distanță suficientă ca să nu pui pasagerii în pericol. Asta se aplică și traficului din sens opus pe același carosabil (§ 20 alin. 4 StVO).",
+      "tip": "Autobuz cu avarii în stație = viteza pasului, chiar și din sens opus."
+    },
+    "ra06": {
+      "prompt": "Un autobuz semnalizează la stânga ca să plece din stație. Ce faci?",
+      "options": ["Îl las să iasă, așteptând la nevoie", "Trec repede pe lângă el", "Claxonez"],
+      "why": "Autobuzele și autobuzele școlare trebuie lăsate să plece din stațiile marcate; celelalte vehicule așteaptă la nevoie (§ 20 alin. 5 StVO)."
+    },
+    "ra07": {
+      "prompt": "Un tramvai a oprit într-o stație fără refugiu și coboară pasageri. Ce faci?",
+      "options": ["Trec pe dreapta cu viteza pasului, fără să încurc pasagerii", "Aștept la nevoie", "Trec repede pe stânga"],
+      "why": "Cât timp pasagerii urcă sau coboară, poți trece doar pe dreapta, cu viteza pasului și cu distanță suficientă; pasagerii nu trebuie încurcați, iar la nevoie aștepți (§ 20 alin. 2 StVO)."
+    },
+    "ra08": {
+      "prompt": "Te apropii de o trecere la nivel marcată cu crucea Sfântului Andrei. Cum te apropii?",
+      "options": ["Cu viteză moderată", "Cât mai repede, ca să trec rapid", "Depășesc repede camionul din față"],
+      "why": "Te apropii de trecerile la nivel cu viteză moderată (§ 19 alin. 1 StVO), ca să poți opri dacă vine un tren. De la indicatorul 151 sau 156 nu se mai depășesc autovehicule."
+    },
+    "mw01": {
+      "prompt": "Intri pe autostradă. Ce e corect?",
+      "options": ["Folosesc banda de accelerare ca să ajung la viteza de pe autostradă", "Traficul de pe autostradă are prioritate", "Șoferii de pe autostradă trebuie să mă lase să intru"],
+      "why": "Traficul de pe carosabilul principal are prioritate (§ 18 alin. 3 StVO). Folosește banda de accelerare ca să ajungi la un spațiu potrivit cu o viteză potrivită; intrarea prea lentă e periculoasă."
+    },
+    "mw02": {
+      "prompt": "Pe autostradă se formează o coloană. Unde formezi culoarul de salvare?",
+      "options": ["Între banda cea mai din stânga și banda de lângă ea", "Pe banda de urgență", "Repartizat egal pe toate benzile"],
+      "why": "De îndată ce traficul încetinește la viteza pasului pe autostrăzi și pe drumurile cu mai multe benzi din afara localităților, formează culoarul între banda cea mai din stânga și cea din dreapta ei (§ 11 alin. 2 StVO) — înainte să sosească vehiculele de intervenție.",
+      "tip": "Banda cea mai din stânga se trage la stânga; toți ceilalți la dreapta."
+    },
+    "mw03": {
+      "prompt": "Ce e interzis pe autostradă?",
+      "options": ["Întoarcerea și mersul înapoi", "Oprirea, chiar și pe banda de urgență (în afară de urgențe)", "Folosirea benzii din stânga pentru depășire"],
+      "why": "Întoarcerea și mersul înapoi sunt interzise pe autostrăzi, inclusiv pe bretele. Și oprirea e interzisă, inclusiv pe banda de urgență (§ 18 alin. 7 și 8 StVO). Ai ratat ieșirea? Ia-o pe următoarea."
+    },
+    "mw04": {
+      "prompt": "Rămâi în pană pe autostradă. Ce faci?",
+      "options": ["Aprind luminile de avarie și, dacă se poate, trag pe banda de urgență", "Îmi pun vesta reflectorizantă și îi duc pe toți după parapet", "Pun triunghiul reflectorizant la circa 200 m în spate"],
+      "why": "Întâi siguranța: avarii, la dreapta, vesta, toți coboară pe partea pasagerului și merg după parapet. Apoi triunghiul: circa 200 m în spate pe autostradă, 100 m pe drumurile din afara localităților, 50 m în oraș (§ 15 StVO).",
+      "tip": "50 — 100 — 200 m: oraș, extravilan, autostradă."
+    },
+    "mw05": {
+      "prompt": "Pe autostradă te apropii de coada unei coloane. Ce faci?",
+      "options": ["Frânez din timp și aprind luminile de avarie", "Las destulă distanță față de ultimul vehicul", "Trag pe banda de urgență"],
+      "why": "La coada coloanei avertizează traficul din spate cu luminile de avarie (§ 16 alin. 2 StVO). Lasă un spațiu ca să te poți feri dacă cineva din spate frânează prea târziu."
+    },
+    "mw06": {
+      "prompt": "Radioul anunță un șofer pe contrasens pe porțiunea ta de autostradă. Ce faci?",
+      "options": ["Țin dreapta și nu depășesc", "Încetinesc și măresc distanța", "Rămân pe banda din stânga"],
+      "why": "Un șofer pe contrasens vine de obicei spre tine pe banda din stânga, crezând că e cea din dreapta. Ține dreapta, nu depăși, încetinește și aprinde avariile dacă se apropie."
+    },
+    "mw07": {
+      "prompt": "Cu câți metri înainte de ieșire stă panoul de numărătoare cu trei benzi?",
+      "why": "Panourile de numărătoare (indicatorul 450) stau la aproximativ 300, 200 și 100 m înainte de începutul benzii de ieșire. Treci pe banda din dreapta din timp.",
+      "tip": "Autostradă: 100 m pe bandă. Trecere la nivel: 80 m."
+    },
+    "mw08": {
+      "prompt": "La ce distanță unul de altul stau de obicei stâlpii de ghidare de pe margine?",
+      "why": "Stâlpii de ghidare stau de obicei la 50 m unul de altul. Folosește-i ca să apreciezi distanțele și vizibilitatea: dacă pe ceață nu-l vezi pe următorul, vizibilitatea e sub 50 m și nu ai voie să mergi cu mai mult de 50 km/h."
+    },
+    "mw09": {
+      "prompt": "Cine poate circula pe banda de urgență a autostrăzii?",
+      "options": ["Nimeni — dacă indicatoarele nu o deschid traficului", "Vehiculele lente", "Oricine stă în coloană"],
+      "why": "Banda de urgență nu e o bandă de circulație. Poți merge pe ea doar unde indicatoarele o deschid explicit; altfel e pentru pene și serviciile de urgență."
+    },
+    "mw10": {
+      "prompt": "Ce se aplică pe un drum expres (Kraftfahrstraße)?",
+      "options": ["Îl pot folosi doar autovehiculele construite pentru peste 60 km/h", "La intersecții are prioritate traficul de pe drumul expres", "Pietonii pot merge pe margine"],
+      "why": "Drumurile expres (indicatorul 331.1) urmează în mare parte regulile autostrăzii: doar autovehicule rapide, fără oprire, fără întoarcere, iar traficul de pe ele are prioritate la intersecții."
+    }
+  }
+}

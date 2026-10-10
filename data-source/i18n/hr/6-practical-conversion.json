@@ -1,0 +1,214 @@
+{
+  "practical": {
+    "overview": {
+      "title": "Kako ispit izgleda",
+      "body": [
+        "Ispit ukupno traje 55 minuta, od toga barem 30 minuta stvarne vožnje. Voziš automobil autoškole uz instruktora pokraj sebe; ispitivač (iz TÜV-a ili DEKRA-e) sjedi straga.",
+        "Najprije ispitivač provjerava osobnu ispravu. Zatim slijede priprema i provjera vozila, vožnja kroz grad, izvan naselja i obično autocestom ili brzom cestom te propisane radnje.",
+        "Na kraju odmah dobivaš rezultat, uz povratnu informaciju za svako od pet područja kompetencija. Ako položiš, vozačku dozvolu — ili privremenu potvrdu — dobivaš odmah nakon ispita.",
+        "Ispit vožnje treba položiti u roku od 12 mjeseci od položene teorije. Nije uspjelo? Obično se može ponoviti najranije nakon dva tjedna."
+      ],
+      "checklist": [
+        "Osobna iskaznica ili putovnica uza me",
+        "Naočale ili leće, ako to dozvola traži",
+        "Udobna, ravna obuća",
+        "Naspavati se i 0,0 alkohola",
+        "U autoškoli 15 minuta ranije"
+      ],
+      "pitfalls": [
+        "Bez važeće isprave ispit se ne održava — a pristojba obično ionako propada."
+      ]
+    },
+    "checks": {
+      "title": "Priprema i provjera vozila",
+      "body": [
+        "Prije polaska namještaš sjedalo, upravljač, zrcala i naslon za glavu te se vežeš. Ispitivač obično traži da pokažeš ili objasniš nekoliko stvari na vozilu.",
+        "Tipične stavke: paljenje i provjera svjetala; gume (šara, oštećenja, gdje piše tlak); razine tekućina (motorno ulje, rashladna tekućina, tekućina za pranje stakla, kočiona tekućina); truba; žaruljice upozorenja na instrumentnoj ploči."
+      ],
+      "checklist": [
+        "Sjedalo namješteno tako da se papučica spojke ili kočnice može pritisnuti do kraja",
+        "Unutarnje i vanjska zrcala namještena",
+        "Naslon za glavu: gornji rub otprilike u visini tjemena",
+        "Mogu pokazati kratka i duga svjetla, pokazivače smjera, sva četiri pokazivača, stražnje svjetlo za maglu",
+        "Mogu pronaći mjerač ulja i očitati razinu",
+        "Znam gdje piše ispravan tlak u gumama"
+      ],
+      "pitfalls": [
+        "Polazak bez namještanja zrcala ili bez vezanja pojasa."
+      ]
+    },
+    "parallel": {
+      "title": "Uzdužno parkiranje unatrag",
+      "body": [
+        "Unatrag ulaziš u prazninu uz desni rub između dva vozila. Praznina treba biti barem oko jedne i pol duljine automobila.",
+        "Stani oko 50 cm pokraj automobila ispred, stražnjim dijelom u ravnini s njegovim. Polako vozi unatrag dok ti stražnja osovina ne dođe u ravninu s njegovim stražnjim branikom, zatim okreni upravljač do kraja udesno. Pri oko 45° izravnaj kotače i vozi unatrag, zatim okreni do kraja ulijevo dok ne budeš usporedno."
+      ],
+      "checklist": [
+        "Pokazati desno prije zaustavljanja",
+        "Pogledati oko sebe prije vožnje unatrag",
+        "Gledati unatrag i u stranu, ne samo u zrcalo",
+        "Završiti najviše oko 30 cm od rubnjaka, s ravnim kotačima"
+      ],
+      "pitfalls": [
+        "Penjanje stražnjim kotačem na rubnjak.",
+        "Nepraćenje prometa dok prednji dio izlazi u stranu.",
+        "Previše ispravljanja."
+      ]
+    },
+    "bay": {
+      "title": "Okomito ili koso parkiranje",
+      "body": [
+        "Parkiraš naprijed ili unatrag na mjesto okomito ili koso prema cesti, npr. na parkiralištu. Vozilo treba završiti u sredini i ravno, bez prelaženja crta.",
+        "Unatrag je obično lakše, jer upravljaju prednji kotači: prođi mjesto, okreni upravljač kad ti stražnji dio otprilike prijeđe daljnju crtu i poravnaj vozilo s oznakama."
+      ],
+      "checklist": [
+        "Pokazati smjer prije ulaska na mjesto",
+        "Paziti na pješake na parkiralištu",
+        "U sredini između crta, kotači ravno"
+      ],
+      "pitfalls": [
+        "Gotovo dodirivanje susjednog vozila bez zaustavljanja."
+      ]
+    },
+    "corner": {
+      "title": "Vožnja unatrag oko ugla",
+      "body": [
+        "Unatrag ulaziš udesno u sporednu ulicu, raskrižje ili ulaz, prateći rubnjak na jednakoj udaljenosti.",
+        "Prođi otvor i stani blizu rubnjaka. Polako vozi unatrag; kad u desnom zrcalu vidiš da rubnjak skreće, počni okretati udesno. Nakon ugla izravnaj kotače i vozi unatrag dok te ispitivač ne zaustavi."
+      ],
+      "checklist": [
+        "Gledati oko sebe prije i tijekom vožnje unatrag",
+        "Propustiti pješake na uglu",
+        "Jednaka udaljenost od rubnjaka"
+      ],
+      "pitfalls": [
+        "Prednji dio neprimjetno izlazi u promet iz suprotnog smjera."
+      ]
+    },
+    "turnround": {
+      "title": "Okretanje",
+      "body": [
+        "Okrećeš vozilo na cesti u suprotan smjer, vožnjom naprijed i unatrag. Ne smiješ dodirnuti rubnjake."
+      ],
+      "checklist": [
+        "Samo gdje je dopušteno i dobro se vidi",
+        "Pogledati na obje strane prije svakog pomaka",
+        "Polako se kretati, brzo okretati upravljač"
+      ],
+      "pitfalls": [
+        "Zadržavanje prometa umjesto da ga propustiš."
+      ]
+    },
+    "emergency": {
+      "title": "Naglo kočenje",
+      "body": [
+        "Na znak ispitivača kočiš s oko 30 km/h najjače što možeš do zaustavljanja. Vozilo treba ostati ravno.",
+        "S ABS-om: pritisni kočnicu i spojku do kraja i drži. Podrhtavanje papučice je normalno. Ispitivač prije provjerava da nitko ne vozi iza."
+      ],
+      "checklist": [
+        "Reagirati na naredbu, ne prije",
+        "Pritisnuti do kraja, ne postupno",
+        "Poslije sva četiri pokazivača ili pogled u zrcalo prije nastavka"
+      ],
+      "pitfalls": [
+        "Preblago kočenje."
+      ]
+    },
+    "competences": {
+      "title": "Pet područja kompetencija",
+      "body": [
+        "Ispitivač ne broji samo pojedinačne „pogreške”, nego ocjenjuje vožnju u pet područja — tijekom cijelog ispita i u situacijama kao što su raskrižja, kružni tokovi, promjene traka, ulazi na autocestu, zavoji i pješački prijelazi."
+      ],
+      "checklist": [
+        "Promatranje: zrcala, pogled preko ramena, gledanje daleko naprijed",
+        "Položaj: pravi trak, razmak naprijed i u stranu",
+        "Brzina: prilagođena ograničenju, preglednosti i situaciji",
+        "Komunikacija: pokazivač na vrijeme, kontakt očima, jasne namjere",
+        "Upravljanje vozilom i štedljiva vožnja: mijenjanje stupnjeva, upravljanje, glatko kočenje"
+      ]
+    },
+    "fail": {
+      "title": "Zbog čega se najčešće pada",
+      "body": [
+        "Sitni propusti ne znače pad. Pada se zbog teške pogreške — npr. kad je netko ugrožen — ili kad se manje pogreške ponavljaju."
+      ],
+      "pitfalls": [
+        "Nepoštivanje prednosti, osobito „desni ima prednost” u zonama 30",
+        "Nema pogleda preko ramena pri skretanju, polasku ili promjeni traka",
+        "Nema potpunog zaustavljanja kod znaka STOP",
+        "Nepropuštanje pješaka na pješačkom prijelazu",
+        "Očito prekoračenje brzine, npr. u zoni 30",
+        "Prolazak kroz crveno",
+        "Instruktor mora intervenirati (dvostruka kočnica ili upravljač)"
+      ]
+    },
+    "phrases": {
+      "title": "Što govori ispitivač",
+      "body": [
+        "Ispit vožnje je na njemačkom. Ispitivač daje upute na vrijeme. Ako nešto ne razumiješ, pitaj — to nije pogreška."
+      ],
+      "phrases": [
+        "Na sljedećem raskrižju, molim, desno.",
+        "Molim, skrenite lijevo.",
+        "Molim, nastavite ravno.",
+        "Molim, pratite tijek ceste.",
+        "Pratite putokaze prema autocesti.",
+        "U kružnom toku, molim, drugi izlaz.",
+        "Molim, zaustavite se ovdje desno uz rub ceste.",
+        "Molim, parkirajte unatrag iza plavog automobila.",
+        "Molim, okrenite se ovdje.",
+        "Kad kažem „Stopp”, molim, naglo zakočite.",
+        "Molim, ponovno krenite kad promet dopusti.",
+        "Ispit je završen. Položeno."
+      ]
+    }
+  },
+  "conversion": {
+    "eu": {
+      "title": "Vozačka dozvola iz EU-a ili EGP-a",
+      "body": [
+        "Važeća vozačka dozvola iz zemlje EU-a ili EGP-a (EU uz Island, Lihtenštajn i Norvešku) ostaje važeća u Njemačkoj. Ne treba je mijenjati.",
+        "Ako dozvola ima datum isteka, obnavljaš je u njemačkom uredu za vozačke dozvole kad ovdje živiš."
+      ]
+    },
+    "six-months": {
+      "title": "Svi ostali: šest mjeseci",
+      "body": [
+        "S dozvolom iz bilo koje druge zemlje smiješ voziti šest mjeseci od dana prijave boravka u Njemačkoj. Ako boraviš samo privremeno, možeš zatražiti još najviše šest mjeseci.",
+        "Nakon toga treba njemačka dozvola. Vožnja sa stranom dozvolom nakon roka smatra se vožnjom bez dozvole, a to je kazneno djelo.",
+        "Ako dozvola nije na njemačkom i ne slijedi međunarodni obrazac, tijekom tih šest mjeseci treba prijevod ili međunarodna vozačka dozvola."
+      ]
+    },
+    "which-case": {
+      "title": "Koji ispiti trebaju",
+      "body": [
+        "Ovisi o tome je li zemlja izdavanja navedena u Prilogu 11. Uredbe o vozačkim dozvolama i za koju kategoriju. Postoje tri slučaja:",
+        "1. Tvoja zemlja navedena je za kategoriju B bez ispita (npr. Japan, Švicarska, Ujedinjeno Kraljevstvo i od kolovoza 2026. Ukrajina): podnosiš zahtjev i ispiti otpadaju.",
+        "2. Tvoja zemlja navedena je kao „samo teorijski ispit”: polažeš teoriju, a ispit vožnje otpada.",
+        "3. Tvoja zemlja nije navedena (vrijedi za mnoge zemlje te neke savezne države SAD-a i kanadske pokrajine, koje su navedene pojedinačno): polažeš i teoriju i vožnju. Sati nisu obvezni, ali ispit se polaže automobilom autoškole.",
+        "Popis se mijenja. Prije bilo kakvog dogovora provjeri aktualni tekst Priloga 11. i pitaj u lokalnom uredu za vozačke dozvole."
+      ]
+    },
+    "documents": {
+      "title": "Zahtjev i što ponijeti",
+      "body": [
+        "Zahtjev se podnosi uredu za vozačke dozvole (Führerscheinstelle) u mjestu prebivališta, što ranije; obrada često traje tjednima.",
+        "Obično: izvornik strane dozvole, prijevod (npr. od ADAC-a ili sudskog tumača), putovnica ili osobna iskaznica, potvrda o prijavi boravišta (Meldebescheinigung), biometrijska fotografija, provjera vida i obično potvrda o tečaju prve pomoći. Ured će reći točno što treba.",
+        "Kad preuzmeš njemačku dozvolu, predaješ stranu."
+      ]
+    },
+    "tests": {
+      "title": "Ako treba polagati ispite",
+      "body": [
+        "Upiši se u autoškolu; ona te prijavljuje na ispit u TÜV ili DEKRA. Teoriju možeš polagati na njemačkom ili na jednom od dvanaest drugih jezika — istima kao u ovoj aplikaciji.",
+        "I iskusni vozači trebali bi uzeti nekoliko sati: ispit provjerava ono što drugdje funkcionira drukčije — „desni ima prednost”, pogled preko ramena pri svakom skretanju, zone 30 i potpuno zaustavljanje kod svakog znaka STOP."
+      ]
+    },
+    "costs": {
+      "title": "Koliko to otprilike stoji",
+      "body": [
+        "Troškovi ovise o gradu i autoškoli. Okvirno: pristojba ureda oko 40–50 €, prijevod 30–60 €, teorijski ispit u TÜV-u ili DEKRA-i oko 25 €, ispit vožnje oko 130 €, uz troškove autoškole za prijavu, sate i automobil na dan ispita."
+      ]
+    }
+  }
+}

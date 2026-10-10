@@ -1,0 +1,196 @@
+import { q, t } from './_q.mjs';
+
+/** Halten und Parken. StVO § 12, plus the rules attached to signs 283-299. */
+export default [
+  q('pa01', {
+    pts: 3, sec: '1.2', basic: true,
+    de: 'Wann parken Sie?',
+    en: 'When are you parking (rather than stopping)?',
+    opts: [
+      t('Wenn ich das Fahrzeug verlasse', 'When I leave the vehicle'),
+      t('Wenn ich länger als drei Minuten halte', 'When I stop for more than three minutes'),
+      t('Wenn ich im Stau stehe', 'When I am stuck in a queue'),
+    ],
+    ok: [0, 1],
+    why: t(
+      'Wer sein Fahrzeug verlässt oder länger als drei Minuten hält, der parkt (§ 12 Abs. 2 StVO). Halten wegen der Verkehrslage, etwa im Stau oder an der Ampel, ist weder Halten noch Parken.',
+      'Leaving the vehicle, or stopping for more than three minutes, is parking (§ 12(2) StVO). Stopping because of traffic - in a queue, at a red light - counts as neither.',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('pa02', {
+    pts: 3, sec: '1.2', basic: true,
+    de: 'Wo ist das Halten verboten?',
+    en: 'Where is stopping forbidden?',
+    opts: [
+      t('An engen und unübersichtlichen Straßenstellen', 'At narrow places and where visibility is poor'),
+      t('Auf Bahnübergängen', 'On level crossings'),
+      t('Vor einer Bäckerei', 'Outside a bakery'),
+    ],
+    ok: [0, 1],
+    why: t(
+      'Halten ist unter anderem verboten an engen und unübersichtlichen Stellen, im Bereich scharfer Kurven, auf Ein- und Ausfädelungsstreifen, auf Bahnübergängen und vor Feuerwehrzufahrten (§ 12 Abs. 1 StVO).',
+      'Stopping is forbidden at narrow places and where visibility is poor, on sharp bends, on slip roads, on level crossings and in front of fire-brigade access points, among others (§ 12(1) StVO).',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('pa03', {
+    pts: 3, sec: '1.2', basic: true,
+    de: 'Wie viele Meter vor einem Fußgängerüberweg dürfen Sie nicht halten?',
+    en: 'How many metres before a zebra crossing may you not stop?',
+    kind: 'number', num: 5, unit: 'm',
+    why: t(
+      'Auf Fußgängerüberwegen und bis zu 5 m davor ist Halten verboten. Ein haltendes Auto würde Fußgänger verdecken, gerade Kinder.',
+      'Stopping is forbidden on zebra crossings and for 5 m before them. A stopped car would hide pedestrians, children above all.',
+    ),
+    tip: null,
+    scene: null,
+    signs: ['350'],
+  }),
+  q('pa04', {
+    pts: 3, sec: '1.2', basic: true,
+    de: 'Wie viele Meter vor und hinter einer Kreuzung dürfen Sie nicht parken (ohne baulichen Radweg)?',
+    en: 'How many metres before and after a junction may you not park (with no separate cycle track)?',
+    kind: 'number', num: 5, unit: 'm',
+    why: t(
+      'Parken ist bis zu je 5 m vor und hinter Kreuzungen und Einmündungen verboten, gemessen von den Schnittpunkten der Fahrbahnkanten. Gibt es rechts einen baulich angelegten Radweg, sind es vor der Kreuzung 8 m (§ 12 Abs. 3 StVO).',
+      'Parking is forbidden for 5 m before and after junctions, measured from where the kerb lines meet. Where there is a separate cycle track on the right, it is 8 m before the junction (§ 12(3) StVO).',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('pa05', {
+    pts: 3, sec: '1.2', basic: true,
+    de: 'Wo ist das Parken verboten?',
+    en: 'Where is parking forbidden?',
+    opts: [
+      t('Vor Grundstücksein- und -ausfahrten', 'In front of driveway entrances and exits'),
+      t('Vor Bordsteinabsenkungen', 'In front of dropped kerbs'),
+      t('Auf einem gekennzeichneten Parkplatz', 'In a marked parking space'),
+    ],
+    ok: [0, 1],
+    why: t(
+      'Parken ist unter anderem verboten vor Grundstücksein- und -ausfahrten, auf schmalen Fahrbahnen auch gegenüber, und vor Bordsteinabsenkungen, die Rollstühlen und Kinderwagen den Weg öffnen (§ 12 Abs. 3 StVO).',
+      'Parking is forbidden in front of driveways (and opposite them on narrow roads) and in front of dropped kerbs, which wheelchairs and prams need (§ 12(3) StVO).',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('pa06', {
+    pts: 2, sec: '1.2', basic: true,
+    de: 'Sie stellen um 9:10 Uhr eine Parkscheibe ein. Welche Zeit stellen Sie ein?',
+    en: 'You arrive at 9:10 and set a parking disc. What time do you set?',
+    opts: [t('9:30 Uhr', '9:30'), t('9:10 Uhr', '9:10'), t('9:00 Uhr', '9:00')],
+    ok: [0],
+    why: t(
+      'Die Parkscheibe wird auf den Strich der halben Stunde eingestellt, die auf den Zeitpunkt des Anhaltens folgt – bei 9:10 Uhr also auf 9:30 Uhr.',
+      'The disc is set to the next half-hour mark after you arrive: at 9:10, to 9:30.',
+    ),
+    tip: t('Immer zur nächsten halben Stunde aufrunden.', 'Always round up to the next half hour.'),
+    scene: null,
+  }),
+  q('pa07', {
+    pts: 3, sec: '1.2', basic: true,
+    de: 'Auf welcher Straßenseite dürfen Sie normalerweise parken?',
+    en: 'On which side of the road may you normally park?',
+    opts: [
+      t('Rechts', 'On the right'),
+      t('Links in Einbahnstraßen', 'On the left in one-way streets'),
+      t('Links überall, wenn Platz ist', 'On the left anywhere there is room'),
+    ],
+    ok: [0, 1],
+    why: t(
+      'Gehalten und geparkt wird rechts, am rechten Fahrbahnrand oder auf dem Seitenstreifen. Links nur in Einbahnstraßen oder wenn rechts Schienen liegen (§ 12 Abs. 4 StVO).',
+      'You stop and park on the right, at the right-hand edge or on the verge. On the left only in one-way streets, or where there are tracks on the right (§ 12(4) StVO).',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('pa08', {
+    pts: 4, sec: '1.1', basic: true,
+    de: 'Sie wollen die Fahrertür öffnen. Wie schützen Sie Radfahrer am besten?',
+    en: 'You want to open the driver’s door. How do you best protect cyclists?',
+    opts: [
+      t('Mit der rechten Hand öffnen, damit ich mich umdrehe und nach hinten sehe', 'Open it with my right hand, so I turn and see behind'),
+      t('Die Tür schnell weit öffnen', 'Fling the door open quickly'),
+      t('Nur in den Innenspiegel schauen', 'Only look in the rear-view mirror'),
+    ],
+    ok: [0],
+    why: t(
+      'Wer ein- oder aussteigt, muss eine Gefährdung anderer ausschließen (§ 14 Abs. 1 StVO). Mit der rechten Hand zu öffnen („Holländischer Griff“) dreht den Oberkörper – so sehen Sie Radfahrer im toten Winkel.',
+      'Getting in or out, you must not endanger anyone (§ 14(1) StVO). Opening the driver’s door with your right hand (the "Dutch reach") turns your body, so you see cyclists in the blind spot.',
+    ),
+    tip: t('Fernere Hand an den Türgriff.', 'Far hand on the handle.'),
+    scene: { road: 'parking', actors: [{ kind: 'you', at: [66, 52], heading: 0 }, { kind: 'bike', at: [56, 76], heading: 0 }] },
+  }),
+  q('pa09', {
+    pts: 3, sec: '1.2', basic: true,
+    de: 'Was tun Sie, bevor Sie Ihr geparktes Auto verlassen?',
+    en: 'What do you do before leaving your parked car?',
+    opts: [
+      t('Motor ausschalten und Feststellbremse anziehen', 'Switch off the engine and apply the parking brake'),
+      t('Das Fahrzeug gegen Wegrollen und unbefugte Benutzung sichern', 'Secure it against rolling away and against unauthorised use'),
+      t('Den Motor laufen lassen, wenn ich gleich wiederkomme', 'Leave the engine running if I will be back soon'),
+    ],
+    ok: [0, 1],
+    why: t(
+      'Wer sein Fahrzeug verlässt, muss es so sichern, dass Unfälle und Verkehrsbehinderungen vermieden werden, und es gegen unbefugte Benutzung sichern (§ 14 Abs. 2 StVO). Ein laufender Motor ohne Fahrer ist verboten.',
+      'When you leave your vehicle you must secure it so that it causes no accident or obstruction, and against unauthorised use (§ 14(2) StVO). Leaving the engine running unattended is forbidden.',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('pa10', {
+    pts: 3, sec: '2.6', basic: false,
+    de: 'Sie parken nachts außerorts am Fahrbahnrand. Was müssen Sie tun?',
+    en: 'You park at the edge of the road at night outside town. What must you do?',
+    opts: [
+      t('Das Fahrzeug beleuchten, z. B. mit Standlicht', 'Light the vehicle, for example with sidelights'),
+      t('Nichts, Rückstrahler genügen', 'Nothing, the reflectors are enough'),
+      t('Die Nebelschlussleuchte einschalten', 'Switch on the rear fog light'),
+    ],
+    ok: [0],
+    why: t(
+      'Außerorts müssen haltende und parkende Fahrzeuge bei Dunkelheit beleuchtet sein. Innerorts genügt auf der Fahrbahnseite das Parklicht, und wo die Straßenbeleuchtung die ganze Nacht brennt, braucht es meist keines (§ 17 Abs. 4 StVO).',
+      'Outside town, stopped and parked vehicles must be lit in the dark. In town the parking light on the traffic side is enough, and where streetlights stay on all night, usually none is needed (§ 17(4) StVO).',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('pa11', {
+    pts: 2, sec: '1.2', basic: true,
+    de: 'Dürfen Sie in zweiter Reihe parken?',
+    en: 'May you park in the second row (double-park)?',
+    opts: [
+      t('Nein', 'No'),
+      t('Ja, mit Warnblinklicht', 'Yes, with the hazard lights on'),
+      t('Ja, bis zu zehn Minuten', 'Yes, for up to ten minutes'),
+    ],
+    ok: [0],
+    why: t(
+      'In zweiter Reihe zu parken ist verboten; die Warnblinkanlage macht es nicht erlaubt. Sie behindern den Verkehr und zwingen andere zum Ausweichen in den Gegenverkehr.',
+      'Double-parking is forbidden, and the hazard lights do not make it legal. It blocks the road and forces others out into oncoming traffic.',
+    ),
+    tip: null,
+    scene: null,
+  }),
+  q('pa12', {
+    pts: 3, sec: '1.2', basic: true,
+    de: 'Wo dürfen Sie nicht parken?',
+    en: 'Where may you not park?',
+    opts: [
+      t('Auf dem Gehweg, wenn es nicht durch Zeichen oder Markierung erlaubt ist', 'On the pavement, unless a sign or marking allows it'),
+      t('Vor einer Feuerwehrzufahrt', 'In front of a fire-brigade access point'),
+      t('In einer markierten Parkbucht', 'In a marked parking bay'),
+    ],
+    ok: [0, 1],
+    why: t(
+      'Gehwege sind für Fußgänger. Parken auf dem Gehweg ist nur erlaubt, wo Zeichen 315 oder eine Markierung es zulassen. Vor und in Feuerwehrzufahrten ist schon das Halten verboten.',
+      'Pavements are for pedestrians. Parking on one is only allowed where sign 315 or a marking permits it. In front of fire-brigade access points even stopping is forbidden.',
+    ),
+    tip: null,
+    scene: null,
+  }),
+];

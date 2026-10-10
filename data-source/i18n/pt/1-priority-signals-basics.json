@@ -1,0 +1,233 @@
+{
+  "questions": {
+    "pr01": {
+      "prompt": "Queres seguir em frente. Neste cruzamento não há nenhum sinal. Quem tem prioridade?",
+      "options": ["O carro que vem da direita", "Eu, porque sigo em frente", "Quem chegar primeiro ao cruzamento"],
+      "why": "Sem sinais nem semáforos aplica-se a regra da «prioridade à direita» (rechts vor links, § 8 n.º 1 StVO). O carro vem da tua direita, por isso deixas passar — quer sigas em frente, quer vires.",
+      "tip": "Rechts vor links: quem vem da direita passa primeiro."
+    },
+    "pr02": {
+      "prompt": "Queres seguir em frente. Não há sinais. Tens de deixar passar este carro?",
+      "options": ["Não — vem da esquerda e tem de me deixar passar", "Sim — está mais perto do cruzamento", "Sim — nos cruzamentos sem sinais é sempre preciso parar"],
+      "why": "O carro está à tua esquerda. Com a «prioridade à direita» é ele que espera por ti, não o contrário. Mesmo assim, conduz com cuidado: não é certo que te tenha visto."
+    },
+    "pr03": {
+      "prompt": "Não há sinais e todos seguem em frente. Por que ordem passam os veículos?",
+      "options": ["2, 3, 1", "1, 2, 3", "3, 1, 2"],
+      "why": "O carro 2 não tem ninguém à direita, por isso passa primeiro. A bicicleta, 3, só espera pelo carro 2, que está à direita dela. Tu (1) tens a bicicleta à tua direita, por isso a tua vez é a última.",
+      "tip": "Com vários veículos: procura primeiro o que tem a direita livre."
+    },
+    "pr04": {
+      "prompt": "Queres virar à esquerda; o carro que vem em sentido contrário quer seguir em frente. Quem passa primeiro?",
+      "options": ["O carro que vem em sentido contrário", "Eu, porque liguei o pisca primeiro", "Passamos ao mesmo tempo"],
+      "why": "Quem vira à esquerda tem de deixar passar primeiro o trânsito em sentido contrário (§ 9 n.º 3 StVO). Isto aplica-se em qualquer cruzamento, mesmo numa via com prioridade.",
+      "tip": "Quem vira à esquerda espera por quem vem de frente."
+    },
+    "pr05": {
+      "prompt": "Tu e o carro em frente querem virar à esquerda. Como viram?",
+      "options": ["Pela frente um do outro — cada um vira à frente do outro", "Contornando — passando por trás do outro", "Quem ligar o pisca primeiro passa primeiro"],
+      "why": "Dois veículos frente a frente que viram à esquerda viram pela frente um do outro (§ 9 n.º 4 StVO), salvo se o trânsito ou o traçado do cruzamento não o permitirem."
+    },
+    "pr06": {
+      "prompt": "Queres virar à esquerda. A quem tens de dar passagem?",
+      "options": ["Ao carro da esquerda", "Ao carro da direita", "A ninguém, porque tenho o pisca ligado"],
+      "why": "O sinal 205 «Dê prioridade» aplica-se à tua via. Todos na via principal têm prioridade, da esquerda e da direita. Ao virar à esquerda atravessas as duas faixas."
+    },
+    "pr07": {
+      "prompt": "O que tens de fazer perante este sinal?",
+      "options": ["Parar na linha de paragem, mesmo com a via livre", "Dar prioridade", "Parar só se vier alguém"],
+      "why": "O sinal 206 «Stop. Dê prioridade.» exige uma paragem completa — rodas paradas — na linha de paragem ou, se não houver, onde se vê a via. Depois dás prioridade.",
+      "tip": "STOP significa rodas paradas. Passar devagar não chega."
+    },
+    "pr08": {
+      "prompt": "Segues em frente. Quem tem prioridade?",
+      "options": ["Eu", "O carro da direita", "Quem chegar primeiro"],
+      "why": "Estás numa via com prioridade (sinal 306); a via lateral tem o sinal 205. A «prioridade à direita» não se aplica aqui — o carro tem de esperar."
+    },
+    "pr09": {
+      "prompt": "Até onde vale a prioridade dada por este sinal?",
+      "options": ["Só até ao próximo cruzamento", "Até ao fim da localidade", "Até ao sinal de «fim de via com prioridade»"],
+      "why": "O sinal 301 dá prioridade apenas no próximo cruzamento. Prioridade ao longo de um troço inteiro só a dá o sinal de via com prioridade (306).",
+      "tip": "301 = uma vez. 306 = o troço todo."
+    },
+    "pr10": {
+      "prompt": "Segues a via com prioridade, que vira à esquerda. O que tens de fazer?",
+      "options": ["Ligar o pisca esquerdo", "Ter atenção aos peões que atravessam", "Não ligar o pisca, porque continuo na via com prioridade"],
+      "why": "Quem segue uma via com prioridade que muda de direção tem de o sinalizar com antecedência e ter especial atenção aos peões, esperando se for preciso (painel adicional 1002 sob o sinal 306).",
+      "tip": "O pisca segue a curva da via, não o sinal."
+    },
+    "pr11": {
+      "prompt": "A via com prioridade vira (a amarelo). Queres seguir em frente. A quem dás passagem?",
+      "options": ["Ao carro 1", "A ninguém — sigo em frente", "Só aos veículos da direita"],
+      "why": "Estás na via lateral (sinal 205). O carro 1 está na via com prioridade, segue a curva dela e cruza a tua trajetória. Seguir em frente não te dá prioridade."
+    },
+    "pr12": {
+      "prompt": "Sais de uma garagem ou entrada para a faixa de rodagem. O que se aplica?",
+      "options": ["Tenho de deixar passar o trânsito da via", "Tenho de excluir qualquer perigo para os outros", "Aqui também vale a «prioridade à direita»"],
+      "why": "Quem sai de uma propriedade, de uma zona residencial ou da berma tem de excluir qualquer perigo para os outros — se for preciso, com alguém a orientar (§ 10 StVO). A «prioridade à direita» não serve aqui."
+    },
+    "pr13": {
+      "prompt": "Sais de um caminho agrícola para uma via sem sinais. Da esquerda vem um carro. Quem tem prioridade?",
+      "options": ["O carro", "Eu — venho da direita dele", "O mais lento"],
+      "why": "Quem sai de um caminho agrícola ou florestal nunca tem prioridade (§ 8 n.º 1 StVO), nem sequer sobre o trânsito da esquerda."
+    },
+    "pr14": {
+      "prompt": "O que se aplica nesta rotunda?",
+      "options": ["Os veículos que já circulam na rotunda têm prioridade", "Ao entrar não se liga o pisca", "Ao sair liga-se o pisca direito"],
+      "why": "Com o sinal 215 sob o sinal 205, a prioridade é do trânsito da rotunda. Sinalizar ao entrar não é permitido; ao sair é obrigatório. Parar na rotunda é proibido (§ 9a StVO).",
+      "tip": "Entra-se sem pisca, sai-se com ele."
+    },
+    "pr15": {
+      "prompt": "Nesta praça circular não há sinais. Quem tem prioridade?",
+      "options": ["Eu — o carro da praça vem da minha esquerda", "O carro da praça", "Quem ligar o pisca primeiro"],
+      "why": "Sem o sinal 215 isto não é uma rotunda segundo o § 9a StVO, mas um cruzamento normal. Aplica-se a «prioridade à direita» — o trânsito da praça tem de te deixar entrar.",
+      "tip": "Sem sinal azul de rotunda = prioridade à direita."
+    },
+    "pr16": {
+      "prompt": "Segues em frente na via que continua. Não há sinais. Quem tem prioridade?",
+      "options": ["O carro que sai da rua lateral à direita", "Eu — vou na via que continua", "O mais rápido"],
+      "why": "Uma via que segue a direito não é uma via com prioridade sem sinal. Nos entroncamentos em T também vale a «prioridade à direita», e o carro está à tua direita.",
+      "tip": "Mais larga ou mais direita não significa prioridade."
+    },
+    "pr17": {
+      "prompt": "Por que ordem passam os veículos?",
+      "options": ["3, 1, 2", "1, 2, 3", "3, 2, 1"],
+      "why": "O camião 3 está na via com prioridade e passa primeiro. 1 e 2 estão frente a frente nas vias laterais; 2 vira à esquerda e tem de deixar passar 1, que vem de frente e segue em frente."
+    },
+    "pr18": {
+      "prompt": "Vais na via com prioridade e queres virar à esquerda. Quem tem de esperar?",
+      "options": ["Eu", "O carro em frente", "Ninguém, vamos os dois na via com prioridade"],
+      "why": "A via com prioridade só regula a relação com as vias laterais. Entre os veículos que a percorrem aplicam-se as regras de mudança de direção: quem vira à esquerda deixa passar quem vem de frente (§ 9 n.º 3 StVO)."
+    },
+    "pr19": {
+      "prompt": "Queres virar à direita. O que significa este sinal para ti?",
+      "options": ["Tenho de dar prioridade ao trânsito da esquerda", "Tenho prioridade porque viro à direita", "Posso entrar sem olhar"],
+      "why": "O sinal 205 significa «Dê prioridade». Ao virar à direita entras na faixa por onde circula o trânsito que vem da tua esquerda, por isso tens de o deixar passar."
+    },
+    "pr20": {
+      "prompt": "Não há sinais. Queres virar à esquerda. Por que ordem passam os veículos?",
+      "options": ["2, 1", "1, 2", "Ao mesmo tempo"],
+      "why": "O carro 2 vem da tua direita e tem prioridade pela «prioridade à direita». Não importa que vires em vez de seguires em frente: ele cruza a tua trajetória."
+    },
+    "sg01": {
+      "prompt": "O agente está de frente para ti com os dois braços estendidos para os lados. O que significa para ti?",
+      "options": ["Parar antes do cruzamento — como no vermelho", "Avançar — como no verde", "Desimpedir depressa o cruzamento"],
+      "why": "Os braços estendidos de través em relação ao teu sentido significam «pare» para o trânsito à frente e atrás do agente. O trânsito no sentido dos braços pode avançar (§ 36 n.º 2 StVO).",
+      "tip": "Peito ou costas para ti = vermelho. Braço a apontar para ti = verde."
+    },
+    "sg02": {
+      "prompt": "Aproximas-te do agente pelo lado. Os braços dele apontam ao longo do teu sentido. O que significa para ti?",
+      "options": ["Posso avançar — como no verde", "Pare — como no vermelho", "Tenho de esperar que o agente faça sinal"],
+      "why": "O agente está de lado para ti, com os braços ao longo do teu sentido: o teu trânsito tem passagem livre. Se mudares de direção, continuam a valer as regras de mudança de direção."
+    },
+    "sg03": {
+      "prompt": "Um agente levanta um braço na vertical. O que significa?",
+      "options": ["Quem está antes do cruzamento espera pelo sinal seguinte", "Quem já está no cruzamento desimpede-o", "Todos podem avançar"],
+      "why": "O braço levantado equivale ao amarelo: «Atenção, o sinal vai mudar». Antes do cruzamento, espera; dentro dele, desimpede-o (§ 36 n.º 2 n.º 2 StVO)."
+    },
+    "sg04": {
+      "prompt": "O semáforo está verde. Um agente faz-te sinal para parar. O que fazes?",
+      "options": ["Paro — a polícia prevalece", "Sigo — prevalece o verde", "Buzino e sigo devagar"],
+      "why": "Os sinais e indicações dos agentes prevalecem sobre tudo o resto, semáforos incluídos (§ 36 n.º 1 StVO)."
+    },
+    "sg05": {
+      "prompt": "Que ordem de prevalência está certa?",
+      "options": ["Polícia, semáforos, sinais, regras gerais", "Semáforos, polícia, sinais, regras gerais", "Sinais, semáforos, polícia, regras gerais"],
+      "why": "A polícia prevalece sobre tudo (§ 36), os semáforos sobre os sinais e as regras de prioridade (§ 37), e os sinais sobre a «prioridade à direita».",
+      "tip": "Pessoa, luz, sinal, regra."
+    },
+    "sg06": {
+      "prompt": "Tens vermelho e ao lado há um painel com seta verde. Queres virar à direita. O que se aplica?",
+      "options": ["Primeiro tenho de parar na linha de paragem", "Depois posso virar se não incomodar nem puser ninguém em perigo", "Posso virar sem parar"],
+      "why": "O painel com seta verde (720) só permite virar à direita no vermelho depois de parar por completo na linha e sem incomodar nem pôr ninguém em perigo, sobretudo peões e ciclistas com verde (§ 37 n.º 2 StVO).",
+      "tip": "Seta verde = um STOP que te deixa virar."
+    },
+    "sg07": {
+      "prompt": "O semáforo passa a amarelo. O que fazes?",
+      "options": ["Paro, se ainda o conseguir fazer em segurança", "Acelero para passar", "Travo sempre a fundo de imediato"],
+      "why": "O amarelo significa: antes do cruzamento, espera pelo sinal seguinte. Se a distância for curta demais para parar em segurança, segues — mas acelerar nunca faz parte disso."
+    },
+    "sg08": {
+      "prompt": "O semáforo mostra vermelho e amarelo ao mesmo tempo. O que significa?",
+      "options": ["Vem aí o verde — continuo à espera", "Já posso arrancar", "O semáforo está avariado"],
+      "why": "Vermelho e amarelo juntos significam «Atenção, a seguir vem o verde». Ficas onde estás até acender o verde."
+    },
+    "sg09": {
+      "prompt": "Os semáforos não funcionam. O que se aplica agora?",
+      "options": ["Os sinais de prioridade do cruzamento", "Se não houver sinais: prioridade à direita", "Quem chega primeiro passa primeiro"],
+      "why": "Se os semáforos estiverem apagados ou só piscarem a amarelo, aplicam-se os sinais. Se não houver sinais, aplica-se a «prioridade à direita»."
+    },
+    "sg10": {
+      "prompt": "O que significa uma única luz amarela intermitente num cruzamento?",
+      "options": ["Cuidado — aplicam-se os sinais de trânsito", "Todos podem avançar", "Parar como no vermelho"],
+      "why": "O amarelo intermitente é um aviso (§ 37 n.º 2 n.º 5 StVO). Não regula nada; a prioridade é dada pelos sinais."
+    },
+    "sg11": {
+      "prompt": "Uma ambulância com luzes azuis e sirene aproxima-se por trás. O que fazes?",
+      "options": ["Dou-lhe passagem de imediato", "Continuo até encontrar uma área de paragem", "Travo a fundo e paro na minha faixa"],
+      "why": "As luzes azuis juntamente com a sirene significam que todos os outros têm de dar passagem de imediato (§ 38 n.º 1 StVO). Parar no meio da faixa não ajuda."
+    },
+    "sg12": {
+      "prompt": "Um carro da polícia está na berma com luzes azuis mas sem sirene. O que significa?",
+      "options": ["Avisa de um perigo, como um acidente", "Tenho de parar de imediato", "Tenho de dar passagem"],
+      "why": "A luz azul sozinha é um aviso no local de um acidente ou incidente (§ 38 n.º 2 StVO). Passa devagar e com cuidado.",
+      "tip": "Azul + sirene = dá passagem. Só azul = cuidado."
+    },
+    "sg13": {
+      "prompt": "Tens verde, mas depois do cruzamento há fila. O que fazes?",
+      "options": ["Espero antes do cruzamento", "Entro no cruzamento porque tenho verde", "Avanço devagar para dentro do cruzamento"],
+      "why": "Se tivesses de parar dentro do cruzamento, não podes entrar nem com verde (§ 11 n.º 1 StVO). Senão bloqueias o trânsito transversal quando o semáforo dele mudar."
+    },
+    "sg14": {
+      "prompt": "Tens verde e queres virar à esquerda. A que tens de ter atenção?",
+      "options": ["Deixar passar primeiro o trânsito em sentido contrário", "Aos peões que atravessam a rua para onde viro", "A nada — o verde significa que tenho prioridade"],
+      "why": "O verde não anula as regras de mudança de direção: deixa passar quem vem de frente e tem especial atenção aos peões (§ 9 n.º 3 StVO). Só uma seta verde no próprio semáforo indica uma viragem protegida."
+    },
+    "sg15": {
+      "prompt": "Um camião do lixo está parado na faixa com uma luz amarela intermitente. O que significa a luz?",
+      "options": ["Avisa de um perigo", "Tenho de dar passagem", "Esse veículo tem prioridade"],
+      "why": "A luz amarela intermitente num veículo avisa de um perigo (§ 38 n.º 3 StVO) — aqui, de trabalhadores que podem sair por trás. Passa devagar e com bastante margem."
+    },
+    "ba01": {
+      "prompt": "De que lado da faixa de rodagem circulas?",
+      "options": ["O mais à direita que for razoável", "Pelo meio, para me afastar da berma", "Por onde for mais cómodo"],
+      "why": "Na Alemanha circula-se pela direita: tão à direita quanto for razoável — não só quando vem trânsito em sentido contrário ou te ultrapassam, mas também numa via vazia e nas lombas (§ 2 n.º 2 StVO)."
+    },
+    "ba02": {
+      "prompt": "Uma faixa acaba. Como mudas de faixa?",
+      "options": ["Em fecho éclair, mesmo antes do estreitamento", "O mais cedo possível, mesmo que a faixa continue muito tempo", "Quem vai na faixa que continua não tem de deixar entrar ninguém"],
+      "why": "Onde uma faixa termina ou está cortada, os veículos entram alternadamente, um a um, mesmo no início do estreitamento (§ 7 n.º 4 StVO). A faixa que continua tem de o permitir.",
+      "tip": "Até ao fim, depois um a um."
+    },
+    "ba03": {
+      "prompt": "O que tens de fazer antes de mudar de faixa?",
+      "options": ["Olhar pelo espelho e por cima do ombro", "Ligar o pisca com antecedência", "Dar um toque de buzina"],
+      "why": "Mudar de faixa só é permitido se ninguém puder ficar em perigo, e tem de ser sinalizado de forma clara e antecipada (§ 7 n.º 5 StVO). Só olhar por cima do ombro cobre o ângulo morto."
+    },
+    "ba04": {
+      "prompt": "Quando podes usar a buzina?",
+      "options": ["Para avisar outras pessoas de um perigo", "Fora das localidades, para anunciar uma ultrapassagem", "Para cumprimentar alguém"],
+      "why": "A buzina e os sinais de luzes só servem para anunciar uma ultrapassagem fora das localidades ou quando tu ou outras pessoas estão em perigo (§ 16 n.º 1 StVO). Cumprimentar, apressar ou desabafar não contam."
+    },
+    "ba05": {
+      "prompt": "Quando podes ligar as luzes de emergência?",
+      "options": ["Quando tenho uma avaria ou o meu carro está a ser rebocado", "Para avisar de um perigo, por exemplo no fim de uma fila", "Quando estaciono um momento em segunda fila"],
+      "why": "As luzes de emergência são para avarias, reboques, autocarros escolares nas paragens e para avisar de perigos como uma fila à frente (§ 16 n.º 2 StVO). Não autorizam a estacionar onde é proibido."
+    },
+    "ba06": {
+      "prompt": "Dentro de uma localidade, numa via com duas faixas marcadas no teu sentido, podes escolher a faixa?",
+      "options": ["Sim, num ligeiro de passageiros", "Não, tenho de ir sempre pela direita", "Só para ultrapassar"],
+      "why": "Dentro das localidades, os veículos até 3,5 t podem escolher livremente a faixa em vias com várias faixas marcadas num sentido (§ 7 n.º 3 StVO). Andar aos ziguezagues entre faixas continua proibido."
+    },
+    "ba07": {
+      "prompt": "O que se entende por uma situação de trânsito pouco clara?",
+      "options": ["Não consigo saber com segurança o que os outros vão fazer", "É de noite", "A faixa de rodagem é larga"],
+      "why": "Uma situação é pouco clara quando não consegues avaliar com segurança o que os outros vão fazer — por exemplo, um carro liga o pisca esquerdo mas não se desvia. Aí ultrapassar é proibido e é preciso estar em condições de travar."
+    },
+    "ba08": {
+      "prompt": "O que faz parte da condução preventiva?",
+      "options": ["Olhar ao longe, não só para o carro da frente", "Olhar para os espelhos com regularidade", "Ir o mais colado possível para reagir mais cedo"],
+      "why": "Quem olha ao longe e sabe o que tem atrás vê cedo os perigos e reage com calma. Ir colado tira-te precisamente esse tempo."
+    }
+  }
+}

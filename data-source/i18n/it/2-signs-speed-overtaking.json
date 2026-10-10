@@ -1,0 +1,322 @@
+{
+  "questions": {
+    "si01": {
+      "prompt": "Dove finisce questo limite di velocità?",
+      "options": ["A un segnale che ne indica la fine (ad esempio 278 o 282)", "Sempre al prossimo incrocio", "Dopo esattamente 500 metri"],
+      "why": "Le limitazioni su un tratto valgono finché un segnale non le revoca; non finiscono da sole dopo un incrocio. Eccezioni: un pannello integrativo indica la lunghezza, oppure il limite è abbinato a un segnale di pericolo e finisce chiaramente con il pericolo.",
+      "tip": "Gli incroci non annullano il limite di velocità."
+    },
+    "si02": {
+      "prompt": "Cosa è consentito sulla carreggiata a questo segnale?",
+      "options": ["Niente — la fermata è del tutto vietata", "Una breve fermata per far scendere qualcuno", "La sosta fino a tre minuti"],
+      "why": "Il segnale 283 è il divieto assoluto di fermata: sulla carreggiata non puoi fermarti affatto, neanche un attimo per far salire o scendere qualcuno.",
+      "tip": "Croce = mai. Una barra = per poco."
+    },
+    "si03": {
+      "prompt": "Cosa consente questo segnale?",
+      "options": ["Fermarsi fino a tre minuti", "Fermarsi più a lungo per caricare o per far salire e scendere passeggeri", "Sostare"],
+      "why": "Il segnale 286, divieto di fermata limitato, vieta di fermarsi più di tre minuti, salvo per far salire o scendere persone o per caricare e scaricare. La sosta non è consentita."
+    },
+    "si04": {
+      "prompt": "Cosa significa questo segnale?",
+      "options": ["Divieto di transito per veicoli di ogni tipo — la bici si può spingere", "Solo residenti", "Le bici possono circolare"],
+      "why": "Il segnale 250 vieta i veicoli di ogni tipo. Non vale per i carretti a mano né per bici e moto spinte a mano."
+    },
+    "si05": {
+      "prompt": "Cosa significa questo segnale?",
+      "options": ["Senso vietato", "Divieto di transito in entrambi i sensi", "Divieto di fermata"],
+      "why": "Il segnale 267 significa senso vietato. Di solito si trova all’estremità di una strada a senso unico, nella quale si può entrare dall’altra parte."
+    },
+    "si06": {
+      "prompt": "Cosa vale in questa strada?",
+      "options": ["Posso circolare solo nella direzione della freccia", "Posso fermarmi e sostare anche a sinistra", "Posso fare inversione qui"],
+      "why": "Il segnale 220 indica un senso unico. Si circola solo nella direzione della freccia; fermata e sosta sono consentite anche a sinistra (§ 12 c. 4 StVO). Fare inversione vorrebbe dire andare contromano."
+    },
+    "si07": {
+      "prompt": "Cosa ti dice questo segnale?",
+      "options": ["Strada senza uscita", "Strada con diritto di precedenza", "Divieto di sosta"],
+      "why": "Il segnale 357 indica una strada senza uscita: i veicoli non possono proseguire. Preparati a dover fare inversione."
+    },
+    "si08": {
+      "prompt": "Cosa vale in questa zona?",
+      "options": ["Andare a passo d’uomo", "I pedoni possono usare tutta la strada e i bambini giocare ovunque", "Si può sostare ovunque lungo il bordo"],
+      "why": "In una zona residenziale (segnale 325.1) si va a passo d’uomo. I pedoni possono usare tutta la larghezza e i bambini giocare ovunque. Sosta solo negli spazi segnati.",
+      "tip": "Strada di gioco: qui sei ospite."
+    },
+    "si09": {
+      "prompt": "Esci da una zona residenziale su una strada normale. Chi ha la precedenza?",
+      "options": ["Tutti quelli sulla strada in cui mi immetto", "Io, se arrivo da destra", "Io, perché vado a passo d’uomo"],
+      "why": "Uscendo da una zona residenziale devi lasciar passare tutti gli altri ed escludere ogni pericolo (§ 10 StVO), come quando esci da un passo carraio."
+    },
+    "si10": {
+      "prompt": "Cosa vale di solito in questa zona?",
+      "options": ["Al massimo 30 km/h", "Agli incroci di solito «la destra ha la precedenza»", "Divieto di sorpasso per tutti"],
+      "why": "In una zona 30 (segnale 274.1) il limite è 30 km/h finché il segnale 274.2 non chiude la zona. Queste zone non hanno strade con diritto di precedenza, quindi agli incroci vale di solito «la destra ha la precedenza»."
+    },
+    "si11": {
+      "prompt": "Qual è il limite di velocità per un’auto da questo segnale in poi, se altri segnali non dicono diversamente?",
+      "why": "Il segnale di località (310) indica l’inizio del centro abitato. Al suo interno il limite per tutti i veicoli a motore è 50 km/h (§ 3 c. 3 StVO).",
+      "tip": "Cartello giallo di località = 50."
+    },
+    "si12": {
+      "prompt": "Chi può usare l’autostrada?",
+      "options": ["I veicoli a motore costruiti per superare i 60 km/h", "Tutti i veicoli a motore", "Anche i ciclomotori limitati a 45 km/h"],
+      "why": "Le autostrade (segnale 330.1) e le superstrade sono solo per veicoli a motore la cui velocità massima di costruzione supera i 60 km/h (§ 18 c. 1 StVO)."
+    },
+    "si13": {
+      "prompt": "Cosa indica questo segnale?",
+      "options": ["Fine del diritto di precedenza", "Inizio del diritto di precedenza", "Precedenza al prossimo incrocio"],
+      "why": "Il segnale 307 chiude la strada con diritto di precedenza. Dopo decidono di nuovo i segnali o «la destra ha la precedenza». Spesso poco dopo arriva il segnale 205."
+    },
+    "si14": {
+      "prompt": "Quando vale l’avvertimento di questi segnali?",
+      "options": ["Solo quando la strada è bagnata", "Sempre", "Solo d’inverno"],
+      "why": "Il segnale 114 avverte del pericolo di sbandare. Il pannello «bei Nässe» (con fondo bagnato) limita l’avvertimento alla strada bagnata."
+    },
+    "si15": {
+      "prompt": "Cosa devi aspettarti a questo segnale?",
+      "options": ["Bambini che corrono all’improvviso in strada", "Bambini che giocano a bordo strada", "Bambini solo in orario scolastico"],
+      "why": "Il segnale 136 avverte della presenza di bambini a qualsiasi ora. Rallenta e preparati a frenare (§ 3 c. 2a StVO)."
+    },
+    "si16": {
+      "prompt": "Cosa è vero a questo segnale?",
+      "options": ["Gli animali sono più probabili al crepuscolo e all’alba", "Dove attraversa un animale spesso ne seguono altri", "L’avvertimento vale solo in autunno"],
+      "why": "Il segnale 142 avverte dell’attraversamento di animali selvatici. Sono più attivi all’alba e al tramonto e si muovono spesso in gruppo: dopo il primo capriolo ne arriva spesso un secondo."
+    },
+    "si17": {
+      "prompt": "Circa quanti metri prima del passaggio a livello si trova il pannello distanziometrico a tre strisce?",
+      "why": "I pannelli si trovano a circa 240 m (tre strisce), 160 m (due) e 80 m (una) prima del passaggio. Ogni striscia vale circa 80 metri.",
+      "tip": "Una striscia = 80 metri."
+    },
+    "si18": {
+      "prompt": "Chi puoi ancora sorpassare a questo segnale?",
+      "options": ["Un ciclista", "Una moto senza sidecar", "Un’auto lenta"],
+      "why": "Il segnale 276 vieta il sorpasso dei veicoli a motore a più tracce e delle moto con sidecar. I veicoli a una traccia — bici, ciclomotori, moto — si possono ancora sorpassare con spazio sufficiente."
+    },
+    "si19": {
+      "prompt": "Guidi un’auto con rimorchio, in tutto oltre 3,5 t. Puoi sorpassare a questo segnale?",
+      "options": ["Sì — le auto sono escluse da questo divieto", "No — l’insieme pesa più di 3,5 t", "Solo i ciclisti"],
+      "why": "Il segnale 277 vale per i veicoli a motore oltre 3,5 t compresi i rimorchi, e per i trattori. Auto e autobus sono espressamente esclusi, con o senza rimorchio."
+    },
+    "si20": {
+      "prompt": "Cosa annulla questo segnale?",
+      "options": ["Tutte le limitazioni del tratto precedente, come limiti di velocità e divieti di sorpasso", "Solo il divieto di sorpasso", "La strada con diritto di precedenza"],
+      "why": "Il segnale 282 chiude tutte le limitazioni del tratto. Dopo valgono di nuovo le regole generali — fuori dai centri abitati, per esempio, 100 km/h per le auto."
+    },
+    "si21": {
+      "prompt": "Cosa richiede questo segnale?",
+      "options": ["Non andare sotto i 30 km/h, salvo che traffico, visibilità o meteo lo richiedano", "Andare al massimo a 30 km/h", "Andare esattamente a 30 km/h"],
+      "why": "I segnali rotondi blu danno un obbligo: il segnale 275 è una velocità minima. I veicoli che non possono andare così veloci non possono usare la strada.",
+      "tip": "Blu = obbligo. Bordo rosso = divieto."
+    },
+    "si22": {
+      "prompt": "Chi può usare questi percorsi?",
+      "options": ["I ciclisti (e, sui due a destra, i pedoni)", "Le auto, quando la strada è intasata", "Le moto"],
+      "why": "Il segnale 237 è una pista ciclabile, il 240 un percorso promiscuo, il 241 un percorso pedonale e ciclabile separato. Su nessuno puoi andare in auto; i monopattini elettrici, al contrario, devono usare le piste ciclabili."
+    },
+    "si23": {
+      "prompt": "Per quanti metri prima e dopo questo segnale non puoi sostare?",
+      "why": "Il segnale 224 indica una fermata di autobus o tram. La sosta è vietata per 15 m da ciascun lato, così autobus e tram possono entrare e uscire."
+    },
+    "si24": {
+      "prompt": "Chi può entrare nonostante il divieto?",
+      "options": ["Residenti e chi ha qualcosa da fare lì, come visite e consegne", "Chiunque cerchi una scorciatoia", "Nessuno"],
+      "why": "«Anlieger frei» fa entrare chiunque abbia qualcosa da fare in quella strada — residenti, visite, consegne. Il traffico di attraversamento resta vietato."
+    },
+    "si25": {
+      "prompt": "Quando vale questo divieto di fermata?",
+      "options": ["Solo tra le 16 e le 18", "Tutto il giorno", "Solo la mattina nei giorni feriali"],
+      "why": "Un pannello integrativo restringe il segnale principale. Con «16-18 h» il divieto di fermata vale solo in quelle due ore."
+    },
+    "si26": {
+      "prompt": "Cosa significa questa linea continua?",
+      "options": ["Non si può superare", "Non ci si può nemmeno circolare sopra", "Il sorpasso è consentito se la strada è libera"],
+      "why": "La linea continua di separazione (295) non si può oltrepassare né percorrere. Non ci si può nemmeno fermare alla sua sinistra."
+    },
+    "si27": {
+      "prompt": "Cosa vale per questa linea tratteggiata?",
+      "options": ["Posso oltrepassarla se nessuno è in pericolo", "Non posso mai oltrepassarla", "Indica una corsia di sosta"],
+      "why": "La linea tratteggiata (340) divide le corsie. Si può oltrepassare, ad esempio per sorpassare, quando il traffico lo permette."
+    },
+    "si28": {
+      "prompt": "Cosa significa questa segnaletica?",
+      "options": ["Zona zebrata — non ci si passa sopra", "Sosta consentita", "Solo autobus"],
+      "why": "La zona zebrata (298) non può essere usata dai veicoli in alcun modo — né per circolare, né per fermarsi o sostare."
+    },
+    "si29": {
+      "prompt": "Cosa indica questa linea a zigzag?",
+      "options": ["Un’area dove fermata o sosta sono vietate", "Una strada di gioco", "Una corsia ciclabile"],
+      "why": "La linea a zigzag (299) indica o prolunga un’area con divieto di fermata o di sosta, ad esempio davanti a uscite o fermate degli autobus."
+    },
+    "si30": {
+      "prompt": "Vedi questo segnale prima di una strettoia. Cosa fai?",
+      "options": ["Do la precedenza al traffico di fronte, aspettando se serve", "Passo in fretta prima che arrivi il traffico di fronte", "Suono e passo"],
+      "why": "Il segnale 208 significa «dare precedenza nei sensi unici alternati». La freccia rossa sei tu: aspetti. Chi arriva di fronte vede il segnale 308.",
+      "tip": "Freccia rossa = aspetto io."
+    },
+    "si31": {
+      "prompt": "Cosa significa questo pannello sotto un limite di velocità?",
+      "options": ["Il limite vale per i prossimi 800 metri", "Il limite inizia tra 800 metri", "Il prossimo distributore è a 800 metri"],
+      "why": "«auf 800 m» indica la lunghezza su cui vale la limitazione; non segue un segnale di fine. «nach 200 m», invece, dice dove inizia qualcosa.",
+      "tip": "«auf» = per quanto. «nach» = dopo quanto."
+    },
+    "si32": {
+      "prompt": "Cosa indicano queste frecce bianche e rosse?",
+      "options": ["La direzione di una curva", "Un’uscita di cantiere", "Un divieto di sorpasso"],
+      "why": "I pannelli direzionali (625) mostrano da che parte gira la curva. Dove ci sono, la curva è spesso più stretta di quanto sembri."
+    },
+    "sp01": {
+      "prompt": "Qual è il limite di velocità per un’auto fuori dai centri abitati senza segnali (non in autostrada)?",
+      "why": "Fuori dai centri abitati il limite per le auto è 100 km/h (§ 3 c. 3 StVO). In autostrada non c’è un limite generale per le auto, ma la velocità massima raccomandata è 130 km/h.",
+      "tip": "Città 50, fuori 100, autostrada 130 raccomandati."
+    },
+    "sp02": {
+      "prompt": "Cosa vale in autostrada quando non è indicato alcun limite?",
+      "options": ["Si raccomanda al massimo 130 km/h", "130 km/h è il limite di legge", "Non c’è niente da considerare"],
+      "why": "I 130 km/h sono una raccomandazione, non un limite. Ma se vai più veloce e resti coinvolto in un incidente, può esserti attribuita una parte di responsabilità anche se per il resto non hai colpa."
+    },
+    "sp03": {
+      "prompt": "Qual è la velocità massima di un’auto con rimorchio fuori dai centri abitati e in autostrada (senza omologazione speciale)?",
+      "why": "Con rimorchio le auto sono limitate a 80 km/h fuori dai centri abitati e in autostrada. Con l’omologazione «Tempo 100» per l’insieme sono consentiti 100 km/h su autostrade e superstrade."
+    },
+    "sp04": {
+      "prompt": "Nebbia, neve o pioggia riducono la visibilità sotto i 50 m. A quanto puoi andare al massimo?",
+      "why": "Con visibilità sotto i 50 m per nebbia, neve o pioggia non puoi superare i 50 km/h, e spesso devi andare più piano (§ 3 c. 1 StVO). I delineatori a bordo strada distano 50 m tra loro: aiutano a stimare la distanza.",
+      "tip": "Non vedi il delineatore successivo? Sotto i 50 km/h."
+    },
+    "sp05": {
+      "prompt": "Qual è la velocità massima con le catene da neve montate?",
+      "why": "Con le catene il limite è 50 km/h, anche dove normalmente sarebbe consentito di più. Usa le catene solo su un manto di neve continuo."
+    },
+    "sp06": {
+      "prompt": "A che velocità puoi andare quando non vedi lontano davanti a te?",
+      "options": ["In modo da potermi fermare entro la distanza che vedo", "Su strade molto strette, in modo da potermi fermare entro metà di quella distanza", "Quanto permette il segnale"],
+      "why": "Guida entro la visibilità (§ 3 c. 1 StVO): devi poterti fermare entro la distanza che vedi. Su una strada così stretta che il traffico di fronte sarebbe in pericolo, entro metà — perché anche l’altra persona alla guida ha bisogno di spazio per fermarsi."
+    },
+    "sp07": {
+      "prompt": "Secondo la regola pratica, quanto è lo spazio di reazione a 50 km/h?",
+      "why": "50 ÷ 10 = 5, per 3 = 15 m. Regole pratiche: spazio di reazione = (velocità ÷ 10) × 3. Spazio di frenata = (velocità ÷ 10) × (velocità ÷ 10). Nella frenata d’emergenza lo spazio di frenata si dimezza. Spazio di arresto = spazio di reazione + spazio di frenata."
+    },
+    "sp08": {
+      "prompt": "Secondo la regola pratica, quanto è lo spazio di frenata normale a 50 km/h?",
+      "why": "50 ÷ 10 = 5, per 5 = 25 m. Regole pratiche: spazio di reazione = (velocità ÷ 10) × 3. Spazio di frenata = (velocità ÷ 10) × (velocità ÷ 10). Nella frenata d’emergenza lo spazio di frenata si dimezza. Spazio di arresto = spazio di reazione + spazio di frenata."
+    },
+    "sp09": {
+      "prompt": "Secondo la regola pratica, quanto è lo spazio di arresto a 100 km/h (frenata normale)?",
+      "why": "Reazione 10 × 3 = 30 m, frenata 10 × 10 = 100 m, in tutto 130 m. Regole pratiche: spazio di reazione = (velocità ÷ 10) × 3. Spazio di frenata = (velocità ÷ 10) × (velocità ÷ 10). Nella frenata d’emergenza lo spazio di frenata si dimezza. Spazio di arresto = spazio di reazione + spazio di frenata."
+    },
+    "sp10": {
+      "prompt": "Secondo la regola pratica, quanto è lo spazio di frenata in una frenata d’emergenza da 100 km/h?",
+      "why": "Frenata normale 10 × 10 = 100 m; la frenata d’emergenza la dimezza: 50 m. Regole pratiche: spazio di reazione = (velocità ÷ 10) × 3. Spazio di frenata = (velocità ÷ 10) × (velocità ÷ 10). Nella frenata d’emergenza lo spazio di frenata si dimezza. Spazio di arresto = spazio di reazione + spazio di frenata."
+    },
+    "sp11": {
+      "prompt": "Secondo la regola pratica, quanto è lo spazio di arresto a 70 km/h (frenata normale)?",
+      "why": "Reazione 7 × 3 = 21 m, frenata 7 × 7 = 49 m, in tutto 70 m. Regole pratiche: spazio di reazione = (velocità ÷ 10) × 3. Spazio di frenata = (velocità ÷ 10) × (velocità ÷ 10). Nella frenata d’emergenza lo spazio di frenata si dimezza. Spazio di arresto = spazio di reazione + spazio di frenata."
+    },
+    "sp12": {
+      "prompt": "Vai al doppio della velocità. Cosa succede allo spazio di reazione e a quello di frenata?",
+      "options": ["Lo spazio di reazione raddoppia", "Lo spazio di frenata quadruplica", "Lo spazio di frenata raddoppia"],
+      "why": "Lo spazio di reazione cresce in proporzione alla velocità; lo spazio di frenata con il suo quadrato. Il doppio della velocità significa quattro volte lo spazio di frenata.",
+      "tip": "Velocità doppia, frenata quadrupla."
+    },
+    "sp13": {
+      "prompt": "Vai a 80 km/h fuori città. Quanti metri di distanza devi tenere almeno dal veicolo davanti (regola «metà tachimetro»)?",
+      "why": "Fuori città vale la regola «metà tachimetro»: metà della velocità, in metri — 40 m a 80 km/h, poco meno di due secondi. Meno di tre decimi di questo è considerato tallonamento pericoloso e viene multato.",
+      "tip": "Conta due secondi: «ventuno, ventidue»."
+    },
+    "sp14": {
+      "prompt": "Cosa allunga lo spazio di arresto?",
+      "options": ["La stanchezza, perché la reazione arriva più tardi", "Una strada bagnata o scivolosa", "Pneumatici nuovi con battistrada profondo"],
+      "why": "Lo spazio di arresto è reazione più frenata. Stanchezza, distrazione e alcol allungano la prima; bagnato, foglie, neve, pneumatici consumati e carico pesante la seconda."
+    },
+    "sp15": {
+      "prompt": "Quando devi andare più piano di quanto consente il limite?",
+      "options": ["Con nebbia, pioggia o fondo scivoloso", "Quando ci sono bambini a bordo strada", "Quando qualcuno mi sta attaccato dietro"],
+      "why": "Il limite è un tetto massimo. La velocità deve adattarsi a strada, traffico, visibilità e meteo (§ 3 c. 1 StVO), con attenzione in più vicino a bambini, anziani e chi ha bisogno di aiuto."
+    },
+    "sp16": {
+      "prompt": "Puoi andare molto piano senza motivo?",
+      "options": ["No, non così piano da ostacolare il flusso del traffico", "Sì, piano è sempre sicuro", "Sì, ma solo in autostrada"],
+      "why": "Senza un motivo valido i veicoli a motore non devono andare così piano da ostacolare il traffico (§ 3 c. 2 StVO). Andare piano senza motivo spinge gli altri a sorpassi rischiosi."
+    },
+    "sp17": {
+      "prompt": "Secondo la regola pratica, quanto è lo spazio di frenata in una frenata d’emergenza da 80 km/h?",
+      "why": "Frenata normale 8 × 8 = 64 m; la metà è 32 m. Regole pratiche: spazio di reazione = (velocità ÷ 10) × 3. Spazio di frenata = (velocità ÷ 10) × (velocità ÷ 10). Nella frenata d’emergenza lo spazio di frenata si dimezza. Spazio di arresto = spazio di reazione + spazio di frenata."
+    },
+    "sp18": {
+      "prompt": "Secondo la regola pratica, quanto è lo spazio di reazione a 100 km/h?",
+      "why": "100 ÷ 10 = 10, per 3 = 30 m — in quel secondo prima ancora di toccare il freno. Regole pratiche: spazio di reazione = (velocità ÷ 10) × 3. Spazio di frenata = (velocità ÷ 10) × (velocità ÷ 10). Nella frenata d’emergenza lo spazio di frenata si dimezza. Spazio di arresto = spazio di reazione + spazio di frenata."
+    },
+    "sp19": {
+      "prompt": "Secondo la regola pratica, quanto è lo spazio di frenata normale a 30 km/h?",
+      "why": "30 ÷ 10 = 3, per 3 = 9 m. Da 50 km/h sono già 25 m — ecco perché davanti alle scuole c’è il 30. Regole pratiche: spazio di reazione = (velocità ÷ 10) × 3. Spazio di frenata = (velocità ÷ 10) × (velocità ÷ 10). Nella frenata d’emergenza lo spazio di frenata si dimezza. Spazio di arresto = spazio di reazione + spazio di frenata."
+    },
+    "sp20": {
+      "prompt": "Vai a 50 km/h in città. Qual è la distanza minima ragionevole dal veicolo davanti?",
+      "options": ["Circa lo spazio che percorro in un secondo (circa 15 m)", "Una lunghezza d’auto", "Così vicino che nessuno si infili"],
+      "why": "La distanza deve permetterti di fermarti anche se chi precede frena all’improvviso (§ 4 c. 1 StVO). In città il minimo è la distanza di un secondo; fuori città «metà tachimetro»."
+    },
+    "ov01": {
+      "prompt": "Quando è vietato sorpassare?",
+      "options": ["Quando la situazione del traffico non è chiara", "Quando la mia velocità non è molto superiore a quella del veicolo da sorpassare", "Quando il traffico di fronte è lontano"],
+      "why": "Puoi sorpassare solo se vedi che il traffico di fronte non sarà ostacolato e se la tua velocità è nettamente superiore a quella del veicolo sorpassato. Con una situazione poco chiara il sorpasso è vietato (§ 5 c. 2 e 3 StVO).",
+      "tip": "Nel dubbio, non sorpassare."
+    },
+    "ov02": {
+      "prompt": "Qual è la distanza laterale minima quando sorpassi un ciclista fuori città?",
+      "why": "Sorpassando pedoni, ciclisti e persone in monopattino elettrico la distanza minima è 1,5 m in città e 2 m fuori (§ 5 c. 4 StVO). Se non c’è spazio, non sorpassi.",
+      "tip": "Città 1,5 — fuori 2."
+    },
+    "ov03": {
+      "prompt": "Qualcuno ti sta sorpassando. Cosa non devi fare?",
+      "options": ["Accelerare", "Spostarmi più a destra", "Continuare a velocità costante"],
+      "why": "Durante un sorpasso, chi viene sorpassato non deve accelerare (§ 5 c. 6 StVO). Se serve, rallenta e tieni la destra."
+    },
+    "ov04": {
+      "prompt": "Il veicolo davanti mette la freccia a sinistra e si è spostato verso il centro. Come lo superi?",
+      "options": ["A destra", "A sinistra", "Per niente — devo sempre aspettare dietro"],
+      "why": "Un veicolo che ha messo la freccia e si è posizionato per svoltare a sinistra si supera a destra (§ 5 c. 7 StVO), se c’è spazio sufficiente."
+    },
+    "ov05": {
+      "prompt": "Dove è vietato sorpassare?",
+      "options": ["In prossimità degli attraversamenti pedonali e su di essi", "Dai segnali di pericolo prima di un passaggio a livello fino a dopo i binari", "Su ogni ponte"],
+      "why": "Sugli attraversamenti pedonali non si sorpassa (§ 26 c. 3 StVO). Dal segnale 151 o 156 fino a dopo il passaggio a livello i veicoli a motore non possono sorpassare altri veicoli a motore (§ 19 c. 1 StVO). Per i ponti non c’è una regola generale."
+    },
+    "ov06": {
+      "prompt": "Cosa devi fare quando sorpassi?",
+      "options": ["Prima di uscire, freccia a sinistra e sguardo sopra la spalla", "Freccia a destra quando rientro", "Non tagliare la strada al veicolo sorpassato quando rientro"],
+      "why": "Uscire e rientrare sono cambi di corsia: freccia per tempo, specchietto e sguardo sopra la spalla (§ 5 c. 4a StVO). Rientra solo quando non intralci il veicolo sorpassato."
+    },
+    "ov07": {
+      "prompt": "In autostrada la corsia di sinistra avanza piano in coda. Puoi andare più veloce a destra?",
+      "options": ["Sì, al massimo 20 km/h più veloce e con grande cautela, se la sinistra va a 60 km/h o meno", "Sì, quanto voglio", "No, mai"],
+      "why": "Se i veicoli a sinistra sono fermi o lenti, li puoi superare a destra solo un po’ più veloce e con grande cautela (§ 7 c. 2a StVO). I tribunali lo fissano a non più di 20 km/h in più, con la sinistra a 60 km/h o meno."
+    },
+    "ov08": {
+      "prompt": "Dal tuo lato della strada c’è un ostacolo e arriva traffico di fronte. Chi deve aspettare?",
+      "options": ["Io", "Il traffico di fronte", "Chi arriva prima"],
+      "why": "Chi ha l’ostacolo dal proprio lato deve lasciar passare i veicoli di fronte (§ 6 StVO). Metti la freccia quando ti sposti per aggirarlo.",
+      "tip": "Chi ha il lato bloccato aspetta."
+    },
+    "ov09": {
+      "prompt": "Come sorpassi un tram su una strada a doppio senso?",
+      "options": ["A destra", "A sinistra", "Da entrambi i lati"],
+      "why": "I veicoli su rotaia si sorpassano a destra. A sinistra solo nei sensi unici o dove i binari sono troppo spostati a destra (§ 5 c. 7 StVO)."
+    },
+    "ov10": {
+      "prompt": "A cosa devi prepararti quando sorpassi un camion su una strada extraurbana?",
+      "options": ["Lo spazio di sorpasso è molto lungo", "Uscendo da dietro può colpirmi il vento laterale", "Il camion mi nasconde il traffico di fronte"],
+      "why": "Un camion è lungo e spesso è solo un po’ più lento di te, quindi il sorpasso può richiedere alcune centinaia di metri. Da dietro vedi poco del traffico di fronte, e uscendo dalla sua scia il vento laterale può spingerti di lato."
+    },
+    "ov11": {
+      "prompt": "Quando puoi superare altri veicoli a destra in città?",
+      "options": ["Sulle strade con più corsie segnate in un senso", "Ogni volta che c’è spazio a destra", "Mai"],
+      "why": "Nei centri abitati i veicoli a motore fino a 3,5 t possono scegliere qualsiasi corsia sulle strade con più corsie segnate in un senso, e allora possono anche andare più veloci a destra (§ 7 c. 3 StVO)."
+    },
+    "ov12": {
+      "prompt": "Sei dietro a un ciclista, arriva traffico di fronte e non c’è spazio per 1,5 m. Cosa fai?",
+      "options": ["Resto dietro al ciclista finché posso sorpassare con spazio sufficiente", "Sorpasso stretto — il ciclista può spostarsi", "Suono perché il ciclista faccia spazio"],
+      "why": "La distanza minima è legge, non un consiglio. Se non c’è spazio, non sorpassi. Il clacson serve solo per avvertire di un pericolo."
+    }
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "practical": {
+    "overview": {
+      "title": "Cum se desfășoară examenul",
+      "body": [
+        "Examenul durează în total 55 de minute, din care cel puțin 30 de condus efectiv. Conduci mașina școlii de șoferi, cu instructorul alături; examinatorul (de la TÜV sau DEKRA) stă în spate.",
+        "Întâi examinatorul verifică actul de identitate. Urmează pregătirea și verificarea vehiculului, condusul prin oraș, pe drumuri din afara localității și de obicei pe autostradă sau drum expres, precum și manevrele stabilite.",
+        "La final primești rezultatul pe loc, cu feedback pentru fiecare dintre cele cinci domenii de competență. Dacă promovezi, primești permisul — sau o adeverință provizorie — imediat după examen.",
+        "Examenul practic trebuie dat în 12 luni de la promovarea teoriei. Nu a mers? De obicei îl poți repeta cel mai devreme după două săptămâni."
+      ],
+      "checklist": [
+        "Buletinul sau pașaportul la mine",
+        "Ochelari sau lentile, dacă permisul le cere",
+        "Pantofi comozi, cu talpă plată",
+        "Odihnă bună și 0,0 alcool",
+        "La școala de șoferi cu 15 minute mai devreme"
+      ],
+      "pitfalls": [
+        "Fără act de identitate valabil examenul nu are loc — iar taxa se pierde de obicei oricum."
+      ]
+    },
+    "checks": {
+      "title": "Pregătirea și verificarea vehiculului",
+      "body": [
+        "Înainte de plecare reglezi scaunul, volanul, oglinzile și tetiera și îți pui centura. Examinatorul îți cere de obicei să arăți sau să explici câteva lucruri la mașină.",
+        "Puncte tipice: aprinderea și verificarea luminilor; anvelopele (profil, defecte, unde scrie presiunea); nivelurile lichidelor (ulei de motor, lichid de răcire, lichid de parbriz, lichid de frână); claxonul; martorii de pe bord."
+      ],
+      "checklist": [
+        "Scaunul reglat astfel încât pedala de ambreiaj sau de frână să se apese până la capăt",
+        "Oglinda interioară și cele exterioare reglate",
+        "Tetiera: marginea de sus cam la nivelul creștetului",
+        "Pot arăta faza scurtă și lungă, semnalizările, avariile, lampa de ceață spate",
+        "Pot găsi joja și citi nivelul uleiului",
+        "Știu unde e scrisă presiunea corectă a anvelopelor"
+      ],
+      "pitfalls": [
+        "Plecarea fără reglarea oglinzilor sau fără centură."
+      ]
+    },
+    "parallel": {
+      "title": "Parcare laterală cu spatele",
+      "body": [
+        "Intri cu spatele într-un loc la bordura din dreapta, între două vehicule. Locul ar trebui să aibă cel puțin circa o lungime și jumătate de mașină.",
+        "Oprește la circa 50 cm lângă mașina din față, cu spatele la nivelul spatelui ei. Dă încet înapoi până când axa ta din spate ajunge la nivelul barei ei din spate, apoi bracează complet la dreapta. La circa 45°, îndreaptă roțile și dă înapoi, apoi bracează complet la stânga până ajungi paralel."
+      ],
+      "checklist": [
+        "Semnalizare la dreapta înainte de oprire",
+        "Privire de jur împrejur înainte de mersul înapoi",
+        "Privire continuă în spate și lateral, nu doar în oglindă",
+        "Final la cel mult circa 30 cm de bordură, cu roțile drepte"
+      ],
+      "pitfalls": [
+        "Urcarea cu roata din spate pe bordură.",
+        "Neatenția la trafic în timp ce partea din față iese în afară.",
+        "Prea multe corecții."
+      ]
+    },
+    "bay": {
+      "title": "Parcare perpendiculară sau oblică",
+      "body": [
+        "Parchezi cu fața sau cu spatele într-un loc perpendicular sau oblic față de drum, de exemplu într-o parcare. Mașina trebuie să ajungă centrată și dreaptă, fără să treacă peste linii.",
+        "Cu spatele e de obicei mai ușor, pentru că roțile din față fac direcția: treci de loc, bracează când spatele a trecut cam de linia îndepărtată și aliniază mașina cu marcajele."
+      ],
+      "checklist": [
+        "Semnalizare înainte de intrarea în loc",
+        "Atenție la pietonii din parcare",
+        "Centrat între linii, roțile drepte"
+      ],
+      "pitfalls": [
+        "Aproape atingerea mașinii vecine, fără oprire."
+      ]
+    },
+    "corner": {
+      "title": "Mers înapoi după colț",
+      "body": [
+        "Dai înapoi la dreapta într-o stradă laterală, o intersecție sau o intrare, urmând bordura la distanță constantă.",
+        "Treci de deschidere și oprește aproape de bordură. Dă încet înapoi; când în oglinda dreaptă vezi bordura curbându-se, începe să bracezi la dreapta. După colț îndreaptă roțile și dă înapoi până te oprește examinatorul."
+      ],
+      "checklist": [
+        "Privire de jur împrejur înainte și în timpul mersului înapoi",
+        "Pietonii de la colț au întâietate",
+        "Distanță constantă față de bordură"
+      ],
+      "pitfalls": [
+        "Partea din față intră neobservat în traficul din sens opus."
+      ]
+    },
+    "turnround": {
+      "title": "Întoarcerea",
+      "body": [
+        "Întorci mașina pe un drum în sens opus, cu mers înainte și înapoi. Nu ai voie să atingi bordurile."
+      ],
+      "checklist": [
+        "Doar unde e permis și vizibilitatea e bună",
+        "Privire în ambele părți înainte de fiecare mișcare",
+        "Deplasare lentă, bracare rapidă"
+      ],
+      "pitfalls": [
+        "Blocarea traficului în loc să-l lași să treacă."
+      ]
+    },
+    "emergency": {
+      "title": "Frânarea de urgență",
+      "body": [
+        "La semnalul examinatorului frânezi de la circa 30 km/h cât poți de tare, până la oprire. Mașina trebuie să rămână dreaptă.",
+        "Cu ABS: apasă frâna și ambreiajul până la capăt și ține-le. Vibrațiile din pedală sunt normale. Examinatorul verifică dinainte că nu vine nimeni din spate."
+      ],
+      "checklist": [
+        "Reacție la comandă, nu înainte",
+        "Apăsare completă, nu treptată",
+        "După aceea, avarii sau privire în oglindă înainte de a pleca"
+      ],
+      "pitfalls": [
+        "Frânare prea blândă."
+      ]
+    },
+    "competences": {
+      "title": "Cele cinci domenii de competență",
+      "body": [
+        "Examinatorul nu doar numără „greșelile” una câte una, ci îți evaluează condusul în cinci domenii — pe tot parcursul examenului și în situații precum intersecții, sensuri giratorii, schimbări de bandă, intrări pe autostradă, curbe și treceri de pietoni."
+      ],
+      "checklist": [
+        "Observare: oglinzi, priviri peste umăr, privire departe înainte",
+        "Poziționare: banda corectă, distanța în față și lateral",
+        "Viteză: potrivită limitei, vizibilității și situației",
+        "Comunicare: semnalizare la timp, contact vizual, intenții clare",
+        "Manevrarea vehiculului și condus economic: schimbarea treptelor, direcția, frânare lină"
+      ]
+    },
+    "fail": {
+      "title": "Pentru ce se pică cel mai des",
+      "body": [
+        "Micile scăpări nu duc la respingere. Pici pentru o greșeală gravă — de exemplu când cineva e pus în pericol — sau când greșelile mici se repetă."
+      ],
+      "pitfalls": [
+        "Nerespectarea priorității, mai ales „dreapta înaintea stângii” în zonele 30",
+        "Lipsa privirii peste umăr la viraj, la plecare sau la schimbarea benzii",
+        "Lipsa opririi complete la indicatorul STOP",
+        "Nelăsarea pietonilor să traverseze pe trecere",
+        "Depășirea clară a vitezei, de exemplu într-o zonă 30",
+        "Trecerea pe roșu",
+        "Instructorul e nevoit să intervină (frâna dublă sau volanul)"
+      ]
+    },
+    "phrases": {
+      "title": "Ce spune examinatorul",
+      "body": [
+        "Examenul practic e în germană. Examinatorul dă indicațiile din timp. Dacă nu înțelegi, întreabă — nu e o greșeală."
+      ],
+      "phrases": [
+        "La următoarea intersecție, vă rog, la dreapta.",
+        "Vă rog, virați la stânga.",
+        "Vă rog, continuați înainte.",
+        "Vă rog, urmați cursul drumului.",
+        "Urmați indicatoarele spre autostradă.",
+        "În sensul giratoriu, vă rog, a doua ieșire.",
+        "Vă rog, opriți aici pe dreapta, la marginea drumului.",
+        "Vă rog, parcați cu spatele în spatele mașinii albastre.",
+        "Vă rog, întoarceți aici.",
+        "Când spun „Stopp”, vă rog să faceți o frânare de urgență.",
+        "Vă rog, porniți din nou când traficul permite.",
+        "Examenul s-a încheiat. Ați promovat."
+      ]
+    }
+  },
+  "conversion": {
+    "eu": {
+      "title": "Permis din UE sau SEE",
+      "body": [
+        "Un permis valabil dintr-o țară UE sau SEE (UE plus Islanda, Liechtenstein și Norvegia) rămâne valabil în Germania. Nu trebuie preschimbat.",
+        "Dacă permisul are dată de expirare, îl reînnoiești la biroul german de permise după ce locuiești aici."
+      ]
+    },
+    "six-months": {
+      "title": "Toți ceilalți: șase luni",
+      "body": [
+        "Cu un permis din orice altă țară poți conduce șase luni din ziua în care îți stabilești domiciliul în Germania. Dacă stai doar temporar, poți cere încă cel mult șase luni.",
+        "După aceea ai nevoie de un permis german. Condusul cu cel străin după termen e condus fără permis, adică infracțiune.",
+        "Dacă permisul nu e în germană și nu urmează un model internațional, în aceste șase luni ai nevoie de o traducere sau de un permis internațional."
+      ]
+    },
+    "which-case": {
+      "title": "Ce examene îți trebuie",
+      "body": [
+        "Depinde dacă țara emitentă e listată în anexa 11 a Regulamentului privind permisele de conducere și pentru ce categorie. Există trei cazuri:",
+        "1. Țara ta e listată pentru categoria B fără examene (de exemplu Japonia, Elveția, Regatul Unit și, din august 2026, Ucraina): depui cererea, iar examenele se elimină.",
+        "2. Țara ta e listată cu „doar examen teoretic”: dai teoria, iar practica se elimină.",
+        "3. Țara ta nu e listată (cazul multor țări, precum și al unor state din SUA și provincii din Canada, listate separat): dai și teoria, și practica. Lecțiile nu sunt obligatorii, dar examenul se dă cu mașina școlii de șoferi.",
+        "Lista se schimbă. Verifică textul actual al anexei 11 și întreabă la biroul local de permise înainte de a programa ceva."
+      ]
+    },
+    "documents": {
+      "title": "Cererea și ce trebuie adus",
+      "body": [
+        "Depui cererea la biroul de permise (Führerscheinstelle) de la domiciliu, cât mai devreme; procesarea durează adesea săptămâni.",
+        "De obicei: permisul străin original, o traducere (de exemplu de la ADAC sau de la un traducător autorizat), pașaportul sau buletinul, adeverința de domiciliu (Meldebescheinigung), o fotografie biometrică, un test de vedere și de obicei adeverința unui curs de prim ajutor. Biroul îți spune exact ce îi trebuie.",
+        "Când primești permisul german, îl predai pe cel străin."
+      ]
+    },
+    "tests": {
+      "title": "Dacă trebuie să dai examenele",
+      "body": [
+        "Înscrie-te la o școală de șoferi; ea te înscrie la examen la TÜV sau DEKRA. Teoria o poți da în germană sau în una din celelalte douăsprezece limbi — aceleași ca în această aplicație.",
+        "Chiar și șoferii cu experiență ar trebui să facă câteva lecții: examenul urmărește lucruri care funcționează altfel în alte țări — „dreapta înaintea stângii”, privirea peste umăr la fiecare viraj, zonele 30 și oprirea completă la fiecare STOP."
+      ]
+    },
+    "costs": {
+      "title": "Cât costă aproximativ",
+      "body": [
+        "Taxele diferă după oraș și școală de șoferi. Orientativ: taxa biroului circa 40–50 €, traducerea 30–60 €, examenul teoretic la TÜV sau DEKRA circa 25 €, examenul practic circa 130 €, plus costurile școlii de șoferi pentru înscriere, lecții și mașina din ziua examenului."
+      ]
+    }
+  }
+}

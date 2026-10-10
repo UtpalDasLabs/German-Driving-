@@ -1,0 +1,322 @@
+{
+  "questions": {
+    "si01": {
+      "prompt": "Gdzie kończy się to ograniczenie prędkości?",
+      "options": ["Przy znaku, który je odwołuje (np. 278 lub 282)", "Zawsze na najbliższym skrzyżowaniu", "Dokładnie po 500 metrach"],
+      "why": "Ograniczenia na odcinku obowiązują, dopóki nie odwoła ich znak — nie kończą się same za skrzyżowaniem. Wyjątki: tabliczka podaje długość odcinka albo ograniczenie stoi razem ze znakiem ostrzegawczym i wyraźnie kończy się wraz z zagrożeniem.",
+      "tip": "Skrzyżowanie nie odwołuje ograniczenia prędkości."
+    },
+    "si02": {
+      "prompt": "Co wolno na jezdni przy tym znaku?",
+      "options": ["Nic — zatrzymanie jest całkowicie zabronione", "Krótkie zatrzymanie, żeby ktoś wysiadł", "Postój do trzech minut"],
+      "why": "Znak 283 to bezwzględny zakaz zatrzymywania się: na jezdni nie wolno się zatrzymać wcale, nawet na chwilę, żeby ktoś wsiadł lub wysiadł.",
+      "tip": "Krzyż = nigdy. Jeden pas = na chwilę."
+    },
+    "si03": {
+      "prompt": "Na co pozwala ten znak?",
+      "options": ["Na zatrzymanie do trzech minut", "Na dłuższe zatrzymanie w celu załadunku albo wsiadania i wysiadania", "Na postój"],
+      "why": "Znak 286, ograniczony zakaz zatrzymywania się, zabrania zatrzymania dłuższego niż trzy minuty, z wyjątkiem wsiadania i wysiadania lub załadunku i rozładunku. Postój jest zabroniony."
+    },
+    "si04": {
+      "prompt": "Co oznacza ten znak?",
+      "options": ["Zakaz ruchu wszelkich pojazdów — rower można prowadzić", "Tylko dla mieszkańców", "Rowerzyści mogą jechać"],
+      "why": "Znak 250 zakazuje ruchu pojazdów wszelkiego rodzaju. Nie dotyczy wózków ręcznych ani prowadzonych rowerów i motocykli."
+    },
+    "si05": {
+      "prompt": "Co oznacza ten znak?",
+      "options": ["Zakaz wjazdu", "Zakaz przejazdu w obu kierunkach", "Zakaz zatrzymywania się"],
+      "why": "Znak 267 oznacza zakaz wjazdu. Zwykle stoi na końcu ulicy jednokierunkowej, w którą można wjechać z drugiej strony."
+    },
+    "si06": {
+      "prompt": "Co obowiązuje na tej ulicy?",
+      "options": ["Mogę jechać tylko w kierunku strzałki", "Mogę też zatrzymać się i zaparkować po lewej", "Mogę tu zawrócić"],
+      "why": "Znak 220 oznacza ulicę jednokierunkową. Jechać wolno tylko w kierunku strzałki; zatrzymanie i postój są dozwolone także po lewej (§ 12 ust. 4 StVO). Zawracanie oznaczałoby jazdę pod prąd."
+    },
+    "si07": {
+      "prompt": "Co mówi ten znak?",
+      "options": ["Droga bez przejazdu", "Droga z pierwszeństwem", "Zakaz postoju"],
+      "why": "Znak 357 oznacza drogę bez przejazdu: pojazdy nie przejadą dalej. Licz się z koniecznością zawrócenia."
+    },
+    "si08": {
+      "prompt": "Co obowiązuje w tej strefie?",
+      "options": ["Jazda z prędkością pieszego", "Piesi mogą korzystać z całej ulicy, a dzieci bawić się wszędzie", "Parkować można wszędzie przy krawędzi"],
+      "why": "W strefie zamieszkania (znak 325.1) obowiązuje prędkość pieszego. Piesi mogą korzystać z całej szerokości, dzieci mogą bawić się wszędzie. Parkowanie tylko w wyznaczonych miejscach.",
+      "tip": "Ulica do zabawy: tu jesteś gościem."
+    },
+    "si09": {
+      "prompt": "Wyjeżdżasz ze strefy zamieszkania na zwykłą drogę. Kto ma pierwszeństwo?",
+      "options": ["Wszyscy na drodze, na którą wjeżdżam", "Ja, jeśli jadę z prawej", "Ja, bo jadę z prędkością pieszego"],
+      "why": "Wyjeżdżając ze strefy zamieszkania, musisz przepuścić wszystkich i wykluczyć zagrożenie (§ 10 StVO) — tak jak przy wyjeździe z posesji."
+    },
+    "si10": {
+      "prompt": "Co zwykle obowiązuje w tej strefie?",
+      "options": ["Maksymalnie 30 km/h", "Na skrzyżowaniach zwykle „prawa przed lewą”", "Zakaz wyprzedzania dla wszystkich"],
+      "why": "W strefie 30 (znak 274.1) ograniczenie do 30 km/h obowiązuje, aż znak 274.2 zakończy strefę. W takich strefach nie ma dróg z pierwszeństwem, więc na skrzyżowaniach zwykle obowiązuje „prawa przed lewą”."
+    },
+    "si11": {
+      "prompt": "Jakie ograniczenie prędkości obowiązuje samochód osobowy od tego znaku, jeśli znaki nie mówią inaczej?",
+      "why": "Tablica miejscowości (310) oznacza początek obszaru zabudowanego. Wewnątrz obowiązuje dla wszystkich pojazdów silnikowych 50 km/h (§ 3 ust. 3 StVO).",
+      "tip": "Żółta tablica miejscowości = 50."
+    },
+    "si12": {
+      "prompt": "Kto może korzystać z autostrady?",
+      "options": ["Pojazdy silnikowe konstrukcyjnie szybsze niż 60 km/h", "Wszystkie pojazdy silnikowe", "Także motorowery ograniczone do 45 km/h"],
+      "why": "Autostrady (znak 330.1) i drogi ekspresowe są tylko dla pojazdów silnikowych, których prędkość konstrukcyjna przekracza 60 km/h (§ 18 ust. 1 StVO)."
+    },
+    "si13": {
+      "prompt": "Co pokazuje ten znak?",
+      "options": ["Koniec drogi z pierwszeństwem", "Początek drogi z pierwszeństwem", "Pierwszeństwo na najbliższym skrzyżowaniu"],
+      "why": "Znak 307 kończy drogę z pierwszeństwem. Dalej znów decydują znaki albo „prawa przed lewą”. Często wkrótce potem stoi znak 205."
+    },
+    "si14": {
+      "prompt": "Kiedy obowiązuje ostrzeżenie tych znaków?",
+      "options": ["Tylko gdy jezdnia jest mokra", "Zawsze", "Tylko zimą"],
+      "why": "Znak 114 ostrzega przed śliską jezdnią. Tabliczka „bei Nässe” (przy mokrej nawierzchni) ogranicza ostrzeżenie do mokrej drogi."
+    },
+    "si15": {
+      "prompt": "Czego należy się spodziewać przy tym znaku?",
+      "options": ["Dzieci nagle wbiegających na jezdnię", "Dzieci bawiących się przy drodze", "Dzieci tylko w godzinach lekcji"],
+      "why": "Znak 136 ostrzega przed dziećmi o każdej porze dnia. Zwolnij i bądź w gotowości do hamowania (§ 3 ust. 2a StVO)."
+    },
+    "si16": {
+      "prompt": "Co jest prawdą przy tym znaku?",
+      "options": ["Zwierzęta pojawiają się szczególnie o zmierzchu i świcie", "Gdzie przechodzi jedno zwierzę, często idą też inne", "Ostrzeżenie obowiązuje tylko jesienią"],
+      "why": "Znak 142 ostrzega przed dzikimi zwierzętami. Są najbardziej aktywne o świcie i zmierzchu i często poruszają się w grupach: za pierwszą sarną często idzie druga."
+    },
+    "si17": {
+      "prompt": "Mniej więcej ile metrów przed przejazdem kolejowym stoi słupek wskaźnikowy z trzema kreskami?",
+      "why": "Słupki stoją ok. 240 m (trzy kreski), 160 m (dwie) i 80 m (jedna) przed przejazdem. Każda kreska to ok. 80 metrów.",
+      "tip": "Jedna kreska = 80 metrów."
+    },
+    "si18": {
+      "prompt": "Kogo wolno jeszcze wyprzedzić przy tym znaku?",
+      "options": ["Rowerzystę", "Motocykl bez kosza", "Wolny samochód osobowy"],
+      "why": "Znak 276 zakazuje wyprzedzania wielośladowych pojazdów silnikowych i motocykli z koszem. Jednoślady — rowery, motorowery, motocykle — można wyprzedzać z odpowiednim odstępem."
+    },
+    "si19": {
+      "prompt": "Jedziesz samochodem osobowym z przyczepą, razem ponad 3,5 t. Czy możesz wyprzedzać przy tym znaku?",
+      "options": ["Tak — samochody osobowe nie są objęte tym zakazem", "Nie — zespół pojazdów jest cięższy niż 3,5 t", "Tylko rowerzystów"],
+      "why": "Znak 277 dotyczy pojazdów silnikowych powyżej 3,5 t łącznie z przyczepami oraz ciągników. Samochody osobowe i autobusy są wyraźnie wyłączone — z przyczepą czy bez."
+    },
+    "si20": {
+      "prompt": "Co odwołuje ten znak?",
+      "options": ["Wszystkie ograniczenia na odcinku przed nim, np. ograniczenia prędkości i zakazy wyprzedzania", "Tylko zakaz wyprzedzania", "Drogę z pierwszeństwem"],
+      "why": "Znak 282 odwołuje wszystkie ograniczenia na odcinku. Dalej znów obowiązują zasady ogólne — poza obszarem zabudowanym np. 100 km/h dla samochodów osobowych."
+    },
+    "si21": {
+      "prompt": "Czego wymaga ten znak?",
+      "options": ["Nie jechać wolniej niż 30 km/h, chyba że wymaga tego ruch, widoczność lub pogoda", "Jechać nie szybciej niż 30 km/h", "Jechać dokładnie 30 km/h"],
+      "why": "Okrągłe niebieskie znaki są nakazami: znak 275 to prędkość minimalna. Pojazdy, które nie mogą jechać tak szybko, nie mogą korzystać z tej drogi.",
+      "tip": "Niebieski = nakaz. Czerwona obwódka = zakaz."
+    },
+    "si22": {
+      "prompt": "Kto może korzystać z tych dróg?",
+      "options": ["Rowerzyści (a na dwóch prawych także piesi)", "Samochody, gdy jezdnia jest zatłoczona", "Motocykle"],
+      "why": "Znak 237 to droga dla rowerów, 240 wspólna, a 241 rozdzielona droga dla pieszych i rowerów. Żadną z nich nie wolno jechać samochodem; hulajnogi elektryczne natomiast muszą korzystać z dróg dla rowerów."
+    },
+    "si23": {
+      "prompt": "Ile metrów przed tym znakiem i za nim nie wolno parkować?",
+      "why": "Znak 224 oznacza przystanek autobusowy lub tramwajowy. Postój jest zabroniony na 15 m po obu stronach, aby autobusy i tramwaje mogły podjeżdżać i odjeżdżać."
+    },
+    "si24": {
+      "prompt": "Kto mimo zakazu może wjechać?",
+      "options": ["Mieszkańcy i osoby mające tam sprawę, np. goście i dostawy", "Każdy, kto szuka skrótu", "Nikt"],
+      "why": "„Anlieger frei” wpuszcza każdego, kto ma sprawę na tej ulicy — mieszkańców, gości, dostawy. Ruch przelotowy pozostaje zabroniony."
+    },
+    "si25": {
+      "prompt": "Kiedy obowiązuje ten zakaz zatrzymywania się?",
+      "options": ["Tylko między 16:00 a 18:00", "Przez cały dzień", "Tylko w dni robocze rano"],
+      "why": "Tabliczka zawęża znak główny. Przy „16-18 h” zakaz zatrzymywania się obowiązuje tylko w tych dwóch godzinach."
+    },
+    "si26": {
+      "prompt": "Co oznacza ta linia ciągła?",
+      "options": ["Nie wolno jej przekraczać", "Nie wolno też po niej jechać", "Wyprzedzanie jest dozwolone, jeśli droga jest wolna"],
+      "why": "Linii ciągłej (295) nie wolno przekraczać ani po niej jechać. Nie wolno też zatrzymywać się po jej lewej stronie."
+    },
+    "si27": {
+      "prompt": "Co obowiązuje przy tej linii przerywanej?",
+      "options": ["Mogę ją przekroczyć, jeśli nikt nie zostanie narażony", "Nigdy nie mogę jej przekroczyć", "Oznacza pas postojowy"],
+      "why": "Linia przerywana (340) rozdziela pasy. Można ją przekraczać, np. przy wyprzedzaniu, gdy pozwala na to ruch."
+    },
+    "si28": {
+      "prompt": "Co oznacza to oznakowanie?",
+      "options": ["Powierzchnia wyłączona z ruchu — nie wolno po niej jechać", "Postój dozwolony", "Tylko dla autobusów"],
+      "why": "Z powierzchni wyłączonej z ruchu (298) pojazdy nie mogą korzystać wcale — ani jechać po niej, ani się zatrzymywać, ani parkować."
+    },
+    "si29": {
+      "prompt": "Co pokazuje to oznakowanie zygzakowe?",
+      "options": ["Obszar, w którym zatrzymanie lub postój jest zabroniony", "Ulicę do zabawy", "Pas dla rowerów"],
+      "why": "Linia zygzakowa (299) oznacza lub wydłuża obszar zakazu zatrzymywania się lub postoju, np. przed wyjazdami albo przystankami autobusowymi."
+    },
+    "si30": {
+      "prompt": "Widzisz ten znak przed zwężeniem. Co robisz?",
+      "options": ["Przepuszczam pojazdy z naprzeciwka, w razie potrzeby czekam", "Szybko przejeżdżam, zanim nadjadą pojazdy z naprzeciwka", "Trąbię i przejeżdżam"],
+      "why": "Znak 208 oznacza „pierwszeństwo dla nadjeżdżających z przeciwka”. Czerwona strzałka to ty: czekasz. Kierowcy z naprzeciwka widzą znak 308.",
+      "tip": "Czerwona strzałka = ja czekam."
+    },
+    "si31": {
+      "prompt": "Co oznacza ta tabliczka pod ograniczeniem prędkości?",
+      "options": ["Ograniczenie obowiązuje na następnych 800 metrach", "Ograniczenie zaczyna się za 800 metrów", "Następna stacja benzynowa jest za 800 metrów"],
+      "why": "„auf 800 m” podaje długość odcinka, na którym obowiązuje ograniczenie; nie będzie po nim znaku odwołującego. „nach 200 m” mówi natomiast, gdzie coś się zaczyna.",
+      "tip": "„auf” = na jakiej długości. „nach” = za jaką odległość."
+    },
+    "si32": {
+      "prompt": "Co pokazują te czerwono-białe strzałki?",
+      "options": ["Kierunek łuku drogi", "Wyjazd z budowy", "Zakaz wyprzedzania"],
+      "why": "Tablice kierunkowe (625) pokazują, w którą stronę skręca łuk. Tam, gdzie stoją, łuk jest często ostrzejszy, niż się wydaje."
+    },
+    "sp01": {
+      "prompt": "Jakie ograniczenie prędkości obowiązuje samochód osobowy poza obszarem zabudowanym, gdy nie ma znaków (nie na autostradzie)?",
+      "why": "Poza obszarem zabudowanym samochody osobowe obowiązuje 100 km/h (§ 3 ust. 3 StVO). Na autostradach nie ma ogólnego limitu dla samochodów osobowych, ale zalecana prędkość maksymalna to 130 km/h.",
+      "tip": "Miasto 50, poza miastem 100, autostrada 130 zalecane."
+    },
+    "sp02": {
+      "prompt": "Co obowiązuje na autostradzie, gdy nie podano ograniczenia prędkości?",
+      "options": ["Zalecane jest maksymalnie 130 km/h", "130 km/h to limit ustawowy", "Nie trzeba niczego brać pod uwagę"],
+      "why": "130 km/h to zalecenie, a nie limit. Jeśli jednak jedziesz szybciej i dojdzie do wypadku, możesz ponieść część odpowiedzialności, nawet jeśli poza tym nie ponosisz winy."
+    },
+    "sp03": {
+      "prompt": "Jaka jest maksymalna prędkość samochodu osobowego z przyczepą poza obszarem zabudowanym i na autostradzie (bez specjalnego dopuszczenia)?",
+      "why": "Z przyczepą samochody osobowe są ograniczone do 80 km/h poza obszarem zabudowanym i na autostradach. Z dopuszczeniem „Tempo 100” dla zespołu na autostradach i drogach ekspresowych wolno 100 km/h."
+    },
+    "sp04": {
+      "prompt": "Mgła, śnieg lub deszcz ograniczają widoczność poniżej 50 m. Z jaką maksymalną prędkością wolno jechać?",
+      "why": "Przy widoczności poniżej 50 m z powodu mgły, śniegu lub deszczu nie wolno przekraczać 50 km/h, a często trzeba jechać wolniej (§ 3 ust. 1 StVO). Słupki przy drodze stoją co 50 m — pomagają ocenić odległość.",
+      "tip": "Nie widać następnego słupka? Poniżej 50 km/h."
+    },
+    "sp05": {
+      "prompt": "Jaka jest maksymalna prędkość z założonymi łańcuchami śniegowymi?",
+      "why": "Z łańcuchami obowiązuje 50 km/h, nawet tam, gdzie normalnie wolno więcej. Łańcuchów używaj tylko na ciągłej warstwie śniegu."
+    },
+    "sp06": {
+      "prompt": "Jak szybko wolno jechać, gdy nie widać daleko przed sobą?",
+      "options": ["Tak, by zdążyć się zatrzymać na widocznym odcinku", "Na bardzo wąskich drogach — tak, by zdążyć się zatrzymać na połowie tego odcinka", "Tak szybko, jak pozwala znak"],
+      "why": "Jazda na odległość widoczności (§ 3 ust. 1 StVO): trzeba zdążyć się zatrzymać na odcinku, który widzisz. Na drodze tak wąskiej, że pojazdy z naprzeciwka byłyby zagrożone — na połowie, bo druga strona też potrzebuje miejsca na zatrzymanie."
+    },
+    "sp07": {
+      "prompt": "Według przybliżonego wzoru, jaka jest droga reakcji przy 50 km/h?",
+      "why": "50 ÷ 10 = 5, razy 3 = 15 m. Przybliżone wzory: droga reakcji = (prędkość ÷ 10) × 3. Droga hamowania = (prędkość ÷ 10) × (prędkość ÷ 10). Przy hamowaniu awaryjnym droga hamowania spada o połowę. Droga zatrzymania = droga reakcji + droga hamowania."
+    },
+    "sp08": {
+      "prompt": "Według przybliżonego wzoru, jaka jest normalna droga hamowania przy 50 km/h?",
+      "why": "50 ÷ 10 = 5, razy 5 = 25 m. Przybliżone wzory: droga reakcji = (prędkość ÷ 10) × 3. Droga hamowania = (prędkość ÷ 10) × (prędkość ÷ 10). Przy hamowaniu awaryjnym droga hamowania spada o połowę. Droga zatrzymania = droga reakcji + droga hamowania."
+    },
+    "sp09": {
+      "prompt": "Według przybliżonego wzoru, jaka jest droga zatrzymania przy 100 km/h (normalne hamowanie)?",
+      "why": "Reakcja 10 × 3 = 30 m, hamowanie 10 × 10 = 100 m, razem 130 m. Przybliżone wzory: droga reakcji = (prędkość ÷ 10) × 3. Droga hamowania = (prędkość ÷ 10) × (prędkość ÷ 10). Przy hamowaniu awaryjnym droga hamowania spada o połowę. Droga zatrzymania = droga reakcji + droga hamowania."
+    },
+    "sp10": {
+      "prompt": "Według przybliżonego wzoru, jaka jest droga hamowania przy hamowaniu awaryjnym ze 100 km/h?",
+      "why": "Normalne hamowanie 10 × 10 = 100 m; hamowanie awaryjne skraca to o połowę: 50 m. Przybliżone wzory: droga reakcji = (prędkość ÷ 10) × 3. Droga hamowania = (prędkość ÷ 10) × (prędkość ÷ 10). Przy hamowaniu awaryjnym droga hamowania spada o połowę. Droga zatrzymania = droga reakcji + droga hamowania."
+    },
+    "sp11": {
+      "prompt": "Według przybliżonego wzoru, jaka jest droga zatrzymania przy 70 km/h (normalne hamowanie)?",
+      "why": "Reakcja 7 × 3 = 21 m, hamowanie 7 × 7 = 49 m, razem 70 m. Przybliżone wzory: droga reakcji = (prędkość ÷ 10) × 3. Droga hamowania = (prędkość ÷ 10) × (prędkość ÷ 10). Przy hamowaniu awaryjnym droga hamowania spada o połowę. Droga zatrzymania = droga reakcji + droga hamowania."
+    },
+    "sp12": {
+      "prompt": "Jedziesz dwa razy szybciej. Co dzieje się z drogą reakcji i drogą hamowania?",
+      "options": ["Droga reakcji się podwaja", "Droga hamowania rośnie czterokrotnie", "Droga hamowania się podwaja"],
+      "why": "Droga reakcji rośnie proporcjonalnie do prędkości, droga hamowania — z jej kwadratem. Dwa razy szybciej to cztery razy dłuższa droga hamowania.",
+      "tip": "Dwa razy szybciej, cztery razy dłużej hamowania."
+    },
+    "sp13": {
+      "prompt": "Jedziesz 80 km/h poza obszarem zabudowanym. Jaki odstęp w metrach trzeba zachować co najmniej do pojazdu z przodu (zasada „połowa prędkościomierza”)?",
+      "why": "Poza miastem obowiązuje zasada „połowa prędkościomierza”: połowa prędkości w metrach — 40 m przy 80 km/h, nieco poniżej dwóch sekund. Mniej niż trzy dziesiąte tego to niebezpieczna jazda na zderzaku, karana mandatem.",
+      "tip": "Odlicz dwie sekundy: „dwadzieścia jeden, dwadzieścia dwa”."
+    },
+    "sp14": {
+      "prompt": "Co wydłuża drogę zatrzymania?",
+      "options": ["Zmęczenie, bo reakcja przychodzi później", "Mokra lub śliska jezdnia", "Nowe opony z głębokim bieżnikiem"],
+      "why": "Droga zatrzymania to reakcja plus hamowanie. Zmęczenie, rozproszenie i alkohol wydłużają pierwszą część; mokra nawierzchnia, liście, śnieg, zużyte opony i ciężki ładunek — drugą."
+    },
+    "sp15": {
+      "prompt": "Kiedy trzeba jechać wolniej, niż pozwala ograniczenie?",
+      "options": ["We mgle, w deszczu albo na śliskiej drodze", "Gdy przy drodze są dzieci", "Gdy ktoś jedzie mi na zderzaku"],
+      "why": "Ograniczenie to górna granica. Prędkość musi pasować do drogi, ruchu, widoczności i pogody (§ 3 ust. 1 StVO), ze szczególną ostrożnością przy dzieciach, osobach starszych i wszystkich potrzebujących pomocy."
+    },
+    "sp16": {
+      "prompt": "Czy wolno bez powodu jechać bardzo wolno?",
+      "options": ["Nie, nie tak wolno, żeby utrudniać płynność ruchu", "Tak, wolno zawsze znaczy bezpiecznie", "Tak, ale tylko na autostradzie"],
+      "why": "Bez uzasadnionego powodu pojazdy silnikowe nie mogą jechać tak wolno, by utrudniać ruch (§ 3 ust. 2 StVO). Niepotrzebnie wolna jazda kusi innych do ryzykownego wyprzedzania."
+    },
+    "sp17": {
+      "prompt": "Według przybliżonego wzoru, jaka jest droga hamowania przy hamowaniu awaryjnym z 80 km/h?",
+      "why": "Normalne hamowanie 8 × 8 = 64 m; połowa to 32 m. Przybliżone wzory: droga reakcji = (prędkość ÷ 10) × 3. Droga hamowania = (prędkość ÷ 10) × (prędkość ÷ 10). Przy hamowaniu awaryjnym droga hamowania spada o połowę. Droga zatrzymania = droga reakcji + droga hamowania."
+    },
+    "sp18": {
+      "prompt": "Według przybliżonego wzoru, jaka jest droga reakcji przy 100 km/h?",
+      "why": "100 ÷ 10 = 10, razy 3 = 30 m — w tej jednej sekundzie, zanim noga w ogóle dotknie hamulca. Przybliżone wzory: droga reakcji = (prędkość ÷ 10) × 3. Droga hamowania = (prędkość ÷ 10) × (prędkość ÷ 10). Przy hamowaniu awaryjnym droga hamowania spada o połowę. Droga zatrzymania = droga reakcji + droga hamowania."
+    },
+    "sp19": {
+      "prompt": "Według przybliżonego wzoru, jaka jest normalna droga hamowania przy 30 km/h?",
+      "why": "30 ÷ 10 = 3, razy 3 = 9 m. Z 50 km/h to już 25 m — dlatego przed szkołami jest 30. Przybliżone wzory: droga reakcji = (prędkość ÷ 10) × 3. Droga hamowania = (prędkość ÷ 10) × (prędkość ÷ 10). Przy hamowaniu awaryjnym droga hamowania spada o połowę. Droga zatrzymania = droga reakcji + droga hamowania."
+    },
+    "sp20": {
+      "prompt": "Jedziesz 50 km/h w mieście. Jaki jest minimalny rozsądny odstęp do pojazdu z przodu?",
+      "options": ["Mniej więcej odcinek pokonywany w jedną sekundę (ok. 15 m)", "Jedna długość samochodu", "Tak blisko, żeby nikt się nie wcisnął"],
+      "why": "Odstęp musi pozwolić zatrzymać się nawet wtedy, gdy pojazd z przodu nagle zahamuje (§ 4 ust. 1 StVO). W mieście minimum to odstęp jednej sekundy; poza miastem — „połowa prędkościomierza”."
+    },
+    "ov01": {
+      "prompt": "Kiedy wyprzedzanie jest zabronione?",
+      "options": ["Gdy sytuacja na drodze jest niejasna", "Gdy nie jestem dużo szybszy od pojazdu, który chcę wyprzedzić", "Gdy pojazdy z naprzeciwka są daleko"],
+      "why": "Wyprzedzać wolno tylko wtedy, gdy widać, że pojazdy z naprzeciwka nie zostaną utrudnione, a ty jesteś znacznie szybszy od wyprzedzanego. Przy niejasnej sytuacji wyprzedzanie jest zabronione (§ 5 ust. 2 i 3 StVO).",
+      "tip": "W razie wątpliwości — nie wyprzedzaj."
+    },
+    "ov02": {
+      "prompt": "Jaki jest minimalny odstęp boczny przy wyprzedzaniu rowerzysty poza obszarem zabudowanym?",
+      "why": "Przy wyprzedzaniu pieszych, rowerzystów i osób na hulajnogach elektrycznych minimalny odstęp wynosi 1,5 m w obszarze zabudowanym i 2 m poza nim (§ 5 ust. 4 StVO). Jeśli się nie mieści, nie wyprzedzasz.",
+      "tip": "Miasto 1,5 — poza miastem 2."
+    },
+    "ov03": {
+      "prompt": "Ktoś cię wyprzedza. Czego nie wolno ci robić?",
+      "options": ["Przyspieszać", "Zjechać bardziej w prawo", "Jechać dalej ze stałą prędkością"],
+      "why": "Gdy jesteś wyprzedzany lub wyprzedzana, nie wolno przyspieszać (§ 5 ust. 6 StVO). W razie potrzeby zwolnij i trzymaj się prawej."
+    },
+    "ov04": {
+      "prompt": "Pojazd przed tobą sygnalizuje lewy skręt i zjechał do środka. Jak go mijasz?",
+      "options": ["Z prawej", "Z lewej", "Wcale — zawsze muszę czekać za nim"],
+      "why": "Pojazd, który zasygnalizował skręt w lewo i ustawił się do niego, wyprzedza się z prawej (§ 5 ust. 7 StVO), jeśli jest dość miejsca."
+    },
+    "ov05": {
+      "prompt": "Gdzie wyprzedzanie jest zabronione?",
+      "options": ["Przed przejściami dla pieszych i na nich", "Od znaków ostrzegawczych przed przejazdem kolejowym do minięcia torów", "Na każdym moście"],
+      "why": "Na przejściach dla pieszych nie wolno wyprzedzać (§ 26 ust. 3 StVO). Od znaku 151 lub 156 aż do minięcia przejazdu kolejowego pojazdy silnikowe nie mogą wyprzedzać innych pojazdów silnikowych (§ 19 ust. 1 StVO). Dla mostów nie ma ogólnej zasady."
+    },
+    "ov06": {
+      "prompt": "Co musisz zrobić przy wyprzedzaniu?",
+      "options": ["Przed wyjechaniem włączyć lewy kierunkowskaz i spojrzeć przez ramię", "Przy powrocie włączyć prawy kierunkowskaz", "Przy powrocie nie zajechać drogi wyprzedzonemu pojazdowi"],
+      "why": "Wyjechanie i powrót to zmiany pasa: włącz kierunkowskaz zawczasu, spójrz w lusterko i przez ramię (§ 5 ust. 4a StVO). Wracaj dopiero wtedy, gdy nie utrudnisz jazdy wyprzedzonemu."
+    },
+    "ov07": {
+      "prompt": "Na autostradzie lewy pas wlecze się w korku. Czy możesz jechać szybciej prawym?",
+      "options": ["Tak, najwyżej 20 km/h szybciej i z dużą ostrożnością, jeśli lewy pas jedzie 60 km/h lub wolniej", "Tak, dowolnie szybciej", "Nie, nigdy"],
+      "why": "Gdy pojazdy po lewej stoją lub jadą wolno, wolno je minąć z prawej tylko nieco szybciej i z dużą ostrożnością (§ 7 ust. 2a StVO). Sądy ustaliły to na najwyżej 20 km/h szybciej, przy lewym pasie jadącym 60 km/h lub wolniej."
+    },
+    "ov08": {
+      "prompt": "Po twojej stronie drogi jest przeszkoda, a z naprzeciwka jadą pojazdy. Kto musi czekać?",
+      "options": ["Ja", "Pojazdy z naprzeciwka", "Ten, kto dojedzie pierwszy"],
+      "why": "Kto ma przeszkodę po swojej stronie, przepuszcza pojazdy z naprzeciwka (§ 6 StVO). Omijając przeszkodę, włącz kierunkowskaz.",
+      "tip": "Czyja strona zablokowana, ten czeka."
+    },
+    "ov09": {
+      "prompt": "Jak wyprzedzić tramwaj na ulicy dwukierunkowej?",
+      "options": ["Z prawej", "Z lewej", "Z dowolnej strony"],
+      "why": "Pojazdy szynowe wyprzedza się z prawej. Z lewej tylko na ulicach jednokierunkowych albo gdy tory leżą zbyt blisko prawej krawędzi (§ 5 ust. 7 StVO)."
+    },
+    "ov10": {
+      "prompt": "Na co trzeba się przygotować, wyprzedzając ciężarówkę na drodze poza miastem?",
+      "options": ["Droga wyprzedzania jest bardzo długa", "Wyjeżdżając zza niej, mogę dostać się pod boczny wiatr", "Ciężarówka zasłania mi widok na pojazdy z naprzeciwka"],
+      "why": "Ciężarówka jest długa i często niewiele wolniejsza od ciebie, więc wyprzedzanie może zająć kilkaset metrów. Za nią słabo widać ruch z naprzeciwka, a po wyjechaniu z jej cienia aerodynamicznego boczny wiatr może zepchnąć cię na bok."
+    },
+    "ov11": {
+      "prompt": "Kiedy w mieście wolno mijać inne pojazdy z prawej?",
+      "options": ["Na drogach z kilkoma oznaczonymi pasami w jednym kierunku", "Zawsze, gdy z prawej jest miejsce", "Nigdy"],
+      "why": "W obszarze zabudowanym pojazdy silnikowe do 3,5 t mogą wybierać dowolny pas na drogach z kilkoma oznaczonymi pasami w jednym kierunku i mogą wtedy jechać szybciej także z prawej (§ 7 ust. 3 StVO)."
+    },
+    "ov12": {
+      "prompt": "Jedziesz za rowerzystą, z naprzeciwka jadą pojazdy i nie ma miejsca na odstęp 1,5 m. Co robisz?",
+      "options": ["Zostaję za rowerzystą, aż będzie można wyprzedzić z odpowiednim odstępem", "Wyprzedzam ciasno — rowerzysta może się odsunąć", "Trąbię, żeby rowerzysta zrobił miejsce"],
+      "why": "Minimalny odstęp to prawo, a nie rada. Jeśli nie ma miejsca, nie wyprzedzasz. Klakson służy tylko do ostrzegania przed niebezpieczeństwem."
+    }
+  }
+}

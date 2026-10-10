@@ -1,0 +1,233 @@
+{
+  "questions": {
+    "pr01": {
+      "prompt": "Želiš voziti ravno. Na ovom raskrižju nema nikakvih znakova. Tko ima prednost?",
+      "options": ["Automobil zdesna", "Ja, jer vozim ravno", "Tko prvi dođe do raskrižja"],
+      "why": "Bez znakova i semafora vrijedi pravilo „desni ima prednost” (rechts vor links, § 8 st. 1 StVO). Automobil dolazi s tvoje desne strane pa ga propuštaš — bez obzira voziš li ravno ili skrećeš.",
+      "tip": "Rechts vor links: tko dolazi zdesna, prolazi prvi."
+    },
+    "pr02": {
+      "prompt": "Želiš voziti ravno. Nema znakova. Moraš li propustiti ovaj automobil?",
+      "options": ["Ne — dolazi slijeva i mora propustiti mene", "Da — bliže je raskrižju", "Da — na raskrižjima bez znakova uvijek se treba zaustaviti"],
+      "why": "Automobil je s tvoje lijeve strane. Prema pravilu „desni ima prednost” on čeka tebe, a ne obrnuto. Ipak vozi oprezno: nije sigurno da te taj vozač vidi."
+    },
+    "pr03": {
+      "prompt": "Nema znakova, svi voze ravno. Kojim redom prolaze vozila?",
+      "options": ["2, 3, 1", "1, 2, 3", "3, 1, 2"],
+      "why": "Automobil 2 nema nikoga s desne strane pa prolazi prvi. Biciklist 3 čeka samo automobil 2, koji mu je zdesna. Ti (1) imaš biciklista zdesna pa prolaziš zadnji na redu.",
+      "tip": "Kad ima više vozila: prvo nađi ono kojem je desna strana slobodna."
+    },
+    "pr04": {
+      "prompt": "Želiš skrenuti lijevo; automobil iz suprotnog smjera želi voziti ravno. Tko prolazi prvi?",
+      "options": ["Automobil iz suprotnog smjera", "Ja, jer mi je pokazivač smjera upaljen ranije", "Prolazimo istodobno"],
+      "why": "Kad skrećeš lijevo, moraš propustiti vozila iz suprotnog smjera (§ 9 st. 3 StVO). To vrijedi na svakom raskrižju, čak i na cesti s prednošću.",
+      "tip": "Tko skreće lijevo, čeka nadolazeće."
+    },
+    "pr05": {
+      "prompt": "Ti i automobil iz suprotnog smjera želite skrenuti lijevo. Kako skrećete?",
+      "options": ["Jedan ispred drugoga — svaki skreće ispred drugoga", "Jedan oko drugoga — prolazeći iza drugoga", "Tko prvi upali pokazivač, prolazi prvi"],
+      "why": "Dva nasuprotna vozila koja skreću lijevo skreću jedno ispred drugoga (§ 9 st. 4 StVO), osim ako promet ili izgled raskrižja to ne dopuštaju."
+    },
+    "pr06": {
+      "prompt": "Želiš skrenuti lijevo. Koga moraš propustiti?",
+      "options": ["Automobil slijeva", "Automobil zdesna", "Nikoga, jer pokazujem smjer"],
+      "why": "Znak 205 „Obvezno ustupanje prednosti” vrijedi za tvoju cestu. Svi na glavnoj cesti imaju prednost, slijeva i zdesna. Skrećući lijevo, presijecaš oba traka."
+    },
+    "pr07": {
+      "prompt": "Što moraš učiniti kod ovog znaka?",
+      "options": ["Zaustaviti se na crti zaustavljanja, čak i ako je cesta slobodna", "Ustupiti prednost", "Zaustaviti se samo ako netko dolazi"],
+      "why": "Znak 206 „Stop. Ustupi prednost.” traži potpuno zaustavljanje — kotači miruju — na crti zaustavljanja ili, ako je nema, ondje odakle se vidi cesta. Zatim ustupaš prednost.",
+      "tip": "STOP znači da kotači stoje. Polagano prokotrljavanje nije dovoljno."
+    },
+    "pr08": {
+      "prompt": "Voziš ravno. Tko ima prednost?",
+      "options": ["Ja", "Automobil zdesna", "Tko prvi stigne"],
+      "why": "Na cesti s prednošću si (znak 306); sporedna cesta ima znak 205. Pravilo „desni ima prednost” ovdje ne vrijedi — automobil mora čekati."
+    },
+    "pr09": {
+      "prompt": "Dokle vrijedi prednost koju daje ovaj znak?",
+      "options": ["Samo do sljedećeg raskrižja", "Do kraja naselja", "Do znaka „kraj ceste s prednošću”"],
+      "why": "Znak 301 daje prednost samo na sljedećem raskrižju. Prednost na cijeloj dionici daje samo znak ceste s prednošću (306).",
+      "tip": "301 = jednom. 306 = cijelim putem."
+    },
+    "pr10": {
+      "prompt": "Pratiš cestu s prednošću koja skreće ulijevo. Što moraš učiniti?",
+      "options": ["Pokazati skretanje ulijevo", "Paziti na pješake koji prelaze cestu", "Ne pokazivati, jer ostajem na cesti s prednošću"],
+      "why": "Tko prati cestu s prednošću koja mijenja smjer, mora na vrijeme pokazati smjer i posebno paziti na pješake te po potrebi pričekati (dopunska ploča 1002 ispod znaka 306).",
+      "tip": "Pokazivač prati zavoj ceste, a ne znak."
+    },
+    "pr11": {
+      "prompt": "Cesta s prednošću skreće (označeno žuto). Želiš voziti ravno. Koga propuštaš?",
+      "options": ["Automobil 1", "Nikoga — vozim ravno", "Samo vozila zdesna"],
+      "why": "Na sporednoj si cesti (znak 205). Automobil 1 je na cesti s prednošću, prati njezin zavoj i presijeca ti put. Vožnja ravno ne daje prednost."
+    },
+    "pr12": {
+      "prompt": "Izlaziš s dvorišta na cestu. Što vrijedi?",
+      "options": ["Moram propustiti promet na cesti", "Treba isključiti svaku opasnost za druge", "„Desni ima prednost” vrijedi i ovdje"],
+      "why": "Tko izlazi s posjeda, iz zone smirenog prometa ili s ruba ceste, mora isključiti svaku opasnost za druge — po potrebi uz pomoć osobe koja usmjerava (§ 10 StVO). „Desni ima prednost” ovdje ne pomaže."
+    },
+    "pr13": {
+      "prompt": "S poljskog puta izlaziš na cestu bez znakova. Slijeva dolazi automobil. Tko ima prednost?",
+      "options": ["Automobil", "Ja — dolazim s njegove desne strane", "Sporiji"],
+      "why": "Tko izlazi s poljskog ili šumskog puta nikada nema prednost (§ 8 st. 1 StVO), čak ni pred prometom slijeva."
+    },
+    "pr14": {
+      "prompt": "Što vrijedi na ovom kružnom toku?",
+      "options": ["Vozila već u kružnom toku imaju prednost", "Pri ulasku se ne pokazuje smjer", "Pri izlasku se pokazuje udesno"],
+      "why": "Kad je znak 215 ispod znaka 205, prednost ima promet u kružnom toku. Pokazivanje pri ulasku nije dopušteno, a pri izlasku je obvezno. Zaustavljanje u kružnom toku je zabranjeno (§ 9a StVO).",
+      "tip": "Ulaz bez pokazivača, izlaz s pokazivačem."
+    },
+    "pr15": {
+      "prompt": "Na ovom kružnom raskrižju nema znakova. Tko ima prednost?",
+      "options": ["Ja — automobil na krugu dolazi s moje lijeve strane", "Automobil na krugu", "Tko prvi pokaže smjer"],
+      "why": "Bez znaka 215 ovo nije kružni tok u smislu § 9a StVO, nego obično raskrižje. Vrijedi „desni ima prednost” — promet na krugu mora te pustiti unutra.",
+      "tip": "Nema plavog znaka kružnog toka = desni ima prednost."
+    },
+    "pr16": {
+      "prompt": "Voziš ravno prolaznom cestom. Nema znakova. Tko ima prednost?",
+      "options": ["Automobil koji izlazi iz sporedne ulice zdesna", "Ja — na prolaznoj sam cesti", "Brži"],
+      "why": "Cesta koja ide ravno nije cesta s prednošću bez znaka. I na T-raskrižjima vrijedi „desni ima prednost”, a automobil ti je zdesna.",
+      "tip": "Šira ili ravnija ne znači s prednošću."
+    },
+    "pr17": {
+      "prompt": "Kojim redom prolaze vozila?",
+      "options": ["3, 1, 2", "1, 2, 3", "3, 2, 1"],
+      "why": "Kamion 3 je na cesti s prednošću i prolazi prvi. 1 i 2 su jedan nasuprot drugome na sporednim cestama; 2 skreće lijevo i mora propustiti vozilo 1, koje iz suprotnog smjera vozi ravno."
+    },
+    "pr18": {
+      "prompt": "Na cesti s prednošću si i želiš skrenuti lijevo. Tko mora čekati?",
+      "options": ["Ja", "Automobil iz suprotnog smjera", "Nitko, oboje smo na cesti s prednošću"],
+      "why": "Cesta s prednošću uređuje samo odnos prema sporednim cestama. Između vozila na njoj vrijede pravila skretanja: tko skreće lijevo, propušta nadolazeće (§ 9 st. 3 StVO)."
+    },
+    "pr19": {
+      "prompt": "Želiš skrenuti desno. Što ovaj znak znači za tebe?",
+      "options": ["Moram ustupiti prednost prometu slijeva", "Imam prednost jer skrećem desno", "Mogu izaći bez gledanja"],
+      "why": "Znak 205 znači „Obvezno ustupanje prednosti”. Skrećući desno ulaziš u trak kojim vozi promet s tvoje lijeve strane, pa ga moraš propustiti."
+    },
+    "pr20": {
+      "prompt": "Nema znakova. Želiš skrenuti lijevo. Kojim redom prolaze vozila?",
+      "options": ["2, 1", "1, 2", "Istodobno"],
+      "why": "Automobil 2 dolazi s tvoje desne strane i ima prednost prema pravilu „desni ima prednost”. To što skrećeš umjesto da voziš ravno ništa ne mijenja: presijeca ti put."
+    },
+    "sg01": {
+      "prompt": "Policijski službenik okrenut je prema tebi s obje ruke ispružene u stranu. Što to znači za tebe?",
+      "options": ["Zaustaviti se prije raskrižja — kao kod crvenog", "Voziti — kao kod zelenog", "Brzo napustiti raskrižje"],
+      "why": "Ruke ispružene poprijeko na tvoj smjer znače „stop” za promet ispred i iza službenika. Promet koji se kreće u smjeru ruku smije voziti (§ 36 st. 2 StVO).",
+      "tip": "Prsa ili leđa prema tebi = crveno. Ruka pokazuje prema tebi = zeleno."
+    },
+    "sg02": {
+      "prompt": "Prilaziš službeniku sa strane. Ruke službenika pokazuju u tvom smjeru. Što to znači za tebe?",
+      "options": ["Smijem voziti — kao kod zelenog", "Stop — kao kod crvenog", "Moram čekati da službenik mahne"],
+      "why": "Službenik stoji bočno prema tebi, a ruke pokazuju duž tvog smjera: tvoj promet je slobodan. Ako skrećeš, pravila skretanja i dalje vrijede."
+    },
+    "sg03": {
+      "prompt": "Policijski službenik podiže jednu ruku okomito uvis. Što to znači?",
+      "options": ["Tko je prije raskrižja, čeka sljedeći znak", "Tko je već na raskrižju, napušta ga", "Svi smiju voziti"],
+      "why": "Podignuta ruka odgovara žutom: „Pozor, znak će se promijeniti”. Prije raskrižja čekaj, na raskrižju ga napusti (§ 36 st. 2 t. 2 StVO)."
+    },
+    "sg04": {
+      "prompt": "Semafor je zelen. Policijski službenik pokazuje ti da staneš. Što radiš?",
+      "options": ["Stajem — policija ima prvenstvo", "Vozim dalje — zeleno ima prvenstvo", "Trubim i polako vozim dalje"],
+      "why": "Znakovi i upute policijskih službenika imaju prvenstvo pred svim ostalim, uključujući semafore (§ 36 st. 1 StVO)."
+    },
+    "sg05": {
+      "prompt": "Koji je redoslijed prvenstva točan?",
+      "options": ["Policija, semafori, znakovi, opća pravila", "Semafori, policija, znakovi, opća pravila", "Znakovi, semafori, policija, opća pravila"],
+      "why": "Policija je iznad svega (§ 36), semafori iznad znakova i pravila prednosti (§ 37), a znakovi iznad pravila „desni ima prednost”.",
+      "tip": "Osoba, svjetlo, znak, pravilo."
+    },
+    "sg06": {
+      "prompt": "Imaš crveno, a pokraj je ploča sa zelenom strelicom. Želiš skrenuti desno. Što vrijedi?",
+      "options": ["Prvo se moram zaustaviti na crti zaustavljanja", "Zatim smijem skrenuti ako nikoga ne ometam ni ugrožavam", "Smijem skrenuti bez zaustavljanja"],
+      "why": "Ploča sa zelenom strelicom (720) dopušta skretanje desno na crveno tek nakon potpunog zaustavljanja na crti i samo bez ometanja ili ugrožavanja bilo koga, osobito pješaka i biciklista koji imaju zeleno (§ 37 st. 2 StVO).",
+      "tip": "Zelena strelica = STOP znak koji ti dopušta skrenuti."
+    },
+    "sg07": {
+      "prompt": "Semafor prelazi na žuto. Što radiš?",
+      "options": ["Zaustavljam se ako to još mogu sigurno", "Ubrzavam da prođem", "Uvijek odmah kočim najjače što mogu"],
+      "why": "Žuto znači: prije raskrižja čekaj sljedeći znak. Ako si preblizu da se sigurno zaustaviš, nastavljaš — ali ubrzavanje nikada nije dio toga."
+    },
+    "sg08": {
+      "prompt": "Semafor istodobno pokazuje crveno i žuto. Što to znači?",
+      "options": ["Dolazi zeleno — još čekam", "Već smijem krenuti", "Semafor je pokvaren"],
+      "why": "Crveno i žuto zajedno znače „Pozor, slijedi zeleno”. Ostaješ na mjestu dok se ne upali zeleno."
+    },
+    "sg09": {
+      "prompt": "Semafori ne rade. Što sada vrijedi?",
+      "options": ["Znakovi prednosti na raskrižju", "Ako nema znakova: desni ima prednost", "Tko prvi dođe, prvi prolazi"],
+      "why": "Ako su semafori isključeni ili samo trepću žuto, vrijede znakovi. Ako ih nema, vrijedi „desni ima prednost”."
+    },
+    "sg10": {
+      "prompt": "Što znači jedno trepćuće žuto svjetlo na raskrižju?",
+      "options": ["Oprez — vrijede prometni znakovi", "Svi smiju voziti", "Stati kao kod crvenog"],
+      "why": "Trepćuće žuto je upozorenje (§ 37 st. 2 t. 5 StVO). Ništa ne uređuje; prednost proizlazi iz znakova."
+    },
+    "sg11": {
+      "prompt": "Iza tebe se približava vozilo hitne pomoći s plavim svjetlima i sirenom. Što radiš?",
+      "options": ["Odmah oslobađam put", "Vozim dalje do ugibališta", "Naglo kočim i stajem u svom traku"],
+      "why": "Plava svjetla zajedno sa sirenom znače da svi ostali moraju odmah osloboditi put (§ 38 st. 1 StVO). Zaustavljanje usred traka ne pomaže."
+    },
+    "sg12": {
+      "prompt": "Policijski automobil stoji uz cestu s upaljenim plavim svjetlima, ali bez sirene. Što to znači?",
+      "options": ["Upozorava na opasnost, primjerice prometnu nesreću", "Moram se odmah zaustaviti", "Moram osloboditi put"],
+      "why": "Samo plavo svjetlo upozorenje je na mjestu nesreće ili događaja (§ 38 st. 2 StVO). Prođi polako i oprezno.",
+      "tip": "Plavo + sirena = oslobodi put. Samo plavo = oprez."
+    },
+    "sg13": {
+      "prompt": "Imaš zeleno, ali iza raskrižja je zastoj. Što radiš?",
+      "options": ["Čekam prije raskrižja", "Ulazim u raskrižje jer imam zeleno", "Polako se uvlačim u raskrižje"],
+      "why": "Ako bi se moralo stati na raskrižju, ne smiješ ući ni na zeleno (§ 11 st. 1 StVO). Inače blokiraš poprečni promet kad mu se promijeni svjetlo."
+    },
+    "sg14": {
+      "prompt": "Imaš zeleno i želiš skrenuti lijevo. Na što moraš paziti?",
+      "options": ["Propustiti promet iz suprotnog smjera", "Na pješake koji prelaze cestu u koju skrećem", "Ni na što — zeleno znači da imam prednost"],
+      "why": "Zeleno ne isključuje pravila skretanja: propusti nadolazeće i posebno pazi na pješake (§ 9 st. 3 StVO). Samo zelena strelica u samom semaforu označava zaštićeno skretanje."
+    },
+    "sg15": {
+      "prompt": "Vozilo za smeće stoji na cesti s trepćućim žutim svjetlom. Što znači to svjetlo?",
+      "options": ["Upozorava na opasnost", "Moram osloboditi put", "To vozilo ima prednost"],
+      "why": "Žuto trepćuće svjetlo na vozilu upozorava na opasnost (§ 38 st. 3 StVO) — ovdje na radnike koji mogu izaći iza vozila. Prođi polako i s dovoljno razmaka."
+    },
+    "ba01": {
+      "prompt": "Kojom stranom ceste voziš?",
+      "options": ["Što je moguće više desno, u razumnoj mjeri", "Sredinom, da se držim dalje od ruba", "Gdje je najudobnije"],
+      "why": "Njemačka ima pravilo vožnje desnom stranom: koliko je razumno desno — ne samo kad dolazi promet iz suprotnog smjera ili kad te netko pretječe, nego i na praznoj cesti i na vrhovima uspona (§ 2 st. 2 StVO)."
+    },
+    "ba02": {
+      "prompt": "Prometni trak završava. Kako mijenjaš trak?",
+      "options": ["Po principu patentnog zatvarača, neposredno prije suženja", "Što ranije, čak i ako trak još dugo traje", "Vozači u traku koji se nastavlja ne moraju nikoga pustiti"],
+      "why": "Kad trak završava ili je zatvoren, vozila se uključuju naizmjence, jedno po jedno, točno na početku suženja (§ 7 st. 4 StVO). Trak koji se nastavlja to mora omogućiti.",
+      "tip": "Do kraja, pa jedan po jedan."
+    },
+    "ba03": {
+      "prompt": "Što moraš učiniti prije promjene traka?",
+      "options": ["Pogledati u zrcalo i preko ramena", "Na vrijeme pokazati smjer", "Kratko zatrubiti"],
+      "why": "Promjena traka dopuštena je samo ako nitko ne može biti ugrožen i mora se jasno i na vrijeme najaviti (§ 7 st. 5 StVO). Mrtvi kut pokriva samo pogled preko ramena."
+    },
+    "ba04": {
+      "prompt": "Kada smiješ trubiti?",
+      "options": ["Da upozorim druge na opasnost", "Izvan naselja, da najavim pretjecanje", "Da pozdravim prijatelja"],
+      "why": "Truba i svjetlosni znakovi služe samo za najavu pretjecanja izvan naselja ili kad su ti ili drugi u opasnosti (§ 16 st. 1 StVO). Pozdravljanje, požurivanje ili istresanje živaca ne vrijede."
+    },
+    "ba05": {
+      "prompt": "Kada smiješ upaliti sva četiri pokazivača smjera?",
+      "options": ["Kad mi se vozilo pokvari ili kad se vuče", "Da upozorim druge na opasnost, npr. na kraju kolone", "Kad kratko parkiram u drugom redu"],
+      "why": "Sva četiri pokazivača služe za kvar, vuču, školske autobuse na stajalištima i upozorenje na opasnosti poput kolone ispred (§ 16 st. 2 StVO). Ne daju pravo na nepropisno parkiranje."
+    },
+    "ba06": {
+      "prompt": "U naselju, na cesti s dva označena traka u tvom smjeru, smiješ li birati trak?",
+      "options": ["Da, osobnim automobilom", "Ne, uvijek moram voziti desno", "Samo za pretjecanje"],
+      "why": "U naselju vozila do 3,5 t smiju slobodno birati trak na cestama s više označenih trakova u jednom smjeru (§ 7 st. 3 StVO). Vijuganje između trakova i dalje je zabranjeno."
+    },
+    "ba07": {
+      "prompt": "Što je nejasna prometna situacija?",
+      "options": ["Ne mogu pouzdano znati što će drugi učiniti", "Noć je", "Cesta je široka"],
+      "why": "Situacija je nejasna kad ne možeš pouzdano procijeniti što će drugi učiniti — npr. automobil pokazuje lijevo, ali se ne pomiče. Tada je pretjecanje zabranjeno i treba biti spremno za kočenje."
+    },
+    "ba08": {
+      "prompt": "Što pripada predviđajućoj vožnji?",
+      "options": ["Gledanje daleko naprijed, ne samo u automobil ispred", "Redovito gledanje u zrcala", "Vožnja što bliže da brže reagiram"],
+      "why": "Tko gleda daleko naprijed i zna što je iza, rano uočava opasnosti i mirno reagira. Vožnja na repu oduzima upravo to vrijeme."
+    }
+  }
+}

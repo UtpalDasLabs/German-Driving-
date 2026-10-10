@@ -1,0 +1,214 @@
+{
+  "practical": {
+    "overview": {
+      "title": "Come funziona l’esame",
+      "body": [
+        "L’esame dura in tutto 55 minuti, di cui almeno 30 di guida effettiva. Guidi l’auto dell’autoscuola con l’istruttore accanto; l’esaminatore (di TÜV o DEKRA) siede dietro.",
+        "Prima l’esaminatore controlla il documento d’identità. Poi vengono la preparazione e i controlli del veicolo, la guida in città, su strade extraurbane e di solito in autostrada o superstrada, e le manovre previste.",
+        "Alla fine ricevi subito il risultato, con un riscontro su ciascuna delle cinque aree di competenza. Se superi l’esame, ricevi la patente — o un certificato provvisorio — subito dopo.",
+        "L’esame pratico va sostenuto entro 12 mesi dal superamento della teoria. Non è andata? Di solito puoi ripeterlo al più presto dopo due settimane."
+      ],
+      "checklist": [
+        "Carta d’identità o passaporto con me",
+        "Occhiali o lenti, se la patente li richiede",
+        "Scarpe comode e basse",
+        "Ben riposato o riposata e 0,0 alcol",
+        "All’autoscuola 15 minuti prima"
+      ],
+      "pitfalls": [
+        "Senza un documento valido l’esame non si fa — e la tassa di solito è persa comunque."
+      ]
+    },
+    "checks": {
+      "title": "Preparazione e controlli del veicolo",
+      "body": [
+        "Prima di partire regoli sedile, volante, specchietti e poggiatesta e allacci la cintura. Di solito l’esaminatore chiede di mostrare o spiegare alcune cose sull’auto.",
+        "Punti tipici: accendere e controllare le luci; pneumatici (battistrada, danni, dove sono indicate le pressioni); livelli dei liquidi (olio motore, liquido refrigerante, lavavetri, liquido dei freni); clacson; spie sul cruscotto."
+      ],
+      "checklist": [
+        "Sedile regolato in modo che il pedale di frizione o freno arrivi a fondo",
+        "Specchietto interno ed esterni regolati",
+        "Poggiatesta: bordo superiore all’altezza della sommità della testa",
+        "So mostrare anabbaglianti e abbaglianti, frecce, quattro frecce, retronebbia",
+        "So trovare l’astina e leggere il livello dell’olio",
+        "So dove sono indicate le pressioni corrette dei pneumatici"
+      ],
+      "pitfalls": [
+        "Partire senza regolare gli specchietti o senza allacciare la cintura."
+      ]
+    },
+    "parallel": {
+      "title": "Parcheggio in parallelo in retromarcia",
+      "body": [
+        "Entri in retromarcia in uno spazio lungo il bordo destro tra due veicoli. Lo spazio dovrebbe essere almeno circa una volta e mezza la lunghezza dell’auto.",
+        "Fermati a circa 50 cm di fianco all’auto davanti, con il retro all’altezza del suo. Fai retromarcia piano finché l’asse posteriore non è all’altezza del suo paraurti posteriore, poi sterza tutto a destra. A circa 45° raddrizza e continua indietro, poi sterza tutto a sinistra finché l’auto è parallela al bordo."
+      ],
+      "checklist": [
+        "Freccia a destra prima di fermarmi",
+        "Sguardo tutto intorno prima della retromarcia",
+        "Continuare a guardare dietro e di lato, non solo nello specchietto",
+        "Finire a non più di circa 30 cm dal marciapiede, ruote dritte"
+      ],
+      "pitfalls": [
+        "Salire sul marciapiede con la ruota posteriore.",
+        "Non guardare il traffico mentre il muso si allarga.",
+        "Troppe correzioni."
+      ]
+    },
+    "bay": {
+      "title": "Parcheggio a pettine o a spina di pesce",
+      "body": [
+        "Parcheggi in avanti o in retromarcia in uno stallo perpendicolare o obliquo alla strada, ad esempio in un parcheggio. L’auto deve finire al centro e dritta, senza invadere le linee.",
+        "In retromarcia di solito è più facile, perché a sterzare sono le ruote anteriori: supera lo stallo, sterza quando il retro ha superato più o meno la linea lontana e allinea l’auto alle strisce."
+      ],
+      "checklist": [
+        "Freccia prima di entrare nello stallo",
+        "Attenzione ai pedoni nel parcheggio",
+        "Al centro tra le linee, ruote dritte"
+      ],
+      "pitfalls": [
+        "Arrivare quasi a toccare l’auto accanto senza fermarsi."
+      ]
+    },
+    "corner": {
+      "title": "Retromarcia in curva",
+      "body": [
+        "Entri in retromarcia a destra in una strada laterale, un incrocio o un ingresso, seguendo il marciapiede a distanza costante.",
+        "Supera l’imbocco e fermati vicino al marciapiede. Fai retromarcia piano; quando nello specchietto destro vedi il marciapiede curvare, inizia a sterzare a destra. Dopo l’angolo raddrizza e continua indietro finché l’esaminatore non ti ferma."
+      ],
+      "checklist": [
+        "Guardarsi intorno prima e durante la retromarcia",
+        "Lasciar passare i pedoni all’angolo",
+        "Distanza costante dal marciapiede"
+      ],
+      "pitfalls": [
+        "Il muso finisce senza accorgermene nel traffico di fronte."
+      ]
+    },
+    "turnround": {
+      "title": "Inversione di marcia",
+      "body": [
+        "Giri l’auto nella direzione opposta sulla carreggiata, con manovre avanti e indietro. Non devi toccare i marciapiedi."
+      ],
+      "checklist": [
+        "Solo dove è consentito e si vede bene",
+        "Guardare da entrambi i lati prima di ogni movimento",
+        "Muoversi piano, sterzare in fretta"
+      ],
+      "pitfalls": [
+        "Bloccare il traffico invece di lasciarlo passare."
+      ]
+    },
+    "emergency": {
+      "title": "Frenata d’emergenza",
+      "body": [
+        "Al segnale dell’esaminatore freni da circa 30 km/h il più forte possibile fino all’arresto. L’auto deve restare dritta.",
+        "Con l’ABS: premi a fondo freno e frizione e tienili premuti. Le vibrazioni nel pedale sono normali. L’esaminatore controlla prima che dietro non arrivi nessuno."
+      ],
+      "checklist": [
+        "Reagire al comando, non prima",
+        "Premere a fondo, non gradualmente",
+        "Dopo, quattro frecce o sguardo nello specchietto prima di ripartire"
+      ],
+      "pitfalls": [
+        "Frenare troppo piano."
+      ]
+    },
+    "competences": {
+      "title": "Le cinque aree di competenza",
+      "body": [
+        "L’esaminatore non conta solo i singoli «errori», ma valuta la tua guida in cinque aree — per tutto l’esame e in situazioni come incroci, rotatorie, cambi di corsia, immissioni in autostrada, curve e attraversamenti pedonali."
+      ],
+      "checklist": [
+        "Osservazione: specchietti, sguardi sopra la spalla, guardare lontano",
+        "Posizione: corsia giusta, distanza davanti e di lato",
+        "Velocità: adeguata a limite, visibilità e situazione",
+        "Comunicazione: freccia per tempo, contatto visivo, intenzioni chiare",
+        "Uso del veicolo e guida economica: cambi di marcia, sterzo, frenata dolce"
+      ]
+    },
+    "fail": {
+      "title": "Per cosa si boccia più spesso",
+      "body": [
+        "Le piccole sviste non fanno bocciare. Si boccia per un errore grave — ad esempio quando qualcuno viene messo in pericolo — o quando gli errori minori si ripetono."
+      ],
+      "pitfalls": [
+        "Non rispettare la precedenza, soprattutto «la destra ha la precedenza» nelle zone 30",
+        "Nessuno sguardo sopra la spalla quando si svolta, si parte o si cambia corsia",
+        "Non fermarsi del tutto allo STOP",
+        "Non lasciar attraversare i pedoni sulle strisce",
+        "Superare chiaramente il limite, ad esempio in una zona 30",
+        "Passare col rosso",
+        "L’istruttore deve intervenire (doppio pedale o sterzo)"
+      ]
+    },
+    "phrases": {
+      "title": "Cosa dice l’esaminatore",
+      "body": [
+        "L’esame pratico si svolge in tedesco. L’esaminatore dà le indicazioni per tempo. Se non capisci, chiedi — non è un errore."
+      ],
+      "phrases": [
+        "Al prossimo incrocio, a destra per favore.",
+        "Svolti a sinistra, per favore.",
+        "Prosegua dritto, per favore.",
+        "Segua l’andamento della strada, per favore.",
+        "Segua le indicazioni per l’autostrada.",
+        "Alla rotatoria, la seconda uscita per favore.",
+        "Si fermi qui a destra sul bordo della strada, per favore.",
+        "Parcheggi in retromarcia dietro l’auto blu, per favore.",
+        "Faccia inversione qui, per favore.",
+        "Quando dico «Stopp», faccia una frenata d’emergenza, per favore.",
+        "Riparta quando il traffico lo permette, per favore.",
+        "L’esame è finito. Superato."
+      ]
+    }
+  },
+  "conversion": {
+    "eu": {
+      "title": "Patente dell’UE o del SEE",
+      "body": [
+        "Una patente valida di un paese UE o SEE (UE più Islanda, Liechtenstein e Norvegia) resta valida in Germania. Non serve convertirla.",
+        "Se la patente ha una scadenza, la rinnovi presso l’ufficio patenti tedesco una volta che vivi qui."
+      ]
+    },
+    "six-months": {
+      "title": "Tutti gli altri: sei mesi",
+      "body": [
+        "Con una patente di qualsiasi altro paese puoi guidare per sei mesi dal giorno in cui stabilisci la residenza in Germania. Se il soggiorno è solo temporaneo, puoi chiedere fino a sei mesi in più.",
+        "Dopo serve una patente tedesca. Guidare con quella estera dopo la scadenza equivale a guidare senza patente, ed è reato.",
+        "Se la patente non è in tedesco e non segue un modello internazionale, in quei sei mesi serve una traduzione o un permesso internazionale di guida."
+      ]
+    },
+    "which-case": {
+      "title": "Quali esami servono",
+      "body": [
+        "Dipende dal fatto che il paese di rilascio sia nell’allegato 11 del Regolamento sulle patenti e per quale categoria. Ci sono tre casi:",
+        "1. Il tuo paese è elencato per la patente B senza esami (ad esempio Giappone, Svizzera, Regno Unito e, da agosto 2026, Ucraina): presenti la domanda e gli esami non servono.",
+        "2. Il tuo paese è elencato come «solo esame di teoria»: sostieni la teoria e la pratica non serve.",
+        "3. Il tuo paese non è elencato (vale per molti paesi, e per alcuni stati USA e province canadesi, elencati singolarmente): sostieni sia la teoria sia la pratica. Le lezioni non sono obbligatorie, ma l’esame si fa con l’auto di un’autoscuola.",
+        "L’elenco cambia. Controlla il testo attuale dell’allegato 11 e chiedi all’ufficio patenti locale prima di prenotare qualsiasi cosa."
+      ]
+    },
+    "documents": {
+      "title": "La domanda e cosa portare",
+      "body": [
+        "Presenti la domanda all’ufficio patenti (Führerscheinstelle) del luogo di residenza, il prima possibile; la pratica richiede spesso settimane.",
+        "Di solito: la patente estera originale, una traduzione (ad esempio dell’ADAC o di un traduttore giurato), passaporto o carta d’identità, certificato di residenza (Meldebescheinigung), una foto biometrica, un test della vista e di solito un attestato di corso di primo soccorso. L’ufficio ti dirà esattamente cosa serve.",
+        "Quando ricevi la patente tedesca, consegni quella estera."
+      ]
+    },
+    "tests": {
+      "title": "Se devi sostenere gli esami",
+      "body": [
+        "Iscriviti a un’autoscuola; sarà lei a iscriverti all’esame presso TÜV o DEKRA. La teoria si può fare in tedesco o in una delle altre dodici lingue — le stesse di questa app.",
+        "Anche chi guida da anni farebbe bene a prendere qualche lezione: l’esame guarda a cose che altrove funzionano diversamente — «la destra ha la precedenza», sguardo sopra la spalla a ogni svolta, zone 30 e arresto completo a ogni STOP."
+      ]
+    },
+    "costs": {
+      "title": "Quanto costa più o meno",
+      "body": [
+        "I costi variano per città e autoscuola. Indicativamente: tassa dell’ufficio circa 40–50 €, traduzione 30–60 €, esame di teoria presso TÜV o DEKRA circa 25 €, esame pratico circa 130 €, più i costi dell’autoscuola per iscrizione, lezioni e auto il giorno dell’esame."
+      ]
+    }
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "questions": {
+    "ha01": {
+      "prompt": "W ulewie kierownica nagle robi się lekka — aquaplaning. Co robisz?",
+      "options": ["Wciskam sprzęgło albo zdejmuję nogę z gazu", "Trzymam kierownicę prosto", "Mocno hamuję i kontruję kierownicą"],
+      "why": "Przy aquaplaningu opony jadą po warstwie wody i nie przenoszą żadnych sił. Zdejmij nogę z gazu (albo wciśnij sprzęgło), nie hamuj i trzymaj kierownicę prosto, aż opony znów złapią przyczepność — inaczej samochód obróci.",
+      "tip": "Noga z gazu, ręce spokojnie."
+    },
+    "ha02": {
+      "prompt": "Gdzie zimą szczególnie trzeba liczyć się z gołoledzią?",
+      "options": ["Na mostach", "Na odcinkach leśnych i zacienionych", "W ogrzewanych garażach podziemnych"],
+      "why": "Mosty wychładzają się od góry i od dołu i zamarzają pierwsze. W lesie i w cieniu lód utrzymuje się dłużej, nawet jeśli droga przed nimi była sucha."
+    },
+    "ha03": {
+      "prompt": "Po długiej suszy zaczyna padać deszcz. Co jest prawdą?",
+      "options": ["Jezdnia może być teraz szczególnie śliska", "Deszcz czyści jezdnię i poprawia przyczepność", "Dotyczy to tylko bruku"],
+      "why": "Pierwszy deszcz zamienia kurz, ścierany kauczuk i olej w śliską warstwę. Zmywa ją dopiero dłuższy deszcz."
+    },
+    "ha04": {
+      "prompt": "Kiedy wolno włączyć tylne światło przeciwmgłowe?",
+      "options": ["Gdy mgła ogranicza widoczność poniżej 50 m", "Zawsze, gdy pada deszcz", "Nocą na drogach poza miastem"],
+      "why": "Tylne światło przeciwmgłowe wolno włączać tylko wtedy, gdy mgła ogranicza widoczność poniżej 50 m — i wtedy obowiązuje 50 km/h (§ 17 ust. 3 StVO). Przy lepszej widoczności oślepia jadących z tyłu.",
+      "tip": "Tylne przeciwmgłowe włączone = maksymalnie 50."
+    },
+    "ha05": {
+      "prompt": "Nocą oślepiają cię światła z naprzeciwka. Co robisz?",
+      "options": ["Patrzę na prawą krawędź jezdni", "Zwalniam, w razie potrzeby się zatrzymuję", "Odpowiadam światłami drogowymi"],
+      "why": "Patrz na prawą krawędź i zwolnij. Po oślepieniu oczy przez kilka sekund prawie nic nie widzą, a w tym czasie pokonujesz długi odcinek."
+    },
+    "ha06": {
+      "prompt": "Nocą w świetle reflektorów na jezdni stoi sarna. Co robisz?",
+      "options": ["Przełączam na światła mijania, trąbię i hamuję", "Jeśli zderzenia nie da się uniknąć: mocno trzymam kierownicę i nie wykonuję niebezpiecznych manewrów", "Zostawiam światła drogowe, żeby uciekła"],
+      "why": "Światła drogowe paraliżują dzikie zwierzęta; światła mijania i klakson je płoszą. Ucieczka w drzewo albo na pas przeciwny jest groźniejsza niż zderzenie ze zwierzęciem.",
+      "tip": "Mijania, klakson, hamulec — bez gwałtownego skrętu."
+    },
+    "ha07": {
+      "prompt": "Potrącasz sarnę. Co robisz?",
+      "options": ["Zabezpieczam miejsce zdarzenia", "Powiadamiam policję albo dzierżawcę obwodu łowieckiego", "Zabieram zwierzę ze sobą"],
+      "why": "Awaryjne, kamizelka, trójkąt — potem zadzwoń na policję, która skontaktuje się z dzierżawcą obwodu. Nie dotykaj i nie zabieraj zwierzęcia: to kłusownictwo. Ubezpieczyciel zażąda zaświadczenia o zderzeniu z dzikim zwierzęciem."
+    },
+    "ha08": {
+      "prompt": "Kiedy hamujesz przed zakrętem?",
+      "options": ["Przed zakrętem, jeszcze na prostej", "W środku zakrętu", "Na wyjściu z zakrętu"],
+      "why": "W zakręcie opony potrzebują przyczepności, by utrzymać tor jazdy. Hamowanie w nim grozi tym, że samochód pojedzie prosto. Najpierw hamuj, potem przejedź zakręt równo.",
+      "tip": "Wolno w zakręt, równo z zakrętu."
+    },
+    "ha09": {
+      "prompt": "W długiej podróży robisz się zmęczony lub zmęczona. Co naprawdę pomaga?",
+      "options": ["Przerwa i, jeśli to możliwe, krótka drzemka", "Otwarcie okna i głośna muzyka", "Szybsza jazda, żeby wcześniej dojechać"],
+      "why": "Na zmęczenie pomaga tylko sen. Świeże powietrze i muzyka dają najwyżej kilka minut. Trzysekundowy mikrosen przy 100 km/h to ponad 80 metrów jazdy na ślepo."
+    },
+    "ha10": {
+      "prompt": "Na moście albo w prześwicie między drzewami uderza w ciebie boczny wiatr. Co robisz?",
+      "options": ["Zwalniam i mocno trzymam kierownicę", "Liczę się z podmuchem przy wyprzedzaniu ciężarówek", "Gwałtownie kontruję, gdy tylko coś poczuję"],
+      "why": "Boczny wiatr przychodzi w podmuchach. Jadąc wolniej i trzymając kierownicę spokojnie i pewnie, korygujesz drobnymi ruchami; gwałtowne ruchy rozbujają samochód. Znak 117 ostrzega przed typowymi miejscami."
+    },
+    "ha11": {
+      "prompt": "Z naprzeciwka jedzie motocykl, a ty chcesz skręcić w lewo. Co jest tu trudne?",
+      "options": ["Jego prędkość trudno ocenić", "Łatwo go przeoczyć, bo jest wąski", "Motocykle muszą przepuszczać skręcających w lewo"],
+      "why": "Motocykle są wąskie i wydają się dalej i wolniejsze, niż są. Wiele wypadków wygląda dokładnie tak: skręcający w lewo przeocza motocykl z naprzeciwka. W razie wątpliwości czekaj."
+    },
+    "ha12": {
+      "prompt": "Podczas jazdy dzwoni telefon. Co wolno?",
+      "options": ["Rozmawiać przez zestaw głośnomówiący bez brania telefonu do ręki", "Na chwilę wziąć go do ręki na czerwonym", "Przeczytać wiadomość na prostej drodze"],
+      "why": "Podczas jazdy nie wolno brać telefonu do ręki ani go trzymać — nawet na czerwonym albo gdy start-stop wyłączył silnik. Dozwolone jest tylko sterowanie głosem lub krótkie zerknięcie na zamocowany telefon (§ 23 ust. 1a StVO).",
+      "tip": "Czerwone to nadal jazda. Przerwa jest dopiero przy całkiem wyłączonym silniku."
+    },
+    "ha13": {
+      "prompt": "Nocą jedziesz poza miastem na światłach drogowych. Kiedy trzeba przełączyć na mijania?",
+      "options": ["Gdy ktoś jedzie z naprzeciwka", "Gdy jadę blisko za innym pojazdem", "Tylko przy ciężarówkach z naprzeciwka"],
+      "why": "Przełącz na mijania, gdy ktoś jedzie z naprzeciwka, gdy jedziesz blisko za innym pojazdem i wszędzie tam, gdzie można by oślepić innych (§ 17 ust. 2 StVO) — także pieszych i rowerzystów."
+    },
+    "ha14": {
+      "prompt": "Kiedy potrzebne są opony zimowe?",
+      "options": ["Przy gołoledzi, ubitym śniegu, błocie pośniegowym, lodzie lub szronie", "Od 1 października do 31 marca, niezależnie od pogody", "Tylko na autostradzie"],
+      "why": "W Niemczech zasada zależy od pogody: w warunkach zimowych wolno jeździć tylko na oponach zimowych lub całorocznych z symbolem alpejskim (góra z płatkiem śniegu). Opony oznaczone tylko M+S od października 2024 r. się nie liczą.",
+      "tip": "Zasada orientacyjna: od października do Wielkanocy."
+    },
+    "ha15": {
+      "prompt": "Przed tobą przy drodze zatrzymał się samochód z lodami. Czego się spodziewasz?",
+      "options": ["Że dzieci nagle przebiegną przez jezdnię", "Że samochód zaraz ruszy", "Niczego szczególnego"],
+      "why": "Wszędzie tam, gdzie coś przyciąga dzieci — samochody z lodami, place zabaw, szkoły — biegną one bez patrzenia. Jedź powoli i bądź w gotowości do hamowania."
+    },
+    "ha16": {
+      "prompt": "Jedziesz za ciężarówką poza miastem. Dlaczego trzymasz większy odstęp?",
+      "options": ["Żeby widzieć drogę obok niej", "Bo kierowca ciężarówki może mnie nie widzieć", "Bo ciężarówki nigdy nie hamują"],
+      "why": "Tuż za ciężarówką nie widzisz drogi przed sobą i jesteś w martwym polu jej lusterek. Większy odstęp daje widok i czas, gdyby nagle zahamowała."
+    },
+    "fi01": {
+      "prompt": "Ile alkoholu może być we krwi podczas jazdy w okresie próbnym albo przed ukończeniem 21 lat?",
+      "why": "W okresie próbnym i przed 21. urodzinami obowiązuje bezwzględny zakaz alkoholu (§ 24c StVG): 0,0 promila, ani jednego małego piwa. Naruszenie to poważne wykroczenie w okresie próbnym, z kursem i przedłużeniem okresu próbnego.",
+      "tip": "Nowy kierowca: zero przecinek zero."
+    },
+    "fi02": {
+      "prompt": "Od jakiego stężenia alkoholu we krwi popełniasz wykroczenie, nawet bez objawów nietrzeźwości?",
+      "options": ["0,5 ‰", "0,8 ‰", "1,1 ‰"],
+      "why": "Od 0,5 ‰ to wykroczenie (mandat, punkty, zakaz prowadzenia). Od 0,3 ‰ to już przestępstwo, jeśli widać błędy w jeździe lub objawy nietrzeźwości. Od 1,1 ‰ uznaje się bezwzględną niezdolność do prowadzenia — to zawsze przestępstwo.",
+      "tip": "0,3 z błędami — 0,5 zawsze — 1,1 przestępstwo."
+    },
+    "fi03": {
+      "prompt": "Mniej więcej jak szybko organizm rozkłada alkohol?",
+      "options": ["Ok. 0,1 promila na godzinę", "Szybciej z mocną kawą", "Szybciej po zimnym prysznicu i na świeżym powietrzu"],
+      "why": "Wątroba usuwa ok. 0,1 ‰ na godzinę, nie szybciej. Kawa, prysznic czy ruch niczego nie zmieniają. Po zakrapianym wieczorze można rano wciąż przekraczać limit."
+    },
+    "fi04": {
+      "prompt": "Co obowiązuje od 2024 r. w kwestii marihuany i prowadzenia pojazdów?",
+      "options": ["Od 3,5 ng/ml THC w surowicy krwi to wykroczenie", "W okresie próbnym i przed 21. rokiem życia zabronione jest jakiekolwiek THC", "Marihuana z alkoholem jest w porządku, jeśli oba są poniżej limitu"],
+      "why": "Od sierpnia 2024 r. limit THC wynosi 3,5 ng/ml w surowicy krwi (§ 24a StVG). Kierowcy w okresie próbnym i przed 21. rokiem życia nie mogą w ogóle prowadzić pod wpływem marihuany. Kto łączy marihuanę z alkoholem, musi mieć 0,0 ‰."
+    },
+    "fi05": {
+      "prompt": "Przyjmujesz lek. Co robisz przed jazdą?",
+      "options": ["Czytam ulotkę, a w razie wątpliwości pytam lekarza lub farmaceutę", "Nic — leki bez recepty są zawsze bezpieczne", "Piję trochę alkoholu, żeby osłabić działanie"],
+      "why": "Wiele leków, także bez recepty na przeziębienie i alergię, powoduje senność albo spowalnia reakcje. Z alkoholem działanie jest często dużo silniejsze."
+    },
+    "fi06": {
+      "prompt": "W twoim prawie jazdy jest kod 01 (korekcja wzroku). Co to oznacza?",
+      "options": ["Podczas jazdy muszę nosić okulary lub soczewki kontaktowe", "Mogę jeździć tylko za dnia", "Zawsze muszę wozić zapasowe okulary"],
+      "why": "Warunek korekcji wzroku obowiązuje przy każdej jeździe. Jazda bez okularów lub soczewek narusza warunek — mandat i kłopoty z ubezpieczycielem po wypadku."
+    },
+    "fi07": {
+      "prompt": "Po czym poznajesz, że zmęczenie nie pozwala już prowadzić?",
+      "options": ["Częste ziewanie i ciężkie powieki", "Nie pamiętam kilku ostatnich kilometrów", "Czuję się szczególnie rześko"],
+      "why": "Ziewanie, pieczenie oczu, dreszcze, luki w pamięci, zjeżdżanie z pasa — to sygnały ostrzegawcze. Najpóźniej wtedy zatrzymaj się na przerwę."
+    },
+    "fi08": {
+      "prompt": "Po kłótni jesteś bardzo zdenerwowany lub zdenerwowana. Jak to wpływa na jazdę?",
+      "options": ["Mam skłonność do jazdy bardziej ryzykownej i agresywnej", "Gorzej dostrzegam zagrożenia", "Wcale"],
+      "why": "Silne emocje — złość, smutek, nawet radość — rozpraszają i kuszą do ryzyka. Najpierw się uspokój, potem ruszaj."
+    },
+    "ve01": {
+      "prompt": "Jaka jest ustawowa minimalna głębokość bieżnika?",
+      "why": "Ustawowe minimum to 1,6 mm (§ 36 StVZO). Eksperci zalecają 3 mm dla opon letnich i 4 mm dla zimowych; poniżej tego droga hamowania na mokrym i śniegu wyraźnie rośnie."
+    },
+    "ve02": {
+      "prompt": "Kiedy prawidłowo sprawdza się ciśnienie w oponach?",
+      "options": ["Na zimnych oponach", "Według danych producenta, podwyższone przy pełnym obciążeniu", "Zaraz po długiej jeździe autostradą"],
+      "why": "Ciepłe opony pokazują za wysokie ciśnienie. Wartości są w instrukcji, często także na klapce wlewu paliwa lub w drzwiach kierowcy. Zbyt niskie ciśnienie wydłuża hamowanie, zwiększa zużycie paliwa i może zniszczyć oponę."
+    },
+    "ve03": {
+      "prompt": "Podczas jazdy zapala się czerwona kontrolka ciśnienia oleju. Co robisz?",
+      "options": ["Zatrzymuję się, gdy tylko jest to bezpieczne, i wyłączam silnik", "Jadę do domu i tam sprawdzam", "Zwiększam obroty, żeby pompować więcej oleju"],
+      "why": "Czerwone kontrolki oznaczają: działaj teraz. Bez ciśnienia oleju silnik nie jest smarowany i w ciągu minut może ulec zniszczeniu. Zatrzymaj się, wyłącz silnik, sprawdź poziom oleju.",
+      "tip": "Czerwona = stop teraz. Pomarańczowa = wkrótce do warsztatu."
+    },
+    "ve04": {
+      "prompt": "Twój samochód ma ABS. Jak hamujesz awaryjnie?",
+      "options": ["Mocno wciskam hamulec i trzymam", "Podczas pełnego hamowania mogę skręcać", "Pulsuję hamulcem, żeby koła się nie blokowały"],
+      "why": "ABS zapobiega blokowaniu kół — pulsowanie pedału jest normalne. Wciśnij mocno i trzymaj; nadal możesz kierować. Pulsowanie hamulcem miało sens tylko bez ABS."
+    },
+    "ve05": {
+      "prompt": "Co robi elektroniczny układ stabilizacji toru jazdy (ESP)?",
+      "options": ["Pomaga zapobiec poślizgowi, przyhamowując pojedyncze koła", "Znosi granice praw fizyki", "Skraca drogę hamowania na lodzie do normalnej"],
+      "why": "ESP przyhamowuje pojedyncze koła i ogranicza moc, by utrzymać samochód na torze. Nie jest lekarstwem na zbyt dużą prędkość — fizyka pozostaje ta sama."
+    },
+    "ve06": {
+      "prompt": "Twój samochód ma światła do jazdy dziennej. Kiedy mimo to trzeba włączyć światła mijania?",
+      "options": ["O zmierzchu i po ciemku", "W tunelach i przy słabej widoczności", "Nigdy — światła dzienne zawsze wystarczą"],
+      "why": "Światła do jazdy dziennej świecą tylko z przodu i prawie nie oświetlają drogi; tylne światła często pozostają wyłączone. O zmierzchu, po ciemku, w tunelach i przy słabej widoczności wymagane są światła mijania (§ 17 StVO)."
+    },
+    "ve07": {
+      "prompt": "Holujesz samochód na lince. Co jest prawidłowe?",
+      "options": ["Oba pojazdy włączają światła awaryjne", "Odstęp między pojazdami wynosi najwyżej 5 m", "Zapłon w holowanym samochodzie pozostaje wyłączony"],
+      "why": "Przy holowaniu oba pojazdy mają włączone awaryjne (§ 15a StVO), odstęp wynosi najwyżej 5 m, a linka jest oznaczona pośrodku. Zapłon holowanego samochodu musi być włączony, inaczej zablokuje się kierownica; przy wyłączonym silniku kierowanie i hamowanie wymagają dużo siły."
+    },
+    "ve08": {
+      "prompt": "Chcesz przewozić bagaż na dachu. Na co zwracasz uwagę?",
+      "options": ["Na to, by nie przekroczyć dopuszczalnego obciążenia dachu z dokumentów pojazdu", "Samochód prowadzi się inaczej: wyżej środek ciężkości, większa wrażliwość na boczny wiatr", "Niezabezpieczone rzeczy są w porządku, jeśli jadę wolno"],
+      "why": "Ładunek musi być zabezpieczony tak, by nie przesunął się ani nie spadł nawet przy hamowaniu awaryjnym lub gwałtownym manewrze (§ 22 StVO). Ładunek na dachu zmienia prowadzenie i zwiększa zużycie paliwa."
+    },
+    "ve09": {
+      "prompt": "Jakie przyczepy możesz ciągnąć z prawem jazdy kategorii B?",
+      "options": ["Przyczepy o dopuszczalnej masie całkowitej do 750 kg", "Cięższe przyczepy, jeśli cały zespół ma najwyżej 3500 kg dopuszczalnej masy całkowitej", "Każdą przyczepę, do której ciągnięcia mój samochód jest dopuszczony"],
+      "why": "Kategoria B pozwala na przyczepy do 750 kg albo cięższe, o ile zespół mieści się w 3500 kg. Kod 96 (po szkoleniu) pozwala do 4250 kg; powyżej potrzebna jest kategoria BE."
+    },
+    "ve10": {
+      "prompt": "Zjeżdżasz długim, stromym zboczem. Jak oszczędzasz hamulce?",
+      "options": ["Używam niskiego biegu i hamowania silnikiem", "Toczę się na luzie i przez cały czas lekko hamuję", "Wyłączam zapłon"],
+      "why": "Ciągłe hamowanie przegrzewa hamulce, aż prawie przestają działać (fading). Zasada: w dół ten bieg, który byłby potrzebny pod górę. Wyłączanie zapłonu jest niebezpieczne — znika wspomaganie kierownicy i hamulców."
+    },
+    "ve11": {
+      "prompt": "Co musi być w każdym samochodzie osobowym?",
+      "options": ["Apteczka", "Trójkąt ostrzegawczy", "Co najmniej jedna kamizelka odblaskowa"],
+      "why": "Apteczka, trójkąt ostrzegawczy i co najmniej jedna kamizelka odblaskowa są obowiązkowe. Zaleca się kamizelkę dla każdej osoby, w zasięgu ręki we wnętrzu."
+    },
+    "ve12": {
+      "prompt": "Chcesz zamontować fotelik tyłem do kierunku jazdy na przednim siedzeniu pasażera. Co musisz zrobić?",
+      "options": ["Wyłączyć poduszkę powietrzną pasażera", "Nic — poduszka zwiększa ochronę", "Przesunąć siedzenie całkiem do przodu"],
+      "why": "Otwierająca się poduszka uderza z ogromną siłą w oparcie fotelika zamontowanego tyłem — to może zabić. Przy foteliku tyłem do kierunku jazdy poduszka pasażera musi być wyłączona."
+    },
+    "ve13": {
+      "prompt": "Dzieci poniżej 12 lat muszą jeździć w foteliku do osiągnięcia jakiego wzrostu?",
+      "why": "Dzieci poniżej 12 lat, które mają mniej niż 150 cm wzrostu, mogą jeździć tylko w odpowiednim, homologowanym urządzeniu przytrzymującym (§ 21 ust. 1a StVO).",
+      "tip": "12 lat albo 150 cm — co nastąpi pierwsze."
+    },
+    "ve14": {
+      "prompt": "Jak często samochód musi przechodzić badanie techniczne („TÜV”)?",
+      "options": ["Co dwa lata; nowy samochód pierwszy raz po trzech", "Co roku", "Tylko po wypadku"],
+      "why": "Samochody osobowe przechodzą badanie co 24 miesiące, nowe — pierwszy raz po 36. Naklejka na tylnej tablicy rejestracyjnej pokazuje miesiąc i rok następnego."
+    },
+    "ve15": {
+      "prompt": "Jak prawidłowo ustawić zagłówek?",
+      "options": ["Górna krawędź mniej więcej na wysokości czubka głowy, jak najbliżej głowy", "Jak najniżej", "Na wysokości karku"],
+      "why": "Przy uderzeniu w tył zagłówek przyjmuje głowę. Ustawiony za nisko działa jak dźwignia i może uszkodzić kark."
+    },
+    "ve16": {
+      "prompt": "Na co trzeba uważać, jadąc powoli samochodem elektrycznym?",
+      "options": ["Piesi prawie go nie słyszą i mogą się mnie nie spodziewać", "Bardzo gwałtownie przyspiesza z miejsca", "Samochody elektryczne mają zawsze pierwszeństwo na parkingach"],
+      "why": "Przy małej prędkości samochody elektryczne są bardzo ciche; piesi — zwłaszcza niewidomi i dzieci — zauważają je późno. Natychmiastowy moment obrotowy sprawia, że gwałtownie ruszają z miejsca."
+    },
+    "ec01": {
+      "prompt": "Jak jeździć najoszczędniej?",
+      "options": ["Wcześnie zmieniać bieg na wyższy i utrzymywać niskie obroty", "Jeździć z przewidywaniem i unikać zbędnego hamowania", "Na niskich biegach przy wysokich obrotach"],
+      "why": "Wczesna zmiana biegu w górę (ok. 2000–2500 obr./min w benzynie) i przewidujące toczenie się oszczędzają dużo paliwa. Każde zbędne zatrzymanie marnuje energię, za którą zapłacono paliwem."
+    },
+    "ec02": {
+      "prompt": "Toczysz się do czerwonego światła na włączonym biegu. Co się dzieje?",
+      "options": ["Dopływ paliwa jest odcięty (hamowanie silnikiem z odcięciem wtrysku)", "Silnik zużywa więcej niż na biegu jałowym", "Silnik gaśnie"],
+      "why": "Toczenie się na biegu bez gazu: nowoczesne silniki odcinają wtedy wtrysk i nie zużywają paliwa. Na luzie silnik dalej spala paliwo, by pracować na biegu jałowym."
+    },
+    "ec03": {
+      "prompt": "Co jest zabronione, by uniknąć zbędnego hałasu i spalin?",
+      "options": ["Rozgrzewanie silnika na postoju", "Bezcelowe jeżdżenie tam i z powrotem po mieście", "Niewyłączanie silnika na czerwonym"],
+      "why": "Zbędny hałas i spaliny, których da się uniknąć, są zabronione, w tym rozgrzewanie na postoju i bezcelowe krążenie po mieście (§ 30 ust. 1 StVO). Na czerwonym silnik może pracować, ale przy dłuższym czekaniu opłaca się go wyłączyć."
+    },
+    "ec04": {
+      "prompt": "Czeka cię długie stanie przed zamkniętymi rogatkami. Co robisz?",
+      "options": ["Wyłączam silnik", "Zostawiam go włączonego, żeby nie wystygł", "Dodaję gazu, żeby naładować akumulator"],
+      "why": "Przy dłuższym czekaniu przed rogatkami, w korku lub na światłach przy robotach drogowych wyłączenie silnika oszczędza paliwo i ogranicza hałas i spaliny."
+    },
+    "ec05": {
+      "prompt": "Co zwiększa zużycie paliwa?",
+      "options": ["Pusty bagażnik dachowy", "Zbyt niskie ciśnienie w oponach", "Klimatyzacja"],
+      "why": "Wyposażenie dachowe zwiększa opór powietrza, niskie ciśnienie — opór toczenia, a klimatyzacja zabiera moc silnika. Zdejmuj, sprawdzaj ciśnienie i włączaj klimatyzację tylko w razie potrzeby."
+    },
+    "ec06": {
+      "prompt": "Dlaczego przy dużej prędkości zużycie paliwa gwałtownie rośnie?",
+      "options": ["Opór powietrza rośnie z kwadratem prędkości", "Bo silnik jest nieefektywny na najwyższym biegu", "Nie rośnie — szybka jazda oszczędza czas i paliwo"],
+      "why": "Dwa razy szybciej to cztery razy większy opór powietrza. 120 zamiast 160 km/h na autostradzie oszczędza często jedną trzecią paliwa i kosztuje tylko ok. dwunastu minut na 100 km."
+    },
+    "ec07": {
+      "prompt": "Gdzie oddajesz zużyty olej silnikowy?",
+      "options": ["W punkcie zbiórki, np. tam, gdzie kupiono olej", "Do śmieci domowych w zamkniętej butelce", "Do kanalizacji"],
+      "why": "Jeden litr zużytego oleju może skazić milion litrów wody pitnej. Sklepy sprzedające olej silnikowy muszą bezpłatnie przyjąć tę samą ilość zużytego oleju."
+    },
+    "ec08": {
+      "prompt": "Kto może wjechać do strefy niskiej emisji?",
+      "options": ["Pojazdy z wymaganą naklejką ekologiczną", "Każdy pojazd, jeśli jedzie wolno", "Tylko samochody elektryczne"],
+      "why": "Do strefy niskiej emisji (znak 270.1) mogą wjechać tylko pojazdy z właściwą naklejką — dziś prawie wszędzie oznacza to zieloną. Bez niej grozi mandat."
+    },
+    "ec09": {
+      "prompt": "Które jazdy najbardziej szkodzą silnikowi i środowisku?",
+      "options": ["Krótkie trasy na zimnym silniku", "Długie, równe trasy", "Jazdy z tempomatem"],
+      "why": "Zimny silnik zużywa dużo więcej paliwa i szybciej się zużywa, a katalizator jeszcze się nie nagrzał. Na krótkich odcinkach często lepiej pieszo, rowerem albo autobusem."
+    },
+    "la01": {
+      "prompt": "Czego wymaga podstawowa zasada z § 1 StVO?",
+      "options": ["Stałej ostrożności i wzajemnego szacunku", "Nikogo nie wolno skrzywdzić, narazić ani utrudniać mu lub przeszkadzać bardziej, niż jest to nieuniknione", "Kto ma pierwszeństwo, może przy nim obstawać"],
+      "why": "§ 1 StVO stoi ponad wszystkimi innymi zasadami: stała ostrożność i wzajemny szacunek. Pierwszeństwo to prawo, którego nie wolno wymuszać, gdy druga strona wyraźnie je ignoruje.",
+      "tip": "Mieć rację nie znaczy wymuszać."
+    },
+    "la02": {
+      "prompt": "Trafiasz na wypadek z rannymi. Co robisz najpierw?",
+      "options": ["Zabezpieczam miejsce wypadku", "Dzwonię pod 112 i udzielam pierwszej pomocy", "Jadę dalej — ktoś inny na pewno się zatrzyma"],
+      "why": "Awaryjne, kamizelka, trójkąt: najpierw zabezpiecz miejsce, żeby nikt więcej nie wjechał. Potem 112 i pierwsza pomoc. Nieudzielenie pomocy, gdy jest to rozsądnie możliwe, jest przestępstwem (§ 323c StGB).",
+      "tip": "Zabezpiecz — zadzwoń — pomóż."
+    },
+    "la03": {
+      "prompt": "Wyjeżdżając z miejsca parkingowego, uszkadzasz inny samochód. Właściciela nie ma. Co robisz?",
+      "options": ["Czekam rozsądny czas, a jeśli nikt nie przyjdzie, zawiadamiam policję", "Zostawiam kartkę z numerem za wycieraczką i odjeżdżam", "Odjeżdżam — szkoda jest niewielka"],
+      "why": "Opuszczenie miejsca bez umożliwienia ustalenia faktów jest przestępstwem (§ 142 StGB, ucieczka z miejsca zdarzenia). Kartka nie wystarczy. Poczekaj rozsądny czas, potem niezwłocznie zgłoś to policji.",
+      "tip": "Kartka to nie zgłoszenie."
+    },
+    "la04": {
+      "prompt": "Jakie dokumenty musisz mieć przy sobie podczas jazdy?",
+      "options": ["Prawo jazdy", "Dowód rejestracyjny, część I (Fahrzeugschein)", "Umowę kupna samochodu"],
+      "why": "Musisz mieć przy sobie prawo jazdy i dowód rejestracyjny część I i okazać je na żądanie. Część II (karta pojazdu) nie powinna być w samochodzie."
+    },
+    "la05": {
+      "prompt": "Ile lat zwykle trwa okres próbny dla nowych kierowców?",
+      "why": "Okres próbny trwa dwa lata od uzyskania pierwszego prawa jazdy. Po jednym poważnym (A) albo dwóch mniej poważnych (B) wykroczeniach trzeba odbyć kurs doszkalający, a okres próbny wydłuża się do czterech lat (§ 2a StVG)."
+    },
+    "la06": {
+      "prompt": "Które wykroczenie w okresie próbnym jest poważne (kategoria A)?",
+      "options": ["Przekroczenie prędkości o ponad 20 km/h", "Przejazd na czerwonym", "Jazda bez kamizelki odblaskowej w samochodzie"],
+      "why": "Do kategorii A należą przekroczenie prędkości o 21 km/h lub więcej, przejazd na czerwonym, nieustąpienie pierwszeństwa, niebezpieczne wyprzedzanie, alkohol lub marihuana za kierownicą. Jedno takie wykroczenie oznacza kurs doszkalający."
+    },
+    "la07": {
+      "prompt": "Przy ilu punktach w rejestrze kierowców traci się prawo jazdy?",
+      "why": "Rejestr kierowców we Flensburgu działa stopniowo: 4–5 punktów to upomnienie, 6–7 ostrzeżenie, a przy 8 punktach prawo jazdy jest odbierane."
+    },
+    "la08": {
+      "prompt": "Co grozi za przejazd na świetle, które było czerwone dłużej niż sekundę?",
+      "options": ["Miesięczny zakaz prowadzenia", "Dwa punkty w rejestrze kierowców", "Tylko pouczenie"],
+      "why": "„Kwalifikowany” przejazd na czerwonym (czerwone dłużej niż sekundę) kosztuje według taryfikatora 200 €, 2 punkty i miesiąc zakazu — a w okresie próbnym także kurs i przedłużenie."
+    },
+    "la09": {
+      "prompt": "Kto odpowiada za sprawność techniczną pojazdu przy rozpoczęciu jazdy?",
+      "options": ["Ja, jako osoba kierująca", "Tylko zarejestrowany posiadacz", "Warsztat"],
+      "why": "Kierujący odpowiada za to, by pojazd, ładunek i pasażerowie byli w porządku, a pojazd sprawny (§ 23 ust. 1 StVO). Posiadacz również ponosi odpowiedzialność."
+    },
+    "la10": {
+      "prompt": "Kto musi zapinać pasy w samochodzie?",
+      "options": ["Każdy na miejscu wyposażonym w pas", "Tylko kierowca i pasażer z przodu", "Tylko na autostradzie"],
+      "why": "Podczas jazdy pasy trzeba zapinać z przodu i z tyłu (§ 21a StVO). Jako kierujący odpowiadasz też za prawidłowe zabezpieczenie dzieci."
+    },
+    "la11": {
+      "prompt": "Jakie warunki musi spełniać osoba towarzysząca przy jeździe z towarzyszeniem od 17 lat?",
+      "options": ["Mieć co najmniej 30 lat", "Mieć prawo jazdy kategorii B od co najmniej 5 lat", "Mieć najwyżej jeden punkt w rejestrze kierowców"],
+      "why": "Osoby towarzyszące muszą mieć co najmniej 30 lat, kategorię B od co najmniej 5 lat, najwyżej jeden punkt i być wpisane w zaświadczeniu. Obowiązują je limity 0,5 ‰ alkoholu i limity dotyczące marihuany."
+    },
+    "la12": {
+      "prompt": "Które ubezpieczenie jest obowiązkowe dla każdego zarejestrowanego samochodu?",
+      "options": ["Ubezpieczenie OC", "Autocasco", "NNW dla pasażerów"],
+      "why": "Obowiązkowe jest tylko OC: pokrywa szkody wyrządzone innym. Częściowe i pełne autocasco własnego samochodu są dobrowolne."
+    }
+  }
+}

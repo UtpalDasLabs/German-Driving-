@@ -1,0 +1,322 @@
+{
+  "questions": {
+    "si01": {
+      "prompt": "Bu hız sınırı nerede sona erer?",
+      "options": ["Sonunu gösteren bir levhada (örneğin 278 ya da 282 numaralı levha)", "Her zaman bir sonraki kavşakta", "Tam 500 metre sonra"],
+      "why": "Bir güzergâh boyunca geçerli kısıtlamalar, onları kaldıran bir levhaya kadar sürer; bir kavşaktan sonra kendiliğinden bitmez. İstisnalar: ek levha uzunluğu belirtir ya da sınır bir uyarı levhasıyla birlikte durur ve tehlike bitince açıkça sona erer.",
+      "tip": "Kavşaklar hız sınırını bitirmez."
+    },
+    "si02": {
+      "prompt": "Bu levhada taşıt yolunda neye izin verilir?",
+      "options": ["Hiçbir şeye - durmak tamamen yasaktır", "Birini indirmek için kısa bir duruşa", "Üç dakikaya kadar park etmeye"],
+      "why": "283 numaralı levha mutlak durma yasağıdır: taşıt yolunda hiçbir şekilde duramazsınız, birini bindirip indirmek için kısa süreliğine bile.",
+      "tip": "Çarpı = asla. Tek çizgi = kısa süre."
+    },
+    "si03": {
+      "prompt": "Bu levha neye izin verir?",
+      "options": ["Üç dakikaya kadar durmaya", "Yük yüklemek ya da yolcu bindirip indirmek için daha uzun durmaya", "Park etmeye"],
+      "why": "286 numaralı sınırlı durma yasağı levhası, yolcu bindirip indirmek ya da yükleme-boşaltma dışında üç dakikadan uzun durmayı yasaklar. Park etmek yasaktır."
+    },
+    "si04": {
+      "prompt": "Bu levha ne anlama gelir?",
+      "options": ["Her türlü araç yasak - bisiklet yürütülerek götürülebilir", "Yalnızca bölge sakinleri", "Bisikletliler sürebilir"],
+      "why": "250 numaralı levha her türlü aracı yasaklar. El arabaları ile yürütülerek götürülen bisiklet ve motosikletler için geçerli değildir."
+    },
+    "si05": {
+      "prompt": "Bu levha ne anlama gelir?",
+      "options": ["Girilmez", "İki yönde de transit geçiş yasak", "Durmak yasak"],
+      "why": "267 numaralı levha \"girilmez\" demektir. Genellikle tek yönlü bir yolun karşı ucunda durur; o yola diğer uçtan girebilirsiniz."
+    },
+    "si06": {
+      "prompt": "Bu yolda ne geçerlidir?",
+      "options": ["Yalnızca ok yönünde gidebilirim", "Sol tarafta da durup park edebilirim", "Burada geri dönebilirim"],
+      "why": "220 numaralı levha tek yönlü yolu gösterir. Araçlar yalnızca ok yönünde gidebilir; solda durmak ve park etmek de serbesttir (StVO § 12 f. 4). Geri dönmek, trafiğe ters yönde gitmek anlamına gelir."
+    },
+    "si07": {
+      "prompt": "Bu levha size ne söyler?",
+      "options": ["Çıkmaz yol", "Ana yol", "Park etmek yasak"],
+      "why": "357 numaralı levha çıkmaz yolu gösterir: araçlar buradan geçemez. Geri dönmek zorunda kalacağınızı hesaba katın."
+    },
+    "si08": {
+      "prompt": "Bu bölgede ne geçerlidir?",
+      "options": ["Yürüme hızında sürmek", "Yayalar yolun tamamını kullanabilir, çocuklar her yerde oynayabilir", "Kenar boyunca her yere park edilebilir"],
+      "why": "Trafiği sakinleştirilmiş bölgede (325.1 numaralı levha) hız yürüme hızıdır. Yayalar yolun tüm genişliğini kullanabilir, çocuklar her yerde oynayabilir. Park etmek yalnızca işaretli yerlerde serbesttir.",
+      "tip": "Oyun sokağı: burada misafirsiniz."
+    },
+    "si09": {
+      "prompt": "Trafiği sakinleştirilmiş bir bölgeden normal bir yola çıkıyorsunuz. Geçiş hakkı kimde?",
+      "options": ["Gireceğim yoldaki herkeste", "Sağdan geliyorsam bende", "Yürüme hızında olduğum için bende"],
+      "why": "Trafiği sakinleştirilmiş bölgeden çıkarken, tıpkı bir garaj yolundan çıkarken olduğu gibi, herkesi önce geçirmeli ve her türlü tehlikeyi önlemelisiniz (StVO § 10)."
+    },
+    "si10": {
+      "prompt": "Bu bölgede normalde ne geçerlidir?",
+      "options": ["En fazla 30 km/sa", "Kavşaklarda genellikle \"sağdan gelen önce geçer\"", "Kimse için sollamak serbest değil"],
+      "why": "30 bölgesinde (274.1 numaralı levha) hız sınırı, 274.2 numaralı levha bölgeyi bitirene kadar 30 km/sa’tir. Bu bölgelerde ana yol yoktur, bu yüzden kavşaklarda genellikle \"sağdan gelen önce geçer\" geçerlidir."
+    },
+    "si11": {
+      "prompt": "Levhalar aksini söylemedikçe, bu levhadan itibaren bir otomobil için hız sınırı nedir?",
+      "why": "Yerleşim yeri levhası (310) yerleşim yerinin başladığını gösterir. İçinde tüm motorlu araçlar için sınır 50 km/sa’tir (StVO § 3 f. 3).",
+      "tip": "Sarı yerleşim yeri levhası = 50."
+    },
+    "si12": {
+      "prompt": "Otoyolu kim kullanabilir?",
+      "options": ["Yapısal olarak 60 km/sa’ten hızlı gidebilen motorlu araçlar", "Tüm motorlu araçlar", "45 km/sa ile sınırlı mopedler de"],
+      "why": "Otoyollar (330.1 numaralı levha) ve ekspres yollar yalnızca yapısal azami hızı 60 km/sa’ten fazla olan motorlu araçlar içindir (StVO § 18 f. 1)."
+    },
+    "si13": {
+      "prompt": "Bu levha neyi gösterir?",
+      "options": ["Ana yolun sonu", "Ana yolun başlangıcı", "Bir sonraki kavşakta öncelik"],
+      "why": "307 numaralı levha ana yolu bitirir. Ondan sonra yine levhalar ya da \"sağdan gelen önce geçer\" kuralı belirleyicidir. Genellikle kısa süre sonra 205 numaralı levha gelir."
+    },
+    "si14": {
+      "prompt": "Bu levhaların verdiği uyarı ne zaman geçerlidir?",
+      "options": ["Yalnızca yol ıslakken", "Her zaman", "Yalnızca kışın"],
+      "why": "114 numaralı levha kayma tehlikesine karşı uyarır. \"bei Nässe\" (ıslakken) ek levhası uyarıyı ıslak yolla sınırlar."
+    },
+    "si15": {
+      "prompt": "Bu levhada neyi beklemelisiniz?",
+      "options": ["Çocukların aniden yola fırlamasını", "Yol kenarında oynayan çocukları", "Yalnızca okul saatlerinde çocukları"],
+      "why": "136 numaralı levha günün her saatinde çocuklara karşı uyarır. Yavaşlayın ve fren yapmaya hazır olun (StVO § 3 f. 2a)."
+    },
+    "si16": {
+      "prompt": "Bu levhada ne doğrudur?",
+      "options": ["Hayvanlar özellikle alacakaranlıkta ve şafakta görülür", "Bir hayvan geçtiği yerde genellikle başkaları da gelir", "Uyarı yalnızca sonbaharda geçerlidir"],
+      "why": "142 numaralı levha yaban hayvanı geçişine karşı uyarır. Yaban hayvanları en çok şafakta ve alacakaranlıkta hareket eder ve çoğu zaman grup halinde dolaşır: ilk geyikten sonra çoğu zaman ikincisi gelir."
+    },
+    "si17": {
+      "prompt": "Üç çizgili geri sayım işareti hemzemin geçitten yaklaşık kaç metre önce durur?",
+      "why": "İşaretler geçitten yaklaşık 240 m (üç çizgi), 160 m (iki) ve 80 m (bir) önce durur. Her çizgi yaklaşık 80 metredir.",
+      "tip": "Bir çizgi = 80 metre."
+    },
+    "si18": {
+      "prompt": "Bu levhada kimi hâlâ sollayabilirsiniz?",
+      "options": ["Bir bisikletliyi", "Sepetsiz bir motosikleti", "Yavaş bir otomobili"],
+      "why": "276 numaralı levha çok izli motorlu araçları ve sepetli motosikletleri sollamayı yasaklar. Tek izli araçlar - bisikletler, mopedler, motosikletler - yeterli mesafeyle hâlâ sollanabilir."
+    },
+    "si19": {
+      "prompt": "Römorklu bir otomobil kullanıyorsunuz, toplam ağırlık 3,5 tonun üzerinde. Bu levhada sollayabilir misiniz?",
+      "options": ["Evet - otomobiller bu yasaktan muaftır", "Hayır - araç kombinasyonu 3,5 tondan ağır", "Yalnızca bisikletlileri"],
+      "why": "277 numaralı levha, römorkları dahil 3,5 tonun üzerindeki motorlu araçlar ve traktörler için geçerlidir. Otomobiller ve otobüsler, römorklu olsun olmasın, açıkça muaftır."
+    },
+    "si20": {
+      "prompt": "Bu levha neyi kaldırır?",
+      "options": ["Önceki güzergâh boyunca geçerli tüm kısıtlamaları, örneğin hız sınırlarını ve sollama yasaklarını", "Yalnızca sollama yasağını", "Ana yolu"],
+      "why": "282 numaralı levha güzergâh boyunca geçerli tüm kısıtlamaları bitirir. Sonrasında yine genel kurallar geçerlidir - örneğin yerleşim yeri dışında otomobiller için 100 km/sa."
+    },
+    "si21": {
+      "prompt": "Bu levha ne gerektirir?",
+      "options": ["Trafik, görüş ya da hava gerektirmedikçe 30 km/sa’ten yavaş gitmemek", "En fazla 30 km/sa ile gitmek", "Tam olarak 30 km/sa ile gitmek"],
+      "why": "Yuvarlak mavi levhalar bir emir verir: 275 numaralı levha asgari hızdır. O kadar hızlı gidemeyen araçlar bu yolu kullanamaz.",
+      "tip": "Mavi = zorunlu. Kırmızı çember = yasak."
+    },
+    "si22": {
+      "prompt": "Bu yolları kim kullanabilir?",
+      "options": ["Bisikletliler (sağdaki iki levhada yayalar da)", "Yol doluyken otomobiller", "Motosikletler"],
+      "why": "237 numaralı levha bisiklet yolu, 240 ortak, 241 ise ayrılmış yaya ve bisiklet yoludur. Hiçbirinde otomobil kullanamazsınız; elektrikli scooterlar ise bisiklet yollarını kullanmak zorundadır."
+    },
+    "si23": {
+      "prompt": "Bu levhanın kaç metre önünde ve arkasında park edemezsiniz?",
+      "why": "224 numaralı levha otobüs ya da tramvay durağını gösterir. Otobüs ve tramvayların yanaşıp ayrılabilmesi için iki yönde de 15 m boyunca park etmek yasaktır."
+    },
+    "si24": {
+      "prompt": "Yasağa rağmen kim yine de girebilir?",
+      "options": ["Bölge sakinleri ve orada işi olanlar, örneğin ziyaretçiler ve teslimatlar", "Kestirme yol arayan herkes", "Hiç kimse"],
+      "why": "\"Anlieger frei\" o yolda işi olan herkesi içeri alır - sakinler, ziyaretçiler, teslimatlar. Transit geçiş yasak kalır."
+    },
+    "si25": {
+      "prompt": "Bu durma yasağı ne zaman geçerlidir?",
+      "options": ["Yalnızca 16.00 ile 18.00 arasında", "Bütün gün", "Yalnızca hafta içi sabahları"],
+      "why": "Ek levha ana levhayı daraltır. \"16-18 h\" ile durma yasağı yalnızca o iki saatte geçerlidir."
+    },
+    "si26": {
+      "prompt": "Bu düz çizgi ne anlama gelir?",
+      "options": ["Geçilemez", "Üzerinden de gidilemez", "Yol boşsa sollamak serbesttir"],
+      "why": "Şerit sınır çizgisi (295) geçilemez ve üzerinden gidilemez. Solunda da duramazsınız."
+    },
+    "si27": {
+      "prompt": "Bu kesik çizgi için ne geçerlidir?",
+      "options": ["Kimse tehlikeye girmiyorsa geçebilirim", "Asla geçemem", "Park şeridini gösterir"],
+      "why": "Kılavuz çizgi (340) şeritleri ayırır. Trafik izin verdiğinde, örneğin sollamak için, geçilebilir."
+    },
+    "si28": {
+      "prompt": "Bu yol çizgisi ne anlama gelir?",
+      "options": ["Taralı alan - üzerinden gidilemez", "Park etmek serbest", "Yalnızca otobüsler"],
+      "why": "Taralı alan (298) araçlar tarafından hiçbir şekilde kullanılamaz - ne üzerinden gidilir, ne durulur ne de park edilir."
+    },
+    "si29": {
+      "prompt": "Bu zikzak çizgi neyi gösterir?",
+      "options": ["Durmanın ya da park etmenin yasak olduğu bir alanı", "Bir oyun sokağını", "Bir bisiklet şeridini"],
+      "why": "Zikzak sınır çizgisi (299), örneğin çıkışların ya da otobüs duraklarının önünde, durma ya da park etme yasağı olan alanı gösterir veya uzatır."
+    },
+    "si30": {
+      "prompt": "Dar bir kesimden önce bu levhayı görüyorsunuz. Ne yaparsınız?",
+      "options": ["Karşıdan gelen trafiğe öncelik verir, gerekirse beklerim", "Karşıdan gelen trafik gelmeden hızla geçerim", "Korna çalıp geçerim"],
+      "why": "208 numaralı levha \"karşıdan gelen trafiğe öncelik\" demektir. Kırmızı ok sizsiniz: siz beklersiniz. Karşı yönden gelen sürücüler 308 numaralı levhayı görür.",
+      "tip": "Kırmızı ok = ben beklerim."
+    },
+    "si31": {
+      "prompt": "Hız sınırının altındaki bu ek levha ne anlama gelir?",
+      "options": ["Sınır sonraki 800 metre boyunca geçerlidir", "Sınır 800 metre sonra başlar", "Bir sonraki benzin istasyonu 800 metre ileride"],
+      "why": "\"auf 800 m\" kısıtlamanın geçerli olduğu uzunluğu verir; ardından sonlandırma levhası gelmez. \"nach 200 m\" ise bir şeyin nerede başladığını söyler.",
+      "tip": "\"auf\" = ne kadar boyunca. \"nach\" = ne kadar sonra."
+    },
+    "si32": {
+      "prompt": "Bu kırmızı-beyaz ok levhaları neyi gösterir?",
+      "options": ["Virajın yönünü", "Bir şantiye çıkışını", "Sollama yasağını"],
+      "why": "Yön levhaları (625) virajın hangi yöne döndüğünü gösterir. Bulundukları yerde viraj genellikle göründüğünden daha keskindir."
+    },
+    "sp01": {
+      "prompt": "Levha yoksa, yerleşim yeri dışında (otoyol değil) bir otomobil için hız sınırı nedir?",
+      "why": "Yerleşim yeri dışında otomobiller için sınır 100 km/sa’tir (StVO § 3 f. 3). Otoyollarda otomobiller için genel bir sınır yoktur, ama 130 km/sa tavsiye edilen azami hızdır.",
+      "tip": "Şehir 50, kırsal 100, otoyol 130 tavsiye."
+    },
+    "sp02": {
+      "prompt": "Hız sınırı gösterilmiyorsa otoyolda ne geçerlidir?",
+      "options": ["En fazla 130 km/sa tavsiye edilir", "130 km/sa yasal sınırdır", "Dikkat edilecek bir şey yoktur"],
+      "why": "130 km/sa bir tavsiyedir, sınır değil. Ama daha hızlı gider ve bir kazaya karışırsanız, aslında kusurunuz olmasa bile kısmen sorumlu tutulabilirsiniz."
+    },
+    "sp03": {
+      "prompt": "Römork çeken bir otomobil için yerleşim yeri dışında ve otoyolda (özel izin olmadan) azami hız nedir?",
+      "why": "Römorkla otomobiller yerleşim yeri dışında ve otoyollarda 80 km/sa ile sınırlıdır. Kombinasyon için \"Tempo 100\" izni varsa otoyol ve ekspres yollarda 100 km/sa’e izin verilir."
+    },
+    "sp04": {
+      "prompt": "Sis, kar ya da yağmur görüşü 50 m’nin altına düşürüyor. En fazla kaç km/sa ile gidebilirsiniz?",
+      "why": "Sis, kar ya da yağmur nedeniyle görüş 50 m’nin altındaysa 50 km/sa’i aşamazsınız, çoğu zaman daha yavaş gitmeniz gerekir (StVO § 3 f. 1). Yol kenarındaki direkler 50 m arayla durur; bu mesafeyi tahmin etmenize yardımcı olur.",
+      "tip": "Bir sonraki direği göremiyor musunuz? 50 km/sa’in altına inin."
+    },
+    "sp05": {
+      "prompt": "Kar zinciri takılıyken azami hız nedir?",
+      "why": "Kar zinciriyle sınır 50 km/sa’tir, normalde daha fazlasına izin verilen yerlerde bile. Zincirleri yalnızca kesintisiz bir kar örtüsünde kullanın."
+    },
+    "sp06": {
+      "prompt": "İleriyi uzaktan göremediğinizde ne kadar hızlı gidebilirsiniz?",
+      "options": ["Görebildiğim mesafe içinde durabileceğim kadar", "Çok dar yollarda, o mesafenin yarısında durabileceğim kadar", "Levhanın izin verdiği kadar"],
+      "why": "Görüşe göre sürüş (StVO § 3 f. 1): görebildiğiniz mesafe içinde durabilmelisiniz. Karşıdan gelen trafiğin tehlikeye gireceği kadar dar bir yolda, bu mesafenin yarısında - çünkü diğer sürücünün de durmak için yere ihtiyacı vardır."
+    },
+    "sp07": {
+      "prompt": "Pratik formüle göre 50 km/sa’te reaksiyon mesafesi ne kadardır?",
+      "why": "50 ÷ 10 = 5, çarpı 3 = 15 m. Pratik formüller: reaksiyon mesafesi = (hız ÷ 10) × 3. Fren mesafesi = (hız ÷ 10) × (hız ÷ 10). Acil frende fren mesafesi yarıya iner. Durma mesafesi = reaksiyon mesafesi + fren mesafesi."
+    },
+    "sp08": {
+      "prompt": "Pratik formüle göre 50 km/sa’te normal fren mesafesi ne kadardır?",
+      "why": "50 ÷ 10 = 5, çarpı 5 = 25 m. Pratik formüller: reaksiyon mesafesi = (hız ÷ 10) × 3. Fren mesafesi = (hız ÷ 10) × (hız ÷ 10). Acil frende fren mesafesi yarıya iner. Durma mesafesi = reaksiyon mesafesi + fren mesafesi."
+    },
+    "sp09": {
+      "prompt": "Pratik formüle göre 100 km/sa’te (normal frenleme) durma mesafesi ne kadardır?",
+      "why": "Reaksiyon 10 × 3 = 30 m, fren 10 × 10 = 100 m, toplam 130 m. Pratik formüller: reaksiyon mesafesi = (hız ÷ 10) × 3. Fren mesafesi = (hız ÷ 10) × (hız ÷ 10). Acil frende fren mesafesi yarıya iner. Durma mesafesi = reaksiyon mesafesi + fren mesafesi."
+    },
+    "sp10": {
+      "prompt": "Pratik formüle göre 100 km/sa’ten acil frende fren mesafesi ne kadardır?",
+      "why": "Normal fren 10 × 10 = 100 m; acil fren bunu yarıya indirir: 50 m. Pratik formüller: reaksiyon mesafesi = (hız ÷ 10) × 3. Fren mesafesi = (hız ÷ 10) × (hız ÷ 10). Acil frende fren mesafesi yarıya iner. Durma mesafesi = reaksiyon mesafesi + fren mesafesi."
+    },
+    "sp11": {
+      "prompt": "Pratik formüle göre 70 km/sa’te (normal frenleme) durma mesafesi ne kadardır?",
+      "why": "Reaksiyon 7 × 3 = 21 m, fren 7 × 7 = 49 m, toplam 70 m. Pratik formüller: reaksiyon mesafesi = (hız ÷ 10) × 3. Fren mesafesi = (hız ÷ 10) × (hız ÷ 10). Acil frende fren mesafesi yarıya iner. Durma mesafesi = reaksiyon mesafesi + fren mesafesi."
+    },
+    "sp12": {
+      "prompt": "İki kat hızlı gidiyorsunuz. Reaksiyon ve fren mesafelerine ne olur?",
+      "options": ["Reaksiyon mesafesi iki katına çıkar", "Fren mesafesi dört katına çıkar", "Fren mesafesi iki katına çıkar"],
+      "why": "Reaksiyon mesafesi hızla aynı oranda büyür; fren mesafesi hızın karesiyle büyür. İki kat hız, dört kat fren mesafesi demektir.",
+      "tip": "İki kat hız, dört kat fren."
+    },
+    "sp13": {
+      "prompt": "Yerleşim yeri dışında 80 km/sa ile gidiyorsunuz. Öndeki araçla en az kaç metre mesafe bırakmalısınız (\"göstergenin yarısı\" kuralı)?",
+      "why": "Yerleşim yeri dışındaki kural \"göstergenin yarısı\"dır: hızınızın yarısı kadar metre - 80 km/sa’te 40 m, yaklaşık iki saniye. Bunun onda üçünden azı tehlikeli yakın takip sayılır ve cezalandırılır.",
+      "tip": "İki saniye sayın: \"yirmi bir, yirmi iki\"."
+    },
+    "sp14": {
+      "prompt": "Durma mesafesini ne uzatır?",
+      "options": ["Yorgunluk, çünkü tepki daha geç gelir", "Islak ya da kaygan yol", "Derin dişli yeni lastikler"],
+      "why": "Durma mesafesi reaksiyon artı frendir. Yorgunluk, dikkat dağınıklığı ve alkol birincisini uzatır; ıslaklık, yapraklar, kar, aşınmış lastikler ve ağır yük ikincisini uzatır."
+    },
+    "sp15": {
+      "prompt": "Ne zaman sınırın izin verdiğinden daha yavaş gitmelisiniz?",
+      "options": ["Siste, yağmurda ya da kaygan yollarda", "Yol kenarında çocuklar varken", "Biri beni yakından takip ederken"],
+      "why": "Sınır bir tavandır. Hızınız yola, trafiğe, görüşe ve havaya uygun olmalıdır (StVO § 3 f. 1); çocukların, yaşlıların ve yardıma ihtiyacı olanların yakınında ekstra dikkatle."
+    },
+    "sp16": {
+      "prompt": "Sebepsiz yere çok yavaş gidebilir misiniz?",
+      "options": ["Hayır, trafik akışını engelleyecek kadar yavaş değil", "Evet, yavaş her zaman güvenlidir", "Evet, ama yalnızca otoyolda"],
+      "why": "Geçerli bir neden olmadan motorlu araçlar trafiği engelleyecek kadar yavaş gidemez (StVO § 3 f. 2). Gereksiz yere yavaş sürmek başkalarını riskli sollamalara iter."
+    },
+    "sp17": {
+      "prompt": "Pratik formüle göre 80 km/sa’ten acil frende fren mesafesi ne kadardır?",
+      "why": "Normal fren 8 × 8 = 64 m; yarısı 32 m. Pratik formüller: reaksiyon mesafesi = (hız ÷ 10) × 3. Fren mesafesi = (hız ÷ 10) × (hız ÷ 10). Acil frende fren mesafesi yarıya iner. Durma mesafesi = reaksiyon mesafesi + fren mesafesi."
+    },
+    "sp18": {
+      "prompt": "Pratik formüle göre 100 km/sa’te reaksiyon mesafesi ne kadardır?",
+      "why": "100 ÷ 10 = 10, çarpı 3 = 30 m - frene dokunmadan önceki o bir saniye içinde. Pratik formüller: reaksiyon mesafesi = (hız ÷ 10) × 3. Fren mesafesi = (hız ÷ 10) × (hız ÷ 10). Acil frende fren mesafesi yarıya iner. Durma mesafesi = reaksiyon mesafesi + fren mesafesi."
+    },
+    "sp19": {
+      "prompt": "Pratik formüle göre 30 km/sa’te normal fren mesafesi ne kadardır?",
+      "why": "30 ÷ 10 = 3, çarpı 3 = 9 m. 50 km/sa’ten ise 25 m’dir - okulların önünde bu yüzden 30 vardır. Pratik formüller: reaksiyon mesafesi = (hız ÷ 10) × 3. Fren mesafesi = (hız ÷ 10) × (hız ÷ 10). Acil frende fren mesafesi yarıya iner. Durma mesafesi = reaksiyon mesafesi + fren mesafesi."
+    },
+    "sp20": {
+      "prompt": "Şehirde 50 km/sa ile gidiyorsunuz. Öndeki araçla en az makul mesafe nedir?",
+      "options": ["Bir saniyede kat ettiğim mesafe kadar (yaklaşık 15 m)", "Bir araç boyu", "Kimse araya giremeyecek kadar yakın"],
+      "why": "Mesafe, öndeki araç aniden fren yapsa bile durabilmenizi sağlamalıdır (StVO § 4 f. 1). Şehirde en az bir saniyelik mesafe; yerleşim yeri dışında \"göstergenin yarısı\"."
+    },
+    "ov01": {
+      "prompt": "Sollamak ne zaman yasaktır?",
+      "options": ["Trafik durumu belirsizken", "Geçmek istediğim araçtan çok daha hızlı değilken", "Karşıdan gelen trafik uzaktayken"],
+      "why": "Yalnızca karşıdan gelen trafiğin engellenmeyeceğini görebiliyorsanız ve geçilen araçtan belirgin şekilde hızlıysanız sollayabilirsiniz. Belirsiz trafik durumunda sollamak yasaktır (StVO § 5 f. 2 ve 3).",
+      "tip": "Şüphedeysen sollama."
+    },
+    "ov02": {
+      "prompt": "Yerleşim yeri dışında bir bisikletliyi sollarken en az yan mesafe nedir?",
+      "why": "Yayaları, bisikletlileri ve elektrikli scooter sürücülerini sollarken en az mesafe şehirde 1,5 m, yerleşim yeri dışında 2 m’dir (StVO § 5 f. 4). Sığmıyorsa sollamazsınız.",
+      "tip": "Şehir 1,5 - kırsal 2."
+    },
+    "ov03": {
+      "prompt": "Sollanıyorsunuz. Ne yapmamalısınız?",
+      "options": ["Hızlanmak", "Daha sağa geçmek", "Sabit hızla devam etmek"],
+      "why": "Sollanırken hızlanamazsınız (StVO § 5 f. 6). Gerekirse yavaşlayın ve sağda kalın."
+    },
+    "ov04": {
+      "prompt": "Öndeki araç sola sinyal veriyor ve ortaya yanaşmış. Onu nasıl geçersiniz?",
+      "options": ["Sağdan", "Soldan", "Hiç - her zaman arkasında beklemeliyim"],
+      "why": "Sinyal verip sola dönmek için ortaya yanaşan bir araç, yeterli yer varsa sağdan geçilir (StVO § 5 f. 7)."
+    },
+    "ov05": {
+      "prompt": "Nerede sollamak yasaktır?",
+      "options": ["Yaya geçitlerine yaklaşırken ve üzerlerinde", "Hemzemin geçitten önceki uyarı levhalarından rayları geçene kadar", "Her köprüde"],
+      "why": "Yaya geçitlerinde sollayamazsınız (StVO § 26 f. 3). 151 ya da 156 numaralı levhadan hemzemin geçidi geçene kadar motorlu araçlar başka motorlu araçları sollayamaz (StVO § 19 f. 1). Köprüler için genel bir kural yoktur."
+    },
+    "ov06": {
+      "prompt": "Sollarken ne yapmalısınız?",
+      "options": ["Çıkmadan önce sola sinyal verip omuz üzerinden bakmak", "Geri dönerken sağa sinyal vermek", "Geri dönerken geçtiğim aracın önünü kesmemek"],
+      "why": "Çıkmak ve geri dönmek birer şerit değiştirmedir: zamanında sinyal verin, aynaya ve omuz üzerinden bakın (StVO § 5 f. 4a). Ancak geçtiğiniz aracı engellemeyecekseniz geri dönün."
+    },
+    "ov07": {
+      "prompt": "Otoyolda sol şerit yavaş bir kuyrukla ilerliyor. Sağdan daha hızlı gidebilir misiniz?",
+      "options": ["Evet, sol şerit 60 km/sa ya da daha yavaşsa, en fazla 20 km/sa daha hızlı ve büyük dikkatle", "Evet, istediğim kadar hızlı", "Hayır, asla"],
+      "why": "Soldaki araçlar duruyorsa ya da yavaş ilerliyorsa, sağdan yalnızca biraz daha hızlı ve büyük dikkatle geçebilirsiniz (StVO § 7 f. 2a). Mahkemeler bunu, sol şerit 60 km/sa ya da altındayken en fazla 20 km/sa fark olarak belirler."
+    },
+    "ov08": {
+      "prompt": "Yolun sizin tarafınızda bir engel var ve karşıdan trafik geliyor. Kim beklemek zorundadır?",
+      "options": ["Ben", "Karşıdan gelen trafik", "Oraya ilk varan"],
+      "why": "Engel kimin tarafındaysa, karşıdan gelen araçları o geçirmelidir (StVO § 6). Engelin etrafından çıkarken sinyal verin.",
+      "tip": "Tarafı kapalı olan bekler."
+    },
+    "ov09": {
+      "prompt": "Çift yönlü bir yolda tramvayı nasıl sollarsınız?",
+      "options": ["Sağdan", "Soldan", "İki taraftan da"],
+      "why": "Raylı araçlar sağdan sollanır. Soldan yalnızca tek yönlü yollarda ya da raylar çok sağda bulunduğunda (StVO § 5 f. 7)."
+    },
+    "ov10": {
+      "prompt": "Kırsal yolda bir kamyonu sollarken neye hazırlıklı olmalısınız?",
+      "options": ["Sollama mesafesi çok uzundur", "Arkasından çıkarken yan rüzgâr bana çarpabilir", "Kamyon karşıdan gelen trafiği görmemi engeller"],
+      "why": "Kamyon uzundur ve çoğu zaman sizden pek yavaş değildir, bu yüzden sollamak birkaç yüz metre sürebilir. Arkasındayken karşıdan gelen trafiği az görürsünüz; rüzgâr gölgesinden çıkarken de yan rüzgâr sizi yana itebilir."
+    },
+    "ov11": {
+      "prompt": "Şehirde diğer araçları ne zaman sağdan geçebilirsiniz?",
+      "options": ["Bir yönde birden fazla işaretli şerit olan yollarda", "Sağda yer olduğu her zaman", "Asla"],
+      "why": "Şehirde 3,5 tona kadar motorlu araçlar, bir yönde birden fazla işaretli şerit olan yollarda şeridi serbestçe seçebilir ve sağdan daha hızlı da gidebilir (StVO § 7 f. 3)."
+    },
+    "ov12": {
+      "prompt": "Bir bisikletlinin arkasındasınız, karşıdan trafik geliyor ve 1,5 m mesafe için yer yok. Ne yaparsınız?",
+      "options": ["Yeterli mesafeyle geçebilene kadar bisikletlinin arkasında kalırım", "Yakından geçerim - bisikletli kenara çekilebilir", "Bisikletli yer açsın diye korna çalarım"],
+      "why": "Asgari mesafe bir tavsiye değil, kanundur. Yer yoksa sollamazsınız. Korna yalnızca tehlikeye karşı uyarmak içindir."
+    }
+  }
+}

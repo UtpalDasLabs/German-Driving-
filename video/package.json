@@ -1,0 +1,35 @@
+{
+  "name": "fuehrerschein-trainer-video",
+  "private": true,
+  "description": "Driving-test lessons and shorts for the LID channel, rendered from the app's own question data and drawings.",
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "node scripts/render.mjs",
+    "narration": "node scripts/narration.mjs",
+    "typecheck": "tsc --noEmit",
+    "voice": "NODE_USE_ENV_PROXY=1 node scripts/voice-elevenlabs.mjs",
+    "voice:longform": "NODE_USE_ENV_PROXY=1 node scripts/voice-longform.mjs",
+    "render:longform": "node scripts/render-longform.mjs",
+    "coverage": "node scripts/coverage.mjs",
+    "check:quiz": "node scripts/check-quiz.mjs",
+    "thumbnails": "node scripts/thumbnails.mjs",
+    "sound": "node scripts/sound.mjs",
+    "take:trim": "node scripts/trim-take.mjs",
+    "sound:elevenlabs": "NODE_USE_ENV_PROXY=1 node scripts/sound-elevenlabs.mjs"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.2.8",
+    "@fontsource/source-serif-4": "^5.3.0",
+    "@remotion/bundler": "4.0.532",
+    "@remotion/cli": "4.0.532",
+    "@remotion/renderer": "4.0.532",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.532"
+  },
+  "devDependencies": {
+    "@types/react": "~19.2.2",
+    "typescript": "~6.0.3"
+  }
+}

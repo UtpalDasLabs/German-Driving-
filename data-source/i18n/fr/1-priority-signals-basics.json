@@ -1,0 +1,233 @@
+{
+  "questions": {
+    "pr01": {
+      "prompt": "Tu veux aller tout droit. Il n’y a aucun panneau à ce carrefour. Qui a la priorité ?",
+      "options": ["La voiture qui vient de droite", "Moi, parce que je vais tout droit", "Le premier véhicule arrivé au carrefour"],
+      "why": "Sans panneau ni feu, c’est la règle de la « priorité à droite » (rechts vor links, § 8 al. 1 StVO). La voiture vient de ta droite, donc tu la laisses passer — que tu ailles tout droit ou que tu tournes.",
+      "tip": "Rechts vor links : ce qui vient de droite passe en premier."
+    },
+    "pr02": {
+      "prompt": "Tu veux aller tout droit. Pas de panneau. Dois-tu laisser passer cette voiture ?",
+      "options": ["Non — elle vient de gauche et doit me laisser passer", "Oui — elle est plus près du carrefour", "Oui — aux carrefours sans panneau, il faut toujours s’arrêter"],
+      "why": "La voiture est à ta gauche. Avec la « priorité à droite », c’est elle qui t’attend, pas l’inverse. Conduis tout de même avec prudence : rien ne garantit que ta présence a été remarquée."
+    },
+    "pr03": {
+      "prompt": "Pas de panneau, tout le monde va tout droit. Dans quel ordre passent les véhicules ?",
+      "options": ["2, 3, 1", "1, 2, 3", "3, 1, 2"],
+      "why": "La voiture 2 n’a personne à sa droite, elle passe donc en premier. Le vélo, 3, n’attend que la voiture 2, qui est à sa droite. Toi (1), tu as le vélo à ta droite, donc ton tour vient en dernier.",
+      "tip": "Avec plusieurs véhicules : cherche d’abord celui dont la droite est libre."
+    },
+    "pr04": {
+      "prompt": "Tu veux tourner à gauche ; la voiture d’en face veut aller tout droit. Qui passe en premier ?",
+      "options": ["La voiture d’en face", "Moi, parce que j’ai mis mon clignotant avant", "Nous passons en même temps"],
+      "why": "Si tu tournes à gauche, tu dois d’abord laisser passer la circulation venant en sens inverse (§ 9 al. 3 StVO). Cela vaut à tous les carrefours, même sur une route prioritaire.",
+      "tip": "Qui tourne à gauche attend le trafic d’en face."
+    },
+    "pr05": {
+      "prompt": "Toi et la voiture d’en face voulez tourner à gauche. Comment tournez-vous ?",
+      "options": ["Devant l’un l’autre — chacun tourne devant l’autre", "En se contournant — en passant derrière l’autre", "Le véhicule qui clignote en premier passe d’abord"],
+      "why": "Deux véhicules face à face qui tournent à gauche tournent devant l’un l’autre (§ 9 al. 4 StVO), sauf si la circulation ou la configuration du carrefour ne le permet pas."
+    },
+    "pr06": {
+      "prompt": "Tu veux tourner à gauche. À qui dois-tu laisser le passage ?",
+      "options": ["À la voiture de gauche", "À la voiture de droite", "À personne, parce que j’ai mis mon clignotant"],
+      "why": "Le panneau 205 « Cédez le passage » s’applique à ta route. Tous les véhicules de la route principale ont la priorité, qu’ils viennent de gauche ou de droite. En tournant à gauche, tu traverses les deux voies."
+    },
+    "pr07": {
+      "prompt": "Que dois-tu faire à ce panneau ?",
+      "options": ["M’arrêter à la ligne d’arrêt, même si la route est libre", "Céder le passage", "M’arrêter seulement si quelqu’un arrive"],
+      "why": "Le panneau 206 « Stop. Cédez le passage. » exige un arrêt complet — roues immobiles — à la ligne d’arrêt ou, s’il n’y en a pas, là où l’on voit la route. Ensuite, tu cèdes le passage.",
+      "tip": "STOP veut dire roues immobiles. Passer au ralenti ne suffit pas."
+    },
+    "pr08": {
+      "prompt": "Tu vas tout droit. Qui a la priorité ?",
+      "options": ["Moi", "La voiture de droite", "Le premier véhicule arrivé"],
+      "why": "Tu circules sur une route prioritaire (panneau 306) ; la route latérale a le panneau 205. La « priorité à droite » ne s’applique pas ici — la voiture doit attendre."
+    },
+    "pr09": {
+      "prompt": "Jusqu’où va la priorité donnée par ce panneau ?",
+      "options": ["Seulement jusqu’au prochain carrefour", "Jusqu’à la sortie de l’agglomération", "Jusqu’au panneau « fin de route prioritaire »"],
+      "why": "Le panneau 301 ne donne la priorité qu’au prochain carrefour. La priorité sur tout un tronçon n’est donnée que par le panneau de route prioritaire (306).",
+      "tip": "301 = une fois. 306 = tout le tronçon."
+    },
+    "pr10": {
+      "prompt": "Tu suis la route prioritaire qui tourne à gauche. Que dois-tu faire ?",
+      "options": ["Mettre le clignotant gauche", "Faire attention aux piétons qui traversent", "Ne pas mettre de clignotant, car je reste sur la route prioritaire"],
+      "why": "Qui suit une route prioritaire qui change de direction doit le signaler à l’avance et faire particulièrement attention aux piétons, en attendant si nécessaire (panonceau 1002 sous le panneau 306).",
+      "tip": "Le clignotant suit le tracé de la route, pas le panneau."
+    },
+    "pr11": {
+      "prompt": "La route prioritaire tourne (en jaune). Tu veux aller tout droit. À qui laisses-tu le passage ?",
+      "options": ["À la voiture 1", "À personne — je vais tout droit", "Seulement aux véhicules de droite"],
+      "why": "Tu es sur la route latérale (panneau 205). La voiture 1 est sur la route prioritaire, suit son virage et coupe ta trajectoire. Aller tout droit ne te donne pas la priorité."
+    },
+    "pr12": {
+      "prompt": "Tu sors d’un garage ou d’une entrée charretière sur la chaussée. Quelle règle s’applique ?",
+      "options": ["Je dois laisser passer la circulation de la route", "Il faut exclure tout danger pour les autres", "Ici aussi, c’est la « priorité à droite »"],
+      "why": "Qui sort d’une propriété, d’une zone de rencontre ou du bord de la chaussée doit exclure tout danger pour les autres — si nécessaire en se faisant guider (§ 10 StVO). La « priorité à droite » ne s’applique pas ici."
+    },
+    "pr13": {
+      "prompt": "Tu sors d’un chemin agricole sur une route sans panneau. Une voiture arrive de gauche. Qui a la priorité ?",
+      "options": ["La voiture", "Moi — je viens de sa droite", "Le véhicule le plus lent"],
+      "why": "Qui sort d’un chemin agricole ou forestier n’a jamais la priorité (§ 8 al. 1 StVO), pas même sur la circulation venant de gauche."
+    },
+    "pr14": {
+      "prompt": "Quelle règle s’applique à ce giratoire ?",
+      "options": ["Les véhicules qui circulent déjà dans le giratoire ont la priorité", "On ne met pas le clignotant en entrant", "On met le clignotant droit en sortant"],
+      "why": "Avec le panneau 215 sous le panneau 205, la priorité revient à la circulation dans le giratoire. Clignoter en entrant n’est pas autorisé ; en sortant, c’est obligatoire. S’arrêter dans le giratoire est interdit (§ 9a StVO).",
+      "tip": "On entre sans clignotant, on sort avec."
+    },
+    "pr15": {
+      "prompt": "Il n’y a aucun panneau sur cette place circulaire. Qui a la priorité ?",
+      "options": ["Moi — la voiture sur la place vient de ma gauche", "La voiture sur la place", "Le véhicule qui met son clignotant en premier"],
+      "why": "Sans le panneau 215, ce n’est pas un giratoire au sens du § 9a StVO, mais un carrefour ordinaire. La « priorité à droite » s’applique — la circulation sur la place doit te laisser entrer.",
+      "tip": "Pas de panneau bleu de giratoire = priorité à droite."
+    },
+    "pr16": {
+      "prompt": "Tu continues tout droit sur la route qui se poursuit. Pas de panneau. Qui a la priorité ?",
+      "options": ["La voiture qui sort de la rue latérale de droite", "Moi — je suis sur la route qui continue", "Le véhicule le plus rapide"],
+      "why": "Une route qui continue tout droit n’est pas une route prioritaire sans panneau. Aux intersections en T aussi, c’est la « priorité à droite », et la voiture est à ta droite.",
+      "tip": "Plus large ou plus droite ne veut pas dire prioritaire."
+    },
+    "pr17": {
+      "prompt": "Dans quel ordre passent les véhicules ?",
+      "options": ["3, 1, 2", "1, 2, 3", "3, 2, 1"],
+      "why": "Le camion 3 est sur la route prioritaire et passe en premier. 1 et 2 sont face à face sur les routes latérales ; 2 tourne à gauche et doit laisser passer 1, qui vient en face et va tout droit."
+    },
+    "pr18": {
+      "prompt": "Tu circules sur la route prioritaire et veux tourner à gauche. Qui doit attendre ?",
+      "options": ["Moi", "La voiture d’en face", "Personne, nos deux véhicules sont sur la route prioritaire"],
+      "why": "La route prioritaire ne règle que la relation avec les routes latérales. Entre les véhicules qui la parcourent, ce sont les règles pour tourner qui s’appliquent : qui tourne à gauche laisse passer le trafic d’en face (§ 9 al. 3 StVO)."
+    },
+    "pr19": {
+      "prompt": "Tu veux tourner à droite. Que signifie ce panneau pour toi ?",
+      "options": ["Je dois céder le passage à la circulation venant de gauche", "J’ai la priorité parce que je tourne à droite", "Je peux m’insérer sans regarder"],
+      "why": "Le panneau 205 signifie « Cédez le passage ». En tournant à droite, tu entres dans la voie où circule le trafic venant de ta gauche, tu dois donc le laisser passer."
+    },
+    "pr20": {
+      "prompt": "Pas de panneau. Tu veux tourner à gauche. Dans quel ordre passent les véhicules ?",
+      "options": ["2, 1", "1, 2", "En même temps"],
+      "why": "La voiture 2 vient de ta droite et a la priorité selon la « priorité à droite ». Peu importe que tu tournes au lieu d’aller tout droit : elle coupe ta trajectoire."
+    },
+    "sg01": {
+      "prompt": "L’agent ou l’agente te fait face, les deux bras tendus sur les côtés. Qu’est-ce que cela signifie pour toi ?",
+      "options": ["S’arrêter avant le carrefour — comme au rouge", "Passer — comme au vert", "Dégager vite le carrefour"],
+      "why": "Des bras tendus en travers de ta direction signifient « stop » pour la circulation située devant et derrière la personne qui règle la circulation. La circulation qui va dans le sens des bras peut passer (§ 36 al. 2 StVO).",
+      "tip": "Poitrine ou dos face à toi = rouge. Bras pointé vers toi = vert."
+    },
+    "sg02": {
+      "prompt": "Tu arrives sur le côté de la personne qui règle la circulation. Ses bras pointent dans le sens de ta direction. Qu’est-ce que cela signifie pour toi ?",
+      "options": ["Je peux passer — comme au vert", "Stop — comme au rouge", "Je dois attendre un signe de la police"],
+      "why": "La personne qui règle la circulation est de profil par rapport à toi, les bras dans le sens de ta direction : ta circulation a la voie libre. Si tu tournes, les règles pour tourner continuent de s’appliquer."
+    },
+    "sg03": {
+      "prompt": "Un agent ou une agente lève un bras à la verticale. Qu’est-ce que cela signifie ?",
+      "options": ["Qui se trouve avant le carrefour attend le signal suivant", "Qui est déjà dans le carrefour le dégage", "Tout le monde peut passer"],
+      "why": "Le bras levé équivaut à l’orange : « Attention, le signal va changer ». Avant le carrefour, attends ; à l’intérieur, dégage-le (§ 36 al. 2 n° 2 StVO)."
+    },
+    "sg04": {
+      "prompt": "Le feu est vert. Un agent ou une agente te fait signe de t’arrêter. Que fais-tu ?",
+      "options": ["Je m’arrête — la police l’emporte", "Je continue — le vert l’emporte", "Je klaxonne et je continue lentement"],
+      "why": "Les signes et indications de la police l’emportent sur tout le reste, feux compris (§ 36 al. 1 StVO)."
+    },
+    "sg05": {
+      "prompt": "Quel ordre de priorité est correct ?",
+      "options": ["Police, feux, panneaux, règles générales", "Feux, police, panneaux, règles générales", "Panneaux, feux, police, règles générales"],
+      "why": "La police l’emporte sur tout (§ 36), les feux sur les panneaux et les règles de priorité (§ 37), et les panneaux sur la « priorité à droite ».",
+      "tip": "Personne, feu, panneau, règle."
+    },
+    "sg06": {
+      "prompt": "Ton feu est rouge et à côté se trouve un panneau à flèche verte. Tu veux tourner à droite. Quelle règle s’applique ?",
+      "options": ["Je dois d’abord m’arrêter à la ligne d’arrêt", "Ensuite, je peux tourner si je ne gêne ni ne mets personne en danger", "Je peux tourner sans m’arrêter"],
+      "why": "Le panneau à flèche verte (720) permet de tourner à droite au rouge uniquement après un arrêt complet à la ligne, et seulement sans gêner ni mettre en danger qui que ce soit, surtout les piétons et cyclistes qui ont le vert (§ 37 al. 2 StVO).",
+      "tip": "Flèche verte = un STOP qui te laisse tourner."
+    },
+    "sg07": {
+      "prompt": "Le feu passe à l’orange. Que fais-tu ?",
+      "options": ["Je m’arrête, si je peux encore le faire en toute sécurité", "J’accélère pour passer", "Je freine toujours brusquement, tout de suite"],
+      "why": "L’orange signifie : avant le carrefour, attends le signal suivant. Si la distance est trop courte pour t’arrêter en toute sécurité, tu continues — mais accélérer n’en fait jamais partie."
+    },
+    "sg08": {
+      "prompt": "Le feu affiche rouge et orange en même temps. Qu’est-ce que cela signifie ?",
+      "options": ["Le vert arrive — je continue d’attendre", "Je peux déjà démarrer", "Le feu est en panne"],
+      "why": "Rouge et orange ensemble signifient « Attention, le vert arrive ». Tu restes où tu es jusqu’à ce que le vert s’allume."
+    },
+    "sg09": {
+      "prompt": "Les feux ne fonctionnent pas. Quelle règle s’applique maintenant ?",
+      "options": ["Les panneaux de priorité du carrefour", "S’il n’y a pas de panneau : priorité à droite", "Le premier véhicule arrivé passe en premier"],
+      "why": "Si les feux sont éteints ou clignotent seulement à l’orange, ce sont les panneaux qui s’appliquent. S’il n’y en a pas, c’est la « priorité à droite »."
+    },
+    "sg10": {
+      "prompt": "Que signifie un seul feu orange clignotant à un carrefour ?",
+      "options": ["Prudence — les panneaux de signalisation s’appliquent", "Tout le monde peut passer", "S’arrêter comme au rouge"],
+      "why": "L’orange clignotant est un avertissement (§ 37 al. 2 n° 5 StVO). Il ne règle rien ; la priorité est donnée par les panneaux."
+    },
+    "sg11": {
+      "prompt": "Une ambulance avec gyrophares bleus et sirène arrive par l’arrière. Que fais-tu ?",
+      "options": ["Je lui libère le passage immédiatement", "Je continue jusqu’à trouver une aire de dégagement", "Je freine brusquement et je m’arrête sur ma voie"],
+      "why": "Les feux bleus accompagnés de la sirène signifient que tout le monde doit libérer le passage immédiatement (§ 38 al. 1 StVO). S’arrêter au milieu de la voie n’aide pas."
+    },
+    "sg12": {
+      "prompt": "Une voiture de police se trouve sur le bas-côté avec ses feux bleus, mais sans sirène. Qu’est-ce que cela signifie ?",
+      "options": ["Elle signale un danger, comme un accident", "Je dois m’arrêter immédiatement", "Je dois libérer le passage"],
+      "why": "Le feu bleu seul est un avertissement sur le lieu d’un accident ou d’un incident (§ 38 al. 2 StVO). Passe lentement et avec précaution.",
+      "tip": "Bleu + sirène = libère le passage. Bleu seul = prudence."
+    },
+    "sg13": {
+      "prompt": "Tu as le vert, mais il y a un bouchon après le carrefour. Que fais-tu ?",
+      "options": ["J’attends avant le carrefour", "J’entre dans le carrefour car j’ai le vert", "J’avance lentement dans le carrefour"],
+      "why": "Si tu devais t’arrêter dans le carrefour, tu ne peux pas y entrer, même au vert (§ 11 al. 1 StVO). Sinon, tu bloques la circulation transversale quand son feu change."
+    },
+    "sg14": {
+      "prompt": "Tu as le vert et tu veux tourner à gauche. À quoi dois-tu faire attention ?",
+      "options": ["Laisser d’abord passer le trafic d’en face", "Aux piétons qui traversent la rue où je tourne", "À rien — le vert signifie que j’ai la priorité"],
+      "why": "Le vert n’annule pas les règles pour tourner : laisse passer le trafic d’en face et fais particulièrement attention aux piétons (§ 9 al. 3 StVO). Seule une flèche verte sur le feu lui-même indique un virage protégé."
+    },
+    "sg15": {
+      "prompt": "Un camion-poubelle est à l’arrêt sur la chaussée avec un feu orange clignotant. Que signifie ce feu ?",
+      "options": ["Il signale un danger", "Je dois libérer le passage", "Ce véhicule a la priorité"],
+      "why": "Un feu orange clignotant sur un véhicule signale un danger (§ 38 al. 3 StVO) — ici, du personnel qui peut surgir de derrière. Passe lentement et avec beaucoup de marge."
+    },
+    "ba01": {
+      "prompt": "De quel côté de la chaussée circules-tu ?",
+      "options": ["Aussi à droite que possible, dans la mesure du raisonnable", "Au centre, pour m’éloigner du bord", "Là où c’est le plus confortable"],
+      "why": "En Allemagne, on circule à droite : aussi à droite que c’est raisonnable — pas seulement quand du trafic arrive en face ou qu’on te double, mais aussi sur une route vide et dans les sommets de côte (§ 2 al. 2 StVO)."
+    },
+    "ba02": {
+      "prompt": "Une voie se termine. Comment changes-tu de voie ?",
+      "options": ["En fermeture éclair, juste avant le rétrécissement", "Le plus tôt possible, même si la voie continue encore longtemps", "Qui roule sur la voie qui continue n’a à laisser entrer personne"],
+      "why": "Là où une voie se termine ou est coupée, les véhicules s’insèrent en alternance, un par un, juste au début du rétrécissement (§ 7 al. 4 StVO). La voie qui continue doit le permettre.",
+      "tip": "Jusqu’au bout, puis un par un."
+    },
+    "ba03": {
+      "prompt": "Que dois-tu faire avant de changer de voie ?",
+      "options": ["Regarder dans le rétroviseur et par-dessus l’épaule", "Mettre le clignotant à l’avance", "Donner un petit coup de klaxon"],
+      "why": "Changer de voie n’est permis que si cela ne met personne en danger, et il faut le signaler clairement et à l’avance (§ 7 al. 5 StVO). Seul le regard par-dessus l’épaule couvre l’angle mort."
+    },
+    "ba04": {
+      "prompt": "Quand peux-tu utiliser le klaxon ?",
+      "options": ["Pour avertir les autres d’un danger", "Hors agglomération, pour annoncer un dépassement", "Pour saluer quelqu’un"],
+      "why": "Le klaxon et les appels de phares servent uniquement à annoncer un dépassement hors agglomération ou lorsque toi ou d’autres personnes êtes en danger (§ 16 al. 1 StVO). Saluer, presser quelqu’un ou se défouler n’en font pas partie."
+    },
+    "ba05": {
+      "prompt": "Quand peux-tu allumer les feux de détresse ?",
+      "options": ["Quand je suis en panne ou qu’on me remorque", "Pour signaler un danger, par exemple en fin de bouchon", "Quand je me gare un instant en double file"],
+      "why": "Les feux de détresse servent en cas de panne, de remorquage, pour les bus scolaires aux arrêts et pour signaler des dangers comme un bouchon devant (§ 16 al. 2 StVO). Ils n’autorisent pas à stationner là où c’est interdit."
+    },
+    "ba06": {
+      "prompt": "En agglomération, sur une route avec deux voies marquées dans ton sens, peux-tu choisir ta voie ?",
+      "options": ["Oui, en voiture particulière", "Non, je dois toujours rouler à droite", "Seulement pour dépasser"],
+      "why": "En agglomération, les véhicules jusqu’à 3,5 t peuvent choisir librement leur voie sur les routes à plusieurs voies marquées dans un sens (§ 7 al. 3 StVO). Zigzaguer entre les voies reste interdit."
+    },
+    "ba07": {
+      "prompt": "Qu’entend-on par une situation de circulation confuse ?",
+      "options": ["Je ne peux pas savoir avec certitude ce que vont faire les autres", "Il fait nuit", "La chaussée est large"],
+      "why": "Une situation est confuse quand tu ne peux pas évaluer avec certitude ce que vont faire les autres — par exemple, une voiture met le clignotant gauche mais ne se déporte pas. Dépasser est alors interdit et il faut être en mesure de freiner."
+    },
+    "ba08": {
+      "prompt": "Qu’est-ce qui fait partie de la conduite anticipative ?",
+      "options": ["Regarder loin, pas seulement la voiture de devant", "Regarder régulièrement dans les rétroviseurs", "Rouler le plus près possible pour réagir plus tôt"],
+      "why": "Qui regarde loin et sait ce qui se passe derrière voit tôt les dangers et réagit calmement. Coller la voiture de devant te prive justement de ce temps."
+    }
+  }
+}

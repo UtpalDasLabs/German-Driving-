@@ -1,0 +1,214 @@
+{
+  "practical": {
+    "overview": {
+      "title": "Jak przebiega egzamin",
+      "body": [
+        "Egzamin trwa łącznie 55 minut, w tym co najmniej 30 minut samej jazdy. Prowadzisz samochód szkoły jazdy, obok siedzi instruktor; egzaminator (z TÜV lub DEKRA) siedzi z tyłu.",
+        "Najpierw egzaminator sprawdza dokument tożsamości. Potem przygotowanie i kontrola pojazdu, jazda po mieście, poza miastem i zwykle po autostradzie lub drodze ekspresowej oraz wyznaczone manewry.",
+        "Na koniec od razu poznajesz wynik, z omówieniem każdego z pięciu obszarów kompetencji. Jeśli zdasz, prawo jazdy — albo tymczasowe zaświadczenie — dostajesz zaraz po egzaminie.",
+        "Egzamin praktyczny trzeba zdać w ciągu 12 miesięcy od zdania teorii. Nie udało się? Zwykle można powtórzyć najwcześniej po dwóch tygodniach."
+      ],
+      "checklist": [
+        "Dowód osobisty lub paszport przy sobie",
+        "Okulary lub soczewki, jeśli wymaga tego prawo jazdy",
+        "Wygodne, płaskie buty",
+        "Wyspanie się i 0,0 alkoholu",
+        "W szkole jazdy 15 minut wcześniej"
+      ],
+      "pitfalls": [
+        "Bez ważnego dokumentu egzamin się nie odbędzie — a opłata zwykle i tak przepada."
+      ]
+    },
+    "checks": {
+      "title": "Przygotowanie i kontrola pojazdu",
+      "body": [
+        "Przed ruszeniem ustawiasz fotel, kierownicę, lusterka i zagłówek oraz zapinasz pas. Egzaminator zwykle prosi o pokazanie lub objaśnienie kilku rzeczy w samochodzie.",
+        "Typowe punkty: włączenie i sprawdzenie świateł; opony (bieżnik, uszkodzenia, gdzie podano ciśnienie); poziomy płynów (olej silnikowy, płyn chłodniczy, płyn do spryskiwaczy, płyn hamulcowy); klakson; kontrolki na desce rozdzielczej."
+      ],
+      "checklist": [
+        "Fotel ustawiony tak, by sprzęgło lub hamulec dało się wcisnąć do końca",
+        "Lusterko wewnętrzne i boczne ustawione",
+        "Zagłówek: górna krawędź mniej więcej na wysokości czubka głowy",
+        "Umiem pokazać światła mijania i drogowe, kierunkowskazy, awaryjne, tylne przeciwmgłowe",
+        "Umiem znaleźć bagnet i odczytać poziom oleju",
+        "Wiem, gdzie podano prawidłowe ciśnienie w oponach"
+      ],
+      "pitfalls": [
+        "Ruszenie bez ustawienia lusterek albo zapięcia pasa."
+      ]
+    },
+    "parallel": {
+      "title": "Parkowanie równoległe tyłem",
+      "body": [
+        "Wjeżdżasz tyłem w lukę przy prawej krawędzi między dwoma pojazdami. Luka powinna mieć co najmniej ok. półtorej długości samochodu.",
+        "Zatrzymaj się ok. 50 cm obok samochodu z przodu, tyłem na wysokości jego tyłu. Cofaj powoli, aż tylna oś znajdzie się na wysokości jego tylnego zderzaka, potem skręć kierownicę do oporu w prawo. Przy ok. 45° wyprostuj koła i cofaj, potem skręć do oporu w lewo, aż ustawisz się równolegle."
+      ],
+      "checklist": [
+        "Prawy kierunkowskaz przed zatrzymaniem",
+        "Rozejrzenie się dookoła przed cofaniem",
+        "Patrzenie do tyłu i na bok, nie tylko w lusterko",
+        "Koniec najwyżej ok. 30 cm od krawężnika, koła prosto"
+      ],
+      "pitfalls": [
+        "Najechanie tylnym kołem na krawężnik.",
+        "Brak obserwacji ruchu, gdy przód wychyla się na bok.",
+        "Zbyt wiele poprawek."
+      ]
+    },
+    "bay": {
+      "title": "Parkowanie prostopadłe lub skośne",
+      "body": [
+        "Parkujesz przodem lub tyłem na miejscu prostopadłym albo skośnym do jezdni, np. na parkingu. Samochód powinien stać na środku i prosto, bez najeżdżania na linie.",
+        "Tyłem jest zwykle łatwiej, bo kierują przednie koła: miń miejsce, skręcaj, gdy tył minie mniej więcej dalszą linię, i wyrównaj samochód do linii."
+      ],
+      "checklist": [
+        "Kierunkowskaz przed wjazdem na miejsce",
+        "Uwaga na pieszych na parkingu",
+        "Na środku między liniami, koła prosto"
+      ],
+      "pitfalls": [
+        "Prawie dotknięcie sąsiedniego auta bez zatrzymania się."
+      ]
+    },
+    "corner": {
+      "title": "Cofanie z wjazdem za róg",
+      "body": [
+        "Cofasz w prawo w boczną ulicę, skrzyżowanie lub wjazd, trzymając równy odstęp od krawężnika.",
+        "Miń wlot i zatrzymaj się blisko krawężnika. Cofaj powoli; gdy w prawym lusterku widać, że krawężnik zaczyna się zaginać, zacznij skręcać w prawo. Za rogiem wyprostuj koła i cofaj, aż egzaminator cię zatrzyma."
+      ],
+      "checklist": [
+        "Rozglądanie się przed cofaniem i w trakcie",
+        "Przepuszczenie pieszych na rogu",
+        "Równy odstęp od krawężnika"
+      ],
+      "pitfalls": [
+        "Przód niepostrzeżenie wychyla się na pas przeciwny."
+      ]
+    },
+    "turnround": {
+      "title": "Zawracanie",
+      "body": [
+        "Obracasz samochód na drodze w przeciwnym kierunku, jadąc do przodu i do tyłu. Nie wolno dotknąć krawężników."
+      ],
+      "checklist": [
+        "Tylko tam, gdzie jest to dozwolone i dobrze widać",
+        "Spojrzenie w obie strony przed każdym ruchem",
+        "Jechać powoli, kręcić szybko"
+      ],
+      "pitfalls": [
+        "Blokowanie ruchu zamiast jego przepuszczenia."
+      ]
+    },
+    "emergency": {
+      "title": "Hamowanie awaryjne",
+      "body": [
+        "Na sygnał egzaminatora hamujesz z ok. 30 km/h najmocniej, jak się da, aż do zatrzymania. Samochód powinien jechać prosto.",
+        "Z ABS: wciśnij hamulec i sprzęgło do końca i trzymaj. Drganie pedału jest normalne. Egzaminator wcześniej sprawdza, czy nikt nie jedzie z tyłu."
+      ],
+      "checklist": [
+        "Reakcja na komendę, nie wcześniej",
+        "Wciśnięcie do końca, nie stopniowo",
+        "Potem światła awaryjne albo spojrzenie w lusterko przed dalszą jazdą"
+      ],
+      "pitfalls": [
+        "Zbyt delikatne hamowanie."
+      ]
+    },
+    "competences": {
+      "title": "Pięć obszarów kompetencji",
+      "body": [
+        "Egzaminator nie tylko liczy pojedyncze „błędy”, ale ocenia jazdę w pięciu obszarach — przez cały egzamin i w sytuacjach takich jak skrzyżowania, ronda, zmiany pasa, wjazdy na autostradę, zakręty i przejścia dla pieszych."
+      ],
+      "checklist": [
+        "Obserwacja: lusterka, spojrzenie przez ramię, patrzenie daleko przed siebie",
+        "Pozycja na drodze: właściwy pas, odstęp z przodu i z boku",
+        "Prędkość: dostosowana do ograniczenia, widoczności i sytuacji",
+        "Komunikacja: kierunkowskaz w porę, kontakt wzrokowy, jasne zamiary",
+        "Obsługa pojazdu i jazda ekonomiczna: zmiana biegów, kierowanie, płynne hamowanie"
+      ]
+    },
+    "fail": {
+      "title": "Za co najczęściej się oblewa",
+      "body": [
+        "Drobne potknięcia nie oznaczają niezdania. Oblewa się za poważny błąd — np. gdy ktoś zostanie narażony — albo gdy drobne błędy się powtarzają."
+      ],
+      "pitfalls": [
+        "Nieustąpienie pierwszeństwa, zwłaszcza „prawa przed lewą” w strefach 30",
+        "Brak spojrzenia przez ramię przy skręcie, ruszaniu lub zmianie pasa",
+        "Brak całkowitego zatrzymania przy znaku STOP",
+        "Nieprzepuszczenie pieszych na przejściu",
+        "Wyraźne przekroczenie prędkości, np. w strefie 30",
+        "Przejazd na czerwonym",
+        "Interwencja instruktora (dodatkowy hamulec lub kierownica)"
+      ]
+    },
+    "phrases": {
+      "title": "Co mówi egzaminator",
+      "body": [
+        "Egzamin praktyczny odbywa się po niemiecku. Egzaminator podaje polecenia zawczasu. Jeśli czegoś nie rozumiesz, zapytaj — to nie jest błąd."
+      ],
+      "phrases": [
+        "Na następnym skrzyżowaniu proszę skręcić w prawo.",
+        "Proszę skręcić w lewo.",
+        "Proszę jechać dalej prosto.",
+        "Proszę jechać zgodnie z przebiegiem drogi.",
+        "Proszę jechać za drogowskazami na autostradę.",
+        "Na rondzie proszę wybrać drugi zjazd.",
+        "Proszę zatrzymać się tutaj przy prawej krawędzi jezdni.",
+        "Proszę zaparkować tyłem za niebieskim samochodem.",
+        "Proszę tutaj zawrócić.",
+        "Gdy powiem „Stopp”, proszę wykonać hamowanie awaryjne.",
+        "Proszę ruszyć, gdy pozwoli na to sytuacja na drodze.",
+        "Egzamin zakończony. Zdane."
+      ]
+    }
+  },
+  "conversion": {
+    "eu": {
+      "title": "Prawo jazdy z UE lub EOG",
+      "body": [
+        "Ważne prawo jazdy z kraju UE lub EOG (UE oraz Islandia, Liechtenstein i Norwegia) pozostaje ważne w Niemczech. Nie trzeba go wymieniać.",
+        "Jeśli prawo jazdy ma datę ważności, przedłużasz je w niemieckim wydziale praw jazdy, gdy już tu mieszkasz."
+      ]
+    },
+    "six-months": {
+      "title": "Pozostali: sześć miesięcy",
+      "body": [
+        "Z prawem jazdy z innego kraju możesz jeździć przez sześć miesięcy od dnia zamieszkania w Niemczech. Jeśli jesteś tu tylko czasowo, możesz wnioskować o kolejne najwyżej sześć miesięcy.",
+        "Potem potrzebne jest niemieckie prawo jazdy. Jazda na zagranicznym po terminie to jazda bez uprawnień, czyli przestępstwo.",
+        "Jeśli prawo jazdy nie jest po niemiecku i nie odpowiada wzorowi międzynarodowemu, przez te sześć miesięcy potrzebne jest tłumaczenie albo międzynarodowe prawo jazdy."
+      ]
+    },
+    "which-case": {
+      "title": "Jakie egzaminy są potrzebne",
+      "body": [
+        "Zależy to od tego, czy kraj wydania jest wymieniony w załączniku 11 do rozporządzenia o prawie jazdy i dla jakiej kategorii. Są trzy przypadki:",
+        "1. Twój kraj jest wymieniony dla kategorii B bez egzaminów (np. Japonia, Szwajcaria, Wielka Brytania i od sierpnia 2026 r. Ukraina): składasz wniosek i egzaminy są zniesione.",
+        "2. Twój kraj jest wymieniony jako „tylko egzamin teoretyczny”: zdajesz teorię, egzamin praktyczny odpada.",
+        "3. Twojego kraju nie ma na liście (dotyczy wielu krajów, a także niektórych stanów USA i prowincji Kanady, wymienianych osobno): zdajesz teorię i praktykę. Lekcje nie są obowiązkowe, ale egzamin zdaje się samochodem szkoły jazdy.",
+        "Lista się zmienia. Zanim cokolwiek zarezerwujesz, sprawdź aktualny tekst załącznika 11 i zapytaj w lokalnym wydziale praw jazdy."
+      ]
+    },
+    "documents": {
+      "title": "Wniosek i co zabrać",
+      "body": [
+        "Wniosek składasz w wydziale praw jazdy (Führerscheinstelle) w miejscu zamieszkania, możliwie wcześnie; załatwienie często trwa tygodnie.",
+        "Zwykle: oryginał zagranicznego prawa jazdy, tłumaczenie (np. z ADAC lub od tłumacza przysięgłego), paszport lub dowód osobisty, zaświadczenie o zameldowaniu (Meldebescheinigung), zdjęcie biometryczne, badanie wzroku i zwykle zaświadczenie o kursie pierwszej pomocy. Urząd powie dokładnie, czego potrzebuje.",
+        "Odbierając niemieckie prawo jazdy, oddajesz zagraniczne."
+      ]
+    },
+    "tests": {
+      "title": "Jeśli trzeba zdawać egzaminy",
+      "body": [
+        "Zapisz się do szkoły jazdy; ona rejestruje cię na egzamin w TÜV lub DEKRA. Teorię możesz zdawać po niemiecku albo w jednym z dwunastu innych języków — tych samych co w tej aplikacji.",
+        "Nawet doświadczeni kierowcy powinni wziąć kilka lekcji: egzamin sprawdza rzeczy, które gdzie indziej działają inaczej — „prawa przed lewą”, spojrzenie przez ramię przy każdym skręcie, strefy 30 i całkowite zatrzymanie przy każdym znaku STOP."
+      ]
+    },
+    "costs": {
+      "title": "Ile to mniej więcej kosztuje",
+      "body": [
+        "Opłaty zależą od miasta i szkoły jazdy. Orientacyjnie: opłata urzędowa ok. 40–50 €, tłumaczenie 30–60 €, egzamin teoretyczny w TÜV lub DEKRA ok. 25 €, egzamin praktyczny ok. 130 €, do tego koszty szkoły jazdy za zgłoszenie, lekcje i samochód w dniu egzaminu."
+      ]
+    }
+  }
+}

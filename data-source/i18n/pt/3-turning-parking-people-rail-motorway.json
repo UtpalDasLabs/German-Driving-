@@ -1,0 +1,270 @@
+{
+  "questions": {
+    "tu01": {
+      "prompt": "Queres virar à direita. Na ciclovia à tua direita segue em frente um ciclista. O que fazes?",
+      "options": ["Deixo passar primeiro o ciclista", "Olho por cima do ombro direito antes de virar", "Viro depressa à frente do ciclista"],
+      "why": "Ao mudar de direção tens de deixar passar os ciclistas que seguem em frente no mesmo sentido, na faixa ou ao lado dela (§ 9 n.º 3 StVO). No ângulo morto só os vês olhando por cima do ombro.",
+      "tip": "Virar à direita = olhar por cima do ombro direito. Sempre."
+    },
+    "tu02": {
+      "prompt": "Estás a virar. Há peões a atravessar a rua para onde viras. O que fazes?",
+      "options": ["Espero que acabem de atravessar", "Passo devagar entre eles", "Buzino para se despacharem"],
+      "why": "Ao mudar de direção tens de ter especial atenção aos peões e esperar se for preciso (§ 9 n.º 3 StVO)."
+    },
+    "tu03": {
+      "prompt": "Como te posicionas para virar à esquerda?",
+      "options": ["Numa via de dois sentidos, junto à linha central", "Numa rua de sentido único, o mais à esquerda possível", "Sempre totalmente à direita"],
+      "why": "Para virar à esquerda deslocas-te com antecedência o mais à esquerda possível: até ao meio se houver trânsito em sentido contrário, até à berma esquerda numa rua de sentido único (§ 9 n.º 1 StVO)."
+    },
+    "tu04": {
+      "prompt": "O que faz parte da viragem à esquerda?",
+      "options": ["Sinalizar e posicionar-se com antecedência", "Olhar pelo espelho antes de se deslocar", "Outro olhar para trás mesmo antes de virar"],
+      "why": "A viragem à esquerda exige olhar para trás duas vezes: antes de te deslocares e outra vez mesmo antes de virares, porque alguém pode estar prestes a ultrapassar-te (§ 9 n.º 1 StVO).",
+      "tip": "Espelho — pisca — posição — olhar por cima do ombro — virar."
+    },
+    "tu05": {
+      "prompt": "Queres entrar numa garagem ou entrada. O que se aplica?",
+      "options": ["Tenho de excluir qualquer perigo para os outros", "Se for preciso, peço a alguém que me oriente", "Para mim só valem as regras de viragem dos cruzamentos"],
+      "why": "Entrar numa propriedade, inverter o sentido de marcha e fazer marcha-atrás exigem que ninguém fique em perigo; se for preciso, com alguém a orientar (§ 9 n.º 5 StVO)."
+    },
+    "tu06": {
+      "prompt": "Onde é proibido inverter o sentido de marcha?",
+      "options": ["Em autoestradas e vias reservadas a automóveis", "Onde está o sinal 272", "Em qualquer rua da cidade"],
+      "why": "Inverter o sentido de marcha e fazer marcha-atrás são proibidos em autoestradas e vias reservadas a automóveis (§ 18 n.º 7 StVO). O sinal 272 proíbe-o expressamente. Noutros sítios podes inverter o sentido se ninguém ficar em perigo."
+    },
+    "tu07": {
+      "prompt": "Queres sair de marcha-atrás de um lugar e vês pouco para trás. O que fazes?",
+      "options": ["Vou devagar, continuo a olhar e se for preciso peço que me orientem", "Faço marcha-atrás depressa para não fazer ninguém esperar", "Confio só na câmara de marcha-atrás"],
+      "why": "A marcha-atrás não pode pôr ninguém em perigo (§ 9 n.º 5 StVO). Câmaras e sensores ajudam, mas não substituem o olhar e podem não detetar crianças ou obstáculos baixos."
+    },
+    "tu08": {
+      "prompt": "Como viras à direita?",
+      "options": ["O mais à direita possível", "Com um arco largo pelo meio da rua transversal", "Sem pisca se a via estiver livre"],
+      "why": "Quem vira à direita mantém-se o mais à direita possível (§ 9 n.º 1 StVO) e vira com um arco apertado. O pisca liga-se sempre, mesmo que não vejas ninguém."
+    },
+    "tu09": {
+      "prompt": "Queres virar. Um elétrico ao teu lado segue em frente no mesmo sentido. Quem passa primeiro?",
+      "options": ["O elétrico", "Eu, porque liguei o pisca primeiro", "O mais rápido"],
+      "why": "Os veículos que mudam de direção têm de deixar passar os veículos sobre carris, mesmo quando circulam ao lado no mesmo sentido (§ 9 n.º 3 StVO)."
+    },
+    "tu10": {
+      "prompt": "Quando ligas o pisca?",
+      "options": ["Com antecedência antes de virar", "Antes de cada mudança de faixa", "Só quando já estou a virar"],
+      "why": "O pisca anuncia o que vais fazer — antes, não durante. Ao virar, ao mudar de faixa e ao arrancar da berma."
+    },
+    "pa01": {
+      "prompt": "Quando é estacionar (e não parar)?",
+      "options": ["Quando deixo o veículo", "Quando a paragem dura mais de três minutos", "Quando estou numa fila"],
+      "why": "Deixar o veículo ou parar mais de três minutos é estacionar (§ 12 n.º 2 StVO). Parar por causa do trânsito — numa fila, no vermelho — não é nem uma coisa nem outra."
+    },
+    "pa02": {
+      "prompt": "Onde é proibido parar?",
+      "options": ["Em estreitamentos e onde a visibilidade é má", "Em passagens de nível", "Em frente a uma padaria"],
+      "why": "Parar é proibido, entre outros sítios, em estreitamentos e com má visibilidade, em curvas apertadas, em ramais de acesso, em passagens de nível e em frente a acessos de bombeiros (§ 12 n.º 1 StVO)."
+    },
+    "pa03": {
+      "prompt": "Quantos metros antes de uma passadeira não se pode parar?",
+      "why": "É proibido parar sobre as passadeiras e nos 5 m anteriores. Um carro parado esconde os peões, sobretudo as crianças."
+    },
+    "pa04": {
+      "prompt": "Quantos metros antes e depois de um cruzamento não se pode estacionar (sem ciclovia separada)?",
+      "why": "É proibido estacionar 5 m antes e depois dos cruzamentos, medidos a partir do ponto onde as linhas dos lancis se encontram. Se houver uma ciclovia separada à direita, são 8 m antes do cruzamento (§ 12 n.º 3 StVO)."
+    },
+    "pa05": {
+      "prompt": "Onde é proibido estacionar?",
+      "options": ["Em frente a entradas e saídas de garagens", "Em frente a lancis rebaixados", "Num lugar assinalado"],
+      "why": "É proibido estacionar em frente a entradas de garagem (e do lado oposto em ruas estreitas) e em frente a lancis rebaixados, de que precisam cadeiras de rodas e carrinhos de bebé (§ 12 n.º 3 StVO)."
+    },
+    "pa06": {
+      "prompt": "Chegas às 9:10 e pões o disco de estacionamento. Que hora marcas?",
+      "options": ["9:30", "9:10", "9:00"],
+      "why": "O disco marca-se na meia hora seguinte à chegada: às 9:10, nas 9:30.",
+      "tip": "Arredonda sempre para cima, para a meia hora seguinte."
+    },
+    "pa07": {
+      "prompt": "De que lado da faixa se estaciona normalmente?",
+      "options": ["À direita", "À esquerda em ruas de sentido único", "À esquerda onde houver espaço"],
+      "why": "Para-se e estaciona-se à direita, na berma direita ou na berma pavimentada. À esquerda só em ruas de sentido único ou onde há carris à direita (§ 12 n.º 4 StVO)."
+    },
+    "pa08": {
+      "prompt": "Queres abrir a porta do condutor. Como proteges melhor os ciclistas?",
+      "options": ["Abro-a com a mão direita, para me virar e ver para trás", "Abro a porta de repente", "Só olho pelo retrovisor interior"],
+      "why": "Ao entrar ou sair não podes pôr ninguém em perigo (§ 14 n.º 1 StVO). Abrir a porta do condutor com a mão direita (o «método holandês») faz rodar o corpo, por isso vês os ciclistas no ângulo morto.",
+      "tip": "A mão mais afastada no puxador."
+    },
+    "pa09": {
+      "prompt": "O que fazes antes de deixar o carro estacionado?",
+      "options": ["Desligo o motor e puxo o travão de mão", "Seguro-o contra deslocações e contra uso não autorizado", "Deixo o motor ligado se voltar logo"],
+      "why": "Ao deixar o veículo tens de o segurar para que não cause acidentes nem atrapalhe, e contra uso não autorizado (§ 14 n.º 2 StVO). Deixar o motor ligado sem vigilância é proibido."
+    },
+    "pa10": {
+      "prompt": "À noite estacionas na berma fora de uma localidade. O que tens de fazer?",
+      "options": ["Iluminar o veículo, por exemplo com as luzes de presença", "Nada, os refletores chegam", "Ligar a luz de nevoeiro traseira"],
+      "why": "Fora das localidades, os veículos parados e estacionados têm de estar iluminados no escuro. Dentro das localidades basta a luz de estacionamento do lado do trânsito, e onde a iluminação pública fica acesa toda a noite normalmente não é precisa nenhuma (§ 17 n.º 4 StVO)."
+    },
+    "pa11": {
+      "prompt": "Podes estacionar em segunda fila?",
+      "options": ["Não", "Sim, com as luzes de emergência", "Sim, até dez minutos"],
+      "why": "Estacionar em segunda fila é proibido, e as luzes de emergência não o tornam legal. Bloqueia a faixa e obriga outras pessoas a invadir a faixa contrária."
+    },
+    "pa12": {
+      "prompt": "Onde não podes estacionar?",
+      "options": ["No passeio, salvo se um sinal ou marca o permitir", "Em frente a um acesso de bombeiros", "Num lugar assinalado"],
+      "why": "Os passeios são para os peões. Estacionar neles só é permitido onde o sinal 315 ou uma marca o autoriza. Em frente aos acessos de bombeiros é proibido até parar."
+    },
+    "pe01": {
+      "prompt": "Um peão espera numa passadeira. O que fazes?",
+      "options": ["Paro e deixo-o atravessar", "Sigo — ainda não começou a atravessar", "Buzino para saber que estou a chegar"],
+      "why": "Nas passadeiras tens de deixar atravessar os peões e as pessoas em cadeira de rodas que claramente o querem fazer. Aproxima-te a velocidade moderada e espera se for preciso (§ 26 n.º 1 StVO).",
+      "tip": "Quem espera na passadeira já tem prioridade."
+    },
+    "pe02": {
+      "prompt": "Há crianças junto à via. Como te comportas?",
+      "options": ["Reduzo a velocidade e preparo-me para travar", "Conto com que uma criança possa correr para a faixa", "Buzino e mantenho a velocidade"],
+      "why": "Perto de crianças, pessoas idosas e de quem precise de ajuda tens de reduzir a velocidade e preparar-te para travar, de forma a que nada lhes aconteça (§ 3 n.º 2a StVO). As crianças ainda não sabem avaliar velocidades e distâncias."
+    },
+    "pe03": {
+      "prompt": "Uma bola rola para a faixa entre carros estacionados. O que esperas?",
+      "options": ["Que uma criança venha a correr atrás dela", "Nada de especial", "Que a bola possa danificar o carro"],
+      "why": "Uma criança que corre atrás de uma bola só vê a bola. Trava de imediato e conta com que saia do meio dos carros.",
+      "tip": "Bola = criança."
+    },
+    "pe04": {
+      "prompt": "Um peão com bengala branca quer atravessar. O que significa?",
+      "options": ["É uma pessoa cega ou com deficiência visual grave", "Tenho de ter especial cuidado e parar se for preciso", "A pessoa vê-me e vai esperar"],
+      "why": "Uma bengala branca, um cão-guia com arnês branco ou uma braçadeira amarela com três pontos pretos indicam uma pessoa cega. Não te consegue ver, por isso para se for preciso."
+    },
+    "pe05": {
+      "prompt": "Uma pessoa idosa atravessa devagar quando o teu semáforo fica verde. O que fazes?",
+      "options": ["Espero que saia da faixa", "Contorno-a devagar", "Buzino para a apressar"],
+      "why": "O verde não te dá direito a pôr ninguém em perigo. As pessoas idosas precisam muitas vezes de mais tempo e podem assustar-se. Deixa-as acabar de atravessar com calma."
+    },
+    "pe06": {
+      "prompt": "Até que idade as crianças têm de andar de bicicleta no passeio?",
+      "why": "As crianças até fazerem 8 anos têm de andar no passeio, e até aos 10 podem fazê-lo (§ 2 n.º 5 StVO). Em entradas de garagem e cruzamentos, conta com que desçam do passeio para a faixa."
+    },
+    "pe07": {
+      "prompt": "Um ciclista à tua frente aproxima-se de um carro estacionado. O que esperas?",
+      "options": ["Que se desvie para a esquerda, talvez sem sinalizar", "Que pare e espere", "Que suba para o passeio"],
+      "why": "Os ciclistas têm de contornar obstáculos e nem sempre olham para trás antes. Mantém a distância e ultrapassa só quando estiver claro o que vão fazer."
+    },
+    "pe08": {
+      "prompt": "Os ciclistas podem andar lado a lado?",
+      "options": ["Sim, se não atrapalharem o trânsito", "Não, nunca", "Só em grupos de 16 ou mais"],
+      "why": "Os ciclistas podem andar dois a dois se não atrapalharem o trânsito (§ 2 n.º 4 StVO). Numa rua para bicicletas e num grupo de 16 ou mais, mesmo que abrandem outras pessoas."
+    },
+    "pe09": {
+      "prompt": "À noite, os peões com roupa escura veem-se mal. O que é verdade?",
+      "options": ["Com os médios muitas vezes vejo-os muito tarde", "Adapto a velocidade ao alcance das minhas luzes", "As luzes diurnas chegam à noite"],
+      "why": "Com os médios muitas vezes só vês um peão de roupa escura a 25–30 m — menos do que a distância de paragem a 50 km/h. As luzes diurnas não iluminam a via e deixam a traseira às escuras."
+    },
+    "pe10": {
+      "prompt": "Onde e como se pode andar de trotinete elétrica?",
+      "options": ["Em ciclovias e, onde não as há, na faixa de rodagem", "Com uma só pessoa", "No passeio"],
+      "why": "As trotinetes elétricas têm de usar as ciclovias ou, se não houver, a faixa de rodagem; os passeios são proibidos. Só pode conduzi-las uma pessoa com 14 anos ou mais (eKFV). Ao virar, trata-as como ciclistas."
+    },
+    "pe11": {
+      "prompt": "Um autocarro escolar parou junto à via e saem crianças. O que fazes?",
+      "options": ["Passo devagar, com muita margem e o pé pronto a travar", "Conto com que as crianças atravessem à frente ou atrás do autocarro", "Passo depressa para as crianças saírem em segurança"],
+      "why": "As crianças costumam atravessar a correr mesmo à frente ou atrás do autocarro. Se ele tiver as luzes de emergência ligadas, tens de reduzir até a passo (§ 20 n.º 4 StVO)."
+    },
+    "pe12": {
+      "prompt": "Um peão atravessa longe de qualquer passadeira. O que fazes?",
+      "options": ["Travo e deixo-o atravessar, embora devesse ter esperado", "Sigo — não tem prioridade", "Passo colado por trás"],
+      "why": "Os peões têm de ter atenção aos veículos (§ 25 StVO), mas o § 1 StVO exige cuidado constante: ninguém pode ser posto em perigo. O erro de outra pessoa nunca te dá direito a atropelá-la."
+    },
+    "ra01": {
+      "prompt": "Quando tens de esperar nesta passagem de nível?",
+      "options": ["Quando se aproxima um comboio", "Quando piscam as luzes vermelhas ou descem as cancelas", "Só quando as cancelas estão totalmente em baixo"],
+      "why": "Nas passagens de nível os comboios têm prioridade (§ 19 n.º 1 StVO). Tens de esperar quando vem um comboio, quando há luzes vermelhas ou intermitentes, quando as cancelas descem ou estão em baixo, ou quando pessoal ferroviário te manda parar (§ 19 n.º 2 StVO).",
+      "tip": "Uma cancela a descer já está fechada."
+    },
+    "ra02": {
+      "prompt": "Logo depois da passagem de nível há fila. O que fazes?",
+      "options": ["Espero antes da passagem de nível", "Entro na linha e espero lá", "Buzino para os outros avançarem"],
+      "why": "Entra numa passagem de nível só se a conseguires atravessar toda sem parar (§ 19 n.º 1 StVO). Se ficares em cima da linha numa fila, não há escapatória."
+    },
+    "ra03": {
+      "prompt": "O teu carro avaria em cima de uma passagem de nível. O que fazes?",
+      "options": ["Tiro toda a gente de imediato e para longe da zona de perigo", "Ligo para o número de emergência ou para o que está afixado na passagem", "Fico no carro a tentar pô-lo a trabalhar"],
+      "why": "Um comboio não se consegue desviar e muitas vezes precisa de mais de um quilómetro para parar. Primeiro as pessoas: fora, longe da linha, e depois avisa a companhia ferroviária pelo número de emergência."
+    },
+    "ra04": {
+      "prompt": "Um autocarro aproxima-se de uma paragem com as luzes de emergência ligadas. O que se aplica?",
+      "options": ["Não o posso ultrapassar", "Posso ultrapassá-lo depressa antes de parar", "Tenho de parar de imediato"],
+      "why": "Os autocarros e os autocarros escolares identificados que se aproximam de uma paragem com as luzes de emergência ligadas não podem ser ultrapassados (§ 20 n.º 3 StVO)."
+    },
+    "ra05": {
+      "prompt": "Um autocarro está na paragem com as luzes de emergência ligadas. Como podes passar?",
+      "options": ["Só a passo", "Sem pôr os passageiros em perigo — esperando se for preciso", "A 30 km/h"],
+      "why": "Junto a autocarros e autocarros escolares parados numa paragem com as luzes de emergência ligadas só se pode passar a passo e com distância suficiente para não pôr os passageiros em perigo. Isto vale também para o trânsito em sentido contrário na mesma faixa (§ 20 n.º 4 StVO).",
+      "tip": "Autocarro com emergência na paragem = a passo, mesmo em sentido contrário."
+    },
+    "ra06": {
+      "prompt": "Um autocarro liga o pisca esquerdo para sair da paragem. O que fazes?",
+      "options": ["Deixo-o sair, esperando se for preciso", "Passo-o depressa", "Buzino"],
+      "why": "É preciso deixar sair os autocarros e autocarros escolares das paragens assinaladas; os outros veículos esperam se for preciso (§ 20 n.º 5 StVO)."
+    },
+    "ra07": {
+      "prompt": "Um elétrico parou numa paragem sem ilha e saem passageiros. O que fazes?",
+      "options": ["Passo pela direita a passo, sem incomodar os passageiros", "Espero se for preciso", "Passo depressa pela esquerda"],
+      "why": "Enquanto os passageiros entram ou saem, só se pode passar pela direita, a passo e com margem; não se pode incomodar os passageiros e, se for preciso, espera-se (§ 20 n.º 2 StVO)."
+    },
+    "ra08": {
+      "prompt": "Aproximas-te de uma passagem de nível com cruz de Santo André. Como te aproximas?",
+      "options": ["A velocidade moderada", "O mais depressa possível, para atravessar logo", "Ultrapasso depressa o camião da frente"],
+      "why": "Às passagens de nível chega-se a velocidade moderada (§ 19 n.º 1 StVO), para poder parar se vier um comboio. A partir do sinal 151 ou 156 não se ultrapassam veículos a motor."
+    },
+    "mw01": {
+      "prompt": "Entras na autoestrada. O que está certo?",
+      "options": ["Uso a via de aceleração para me adaptar à velocidade da autoestrada", "O trânsito da autoestrada tem prioridade", "Quem vai na autoestrada tem de me deixar entrar"],
+      "why": "O trânsito da faixa principal tem prioridade (§ 18 n.º 3 StVO). Usa a via de aceleração para chegar a um espaço adequado a uma velocidade adequada; entrar devagar demais é perigoso."
+    },
+    "mw02": {
+      "prompt": "Na autoestrada forma-se uma fila. Onde formas o corredor de emergência?",
+      "options": ["Entre a faixa mais à esquerda e a do lado", "Na berma", "Repartido igualmente por todas as faixas"],
+      "why": "Assim que o trânsito anda a passo em autoestradas e vias de várias faixas fora das localidades, forma o corredor entre a faixa mais à esquerda e a da direita dela (§ 11 n.º 2 StVO) — antes de chegarem os serviços de emergência.",
+      "tip": "A faixa mais à esquerda desvia-se para a esquerda; todas as outras, para a direita."
+    },
+    "mw03": {
+      "prompt": "O que é proibido na autoestrada?",
+      "options": ["Inverter o sentido de marcha e fazer marcha-atrás", "Parar, mesmo na berma (salvo emergência)", "Usar a faixa da esquerda para ultrapassar"],
+      "why": "Inverter o sentido de marcha e fazer marcha-atrás são proibidos nas autoestradas, incluindo os ramais. Parar também, mesmo na berma (§ 18 n.os 7 e 8 StVO). Passaste a saída? Apanha a seguinte."
+    },
+    "mw04": {
+      "prompt": "Tens uma avaria na autoestrada. O que fazes?",
+      "options": ["Ligo as luzes de emergência e, se puder, vou para a berma", "Visto o colete refletor e levo toda a gente para trás do separador", "Coloco o triângulo cerca de 200 m atrás"],
+      "why": "Primeiro a segurança: emergência, à direita, colete, todos saem pelo lado do passageiro e vão para trás do separador. Depois o triângulo: cerca de 200 m atrás na autoestrada, 100 m na estrada, 50 m na cidade (§ 15 StVO).",
+      "tip": "50 — 100 — 200 m: cidade, estrada, autoestrada."
+    },
+    "mw05": {
+      "prompt": "Na autoestrada aproximas-te do fim de uma fila. O que fazes?",
+      "options": ["Travo com antecedência e ligo as luzes de emergência", "Deixo distância suficiente para o último veículo", "Meto-me na berma"],
+      "why": "No fim da fila avisa o trânsito que vem atrás com as luzes de emergência (§ 16 n.º 2 StVO). Deixa um espaço para te poderes desviar se alguém atrás travar tarde demais."
+    },
+    "mw06": {
+      "prompt": "A rádio avisa de um veículo em contramão no teu troço de autoestrada. O que fazes?",
+      "options": ["Mantenho-me à direita e não ultrapasso", "Reduzo a velocidade e aumento a distância", "Fico na faixa da esquerda"],
+      "why": "Quem circula em contramão costuma vir na tua direção pela faixa da esquerda, julgando que é a da direita. Mantém-te à direita, não ultrapasses, reduz a velocidade e liga as luzes de emergência se se aproximar."
+    },
+    "mw07": {
+      "prompt": "Quantos metros antes da saída está a baliza de três faixas?",
+      "why": "As balizas de pré-aviso (sinal 450) estão a cerca de 300, 200 e 100 m do início da via de saída. Passa para a faixa da direita a tempo.",
+      "tip": "Autoestrada: 100 m por faixa. Passagem de nível: 80 m."
+    },
+    "mw08": {
+      "prompt": "A que distância uns dos outros costumam estar os delineadores?",
+      "why": "Os delineadores costumam estar a cada 50 m. Usa-os para avaliar distâncias e visibilidade: se com nevoeiro não vires o seguinte, a visibilidade é inferior a 50 m e não podes ir a mais de 50 km/h."
+    },
+    "mw09": {
+      "prompt": "Quem pode circular na berma da autoestrada?",
+      "options": ["Ninguém — salvo se os sinais a abrirem ao trânsito", "Os veículos lentos", "Qualquer pessoa que esteja numa fila"],
+      "why": "A berma não é uma faixa de circulação. Só podes circular nela onde os sinais a abrem expressamente; caso contrário, é para avarias e serviços de emergência."
+    },
+    "mw10": {
+      "prompt": "O que se aplica numa via reservada a automóveis (Kraftfahrstraße)?",
+      "options": ["Só podem usá-la veículos a motor construídos para mais de 60 km/h", "Nos cruzamentos tem prioridade o trânsito da via reservada a automóveis", "Os peões podem andar pela berma"],
+      "why": "Nas vias reservadas a automóveis (sinal 331.1) aplicam-se em grande parte as regras da autoestrada: só veículos a motor rápidos, proibido parar e inverter o sentido de marcha, e o seu trânsito tem prioridade nos cruzamentos."
+    }
+  }
+}

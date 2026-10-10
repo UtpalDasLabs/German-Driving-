@@ -1,0 +1,270 @@
+{
+  "questions": {
+    "tu01": {
+      "prompt": "Želiš skrenuti desno. Biciklističkom stazom s tvoje desne strane biciklist vozi ravno. Što radiš?",
+      "options": ["Propuštam biciklista", "Prije skretanja gledam preko desnog ramena", "Brzo skrećem ispred biciklista"],
+      "why": "Pri skretanju moraš propustiti bicikliste koji voze ravno u istom smjeru, na cesti ili uz nju (§ 9 st. 3 StVO). U mrtvom kutu vidiš ih samo pogledom preko ramena.",
+      "tip": "Skretanje desno = pogled preko desnog ramena. Svaki put."
+    },
+    "tu02": {
+      "prompt": "Skrećeš. Pješaci prelaze cestu u koju skrećeš. Što radiš?",
+      "options": ["Čekam dok ne prijeđu", "Polako se provlačim između njih", "Trubim da požure"],
+      "why": "Pri skretanju moraš posebno paziti na pješake i po potrebi čekati (§ 9 st. 3 StVO)."
+    },
+    "tu03": {
+      "prompt": "Kako se postavljaš za skretanje ulijevo?",
+      "options": ["Na dvosmjernoj cesti do središnje crte", "U jednosmjernoj ulici što više lijevo", "Uvijek skroz desno"],
+      "why": "Za skretanje ulijevo na vrijeme se pomičeš što više lijevo: do sredine kad postoji promet iz suprotnog smjera, do lijevog ruba u jednosmjernoj ulici (§ 9 st. 1 StVO)."
+    },
+    "tu04": {
+      "prompt": "Što pripada skretanju ulijevo?",
+      "options": ["Na vrijeme pokazati smjer i postaviti se", "Pogled u zrcalo prije pomicanja", "Još jedan pogled unatrag neposredno prije skretanja"],
+      "why": "Skretanje ulijevo traži dvostruki pogled unatrag: prije pomicanja i ponovno neposredno prije skretanja, jer netko upravo može kretati u pretjecanje (§ 9 st. 1 StVO).",
+      "tip": "Zrcalo — pokazivač — položaj — pogled preko ramena — skretanje."
+    },
+    "tu05": {
+      "prompt": "Želiš ući u dvorište. Što vrijedi?",
+      "options": ["Treba isključiti svaku opasnost za druge", "Po potrebi tražim nekoga da me usmjerava", "Za mene vrijede samo pravila skretanja na raskrižju"],
+      "why": "Ulazak na posjed, okretanje i vožnja unatrag traže da nitko ne bude ugrožen; po potrebi zatraži nekoga da te usmjerava (§ 9 st. 5 StVO)."
+    },
+    "tu06": {
+      "prompt": "Gdje je okretanje zabranjeno?",
+      "options": ["Na autocestama i brzim cestama", "Gdje stoji znak 272", "U svakoj ulici u gradu"],
+      "why": "Okretanje i vožnja unatrag zabranjeni su na autocestama i brzim cestama (§ 18 st. 7 StVO). Znak 272 to izričito zabranjuje. Drugdje se smiješ okrenuti ako nitko nije ugrožen."
+    },
+    "tu07": {
+      "prompt": "Želiš unatrag izaći s parkirnog mjesta, a malo vidiš iza sebe. Što radiš?",
+      "options": ["Vozim polako, stalno gledam i po potrebi tražim nekoga da me usmjerava", "Brzo vozim unatrag da nikoga ne zadržavam", "Oslanjam se samo na stražnju kameru"],
+      "why": "Vožnja unatrag ne smije nikoga ugroziti (§ 9 st. 5 StVO). Kamere i senzori pomažu, ali ne zamjenjuju gledanje i mogu propustiti djecu ili niske prepreke."
+    },
+    "tu08": {
+      "prompt": "Kako skrećeš desno?",
+      "options": ["Držeći se što više desno", "Širokim lukom preko sredine poprečne ulice", "Bez pokazivača ako je cesta slobodna"],
+      "why": "Tko skreće desno drži se što više desno (§ 9 st. 1 StVO) i skreće uskim lukom. Smjer pokazuješ uvijek, čak i kad nikoga ne vidiš."
+    },
+    "tu09": {
+      "prompt": "Želiš skrenuti. Tramvaj pokraj tebe vozi ravno u istom smjeru. Tko prolazi prvi?",
+      "options": ["Tramvaj", "Ja, jer mi je pokazivač upaljen ranije", "Brži"],
+      "why": "Vozila koja skreću moraju propustiti tračnička vozila, čak i kad voze pokraj njih u istom smjeru (§ 9 st. 3 StVO)."
+    },
+    "tu10": {
+      "prompt": "Kada pokazuješ smjer?",
+      "options": ["Na vrijeme prije skretanja", "Prije svake promjene traka", "Tek kad već skrećem"],
+      "why": "Pokazivač najavljuje što namjeravaš — unaprijed, a ne tijekom radnje. Pri skretanju, promjeni traka i polasku s ruba ceste."
+    },
+    "pa01": {
+      "prompt": "Kada je to parkiranje (a ne zaustavljanje)?",
+      "options": ["Kad napuštam vozilo", "Kad stojim dulje od tri minute", "Kad stojim u koloni"],
+      "why": "Napuštanje vozila ili stajanje dulje od tri minute je parkiranje (§ 12 st. 2 StVO). Stajanje zbog prometa — u koloni, na crvenom — nije ni jedno ni drugo."
+    },
+    "pa02": {
+      "prompt": "Gdje je zaustavljanje zabranjeno?",
+      "options": ["Na uskim mjestima i gdje je vidljivost loša", "Na željezničkim prijelazima", "Ispred pekarnice"],
+      "why": "Zaustavljanje je zabranjeno, među ostalim, na uskim mjestima i gdje je vidljivost loša, u oštrim zavojima, na spojnim cestama, na željezničkim prijelazima i ispred vatrogasnih pristupa (§ 12 st. 1 StVO)."
+    },
+    "pa03": {
+      "prompt": "Koliko metara prije pješačkog prijelaza ne smiješ se zaustaviti?",
+      "why": "Zaustavljanje je zabranjeno na pješačkim prijelazima i 5 m prije njih. Vozilo koje stoji skriva pješake, osobito djecu."
+    },
+    "pa04": {
+      "prompt": "Koliko metara prije i poslije raskrižja ne smiješ parkirati (bez odvojene biciklističke staze)?",
+      "why": "Parkiranje je zabranjeno 5 m prije i poslije raskrižja, mjereno od mjesta gdje se sijeku crte rubnjaka. Ako je desno odvojena biciklistička staza, 8 m prije raskrižja (§ 12 st. 3 StVO)."
+    },
+    "pa05": {
+      "prompt": "Gdje je parkiranje zabranjeno?",
+      "options": ["Ispred ulaza i izlaza s posjeda", "Ispred spuštenih rubnjaka", "Na označenom parkirnom mjestu"],
+      "why": "Parkiranje je zabranjeno ispred ulaza na posjede (a na uskim cestama i nasuprot njima) i ispred spuštenih rubnjaka, koji trebaju invalidskim i dječjim kolicima (§ 12 st. 3 StVO)."
+    },
+    "pa06": {
+      "prompt": "Stižeš u 9:10 i postavljaš parkirni sat. Koje vrijeme postavljaš?",
+      "options": ["9:30", "9:10", "9:00"],
+      "why": "Parkirni sat postavlja se na sljedeću polovicu sata nakon dolaska: u 9:10 na 9:30.",
+      "tip": "Uvijek zaokruži prema gore, na sljedeće pola sata."
+    },
+    "pa07": {
+      "prompt": "Na kojoj strani ceste obično smiješ parkirati?",
+      "options": ["Desno", "Lijevo u jednosmjernim ulicama", "Lijevo gdje god ima mjesta"],
+      "why": "Zaustavljaš se i parkiraš desno, uz desni rub ili na bankini. Lijevo samo u jednosmjernim ulicama ili kad su desno tračnice (§ 12 st. 4 StVO)."
+    },
+    "pa08": {
+      "prompt": "Želiš otvoriti vozačka vrata. Kako najbolje štitiš bicikliste?",
+      "options": ["Otvaram ih desnom rukom, da se okrenem i vidim iza", "Naglo otvaram vrata", "Gledam samo u unutarnje zrcalo"],
+      "why": "Pri ulasku i izlasku ne smiješ nikoga ugroziti (§ 14 st. 1 StVO). Otvaranje vozačkih vrata desnom rukom („nizozemski hvat”) okreće ti tijelo, pa vidiš bicikliste u mrtvom kutu.",
+      "tip": "Dalja ruka na kvaki."
+    },
+    "pa09": {
+      "prompt": "Što radiš prije nego što napustiš parkirani automobil?",
+      "options": ["Gasim motor i povlačim ručnu kočnicu", "Osiguravam ga od pokretanja i od neovlaštene uporabe", "Ostavljam motor upaljen ako se brzo vraćam"],
+      "why": "Kad napuštaš vozilo, moraš ga osigurati tako da ne prouzroči nesreću ili smetnju te od neovlaštene uporabe (§ 14 st. 2 StVO). Ostavljanje upaljenog motora bez nadzora je zabranjeno."
+    },
+    "pa10": {
+      "prompt": "Noću parkiraš uz rub ceste izvan naselja. Što moraš učiniti?",
+      "options": ["Osvijetliti vozilo, npr. pozicijskim svjetlima", "Ništa, katadiopteri su dovoljni", "Upaliti stražnje svjetlo za maglu"],
+      "why": "Izvan naselja vozila koja stoje i parkiraju moraju u mraku biti osvijetljena. U naselju je dovoljno parkirno svjetlo na strani prometa, a gdje ulična rasvjeta gori cijelu noć, obično nije potrebno nijedno (§ 17 st. 4 StVO)."
+    },
+    "pa11": {
+      "prompt": "Smiješ li parkirati u drugom redu?",
+      "options": ["Ne", "Da, s upaljena sva četiri pokazivača", "Da, do deset minuta"],
+      "why": "Parkiranje u drugom redu je zabranjeno, a sva četiri pokazivača ga ne čine dopuštenim. Blokira cestu i tjera druge u promet iz suprotnog smjera."
+    },
+    "pa12": {
+      "prompt": "Gdje ne smiješ parkirati?",
+      "options": ["Na nogostupu, osim ako to dopušta znak ili oznaka", "Ispred vatrogasnog pristupa", "Na označenom parkirnom mjestu"],
+      "why": "Nogostupi su za pješake. Parkiranje na njima dopušteno je samo gdje to dopušta znak 315 ili oznaka. Ispred vatrogasnih pristupa zabranjeno je čak i zaustavljanje."
+    },
+    "pe01": {
+      "prompt": "Na pješačkom prijelazu čeka pješak. Što radiš?",
+      "options": ["Zaustavljam se i puštam ga da prijeđe", "Vozim dalje — još nije počeo prelaziti", "Trubim da zna da dolazim"],
+      "why": "Na pješačkim prijelazima moraš omogućiti prelazak pješacima i osobama u invalidskim kolicima koji očito žele prijeći. Približi se umjerenom brzinom i po potrebi čekaj (§ 26 st. 1 StVO).",
+      "tip": "Tko čeka na prijelazu, već ima prednost."
+    },
+    "pe02": {
+      "prompt": "Uz cestu su djeca. Kako se ponašaš?",
+      "options": ["Usporavam i spremam se za kočenje", "Računam da dijete može iznenada istrčati na cestu", "Trubim i zadržavam brzinu"],
+      "why": "Pokraj djece, starijih i svih kojima treba pomoć moraš usporiti i biti spremno za kočenje, da im se ništa ne dogodi (§ 3 st. 2a StVO). Djeca još ne mogu procijeniti brzinu i udaljenost."
+    },
+    "pe03": {
+      "prompt": "Između parkiranih automobila na cestu se kotrlja lopta. Što očekuješ?",
+      "options": ["Da će dijete istrčati za njom", "Ništa posebno", "Da lopta može oštetiti automobil"],
+      "why": "Dijete koje trči za loptom vidi samo loptu. Odmah koči i računaj da će izletjeti između automobila.",
+      "tip": "Lopta = dijete."
+    },
+    "pe04": {
+      "prompt": "Pješak s bijelim štapom želi prijeći cestu. Što to znači?",
+      "options": ["Riječ je o slijepoj ili teško slabovidnoj osobi", "Moram posebno paziti i po potrebi stati", "Ta osoba me vidi i pričekat će"],
+      "why": "Bijeli štap, pas vodič s bijelom ormom ili žuta traka na ruci s tri crne točke označavaju slijepu osobu. Ne može te vidjeti, pa po potrebi stani."
+    },
+    "pe05": {
+      "prompt": "Starija osoba polako prelazi cestu dok ti se pali zeleno. Što radiš?",
+      "options": ["Čekam da siđe s kolnika", "Polako je zaobilazim", "Trubim da je požurim"],
+      "why": "Zeleno ti ne daje pravo nikoga ugroziti. Starijim osobama često treba više vremena i lako se uplaše. Pusti ih da mirno dovrše prelazak."
+    },
+    "pe06": {
+      "prompt": "Do koje dobi djeca moraju voziti bicikl po nogostupu?",
+      "why": "Djeca do navršene 8. godine moraju voziti po nogostupu, a do navršene 10. smiju (§ 2 st. 5 StVO). Na ulazima i raskrižjima računaj da će djeca s nogostupa sići na cestu."
+    },
+    "pe07": {
+      "prompt": "Biciklist ispred tebe približava se parkiranom automobilu. Što očekuješ?",
+      "options": ["Da će skrenuti ulijevo, možda bez pokazivanja", "Da će stati i čekati", "Da će se popeti na nogostup"],
+      "why": "Biciklisti moraju obilaziti prepreke i ne gledaju uvijek prvo unatrag. Drži razmak i pretječi tek kad je jasno što će učiniti."
+    },
+    "pe08": {
+      "prompt": "Smiju li biciklisti voziti jedan pokraj drugoga?",
+      "options": ["Da, ako ne ometaju promet", "Ne, nikad", "Samo u skupinama od 16 ili više"],
+      "why": "Biciklisti smiju voziti po dvoje jedan pokraj drugoga ako ne ometaju promet (§ 2 st. 4 StVO). U biciklističkoj ulici i u skupini od 16 ili više — čak i ako to usporava druge."
+    },
+    "pe09": {
+      "prompt": "Noću se pješaci u tamnoj odjeći slabo vide. Što je točno?",
+      "options": ["S kratkim svjetlima često ih vidim vrlo kasno", "Brzinu prilagođavam dometu svjetala", "Dnevna svjetla dovoljna su noću"],
+      "why": "S kratkim svjetlima pješaka u tamnoj odjeći često vidiš tek s 25–30 m — manje od puta zaustavljanja pri 50 km/h. Dnevna svjetla ne osvjetljavaju cestu, a stražnji dio ostaje neosvijetljen."
+    },
+    "pe10": {
+      "prompt": "Gdje i kako se smije voziti električni romobil?",
+      "options": ["Biciklističkim stazama, a gdje ih nema, kolnikom", "Samo s jednom osobom", "Nogostupom"],
+      "why": "Električni romobili moraju koristiti biciklističke staze, inače kolnik; nogostupi su zabranjeni. Smije ih voziti samo jedna osoba od 14 godina naviše (eKFV). Pri skretanju postupaj s njima kao s biciklistima."
+    },
+    "pe11": {
+      "prompt": "Školski autobus stao je uz cestu i izlaze djeca. Što radiš?",
+      "options": ["Prolazim polako, s velikim razmakom, spremno za kočenje", "Računam da će djeca pretrčati ispred ili iza autobusa", "Brzo prolazim da djeca mogu sigurno izaći"],
+      "why": "Djeca često pretrčavaju točno ispred ili iza autobusa. Ako ima upaljena sva četiri pokazivača, moraš čak usporiti na brzinu hoda (§ 20 st. 4 StVO)."
+    },
+    "pe12": {
+      "prompt": "Pješak prelazi cestu daleko od prijelaza. Što radiš?",
+      "options": ["Kočim i puštam ga da prijeđe, iako je trebalo čekati", "Vozim dalje — nema prednost", "Prolazim tik iza njega"],
+      "why": "Pješaci moraju paziti na vozila (§ 25 StVO), ali § 1 StVO traži stalni oprez: nitko ne smije biti ugrožen. Tuđa pogreška nikad ti ne daje pravo da nekoga udariš."
+    },
+    "ra01": {
+      "prompt": "Kada moraš čekati na ovom željezničkom prijelazu?",
+      "options": ["Kad se približava vlak", "Kad trepću crvena svjetla ili se spuštaju branici", "Tek kad su branici potpuno spušteni"],
+      "why": "Na željezničkim prijelazima vlakovi imaju prednost (§ 19 st. 1 StVO). Moraš čekati kad vlak dolazi, kad svijetle crvena ili trepćuća svjetla, kad se branici spuštaju ili su spušteni ili kad ti željeznički djelatnik daje znak za zaustavljanje (§ 19 st. 2 StVO).",
+      "tip": "Branik koji se spušta već je zatvoren."
+    },
+    "ra02": {
+      "prompt": "Odmah iza željezničkog prijelaza je kolona. Što radiš?",
+      "options": ["Čekam prije prijelaza", "Ulazim na tračnice i čekam ondje", "Trubim da se drugi pomaknu"],
+      "why": "Na željeznički prijelaz uđi samo ako ga možeš potpuno prijeći bez zaustavljanja (§ 19 st. 1 StVO). Kad ostaneš na tračnicama u koloni, nema bijega."
+    },
+    "ra03": {
+      "prompt": "Automobil ti se pokvari na željezničkom prijelazu. Što radiš?",
+      "options": ["Odmah izvodim sve iz automobila i iz opasne zone", "Zovem broj za hitne slučajeve ili broj istaknut na prijelazu", "Ostajem u automobilu i pokušavam ga upaliti"],
+      "why": "Vlak ne može skrenuti i za zaustavljanje mu često treba više od kilometra. Ljudi su na prvom mjestu: van, dalje od tračnica, zatim upozori željeznicu preko broja za hitne slučajeve."
+    },
+    "ra04": {
+      "prompt": "Autobus se približava stajalištu s upaljena sva četiri pokazivača. Što vrijedi?",
+      "options": ["Ne smijem ga pretjecati", "Smijem ga brzo prestići prije nego stane", "Moram se odmah zaustaviti"],
+      "why": "Autobusi i označeni školski autobusi koji se približavaju stajalištu s upaljena sva četiri pokazivača ne smiju se pretjecati (§ 20 st. 3 StVO)."
+    },
+    "ra05": {
+      "prompt": "Autobus stoji na stajalištu s upaljena sva četiri pokazivača. Kako smiješ proći pokraj njega?",
+      "options": ["Samo brzinom hoda", "Ne ugrožavajući putnike — po potrebi čekajući", "Brzinom 30 km/h"],
+      "why": "Pokraj autobusa i školskih autobusa koji stoje na stajalištu s upaljena sva četiri pokazivača smiješ proći samo brzinom hoda i s takvim razmakom da putnici ne budu ugroženi. To vrijedi i za promet iz suprotnog smjera na istom kolniku (§ 20 st. 4 StVO).",
+      "tip": "Autobus treperi na stajalištu = brzina hoda, čak i iz suprotnog smjera."
+    },
+    "ra06": {
+      "prompt": "Autobus pokazuje lijevo da krene sa stajališta. Što radiš?",
+      "options": ["Puštam ga da izađe, po potrebi čekam", "Brzo prolazim pokraj njega", "Trubim"],
+      "why": "Autobusima i školskim autobusima mora se omogućiti polazak s označenih stajališta; ostala vozila po potrebi čekaju (§ 20 st. 5 StVO)."
+    },
+    "ra07": {
+      "prompt": "Tramvaj je stao na stajalištu bez otoka i putnici izlaze. Što radiš?",
+      "options": ["Prolazim zdesna brzinom hoda, ne ometajući putnike", "Po potrebi čekam", "Brzo prolazim slijeva"],
+      "why": "Dok putnici ulaze ili izlaze, smiješ proći samo zdesna, brzinom hoda i s dovoljno razmaka; putnike ne smiješ ometati, a po potrebi čekaš (§ 20 st. 2 StVO)."
+    },
+    "ra08": {
+      "prompt": "Približavaš se željezničkom prijelazu označenom Andrijinim križem. Kako se približavaš?",
+      "options": ["Umjerenom brzinom", "Što brže, da brzo prijeđem", "Brzo pretječem kamion ispred"],
+      "why": "Željezničkim prijelazima približavaš se umjerenom brzinom (§ 19 st. 1 StVO), da se možeš zaustaviti ako dolazi vlak. Od znaka 151 ili 156 motorna vozila se ne smiju pretjecati."
+    },
+    "mw01": {
+      "prompt": "Uključuješ se na autocestu. Što je točno?",
+      "options": ["Koristim trak za ubrzanje da dostignem brzinu na autocesti", "Promet na autocesti ima prednost", "Vozači na autocesti moraju me pustiti"],
+      "why": "Promet na glavnom kolniku ima prednost (§ 18 st. 3 StVO). Koristi trak za ubrzanje da prikladnom brzinom dođeš do prikladnog razmaka; prespora uključivanja su opasna."
+    },
+    "mw02": {
+      "prompt": "Na autocesti se stvara kolona. Gdje oblikuješ koridor za interventna vozila?",
+      "options": ["Između krajnjeg lijevog traka i traka do njega", "Na zaustavnom traku", "Ravnomjerno po svim trakovima"],
+      "why": "Čim se promet na autocestama i višetračnim cestama izvan naselja uspori na brzinu hoda, oblikuj koridor između krajnjeg lijevog traka i traka desno od njega (§ 11 st. 2 StVO) — prije nego stignu interventna vozila.",
+      "tip": "Krajnji lijevi trak ide lijevo; svi ostali desno."
+    },
+    "mw03": {
+      "prompt": "Što je zabranjeno na autocesti?",
+      "options": ["Okretanje i vožnja unatrag", "Zaustavljanje, čak i na zaustavnom traku (osim u nuždi)", "Korištenje lijevog traka za pretjecanje"],
+      "why": "Okretanje i vožnja unatrag zabranjeni su na autocestama, uključujući priključke. Zabranjeno je i zaustavljanje, pa i na zaustavnom traku (§ 18 st. 7 i 8 StVO). Promašen izlaz? Uzmi sljedeći."
+    },
+    "mw04": {
+      "prompt": "Vozilo ti se pokvari na autocesti. Što radiš?",
+      "options": ["Palim sva četiri pokazivača i, ako mogu, prelazim na zaustavni trak", "Oblačim reflektirajući prsluk i vodim sve iza zaštitne ograde", "Postavljam sigurnosni trokut otprilike 200 m iza"],
+      "why": "Najprije sigurnost: sva četiri pokazivača, udesno, prsluk, svi izlaze na suvozačkoj strani i iza ograde. Zatim sigurnosni trokut: oko 200 m iza na autocesti, 100 m na cestama izvan naselja, 50 m u naselju (§ 15 StVO).",
+      "tip": "50 — 100 — 200 m: naselje, izvan naselja, autocesta."
+    },
+    "mw05": {
+      "prompt": "Na autocesti se približavaš kraju kolone. Što radiš?",
+      "options": ["Na vrijeme kočim i palim sva četiri pokazivača", "Ostavljam dovoljno razmaka do zadnjeg vozila", "Bježim na zaustavni trak"],
+      "why": "Na kraju kolone upozori promet iza sebe svim četirima pokazivačima (§ 16 st. 2 StVO). Ostavi razmak da se možeš skloniti ako netko iza zakoči prekasno."
+    },
+    "mw06": {
+      "prompt": "Radio javlja vozača u suprotnom smjeru na tvojoj dionici autoceste. Što radiš?",
+      "options": ["Držim se desno i ne pretječem", "Usporavam i povećavam razmak", "Ostajem u lijevom traku"],
+      "why": "Vozač u suprotnom smjeru obično dolazi lijevim trakom, misleći da je to desni. Drži se desno, ne pretječi, uspori i upali sva četiri pokazivača ako se približi."
+    },
+    "mw07": {
+      "prompt": "Koliko metara prije izlaza stoji ploča s tri crte?",
+      "why": "Ploče za najavu izlaza (znak 450) stoje otprilike 300, 200 i 100 m prije početka izlaznog traka. Na vrijeme prijeđi u desni trak.",
+      "tip": "Autocesta: 100 m po crti. Željeznički prijelaz: 80 m."
+    },
+    "mw08": {
+      "prompt": "Koliki je obično razmak između smjerokaznih stupića uz cestu?",
+      "why": "Smjerokazni stupići obično stoje na 50 m razmaka. Koristi ih za procjenu razmaka i vidljivosti: ako u magli ne vidiš sljedeći, vidljivost je ispod 50 m i ne smiješ voziti brže od 50 km/h."
+    },
+    "mw09": {
+      "prompt": "Tko smije voziti zaustavnim trakom autoceste?",
+      "options": ["Nitko — osim ako ga znakovi otvore za promet", "Spora vozila", "Svi koji stoje u koloni"],
+      "why": "Zaustavni trak nije prometni trak. Smiješ voziti po njemu samo gdje ga znakovi izričito otvore; inače je za kvarove i hitne službe."
+    },
+    "mw10": {
+      "prompt": "Što vrijedi na brzoj cesti (Kraftfahrstraße)?",
+      "options": ["Smiju je koristiti samo motorna vozila konstruirana za više od 60 km/h", "Na raskrižjima prednost ima promet na brzoj cesti", "Pješaci smiju hodati uz rub"],
+      "why": "Na brzim cestama (znak 331.1) uglavnom vrijede pravila autoceste: samo brza motorna vozila, bez zaustavljanja, bez okretanja, a promet na njima ima prednost na raskrižjima."
+    }
+  }
+}
