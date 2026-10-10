@@ -530,8 +530,8 @@ export const SIGN_ART: Record<string, Draw> = {
     plate(
       k,
       <>
-        <k.Circle cx={50} cy={40} r={13} fill={WHITE} stroke={SIGN_RED} strokeWidth={4} />
-        {label(k, 'Umwelt', 50, 43, 7)}
+        <k.Circle cx={50} cy={40} r={15} fill={WHITE} stroke={SIGN_RED} strokeWidth={3.5} />
+        {label(k, 'Umwelt', 50, 42.2, 5.6)}
         {label(k, 'ZONE', 50, 66, 14)}
       </>,
       62,

@@ -8,6 +8,7 @@ import { motionFrames, motionOf } from './lib/motion';
 import { timeline } from './lib/timeline';
 import { LongForm, type LongFormProps } from './longform/LongForm';
 import { QuestionShort, type QuestionShortProps } from './QuestionShort';
+import { Thumbnail, type ThumbnailProps } from './Thumbnail';
 
 const EMPTY_PLAN: LongFormProps['plan'] = {
   topic: '',
@@ -56,6 +57,16 @@ export function Root() {
         durationInFrames={FPS}
         defaultProps={{ plan: EMPTY_PLAN } satisfies LongFormProps}
         calculateMetadata={({ props }) => ({ durationInFrames: Math.max(1, props.plan.total) })}
+      />
+      {/* A lesson's YouTube thumbnail; scripts/thumbnails.mjs renders one per script. */}
+      <Composition
+        id="Thumbnail"
+        component={Thumbnail}
+        width={1280}
+        height={720}
+        fps={FPS}
+        durationInFrames={1}
+        defaultProps={{ lesson: 1, de: 'Vorfahrt', en: 'Right of Way', art: 'scene:pr03', pill: '20 FRAGEN' } satisfies ThumbnailProps}
       />
     </>
   );

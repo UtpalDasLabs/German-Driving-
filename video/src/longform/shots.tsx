@@ -317,6 +317,8 @@ export function shownGerman(questions: string[], screen: string[], key: string |
     out.push(norm(q.prompt.de), ...q.options.map((o) => norm(o.de)));
   }
   if (key === 'term') out.push(...screen.map((l) => norm(l.split(' | ')[0])));
+  // Quote and fact cards already print their German, so it is not captioned again.
+  if (key === 'quote' || key === 'fact') out.push(...screen.flatMap((l) => l.replace(/\s*@.*$/, '').split(' | ').map(norm)));
   return out;
 }
 

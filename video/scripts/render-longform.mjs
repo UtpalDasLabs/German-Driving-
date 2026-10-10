@@ -197,9 +197,12 @@ function describe() {
   }
   const asked = shots.flatMap((sh) => sh.questions);
   return [
-    script.meta.title,
+    script.meta.youtube ?? script.meta.title,
     '',
-    `${asked.length} questions in the style of the German driving theory test (Führerschein, class B), explained in English, with the German you will meet on the road and on test day.`,
+    ...(script.meta.lesson ? [`Lesson ${script.meta.lesson} of ${SERIES_LENGTH} in the German Driving Test series.`, ''] : []),
+    asked.length
+      ? `${asked.length} questions in the style of the German driving theory test (Führerschein, class B), explained in English, with the German you will meet on the road and on test day.`
+      : 'Part of a free English-language series on the German driving licence (Führerschein, class B), with the German you will meet on the road and on test day.',
     '',
     `Practise the theory test in 13 languages, plus the practical test and licence conversion, free, no account: ${APP_URL}`,
     '',
@@ -211,6 +214,7 @@ function describe() {
     ...(LIVELY ? [elSound ? 'Music and sound effects: made with ElevenLabs.' : 'Music and sound effects: made for this channel.', ''] : []),
   ].join('\n');
 }
+const SERIES_LENGTH = 14;
 const descriptionFile = join(OUT, `lesson-${topic}${spec ? `-ch${spec}` : ''}-description.txt`);
 writeFileSync(descriptionFile, describe());
 console.log(`Description → ${descriptionFile}`);

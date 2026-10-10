@@ -82,11 +82,13 @@ export const MANOEUVRES: Record<Manoeuvre['key'], Manoeuvre> = {
   corner: {
     key: 'corner',
     poses: [
-      [86, 44, 90, 'D'],
-      [72, 45, 90, 'R'],
-      [63, 54, 45, 'R'],
-      [61, 68, 8, 'R'],
-      [61, 84, 0, 'R'],
+      // Reverse round the right-hand kerb corner (77, 51) at an even distance,
+      // ending in the side road's right-hand lane, facing out.
+      [88, 45, 90, 'D'],
+      [80, 45.5, 90, 'R'],
+      [72.5, 55, 45, 'R'],
+      [71, 66, 6, 'R'],
+      [71, 84, 0, 'R'],
     ],
     view: [34, 22, 62, 74],
     scenery: (k) => (
@@ -103,10 +105,12 @@ export const MANOEUVRES: Record<Manoeuvre['key'], Manoeuvre> = {
   turnround: {
     key: 'turnround',
     poses: [
+      // Forward to the far kerb, back towards the near one, then forward
+      // down the other lane: heading -180 points down the page.
       [60, 82, 0, 'D'],
-      [40, 62, -78, 'D'],
-      [60, 52, -150, 'R'],
-      [40, 34, -180, 'D'],
+      [37, 64, -80, 'D'],
+      [62, 58, -135, 'R'],
+      [40, 76, -180, 'D'],
     ],
     view: [20, 22, 60, 72],
     scenery: (k) => (

@@ -43,19 +43,28 @@ them. 220 questions, so 220 shorts; right of way first.
 
 ## Tone
 
-The same as the citizenship series (see that repository's SERIES.md): a
-documentary storyteller, `[dramatic]` on every paragraph for Eleven v4, no
-hype lines, no punchline paragraphs.
+The same storyteller as the citizenship series (`basic-rights.md`,
+`europe.md` in that repository): curious, warm and conversational, with
+contractions and the viewer addressed as "you". Each lesson opens with a small
+scene or moment rather than a definition. Every trap answer gets a beat on
+*why* it's wrong, and the odd dry line keeps it light. No hype and no cheesy
+punchlines.
 
+- Delivery tags for Eleven v4, one per spoken paragraph, varied: `[curious]`,
+  `[warm]`, `[serious]`, `[firm]` (to set up a trap), `[dry amusement]`
+  and `[pause]`.
 - Read the question in English. Do not read the options: they are on screen,
   and a read-out option is ruled out by ear before the countdown.
 - Every question ends in a `[countdown]` paragraph that opens with the answer
   as it is written on the card (`npm run check:quiz -- <topic>` enforces it).
 - German appears where it helps on the road and on test day: sign names, the
   three-word rules ("rechts vor links"), what the examiner says. Mark it
-  `[[like this]]` so it is spoken in German and captioned.
+  `[[like this]]` so it is spoken in German and captioned. A `term` card shows
+  its German when it is spoken, so say it early in the paragraph.
 - These are the app's own practice questions, not the official catalogue's.
   Never say "this is an official question"; say "a question like this".
+- About 430 spoken characters per question explained. Voice credits are the
+  limit, so tight beats long.
 
 ## Making one lesson
 
@@ -73,9 +82,12 @@ hype lines, no punchline paragraphs.
 
 ## Voice budget
 
-About 400 characters per question explained: Right of Way is 8,253
-characters for 20 questions. The whole theory series is roughly 75,000;
-a short is about 500. Eleven v4 bills one credit per character.
+About 430 characters per question explained; a theory lesson is 7,000 to
+10,500 characters and the whole series about 118,000. On this account Eleven v4
+bills far less than one credit per character: lesson 1 (9,559 characters) cost
+about 1,050 credits and lesson 2 (6,976) about 770, so roughly 0.11 credits per
+character, about 13,000 credits for all fourteen lessons. Check the balance
+before and after the first lesson of a batch: the rate is ElevenLabs' to change.
 
 ## Every upload
 

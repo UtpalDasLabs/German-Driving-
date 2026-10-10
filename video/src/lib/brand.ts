@@ -8,7 +8,7 @@ export const FPS = 30;
  * Channel handle shown on screen: the driving series runs on the same channel
  * as the citizenship lessons. The one place to change it.
  */
-export const CHANNEL = 'Einburgerung test';
+export const CHANNEL = 'Living in Deutschland';
 export const APP_NAME = 'Führerschein-Trainer';
 export const APP_URL = 'https://utpaldaslabs.github.io/German-Driving-/';
 export const SERIES = 'German Driving Test';

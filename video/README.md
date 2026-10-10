@@ -33,11 +33,17 @@ npm run render:longform -- priority --silent --stills   # one still per shot
 npm run voice:longform -- priority --expressive --dry   # voice cost, in characters
 npm run voice:longform -- priority --expressive         # narrate (cached per paragraph)
 npm run render:longform -- priority --lively --expressive  # the finished lesson
+npm run thumbnails                     # one numbered YouTube thumbnail per lesson
+npm run package -- priority --lively --expressive  # video + description + thumbnail, numbered
 npm run studio                         # preview and scrub in the browser
 npm run typecheck
 ```
 
-Output goes to `out/` (git-ignored).
+Output goes to `out/` (git-ignored). Each script's front matter carries its
+`lesson:` number, its numbered `youtube:` title and its `thumb:` (German
+headline, English subtitle, drawing). The private videos repository's
+"Render a driving lesson" workflow runs render, thumbnails and package for one
+lesson or for `all`, and offers the numbered folders as one download.
 
 ## How the cars know who goes first
 
