@@ -28,12 +28,12 @@ export default [
     opts: [
       t('Ich darf fahren – wie Grün', 'I may go - like a green light'),
       t('Halt – wie Rot', 'Stop - like a red light'),
-      t('Ich muss warten, bis er winkt', 'I must wait until he waves'),
+      t('Ich muss warten, bis er winkt', 'I must wait until the officer waves'),
     ],
     ok: [0],
     why: t(
       'Der Beamte steht seitlich zu Ihnen, die Arme zeigen in Ihre Fahrtrichtung: Ihr Verkehr ist freigegeben. Wer abbiegt, beachtet trotzdem die Abbiegeregeln.',
-      'The officer stands side-on to you and his arms point along your direction: your traffic is released. If you turn, the turning rules still apply.',
+      'The officer stands side-on to you, arms pointing along your direction: your traffic is released. If you turn, the turning rules still apply.',
     ),
     tip: null,
     scene: { road: 'cross', actors: [{ kind: 'you', arm: 'w', turn: 'straight' }], officer: { facing: 'ns', arms: 'side' } },

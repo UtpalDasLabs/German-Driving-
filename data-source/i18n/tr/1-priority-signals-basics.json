@@ -1,0 +1,233 @@
+{
+  "questions": {
+    "pr01": {
+      "prompt": "Düz devam etmek istiyorsunuz. Bu kavşakta hiç trafik işareti yok. Geçiş hakkı kimde?",
+      "options": ["Sağdan gelen araçta", "Bende, çünkü düz gidiyorum", "Kavşağa ilk gelende"],
+      "why": "İşaret ya da ışık yoksa kural \"sağdan gelen önce geçer\"dir (rechts vor links, StVO § 8 f. 1). Araç sağınızdan geliyor, bu yüzden önce onu geçirirsiniz - düz gidiyor ya da dönüyor olmanız fark etmez.",
+      "tip": "Rechts vor links: sağınızdan gelen önce geçer."
+    },
+    "pr02": {
+      "prompt": "Düz devam etmek istiyorsunuz. İşaret yok. Bu aracı önce geçirmek zorunda mısınız?",
+      "options": ["Hayır - soldan geliyor, beni geçirmesi gerekir", "Evet - kavşağa daha yakın", "Evet - işaretsiz kavşaklarda her zaman durmalıyım"],
+      "why": "Araç solunuzda. \"Sağdan gelen önce geçer\" kuralına göre o sizi bekler, siz onu değil. Yine de dikkatli sürün: sizi gördüğünden emin olamazsınız."
+    },
+    "pr03": {
+      "prompt": "İşaret yok, herkes düz gidiyor. Araçlar hangi sırayla geçer?",
+      "options": ["2, 3, 1", "1, 2, 3", "3, 1, 2"],
+      "why": "2 numaralı aracın sağı boş, bu yüzden önce o geçer. 3 numaralı bisikletli yalnızca sağından gelen 2 numaralı aracı bekler. Siz (1) bisikletliyi sağınızda görürsünüz, bu yüzden en son geçersiniz.",
+      "tip": "Birden fazla araç varsa: önce sağı boş olanı bulun."
+    },
+    "pr04": {
+      "prompt": "Sola dönmek istiyorsunuz; karşıdan gelen araç düz gitmek istiyor. Önce kim geçer?",
+      "options": ["Karşıdan gelen araç", "Ben, çünkü önce sinyal verdim", "Aynı anda geçeriz"],
+      "why": "Sola dönen, karşıdan gelen trafiği önce geçirmek zorundadır (StVO § 9 f. 3). Bu her kavşakta, ana yolda bile geçerlidir.",
+      "tip": "Sola dönen, karşıdan geleni bekler."
+    },
+    "pr05": {
+      "prompt": "Siz ve karşıdan gelen araç sola dönmek istiyorsunuz. Nasıl dönersiniz?",
+      "options": ["Birbirimizin önünden - her biri diğerinin önünden döner", "Birbirimizin etrafından - diğerinin arkasından geçerek", "Önce sinyal veren önce döner"],
+      "why": "Karşılıklı sola dönen iki araç birbirinin önünden döner (StVO § 9 f. 4) - trafik durumu ya da kavşağın yapısı başka türlüsünü gerektirmedikçe."
+    },
+    "pr06": {
+      "prompt": "Sola dönmek istiyorsunuz. Kimi önce geçirmelisiniz?",
+      "options": ["Soldan gelen aracı", "Sağdan gelen aracı", "Kimseyi, çünkü sinyal veriyorum"],
+      "why": "205 numaralı \"Yol ver\" levhası sizin yolunuz için geçerlidir. Ana yoldaki herkesin - soldan ve sağdan - geçiş hakkı vardır. Sola dönerken iki şeridi de kesersiniz."
+    },
+    "pr07": {
+      "prompt": "Bu levhada ne yapmalısınız?",
+      "options": ["Yol boş olsa bile dur çizgisinde durmak", "Yol vermek", "Yalnızca araç geliyorsa durmak"],
+      "why": "206 numaralı \"Dur. Yol ver.\" levhası tam duruş ister - tekerlekler dönmez - dur çizgisinde ya da çizgi yoksa yolun görülebildiği yerde. Ardından yol verirsiniz.",
+      "tip": "DUR demek tekerleklerin tamamen durması demektir. Yavaşça geçmek yetmez."
+    },
+    "pr08": {
+      "prompt": "Düz gidiyorsunuz. Geçiş hakkı kimde?",
+      "options": ["Bende", "Sağdan gelen araçta", "İlk gelende"],
+      "why": "Ana yoldasınız (306 numaralı levha), yan yolda 205 numaralı levha var. Burada \"sağdan gelen önce geçer\" geçerli değildir - araç beklemek zorundadır."
+    },
+    "pr09": {
+      "prompt": "Bu levhanın verdiği geçiş önceliği ne kadar sürer?",
+      "options": ["Yalnızca bir sonraki kavşağa kadar", "Yerleşim yerinin sonuna kadar", "\"Ana yol sonu\" levhasına kadar"],
+      "why": "301 numaralı levha önceliği yalnızca bir sonraki kavşakta verir. Bütün bir güzergâh boyunca öncelik yalnızca ana yol levhasıyla (306) olur.",
+      "tip": "301 = bir kez. 306 = boydan boya."
+    },
+    "pr10": {
+      "prompt": "Sola kıvrılan ana yolu takip ediyorsunuz. Ne yapmalısınız?",
+      "options": ["Sola sinyal vermek", "Yolu geçen yayalara dikkat etmek", "Sinyal vermemek, çünkü ana yolda kalıyorum"],
+      "why": "Kıvrılan ana yolu takip eden, bunu zamanında sinyalle bildirmeli ve yayalara özellikle dikkat etmelidir; gerekirse beklemelidir (306 numaralı levhanın altındaki 1002 numaralı ek levha).",
+      "tip": "Sinyal levhayı değil, yolun kıvrımını izler."
+    },
+    "pr11": {
+      "prompt": "Ana yol kıvrılıyor (sarı ile gösterilen). Düz gitmek istiyorsunuz. Kimi önce geçirirsiniz?",
+      "options": ["1 numaralı aracı", "Kimseyi - düz gidiyorum", "Yalnızca sağdan gelenleri"],
+      "why": "Yan yoldasınız (205 numaralı levha). 1 numaralı araç ana yolda, onun kıvrımını izliyor ve yolunuzu kesiyor. Düz gitmek size öncelik vermez."
+    },
+    "pr12": {
+      "prompt": "Bir arsa çıkışından yola çıkıyorsunuz. Ne geçerlidir?",
+      "options": ["Yoldaki trafiği önce geçirmeliyim", "Başkalarına yönelik her türlü tehlike önlenmelidir", "\"Sağdan gelen önce geçer\" burada da geçerlidir"],
+      "why": "Bir arsadan, trafiği sakinleştirilmiş bölgeden ya da yol kenarından hareket eden, kimseyi tehlikeye atmamakla yükümlüdür - gerekirse bir yönlendiricinin yardımıyla (StVO § 10). \"Sağdan gelen önce geçer\" burada size yardımcı olmaz."
+    },
+    "pr13": {
+      "prompt": "Bir tarla yolundan işaretsiz bir yola çıkıyorsunuz. Soldan bir araç geliyor. Geçiş hakkı kimde?",
+      "options": ["Araçta", "Bende - onun sağından geliyorum", "Daha yavaş olanda"],
+      "why": "Tarla ya da orman yolundan gelenin hiçbir zaman geçiş hakkı yoktur (StVO § 8 f. 1) - soldan gelen trafiğe karşı bile."
+    },
+    "pr14": {
+      "prompt": "Bu dönel kavşakta ne geçerlidir?",
+      "options": ["Dönel kavşaktaki araçların geçiş hakkı vardır", "Girerken sinyal verilmez", "Çıkarken sağa sinyal verilir"],
+      "why": "215 numaralı levha 205 numaralı levhanın altındaysa, dönel kavşaktaki trafiğin önceliği vardır. Girerken sinyal vermek yasak, çıkarken zorunludur. Dönel kavşakta durmak yasaktır (StVO § 9a).",
+      "tip": "Girerken sinyal yok, çıkarken sinyal var."
+    },
+    "pr15": {
+      "prompt": "Bu göbekli kavşakta hiç işaret yok. Geçiş hakkı kimde?",
+      "options": ["Bende - kavşaktaki araç solumdan geliyor", "Kavşaktaki araçta", "Önce sinyal verende"],
+      "why": "215 numaralı levha olmadan burası StVO § 9a anlamında bir dönel kavşak değil, sıradan bir kavşaktır. \"Sağdan gelen önce geçer\" geçerlidir - kavşaktaki trafik sizi içeri almak zorundadır.",
+      "tip": "Mavi dönel kavşak levhası yoksa = sağdan gelen önce geçer."
+    },
+    "pr16": {
+      "prompt": "Devam eden ana güzergâhta düz gidiyorsunuz. Hiç işaret yok. Geçiş hakkı kimde?",
+      "options": ["Sağdaki yan yoldan çıkan araçta", "Bende - devam eden yoldayım", "Daha hızlı olanda"],
+      "why": "Düz devam eden bir yol, işaret olmadan ana yol değildir. T kavşaklarında da \"sağdan gelen önce geçer\" geçerlidir ve araç sağınızdadır.",
+      "tip": "Daha geniş ya da düz olmak öncelik demek değildir."
+    },
+    "pr17": {
+      "prompt": "Araçlar hangi sırayla geçer?",
+      "options": ["3, 1, 2", "1, 2, 3", "3, 2, 1"],
+      "why": "3 numaralı kamyon ana yolda ve önce geçer. 1 ve 2 yan yollarda karşı karşıya; 2 sola dönüyor ve karşıdan düz gelen 1’i önce geçirmek zorunda."
+    },
+    "pr18": {
+      "prompt": "Ana yoldasınız ve sola dönmek istiyorsunuz. Kim beklemek zorunda?",
+      "options": ["Ben", "Karşıdan gelen araç", "Kimse, ikimiz de ana yoldayız"],
+      "why": "Ana yol yalnızca yan yollarla ilişkiyi düzenler. Ana yoldaki araçlar arasında dönüş kuralları geçerlidir: sola dönen, karşıdan geleni geçirir (StVO § 9 f. 3)."
+    },
+    "pr19": {
+      "prompt": "Sağa dönmek istiyorsunuz. Bu levha sizin için ne anlama gelir?",
+      "options": ["Soldan gelen trafiğe yol vermeliyim", "Sağa döndüğüm için önceliğim var", "Bakmadan çıkabilirim"],
+      "why": "205 numaralı levha \"Yol ver\" demektir. Sağa dönerken soldan gelen trafiğin gittiği şeride girersiniz - onu geçirmelisiniz."
+    },
+    "pr20": {
+      "prompt": "İşaret yok. Sola dönmek istiyorsunuz. Araçlar hangi sırayla geçer?",
+      "options": ["2, 1", "1, 2", "Aynı anda"],
+      "why": "2 numaralı araç sağınızdan geliyor ve \"sağdan gelen önce geçer\" kuralına göre önceliklidir. Düz değil de dönüyor olmanız bunu değiştirmez: o düz gidiyor ve yolunuzu kesiyor."
+    },
+    "sg01": {
+      "prompt": "Polis memuru size dönük duruyor ve iki kolunu yana açmış. Bu sizin için ne anlama gelir?",
+      "options": ["Kavşaktan önce dur - kırmızı ışık gibi", "Geç - yeşil ışık gibi", "Kavşağı hızla boşalt"],
+      "why": "Gidiş yönünüze dik tutulan kollar, memurun önündeki ve arkasındaki trafik için \"dur\" demektir. Kolların doğrultusunda hareket eden trafik geçebilir (StVO § 36 f. 2).",
+      "tip": "Göğüs ya da sırt size dönükse = kırmızı. Kol size doğruysa = yeşil."
+    },
+    "sg02": {
+      "prompt": "Memura yandan yaklaşıyorsunuz. Memurun kolları sizin yönünüzü gösteriyor. Bu sizin için ne anlama gelir?",
+      "options": ["Geçebilirim - yeşil ışık gibi", "Dur - kırmızı ışık gibi", "Memur el sallayana kadar beklemeliyim"],
+      "why": "Memur size yan duruyor, kolları sizin yönünüzü gösteriyor: sizin trafiğiniz serbesttir. Dönüyorsanız dönüş kuralları yine geçerlidir."
+    },
+    "sg03": {
+      "prompt": "Bir polis memuru bir kolunu dik olarak yukarı kaldırıyor. Bu ne anlama gelir?",
+      "options": ["Kavşaktan önce olan, bir sonraki işareti bekler", "Kavşağın içinde olan, kavşağı boşaltır", "Herkes geçebilir"],
+      "why": "Kaldırılmış kol sarı ışığa karşılık gelir: \"Dikkat, işaret değişmek üzere.\" Kavşaktan önceyseniz bekleyin, içindeyseniz boşaltın (StVO § 36 f. 2 no. 2)."
+    },
+    "sg04": {
+      "prompt": "Işık yeşil. Bir polis memuru size dur işareti veriyor. Ne yaparsınız?",
+      "options": ["Dururum - polis önceliklidir", "Devam ederim - yeşil ışık önceliklidir", "Korna çalıp yavaşça devam ederim"],
+      "why": "Polis memurlarının işaretleri ve talimatları, trafik ışıkları dahil diğer her şeyden önce gelir (StVO § 36 f. 1)."
+    },
+    "sg05": {
+      "prompt": "Hangi öncelik sıralaması doğrudur?",
+      "options": ["Polis, trafik ışıkları, levhalar, genel kurallar", "Trafik ışıkları, polis, levhalar, genel kurallar", "Levhalar, trafik ışıkları, polis, genel kurallar"],
+      "why": "Polis her şeyden önce gelir (§ 36), ışıklar öncelik levhalarından ve kurallarından önce gelir (§ 37), levhalar da \"sağdan gelen önce geçer\" kuralından önce gelir.",
+      "tip": "İnsan, ışık, levha, kural."
+    },
+    "sg06": {
+      "prompt": "Işığınız kırmızı, yanında yeşil ok levhası var. Sağa dönmek istiyorsunuz. Ne geçerlidir?",
+      "options": ["Önce dur çizgisinde durmalıyım", "Sonra kimseyi engellemez ve tehlikeye atmazsam dönebilirim", "Durmadan dönebilirim"],
+      "why": "Yeşil ok levhası (720) kırmızıda sağa dönüşe yalnızca dur çizgisinde tam durduktan sonra ve kimseyi - özellikle yeşil ışığı olan yayaları ve bisikletlileri - engellemeden ve tehlikeye atmadan izin verir (StVO § 37 f. 2).",
+      "tip": "Yeşil ok = dönmene izin veren bir DUR levhası."
+    },
+    "sg07": {
+      "prompt": "Işık sarıya dönüyor. Ne yaparsınız?",
+      "options": ["Hâlâ güvenle durabiliyorsam dururum", "Geçmek için hızlanırım", "Her zaman hemen tam fren yaparım"],
+      "why": "Sarı şu demektir: kavşaktan önce bir sonraki işareti bekle. Güvenle duramayacak kadar yakınsanız devam edersiniz - ama hızlanmak asla bunun parçası değildir."
+    },
+    "sg08": {
+      "prompt": "Işığınız aynı anda kırmızı ve sarı gösteriyor. Bu ne anlama gelir?",
+      "options": ["Yeşil geliyor - hâlâ beklerim", "Artık hareket edebilirim", "Işık bozuk"],
+      "why": "Kırmızı ve sarı birlikte \"Dikkat, sırada yeşil var\" demektir. Yeşil yanana kadar olduğunuz yerde kalırsınız."
+    },
+    "sg09": {
+      "prompt": "Trafik ışıkları arızalı. Şimdi ne geçerlidir?",
+      "options": ["Kavşaktaki öncelik levhaları", "Levha yoksa: sağdan gelen önce geçer", "İlk gelen önce geçer"],
+      "why": "Işıklar kapalıysa ya da yalnızca sarı yanıp sönüyorsa levhalar geçerlidir. Levha yoksa \"sağdan gelen önce geçer\" geçerlidir."
+    },
+    "sg10": {
+      "prompt": "Kavşakta tek başına yanıp sönen sarı ışık ne anlama gelir?",
+      "options": ["Dikkat - trafik levhaları geçerlidir", "Herkes geçebilir", "Kırmızıdaki gibi dur"],
+      "why": "Yanıp sönen sarı ışık bir uyarıdır (StVO § 37 f. 2 no. 5). Hiçbir şeyi düzenlemez; öncelik levhalardan gelir."
+    },
+    "sg11": {
+      "prompt": "Arkanızdan mavi ışıklı ve sirenli bir ambulans geliyor. Ne yaparsınız?",
+      "options": ["Hemen yol açarım", "Bir cep gelene kadar devam ederim", "Sert fren yapıp şeridimde dururum"],
+      "why": "Mavi ışık sirenle birlikte, diğer herkesin hemen yol açması gerektiği anlamına gelir (StVO § 38 f. 1). Şeridinizin ortasında durmak işe yaramaz."
+    },
+    "sg12": {
+      "prompt": "Bir polis aracı yol kenarında mavi ışıkla ama sirensiz duruyor. Bu ne anlama gelir?",
+      "options": ["Kaza gibi bir tehlikeye karşı uyarır", "Hemen durmalıyım", "Yol açmalıyım"],
+      "why": "Tek başına mavi ışık, kaza ya da olay yerinde uyarı amaçlıdır (StVO § 38 f. 2). Yavaşça ve dikkatle geçin.",
+      "tip": "Mavi + siren = yol aç. Yalnızca mavi = dikkat et."
+    },
+    "sg13": {
+      "prompt": "Işığınız yeşil ama kavşağın ilerisinde trafik sıkışmış. Ne yaparsınız?",
+      "options": ["Kavşaktan önce beklerim", "Yeşil yandığı için kavşağa girerim", "Kavşağa yavaşça ilerlerim"],
+      "why": "Kavşağın içinde beklemek zorunda kalacaksanız, yeşilde bile giremezsiniz (StVO § 11 f. 1). Aksi halde ışık değişince kesişen trafiği kapatırsınız."
+    },
+    "sg14": {
+      "prompt": "Yeşil ışığınız var ve sola dönmek istiyorsunuz. Neye dikkat etmelisiniz?",
+      "options": ["Karşıdan gelen trafiği önce geçirmeye", "Döneceğim yolu geçen yayalara", "Hiçbir şeye - yeşil, önceliğim olduğu demektir"],
+      "why": "Yeşil ışık dönüş kurallarını kaldırmaz: karşıdan geleni geçirin ve yayalara özellikle dikkat edin (StVO § 9 f. 3). Yalnızca ışığın kendisindeki yeşil ok korumalı bir dönüş gösterir."
+    },
+    "sg15": {
+      "prompt": "Bir çöp kamyonu yolda yanıp sönen sarı ışıkla duruyor. Bu ışık ne anlama gelir?",
+      "options": ["Bir tehlikeye karşı uyarır", "Yol açmalıyım", "Bu aracın önceliği vardır"],
+      "why": "Araçlardaki yanıp sönen sarı ışık tehlikeye karşı uyarır (StVO § 38 f. 3) - burada aracın arkasından aniden çıkabilecek işçilere karşı. Yavaşça ve geniş mesafeyle geçin."
+    },
+    "ba01": {
+      "prompt": "Yolun hangi tarafından gidersiniz?",
+      "options": ["Mümkün olduğunca sağdan", "Kenardan uzak durmak için ortadan", "Nerede rahatsa oradan"],
+      "why": "Almanya’da sağdan gitme kuralı vardır: makul ölçüde mümkün olduğunca sağdan - yalnızca karşıdan araç gelirken ya da sollanırken değil, boş yolda ve tepelerde de (StVO § 2 f. 2)."
+    },
+    "ba02": {
+      "prompt": "Bir şerit bitiyor. Şeridi nasıl değiştirirsiniz?",
+      "options": ["Fermuar sistemiyle, daralmanın hemen önünde", "Şerit daha uzun süre devam etse bile mümkün olduğunca erken", "Devam eden şeritteki sürücüler kimseyi almak zorunda değildir"],
+      "why": "Bir şerit bittiğinde ya da kapandığında araçlar tek tek ve dönüşümlü olarak, daralmanın tam başında birleşir (StVO § 7 f. 4). Devam eden şerit buna izin vermek zorundadır.",
+      "tip": "Sonuna kadar git, sonra birer birer."
+    },
+    "ba03": {
+      "prompt": "Şerit değiştirmeden önce ne yapmalısınız?",
+      "options": ["Aynaya ve omuz üzerinden bakmak", "Zamanında sinyal vermek", "Kısa bir korna çalmak"],
+      "why": "Şerit değiştirmeye ancak kimse tehlikeye düşmeyecekse izin verilir ve bu açıkça ve zamanında sinyalle bildirilmelidir (StVO § 7 f. 5). Kör noktayı yalnızca omuz kontrolü (Schulterblick) gösterir."
+    },
+    "ba04": {
+      "prompt": "Kornayı ne zaman kullanabilirsiniz?",
+      "options": ["Başkalarını tehlikeye karşı uyarmak için", "Yerleşim yeri dışında sollayacağımı bildirmek için", "Bir arkadaşı selamlamak için"],
+      "why": "Korna ve selektör yalnızca yerleşim yeri dışında sollamayı bildirmek ya da siz veya başkaları tehlikedeyken kullanılır (StVO § 16 f. 1). Selamlamak, birini aceleye getirmek ya da sinirini çıkarmak bunlara girmez."
+    },
+    "ba05": {
+      "prompt": "Dörtlü flaşörleri ne zaman açabilirsiniz?",
+      "options": ["Arıza yaptığımda ya da çekildiğimde", "Başkalarını tehlikeye karşı uyarmak için, örneğin trafik sıkışmasının sonunda", "Kısa süre ikinci sıraya park ettiğimde"],
+      "why": "Dörtlü flaşörler arıza, çekme, duraktaki okul servisleri ve öndeki bir trafik sıkışması gibi tehlikelere karşı uyarı içindir (StVO § 16 f. 2). Kural dışı park etmeye izin vermez."
+    },
+    "ba06": {
+      "prompt": "Yerleşim yerinde, sizin yönünüzde iki işaretli şerit olan bir yolda şeridi serbestçe seçebilir misiniz?",
+      "options": ["Evet, otomobille", "Hayır, her zaman sağdan gitmeliyim", "Yalnızca sollamak için"],
+      "why": "Yerleşim yerinde, 3,5 tona kadar motorlu araçlar bir yönde birden fazla işaretli şerit olan yollarda şeridi serbestçe seçebilir (StVO § 7 f. 3). Şeritler arasında zikzak yapmak yine yasaktır."
+    },
+    "ba07": {
+      "prompt": "Belirsiz trafik durumu ne demektir?",
+      "options": ["Başkalarının ne yapacağını güvenle kestiremiyorum", "Gece vakti", "Yol geniş"],
+      "why": "Başkalarının ne yapacağını güvenle değerlendiremediğinizde durum belirsizdir - örneğin bir araç sola sinyal veriyor ama şerit değiştirmiyor. O zaman sollamak yasaktır ve fren yapmaya hazır olmalısınız."
+    },
+    "ba08": {
+      "prompt": "Öngörülü sürüşün parçası nedir?",
+      "options": ["Yalnızca öndeki araca değil, uzağa bakmak", "Aynalara düzenli bakmak", "Daha hızlı tepki vermek için olabildiğince yakın gitmek"],
+      "why": "Uzağa bakan ve arkasında ne olduğunu bilen, tehlikeleri erken görür ve sakin tepki verir. Yakın takip size tam olarak bu zamanı kaybettirir."
+    }
+  }
+}

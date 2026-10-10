@@ -8,20 +8,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Auf welcher Seite der Fahrbahn fahren Sie?",
-   "en": "Which side of the road do you drive on?"
+   "en": "Which side of the road do you drive on?",
+   "tr": "Yolun hangi tarafından gidersiniz?"
   },
   "options": [
    {
     "de": "Möglichst weit rechts",
-    "en": "As far right as reasonably possible"
+    "en": "As far right as reasonably possible",
+    "tr": "Mümkün olduğunca sağdan"
    },
    {
     "de": "In der Mitte, damit ich Abstand zum Rand habe",
-    "en": "In the middle, to keep away from the edge"
+    "en": "In the middle, to keep away from the edge",
+    "tr": "Kenardan uzak durmak için ortadan"
    },
    {
     "de": "Wo es gerade am bequemsten ist",
-    "en": "Wherever is most comfortable"
+    "en": "Wherever is most comfortable",
+    "tr": "Nerede rahatsa oradan"
    }
   ],
   "correct": [
@@ -31,7 +35,8 @@
   "unit": null,
   "why": {
    "de": "Es gilt das Rechtsfahrgebot: möglichst weit rechts fahren, nicht nur bei Gegenverkehr und beim Überholtwerden, sondern auch auf freier Strecke und an Kuppen (§ 2 Abs. 2 StVO).",
-   "en": "Germany has a keep-right rule: as far right as is reasonable - not only for oncoming traffic or when being overtaken, but on an empty road and over crests too (§ 2(2) StVO)."
+   "en": "Germany has a keep-right rule: as far right as is reasonable - not only for oncoming traffic or when being overtaken, but on an empty road and over crests too (§ 2(2) StVO).",
+   "tr": "Almanya’da sağdan gitme kuralı vardır: makul ölçüde mümkün olduğunca sağdan - yalnızca karşıdan araç gelirken ya da sollanırken değil, boş yolda ve tepelerde de (StVO § 2 f. 2)."
   },
   "tip": null,
   "scene": null,
@@ -49,20 +54,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Ein Fahrstreifen endet. Wie wechseln Sie die Spur?",
-   "en": "A lane is ending. How do you change lanes?"
+   "en": "A lane is ending. How do you change lanes?",
+   "tr": "Bir şerit bitiyor. Şeridi nasıl değiştirirsiniz?"
   },
   "options": [
    {
     "de": "Im Reißverschlussverfahren unmittelbar vor der Engstelle",
-    "en": "Zip-merge, just before the narrowing"
+    "en": "Zip-merge, just before the narrowing",
+    "tr": "Fermuar sistemiyle, daralmanın hemen önünde"
    },
    {
     "de": "So früh wie möglich, auch wenn die Spur noch lange weitergeht",
-    "en": "As early as possible, even if the lane carries on for a long way"
+    "en": "As early as possible, even if the lane carries on for a long way",
+    "tr": "Şerit daha uzun süre devam etse bile mümkün olduğunca erken"
    },
    {
     "de": "Wer auf der durchgehenden Spur fährt, muss niemanden hereinlassen",
-    "en": "Drivers in the continuing lane need not let anyone in"
+    "en": "Drivers in the continuing lane need not let anyone in",
+    "tr": "Devam eden şeritteki sürücüler kimseyi almak zorunda değildir"
    }
   ],
   "correct": [
@@ -72,11 +81,13 @@
   "unit": null,
   "why": {
    "de": "Endet ein Fahrstreifen oder ist er blockiert, wird abwechselnd eingefädelt – je ein Fahrzeug, unmittelbar vor Beginn der Verengung (§ 7 Abs. 4 StVO). Die durchgehende Spur muss das ermöglichen.",
-   "en": "Where a lane ends or is blocked, traffic merges alternately, one car at a time, right at the start of the narrowing (§ 7(4) StVO). The continuing lane must let that happen."
+   "en": "Where a lane ends or is blocked, traffic merges alternately, one car at a time, right at the start of the narrowing (§ 7(4) StVO). The continuing lane must let that happen.",
+   "tr": "Bir şerit bittiğinde ya da kapandığında araçlar tek tek ve dönüşümlü olarak, daralmanın tam başında birleşir (StVO § 7 f. 4). Devam eden şerit buna izin vermek zorundadır."
   },
   "tip": {
    "de": "Bis zum Ende fahren, dann einer nach dem anderen.",
-   "en": "Drive to the end, then one by one."
+   "en": "Drive to the end, then one by one.",
+   "tr": "Sonuna kadar git, sonra birer birer."
   },
   "scene": {
    "road": "motorway",
@@ -131,20 +142,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Was müssen Sie vor einem Fahrstreifenwechsel tun?",
-   "en": "What must you do before changing lanes?"
+   "en": "What must you do before changing lanes?",
+   "tr": "Şerit değiştirmeden önce ne yapmalısınız?"
   },
   "options": [
    {
     "de": "In den Spiegel und über die Schulter schauen",
-    "en": "Check the mirror and over your shoulder"
+    "en": "Check the mirror and over your shoulder",
+    "tr": "Aynaya ve omuz üzerinden bakmak"
    },
    {
     "de": "Rechtzeitig blinken",
-    "en": "Signal in good time"
+    "en": "Signal in good time",
+    "tr": "Zamanında sinyal vermek"
    },
    {
     "de": "Kurz hupen",
-    "en": "Give a short toot"
+    "en": "Give a short toot",
+    "tr": "Kısa bir korna çalmak"
    }
   ],
   "correct": [
@@ -155,7 +170,8 @@
   "unit": null,
   "why": {
    "de": "Ein Fahrstreifenwechsel ist nur erlaubt, wenn eine Gefährdung anderer ausgeschlossen ist; er ist rechtzeitig und deutlich anzukündigen (§ 7 Abs. 5 StVO). Im toten Winkel hilft nur der Schulterblick.",
-   "en": "A lane change is only allowed if nobody can be endangered, and must be signalled clearly and in good time (§ 7(5) StVO). Only a shoulder check covers the blind spot."
+   "en": "A lane change is only allowed if nobody can be endangered, and must be signalled clearly and in good time (§ 7(5) StVO). Only a shoulder check covers the blind spot.",
+   "tr": "Şerit değiştirmeye ancak kimse tehlikeye düşmeyecekse izin verilir ve bu açıkça ve zamanında sinyalle bildirilmelidir (StVO § 7 f. 5). Kör noktayı yalnızca omuz kontrolü (Schulterblick) gösterir."
   },
   "tip": null,
   "scene": null,
@@ -173,20 +189,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Wann dürfen Sie hupen?",
-   "en": "When may you use the horn?"
+   "en": "When may you use the horn?",
+   "tr": "Kornayı ne zaman kullanabilirsiniz?"
   },
   "options": [
    {
     "de": "Um andere vor einer Gefahr zu warnen",
-    "en": "To warn others of danger"
+    "en": "To warn others of danger",
+    "tr": "Başkalarını tehlikeye karşı uyarmak için"
    },
    {
     "de": "Außerorts, um ein Überholen anzukündigen",
-    "en": "Outside town, to announce that you are overtaking"
+    "en": "Outside town, to announce that you are overtaking",
+    "tr": "Yerleşim yeri dışında sollayacağımı bildirmek için"
    },
    {
     "de": "Um einen Bekannten zu grüßen",
-    "en": "To greet a friend"
+    "en": "To greet a friend",
+    "tr": "Bir arkadaşı selamlamak için"
    }
   ],
   "correct": [
@@ -197,7 +217,8 @@
   "unit": null,
   "why": {
    "de": "Schall- und Leuchtzeichen darf nur geben, wer außerorts überholen will oder wer sich oder andere gefährdet sieht (§ 16 Abs. 1 StVO). Grüßen, Drängeln oder Ärger zeigen gehören nicht dazu.",
-   "en": "Horn and headlight flashes are only for announcing an overtake outside town, or when you or others are in danger (§ 16(1) StVO). Greeting, hurrying people along or venting do not count."
+   "en": "Horn and headlight flashes are only for announcing an overtake outside town, or when you or others are in danger (§ 16(1) StVO). Greeting, hurrying people along or venting do not count.",
+   "tr": "Korna ve selektör yalnızca yerleşim yeri dışında sollamayı bildirmek ya da siz veya başkaları tehlikedeyken kullanılır (StVO § 16 f. 1). Selamlamak, birini aceleye getirmek ya da sinirini çıkarmak bunlara girmez."
   },
   "tip": null,
   "scene": null,
@@ -215,20 +236,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Wann dürfen Sie das Warnblinklicht einschalten?",
-   "en": "When may you switch on the hazard lights?"
+   "en": "When may you switch on the hazard lights?",
+   "tr": "Dörtlü flaşörleri ne zaman açabilirsiniz?"
   },
   "options": [
    {
     "de": "Wenn ich liegen geblieben bin oder abgeschleppt werde",
-    "en": "When I have broken down or am being towed"
+    "en": "When I have broken down or am being towed",
+    "tr": "Arıza yaptığımda ya da çekildiğimde"
    },
    {
     "de": "Wenn ich andere vor einer Gefahr warne, z. B. am Stauende",
-    "en": "To warn others of danger, for example at the tail of a queue"
+    "en": "To warn others of danger, for example at the tail of a queue",
+    "tr": "Başkalarını tehlikeye karşı uyarmak için, örneğin trafik sıkışmasının sonunda"
    },
    {
     "de": "Wenn ich kurz in der zweiten Reihe parke",
-    "en": "When I double-park briefly"
+    "en": "When I double-park briefly",
+    "tr": "Kısa süre ikinci sıraya park ettiğimde"
    }
   ],
   "correct": [
@@ -239,7 +264,8 @@
   "unit": null,
   "why": {
    "de": "Warnblinklicht ist für Pannen, Abschleppen, Schulbusse an Haltestellen und zur Warnung vor Gefahren wie einem Stauende (§ 16 Abs. 2 StVO). Ein Freibrief zum Falschparken ist es nicht.",
-   "en": "Hazard lights are for breakdowns, towing, school buses at stops and warning of dangers such as a queue ahead (§ 16(2) StVO). They are no licence to park illegally."
+   "en": "Hazard lights are for breakdowns, towing, school buses at stops and warning of dangers such as a queue ahead (§ 16(2) StVO). They are no licence to park illegally.",
+   "tr": "Dörtlü flaşörler arıza, çekme, duraktaki okul servisleri ve öndeki bir trafik sıkışması gibi tehlikelere karşı uyarı içindir (StVO § 16 f. 2). Kural dışı park etmeye izin vermez."
   },
   "tip": null,
   "scene": null,
@@ -257,20 +283,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Dürfen Sie innerorts auf einer Straße mit zwei markierten Fahrstreifen in Ihre Richtung den Fahrstreifen frei wählen?",
-   "en": "In town, on a road with two marked lanes in your direction, may you choose either lane?"
+   "en": "In town, on a road with two marked lanes in your direction, may you choose either lane?",
+   "tr": "Yerleşim yerinde, sizin yönünüzde iki işaretli şerit olan bir yolda şeridi serbestçe seçebilir misiniz?"
   },
   "options": [
    {
     "de": "Ja, mit einem Pkw",
-    "en": "Yes, in a car"
+    "en": "Yes, in a car",
+    "tr": "Evet, otomobille"
    },
    {
     "de": "Nein, ich muss immer rechts fahren",
-    "en": "No, I must always keep right"
+    "en": "No, I must always keep right",
+    "tr": "Hayır, her zaman sağdan gitmeliyim"
    },
    {
     "de": "Nur zum Überholen",
-    "en": "Only to overtake"
+    "en": "Only to overtake",
+    "tr": "Yalnızca sollamak için"
    }
   ],
   "correct": [
@@ -280,7 +310,8 @@
   "unit": null,
   "why": {
    "de": "Innerorts dürfen Kraftfahrzeuge bis 3,5 t auf Fahrbahnen mit mehreren markierten Fahrstreifen in eine Richtung den Fahrstreifen frei wählen (§ 7 Abs. 3 StVO). Unnötiges Hin- und Herwechseln bleibt verboten.",
-   "en": "In town, motor vehicles up to 3.5 t may freely choose their lane on roads with several marked lanes in one direction (§ 7(3) StVO). Weaving between lanes is still forbidden."
+   "en": "In town, motor vehicles up to 3.5 t may freely choose their lane on roads with several marked lanes in one direction (§ 7(3) StVO). Weaving between lanes is still forbidden.",
+   "tr": "Yerleşim yerinde, 3,5 tona kadar motorlu araçlar bir yönde birden fazla işaretli şerit olan yollarda şeridi serbestçe seçebilir (StVO § 7 f. 3). Şeritler arasında zikzak yapmak yine yasaktır."
   },
   "tip": null,
   "scene": null,
@@ -298,20 +329,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Was ist mit unklarer Verkehrslage gemeint?",
-   "en": "What is meant by an unclear traffic situation?"
+   "en": "What is meant by an unclear traffic situation?",
+   "tr": "Belirsiz trafik durumu ne demektir?"
   },
   "options": [
    {
     "de": "Ich kann nicht sicher einschätzen, was andere als Nächstes tun",
-    "en": "I cannot reliably tell what others will do next"
+    "en": "I cannot reliably tell what others will do next",
+    "tr": "Başkalarının ne yapacağını güvenle kestiremiyorum"
    },
    {
     "de": "Es ist Nacht",
-    "en": "It is night-time"
+    "en": "It is night-time",
+    "tr": "Gece vakti"
    },
    {
     "de": "Die Straße ist breit",
-    "en": "The road is wide"
+    "en": "The road is wide",
+    "tr": "Yol geniş"
    }
   ],
   "correct": [
@@ -321,7 +356,8 @@
   "unit": null,
   "why": {
    "de": "Unklar ist eine Lage, wenn Sie nicht sicher beurteilen können, wie sich andere verhalten – z. B. ein Fahrzeug blinkt links, ordnet sich aber nicht ein. Dann ist Überholen verboten und Bremsbereitschaft gefragt.",
-   "en": "A situation is unclear when you cannot reliably judge what others will do - say, a car signals left but does not move over. Then overtaking is forbidden and you should be ready to brake."
+   "en": "A situation is unclear when you cannot reliably judge what others will do - say, a car signals left but does not move over. Then overtaking is forbidden and you should be ready to brake.",
+   "tr": "Başkalarının ne yapacağını güvenle değerlendiremediğinizde durum belirsizdir - örneğin bir araç sola sinyal veriyor ama şerit değiştirmiyor. O zaman sollamak yasaktır ve fren yapmaya hazır olmalısınız."
   },
   "tip": null,
   "scene": null,
@@ -339,20 +375,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Was gehört zu einer vorausschauenden Fahrweise?",
-   "en": "What is part of driving with anticipation?"
+   "en": "What is part of driving with anticipation?",
+   "tr": "Öngörülü sürüşün parçası nedir?"
   },
   "options": [
    {
     "de": "Weit nach vorne schauen, nicht nur auf das Auto direkt vor mir",
-    "en": "Looking far ahead, not just at the car in front"
+    "en": "Looking far ahead, not just at the car in front",
+    "tr": "Yalnızca öndeki araca değil, uzağa bakmak"
    },
    {
     "de": "Regelmäßig in die Spiegel schauen",
-    "en": "Checking the mirrors regularly"
+    "en": "Checking the mirrors regularly",
+    "tr": "Aynalara düzenli bakmak"
    },
    {
     "de": "Möglichst dicht auffahren, um schneller zu reagieren",
-    "en": "Driving as close as possible to react faster"
+    "en": "Driving as close as possible to react faster",
+    "tr": "Daha hızlı tepki vermek için olabildiğince yakın gitmek"
    }
   ],
   "correct": [
@@ -363,7 +403,8 @@
   "unit": null,
   "why": {
    "de": "Wer weit vorausschaut und weiß, was hinter ihm passiert, erkennt Gefahren früh und kann sanft reagieren. Dichtes Auffahren nimmt Ihnen genau diese Zeit.",
-   "en": "Looking far ahead and knowing what is behind you lets you spot hazards early and react smoothly. Tailgating takes that time away."
+   "en": "Looking far ahead and knowing what is behind you lets you spot hazards early and react smoothly. Tailgating takes that time away.",
+   "tr": "Uzağa bakan ve arkasında ne olduğunu bilen, tehlikeleri erken görür ve sakin tepki verir. Yakın takip size tam olarak bu zamanı kaybettirir."
   },
   "tip": null,
   "scene": null,
@@ -4630,20 +4671,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Sie wollen geradeaus fahren. An der Kreuzung stehen keine Verkehrszeichen. Wer hat Vorfahrt?",
-   "en": "You want to go straight on. There are no signs at this junction. Who has right of way?"
+   "en": "You want to go straight on. There are no signs at this junction. Who has right of way?",
+   "tr": "Düz devam etmek istiyorsunuz. Bu kavşakta hiç trafik işareti yok. Geçiş hakkı kimde?"
   },
   "options": [
    {
     "de": "Der Pkw von rechts",
-    "en": "The car from the right"
+    "en": "The car from the right",
+    "tr": "Sağdan gelen araçta"
    },
    {
     "de": "Ich, weil ich geradeaus fahre",
-    "en": "I do, because I am going straight on"
+    "en": "I do, because I am going straight on",
+    "tr": "Bende, çünkü düz gidiyorum"
    },
    {
     "de": "Wer zuerst an der Kreuzung ist",
-    "en": "Whoever reaches the junction first"
+    "en": "Whoever reaches the junction first",
+    "tr": "Kavşağa ilk gelende"
    }
   ],
   "correct": [
@@ -4653,11 +4698,13 @@
   "unit": null,
   "why": {
    "de": "Ohne Verkehrszeichen und Ampeln gilt „rechts vor links“ (§ 8 Abs. 1 StVO). Der Pkw kommt von Ihrer rechten Seite, also lassen Sie ihn durchfahren – egal, ob Sie geradeaus fahren oder abbiegen.",
-   "en": "With no signs or lights, the rule is \"right before left\" (rechts vor links, § 8(1) StVO). The car is coming from your right, so you let it go first - whether you are going straight on or turning."
+   "en": "With no signs or lights, the rule is \"right before left\" (rechts vor links, § 8(1) StVO). The car is coming from your right, so you let it go first - whether you are going straight on or turning.",
+   "tr": "İşaret ya da ışık yoksa kural \"sağdan gelen önce geçer\"dir (rechts vor links, StVO § 8 f. 1). Araç sağınızdan geliyor, bu yüzden önce onu geçirirsiniz - düz gidiyor ya da dönüyor olmanız fark etmez."
   },
   "tip": {
    "de": "Rechts vor links: Wer von rechts kommt, fährt zuerst.",
-   "en": "Rechts vor links: whoever comes from your right goes first."
+   "en": "Rechts vor links: whoever comes from your right goes first.",
+   "tr": "Rechts vor links: sağınızdan gelen önce geçer."
   },
   "scene": {
    "road": "cross",
@@ -4695,20 +4742,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Sie wollen geradeaus fahren. Keine Verkehrszeichen. Müssen Sie den Pkw durchfahren lassen?",
-   "en": "You want to go straight on. No signs. Do you have to let the car go first?"
+   "en": "You want to go straight on. No signs. Do you have to let the car go first?",
+   "tr": "Düz devam etmek istiyorsunuz. İşaret yok. Bu aracı önce geçirmek zorunda mısınız?"
   },
   "options": [
    {
     "de": "Nein – er kommt von links und muss mich durchfahren lassen",
-    "en": "No - it comes from the left and has to let me go"
+    "en": "No - it comes from the left and has to let me go",
+    "tr": "Hayır - soldan geliyor, beni geçirmesi gerekir"
    },
    {
     "de": "Ja – er ist näher an der Kreuzung",
-    "en": "Yes - it is closer to the junction"
+    "en": "Yes - it is closer to the junction",
+    "tr": "Evet - kavşağa daha yakın"
    },
    {
     "de": "Ja – an Kreuzungen ohne Schilder muss ich immer anhalten",
-    "en": "Yes - at junctions without signs I always have to stop"
+    "en": "Yes - at junctions without signs I always have to stop",
+    "tr": "Evet - işaretsiz kavşaklarda her zaman durmalıyım"
    }
   ],
   "correct": [
@@ -4718,7 +4769,8 @@
   "unit": null,
   "why": {
    "de": "Der Pkw kommt von Ihrer linken Seite. Nach „rechts vor links“ müssen Sie ihn nicht vorlassen – er muss warten. Vorsichtig fahren müssen Sie trotzdem, denn Sie wissen nicht, ob er Sie gesehen hat.",
-   "en": "The car is on your left. Under \"right before left\" it has to wait for you, not the other way round. Drive carefully all the same: you cannot be sure it has seen you."
+   "en": "The car is on your left. Under \"right before left\" it has to wait for you, not the other way round. Drive carefully all the same: you cannot be sure it has seen you.",
+   "tr": "Araç solunuzda. \"Sağdan gelen önce geçer\" kuralına göre o sizi bekler, siz onu değil. Yine de dikkatli sürün: sizi gördüğünden emin olamazsınız."
   },
   "tip": null,
   "scene": {
@@ -4757,20 +4809,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Keine Verkehrszeichen, alle fahren geradeaus. In welcher Reihenfolge fahren die Fahrzeuge?",
-   "en": "No signs, everyone is going straight on. In what order do the vehicles go?"
+   "en": "No signs, everyone is going straight on. In what order do the vehicles go?",
+   "tr": "İşaret yok, herkes düz gidiyor. Araçlar hangi sırayla geçer?"
   },
   "options": [
    {
     "de": "2, 3, 1",
-    "en": "2, 3, 1"
+    "en": "2, 3, 1",
+    "tr": "2, 3, 1"
    },
    {
     "de": "1, 2, 3",
-    "en": "1, 2, 3"
+    "en": "1, 2, 3",
+    "tr": "1, 2, 3"
    },
    {
     "de": "3, 1, 2",
-    "en": "3, 1, 2"
+    "en": "3, 1, 2",
+    "tr": "3, 1, 2"
    }
   ],
   "correct": [
@@ -4780,11 +4836,13 @@
   "unit": null,
   "why": {
    "de": "Für den Pkw 2 ist rechts frei, also fährt er zuerst. Der Radfahrer 3 muss nur den Pkw 2 abwarten, der von seiner Rechten kommt. Sie (1) haben den Radfahrer rechts von sich und fahren deshalb zuletzt.",
-   "en": "Car 2 has nobody on its right, so it goes first. The cyclist, 3, only has to wait for car 2, which is on its right. You (1) have the cyclist on your right, so you go last."
+   "en": "Car 2 has nobody on its right, so it goes first. The cyclist, 3, only has to wait for car 2, which is on its right. You (1) have the cyclist on your right, so you go last.",
+   "tr": "2 numaralı aracın sağı boş, bu yüzden önce o geçer. 3 numaralı bisikletli yalnızca sağından gelen 2 numaralı aracı bekler. Siz (1) bisikletliyi sağınızda görürsünüz, bu yüzden en son geçersiniz."
   },
   "tip": {
    "de": "Bei mehreren Fahrzeugen: Suche zuerst das, das rechts frei hat.",
-   "en": "With several vehicles: first find the one whose right-hand side is clear."
+   "en": "With several vehicles: first find the one whose right-hand side is clear.",
+   "tr": "Birden fazla araç varsa: önce sağı boş olanı bulun."
   },
   "scene": {
    "road": "cross",
@@ -4833,20 +4891,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Sie wollen links abbiegen, der Gegenverkehr will geradeaus fahren. Wer fährt zuerst?",
-   "en": "You want to turn left; the oncoming car wants to go straight on. Who goes first?"
+   "en": "You want to turn left; the oncoming car wants to go straight on. Who goes first?",
+   "tr": "Sola dönmek istiyorsunuz; karşıdan gelen araç düz gitmek istiyor. Önce kim geçer?"
   },
   "options": [
    {
     "de": "Der entgegenkommende Pkw",
-    "en": "The oncoming car"
+    "en": "The oncoming car",
+    "tr": "Karşıdan gelen araç"
    },
    {
     "de": "Ich, weil ich zuerst geblinkt habe",
-    "en": "I do, because I signalled first"
+    "en": "I do, because I signalled first",
+    "tr": "Ben, çünkü önce sinyal verdim"
    },
    {
     "de": "Wir fahren gleichzeitig",
-    "en": "We go at the same time"
+    "en": "We go at the same time",
+    "tr": "Aynı anda geçeriz"
    }
   ],
   "correct": [
@@ -4856,11 +4918,13 @@
   "unit": null,
   "why": {
    "de": "Wer links abbiegt, muss entgegenkommende Fahrzeuge durchfahren lassen (§ 9 Abs. 3 StVO). Das gilt an jeder Kreuzung, auch auf der Vorfahrtstraße.",
-   "en": "If you turn left, you must let oncoming traffic go first (§ 9(3) StVO). This applies at every junction, even on a priority road."
+   "en": "If you turn left, you must let oncoming traffic go first (§ 9(3) StVO). This applies at every junction, even on a priority road.",
+   "tr": "Sola dönen, karşıdan gelen trafiği önce geçirmek zorundadır (StVO § 9 f. 3). Bu her kavşakta, ana yolda bile geçerlidir."
   },
   "tip": {
    "de": "Linksabbieger warten auf den Gegenverkehr.",
-   "en": "Left-turners wait for oncoming traffic."
+   "en": "Left-turners wait for oncoming traffic.",
+   "tr": "Sola dönen, karşıdan geleni bekler."
   },
   "scene": {
    "road": "cross",
@@ -4899,20 +4963,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Sie und der Gegenverkehr wollen beide links abbiegen. Wie biegen Sie ab?",
-   "en": "You and the oncoming car both want to turn left. How do you turn?"
+   "en": "You and the oncoming car both want to turn left. How do you turn?",
+   "tr": "Siz ve karşıdan gelen araç sola dönmek istiyorsunuz. Nasıl dönersiniz?"
   },
   "options": [
    {
     "de": "Voreinander – jeder biegt vor dem anderen ab",
-    "en": "In front of each other - each turns ahead of the other"
+    "en": "In front of each other - each turns ahead of the other",
+    "tr": "Birbirimizin önünden - her biri diğerinin önünden döner"
    },
    {
     "de": "Umeinander herum – hinter dem anderen vorbei",
-    "en": "Around each other - passing behind the other"
+    "en": "Around each other - passing behind the other",
+    "tr": "Birbirimizin etrafından - diğerinin arkasından geçerek"
    },
    {
     "de": "Wer zuerst geblinkt hat, darf zuerst fahren",
-    "en": "Whoever signalled first goes first"
+    "en": "Whoever signalled first goes first",
+    "tr": "Önce sinyal veren önce döner"
    }
   ],
   "correct": [
@@ -4922,7 +4990,8 @@
   "unit": null,
   "why": {
    "de": "Linksabbieger aus entgegengesetzten Richtungen biegen voreinander ab (§ 9 Abs. 4 StVO) – es sei denn, die Verkehrslage oder die Gestaltung der Kreuzung verlangt etwas anderes.",
-   "en": "Two left-turners facing each other turn in front of each other (§ 9(4) StVO), unless the traffic or the layout of the junction makes that impossible."
+   "en": "Two left-turners facing each other turn in front of each other (§ 9(4) StVO), unless the traffic or the layout of the junction makes that impossible.",
+   "tr": "Karşılıklı sola dönen iki araç birbirinin önünden döner (StVO § 9 f. 4) - trafik durumu ya da kavşağın yapısı başka türlüsünü gerektirmedikçe."
   },
   "tip": null,
   "scene": {
@@ -4961,20 +5030,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Sie wollen links abbiegen. Wen müssen Sie durchfahren lassen?",
-   "en": "You want to turn left. Whom must you let go first?"
+   "en": "You want to turn left. Whom must you let go first?",
+   "tr": "Sola dönmek istiyorsunuz. Kimi önce geçirmelisiniz?"
   },
   "options": [
    {
     "de": "Den Pkw von links",
-    "en": "The car from the left"
+    "en": "The car from the left",
+    "tr": "Soldan gelen aracı"
    },
    {
     "de": "Den Pkw von rechts",
-    "en": "The car from the right"
+    "en": "The car from the right",
+    "tr": "Sağdan gelen aracı"
    },
    {
     "de": "Niemanden, weil ich blinke",
-    "en": "Nobody, because I am signalling"
+    "en": "Nobody, because I am signalling",
+    "tr": "Kimseyi, çünkü sinyal veriyorum"
    }
   ],
   "correct": [
@@ -4985,7 +5058,8 @@
   "unit": null,
   "why": {
    "de": "Zeichen 205 „Vorfahrt gewähren“ gilt für Ihre Straße. Wer auf der Vorfahrtstraße fährt, hat Vorfahrt – von links und von rechts. Beim Linksabbiegen kreuzen Sie beide Fahrstreifen.",
-   "en": "Sign 205 \"give way\" applies to your road. Everyone on the main road has priority, from the left and from the right. Turning left, you cross both lanes."
+   "en": "Sign 205 \"give way\" applies to your road. Everyone on the main road has priority, from the left and from the right. Turning left, you cross both lanes.",
+   "tr": "205 numaralı \"Yol ver\" levhası sizin yolunuz için geçerlidir. Ana yoldaki herkesin - soldan ve sağdan - geçiş hakkı vardır. Sola dönerken iki şeridi de kesersiniz."
   },
   "tip": null,
   "scene": {
@@ -5042,20 +5116,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Was müssen Sie an diesem Zeichen tun?",
-   "en": "What must you do at this sign?"
+   "en": "What must you do at this sign?",
+   "tr": "Bu levhada ne yapmalısınız?"
   },
   "options": [
    {
     "de": "An der Haltlinie anhalten, auch wenn die Straße frei ist",
-    "en": "Stop at the stop line, even if the road is clear"
+    "en": "Stop at the stop line, even if the road is clear",
+    "tr": "Yol boş olsa bile dur çizgisinde durmak"
    },
    {
     "de": "Vorfahrt gewähren",
-    "en": "Give way"
+    "en": "Give way",
+    "tr": "Yol vermek"
    },
    {
     "de": "Nur anhalten, wenn ein Fahrzeug kommt",
-    "en": "Only stop if a vehicle is coming"
+    "en": "Only stop if a vehicle is coming",
+    "tr": "Yalnızca araç geliyorsa durmak"
    }
   ],
   "correct": [
@@ -5066,11 +5144,13 @@
   "unit": null,
   "why": {
    "de": "Zeichen 206 „Halt. Vorfahrt gewähren.“ verlangt einen vollständigen Halt – die Räder stehen still – an der Haltlinie, oder wo keine ist, dort, wo die Straße einzusehen ist. Danach gewähren Sie Vorfahrt.",
-   "en": "Sign 206 \"Stop. Give way.\" requires a full stop - wheels not turning - at the stop line, or where there is none, where you can see the road. Then you give way."
+   "en": "Sign 206 \"Stop. Give way.\" requires a full stop - wheels not turning - at the stop line, or where there is none, where you can see the road. Then you give way.",
+   "tr": "206 numaralı \"Dur. Yol ver.\" levhası tam duruş ister - tekerlekler dönmez - dur çizgisinde ya da çizgi yoksa yolun görülebildiği yerde. Ardından yol verirsiniz."
   },
   "tip": {
    "de": "STOP heißt: Räder stehen still. Rollen reicht nicht.",
-   "en": "STOP means the wheels stand still. Rolling through is not enough."
+   "en": "STOP means the wheels stand still. Rolling through is not enough.",
+   "tr": "DUR demek tekerleklerin tamamen durması demektir. Yavaşça geçmek yetmez."
   },
   "scene": {
    "road": "tee",
@@ -5112,20 +5192,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Sie fahren geradeaus. Wer hat Vorfahrt?",
-   "en": "You are going straight on. Who has right of way?"
+   "en": "You are going straight on. Who has right of way?",
+   "tr": "Düz gidiyorsunuz. Geçiş hakkı kimde?"
   },
   "options": [
    {
     "de": "Ich",
-    "en": "I do"
+    "en": "I do",
+    "tr": "Bende"
    },
    {
     "de": "Der Pkw von rechts",
-    "en": "The car from the right"
+    "en": "The car from the right",
+    "tr": "Sağdan gelen araçta"
    },
    {
     "de": "Wer zuerst da ist",
-    "en": "Whoever gets there first"
+    "en": "Whoever gets there first",
+    "tr": "İlk gelende"
    }
   ],
   "correct": [
@@ -5135,7 +5219,8 @@
   "unit": null,
   "why": {
    "de": "Sie fahren auf einer Vorfahrtstraße (Zeichen 306), die Seitenstraße hat Zeichen 205. Damit gilt „rechts vor links“ hier nicht – der Pkw muss warten.",
-   "en": "You are on a priority road (sign 306); the side road has sign 205. \"Right before left\" does not apply here - the car has to wait."
+   "en": "You are on a priority road (sign 306); the side road has sign 205. \"Right before left\" does not apply here - the car has to wait.",
+   "tr": "Ana yoldasınız (306 numaralı levha), yan yolda 205 numaralı levha var. Burada \"sağdan gelen önce geçer\" geçerli değildir - araç beklemek zorundadır."
   },
   "tip": null,
   "scene": {
@@ -5190,20 +5275,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Wie weit reicht die Vorfahrt, die dieses Zeichen gibt?",
-   "en": "How far does the priority given by this sign reach?"
+   "en": "How far does the priority given by this sign reach?",
+   "tr": "Bu levhanın verdiği geçiş önceliği ne kadar sürer?"
   },
   "options": [
    {
     "de": "Nur bis zur nächsten Kreuzung oder Einmündung",
-    "en": "Only to the next junction"
+    "en": "Only to the next junction",
+    "tr": "Yalnızca bir sonraki kavşağa kadar"
    },
    {
     "de": "Bis zum Ende der Ortschaft",
-    "en": "Until the end of the town"
+    "en": "Until the end of the town",
+    "tr": "Yerleşim yerinin sonuna kadar"
    },
    {
     "de": "Bis zum Zeichen „Ende der Vorfahrtstraße“",
-    "en": "Until the \"end of priority road\" sign"
+    "en": "Until the \"end of priority road\" sign",
+    "tr": "\"Ana yol sonu\" levhasına kadar"
    }
   ],
   "correct": [
@@ -5213,11 +5302,13 @@
   "unit": null,
   "why": {
    "de": "Zeichen 301 gibt Vorfahrt nur an der nächsten Kreuzung oder Einmündung. Für eine ganze Strecke gilt nur die Vorfahrtstraße (Zeichen 306).",
-   "en": "Sign 301 gives you priority at the next junction only. Priority along a whole stretch comes only from the priority road sign (306)."
+   "en": "Sign 301 gives you priority at the next junction only. Priority along a whole stretch comes only from the priority road sign (306).",
+   "tr": "301 numaralı levha önceliği yalnızca bir sonraki kavşakta verir. Bütün bir güzergâh boyunca öncelik yalnızca ana yol levhasıyla (306) olur."
   },
   "tip": {
    "de": "301 = einmal. 306 = dauerhaft.",
-   "en": "301 = once. 306 = all the way."
+   "en": "301 = once. 306 = all the way.",
+   "tr": "301 = bir kez. 306 = boydan boya."
   },
   "scene": null,
   "signs": [
@@ -5236,20 +5327,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Sie folgen der abknickenden Vorfahrtstraße nach links. Was müssen Sie tun?",
-   "en": "You are following the priority road as it bends to the left. What must you do?"
+   "en": "You are following the priority road as it bends to the left. What must you do?",
+   "tr": "Sola kıvrılan ana yolu takip ediyorsunuz. Ne yapmalısınız?"
   },
   "options": [
    {
     "de": "Links blinken",
-    "en": "Signal left"
+    "en": "Signal left",
+    "tr": "Sola sinyal vermek"
    },
    {
     "de": "Auf Fußgänger achten, die die Straße überqueren",
-    "en": "Watch out for pedestrians crossing the road"
+    "en": "Watch out for pedestrians crossing the road",
+    "tr": "Yolu geçen yayalara dikkat etmek"
    },
    {
     "de": "Nicht blinken, weil ich auf der Vorfahrtstraße bleibe",
-    "en": "Not signal, because I stay on the priority road"
+    "en": "Not signal, because I stay on the priority road",
+    "tr": "Sinyal vermemek, çünkü ana yolda kalıyorum"
    }
   ],
   "correct": [
@@ -5260,11 +5355,13 @@
   "unit": null,
   "why": {
    "de": "Wer der abknickenden Vorfahrt folgt, muss das rechtzeitig mit dem Blinker anzeigen und auf Fußgänger besondere Rücksicht nehmen; wenn nötig, warten (Zusatzzeichen 1002 zu Zeichen 306).",
-   "en": "If you follow a bending priority road you must signal in good time and take special care of pedestrians, waiting if necessary (supplementary sign 1002 under sign 306)."
+   "en": "If you follow a bending priority road you must signal in good time and take special care of pedestrians, waiting if necessary (supplementary sign 1002 under sign 306).",
+   "tr": "Kıvrılan ana yolu takip eden, bunu zamanında sinyalle bildirmeli ve yayalara özellikle dikkat etmelidir; gerekirse beklemelidir (306 numaralı levhanın altındaki 1002 numaralı ek levha)."
   },
   "tip": {
    "de": "Der Blinker folgt der Kurve, nicht dem Schild.",
-   "en": "Your indicator follows the bend, not the sign."
+   "en": "Your indicator follows the bend, not the sign.",
+   "tr": "Sinyal levhayı değil, yolun kıvrımını izler."
   },
   "scene": {
    "road": "cross",
@@ -5317,20 +5414,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Die Vorfahrtstraße knickt ab (gelb markiert). Sie wollen geradeaus fahren. Wen lassen Sie durchfahren?",
-   "en": "The priority road bends (shown in yellow). You want to go straight on. Whom do you let go first?"
+   "en": "The priority road bends (shown in yellow). You want to go straight on. Whom do you let go first?",
+   "tr": "Ana yol kıvrılıyor (sarı ile gösterilen). Düz gitmek istiyorsunuz. Kimi önce geçirirsiniz?"
   },
   "options": [
    {
     "de": "Den Pkw 1",
-    "en": "Car 1"
+    "en": "Car 1",
+    "tr": "1 numaralı aracı"
    },
    {
     "de": "Niemanden – ich fahre ja geradeaus",
-    "en": "Nobody - I am going straight on"
+    "en": "Nobody - I am going straight on",
+    "tr": "Kimseyi - düz gidiyorum"
    },
    {
     "de": "Nur Fahrzeuge von rechts",
-    "en": "Only vehicles from the right"
+    "en": "Only vehicles from the right",
+    "tr": "Yalnızca sağdan gelenleri"
    }
   ],
   "correct": [
@@ -5340,7 +5441,8 @@
   "unit": null,
   "why": {
    "de": "Sie stehen an der Seitenstraße (Zeichen 205). Der Pkw 1 fährt auf der Vorfahrtstraße und biegt mit ihr ab – sein Weg kreuzt Ihren. Geradeaus fahren gibt Ihnen keine Vorfahrt.",
-   "en": "You are on the side road (sign 205). Car 1 is on the priority road and follows its bend, crossing your path. Going straight on gives you no priority."
+   "en": "You are on the side road (sign 205). Car 1 is on the priority road and follows its bend, crossing your path. Going straight on gives you no priority.",
+   "tr": "Yan yoldasınız (205 numaralı levha). 1 numaralı araç ana yolda, onun kıvrımını izliyor ve yolunuzu kesiyor. Düz gitmek size öncelik vermez."
   },
   "tip": null,
   "scene": {
@@ -5397,20 +5499,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Sie fahren aus einer Grundstücksausfahrt auf die Straße. Was gilt?",
-   "en": "You are pulling out of a driveway onto the road. What applies?"
+   "en": "You are pulling out of a driveway onto the road. What applies?",
+   "tr": "Bir arsa çıkışından yola çıkıyorsunuz. Ne geçerlidir?"
   },
   "options": [
    {
     "de": "Ich muss den Verkehr auf der Straße durchfahren lassen",
-    "en": "I must let traffic on the road go first"
+    "en": "I must let traffic on the road go first",
+    "tr": "Yoldaki trafiği önce geçirmeliyim"
    },
    {
     "de": "Eine Gefährdung anderer muss ausgeschlossen sein",
-    "en": "Any danger to others must be ruled out"
+    "en": "Any danger to others must be ruled out",
+    "tr": "Başkalarına yönelik her türlü tehlike önlenmelidir"
    },
    {
     "de": "„Rechts vor links“ gilt auch hier",
-    "en": "\"Right before left\" applies here too"
+    "en": "\"Right before left\" applies here too",
+    "tr": "\"Sağdan gelen önce geçer\" burada da geçerlidir"
    }
   ],
   "correct": [
@@ -5421,7 +5527,8 @@
   "unit": null,
   "why": {
    "de": "Wer aus einem Grundstück, einem verkehrsberuhigten Bereich oder vom Fahrbahnrand losfährt, muss sich so verhalten, dass eine Gefährdung anderer ausgeschlossen ist – notfalls mit Einweiser (§ 10 StVO). „Rechts vor links“ gilt dabei nicht.",
-   "en": "Anyone leaving a property, a traffic-calmed area or the kerb must make sure nobody is endangered - with someone guiding them if needed (§ 10 StVO). \"Right before left\" does not help you here."
+   "en": "Anyone leaving a property, a traffic-calmed area or the kerb must make sure nobody is endangered - with someone guiding them if needed (§ 10 StVO). \"Right before left\" does not help you here.",
+   "tr": "Bir arsadan, trafiği sakinleştirilmiş bölgeden ya da yol kenarından hareket eden, kimseyi tehlikeye atmamakla yükümlüdür - gerekirse bir yönlendiricinin yardımıyla (StVO § 10). \"Sağdan gelen önce geçer\" burada size yardımcı olmaz."
   },
   "tip": null,
   "scene": null,
@@ -5439,20 +5546,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Sie kommen aus einem Feldweg auf eine Straße ohne Verkehrszeichen. Ein Pkw kommt von links. Wer hat Vorfahrt?",
-   "en": "You come out of a farm track onto a road with no signs. A car is coming from the left. Who has right of way?"
+   "en": "You come out of a farm track onto a road with no signs. A car is coming from the left. Who has right of way?",
+   "tr": "Bir tarla yolundan işaretsiz bir yola çıkıyorsunuz. Soldan bir araç geliyor. Geçiş hakkı kimde?"
   },
   "options": [
    {
     "de": "Der Pkw",
-    "en": "The car"
+    "en": "The car",
+    "tr": "Araçta"
    },
    {
     "de": "Ich – ich komme von rechts",
-    "en": "I do - I am coming from its right"
+    "en": "I do - I am coming from its right",
+    "tr": "Bende - onun sağından geliyorum"
    },
    {
     "de": "Wer langsamer fährt",
-    "en": "Whoever is slower"
+    "en": "Whoever is slower",
+    "tr": "Daha yavaş olanda"
    }
   ],
   "correct": [
@@ -5462,7 +5573,8 @@
   "unit": null,
   "why": {
    "de": "Wer aus einem Feld- oder Waldweg kommt, hat keine Vorfahrt (§ 8 Abs. 1 StVO) – auch nicht gegenüber Verkehr von links.",
-   "en": "Coming out of a farm or forest track you never have right of way (§ 8(1) StVO), not even over traffic from the left."
+   "en": "Coming out of a farm or forest track you never have right of way (§ 8(1) StVO), not even over traffic from the left.",
+   "tr": "Tarla ya da orman yolundan gelenin hiçbir zaman geçiş hakkı yoktur (StVO § 8 f. 1) - soldan gelen trafiğe karşı bile."
   },
   "tip": null,
   "scene": {
@@ -5502,20 +5614,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Was gilt in diesem Kreisverkehr?",
-   "en": "What applies at this roundabout?"
+   "en": "What applies at this roundabout?",
+   "tr": "Bu dönel kavşakta ne geçerlidir?"
   },
   "options": [
    {
     "de": "Fahrzeuge im Kreisverkehr haben Vorfahrt",
-    "en": "Vehicles already on the roundabout have right of way"
+    "en": "Vehicles already on the roundabout have right of way",
+    "tr": "Dönel kavşaktaki araçların geçiş hakkı vardır"
    },
    {
     "de": "Beim Einfahren nicht blinken",
-    "en": "Do not signal when entering"
+    "en": "Do not signal when entering",
+    "tr": "Girerken sinyal verilmez"
    },
    {
     "de": "Beim Ausfahren rechts blinken",
-    "en": "Signal right when leaving"
+    "en": "Signal right when leaving",
+    "tr": "Çıkarken sağa sinyal verilir"
    }
   ],
   "correct": [
@@ -5527,11 +5643,13 @@
   "unit": null,
   "why": {
    "de": "Steht Zeichen 215 unter Zeichen 205, hat der Verkehr auf der Kreisfahrbahn Vorfahrt. Blinken beim Einfahren ist verboten, beim Ausfahren Pflicht. Halten im Kreisverkehr ist verboten (§ 9a StVO).",
-   "en": "With sign 215 under sign 205, traffic on the roundabout has priority. Signalling on the way in is not allowed; signalling on the way out is required. Stopping on the roundabout is forbidden (§ 9a StVO)."
+   "en": "With sign 215 under sign 205, traffic on the roundabout has priority. Signalling on the way in is not allowed; signalling on the way out is required. Stopping on the roundabout is forbidden (§ 9a StVO).",
+   "tr": "215 numaralı levha 205 numaralı levhanın altındaysa, dönel kavşaktaki trafiğin önceliği vardır. Girerken sinyal vermek yasak, çıkarken zorunludur. Dönel kavşakta durmak yasaktır (StVO § 9a)."
   },
   "tip": {
    "de": "Rein ohne Blinker, raus mit Blinker.",
-   "en": "In without indicating, out with it."
+   "en": "In without indicating, out with it.",
+   "tr": "Girerken sinyal yok, çıkarken sinyal var."
   },
   "scene": {
    "road": "roundabout",
@@ -5574,20 +5692,24 @@
   "kind": "choice",
   "prompt": {
    "de": "An diesem Kreisel stehen keine Verkehrszeichen. Wer hat Vorfahrt?",
-   "en": "There are no signs at this circle. Who has right of way?"
+   "en": "There are no signs at this circle. Who has right of way?",
+   "tr": "Bu göbekli kavşakta hiç işaret yok. Geçiş hakkı kimde?"
   },
   "options": [
    {
     "de": "Ich – der Pkw im Kreisel kommt von links",
-    "en": "I do - the car on the circle is coming from my left"
+    "en": "I do - the car on the circle is coming from my left",
+    "tr": "Bende - kavşaktaki araç solumdan geliyor"
    },
    {
     "de": "Der Pkw im Kreisel",
-    "en": "The car on the circle"
+    "en": "The car on the circle",
+    "tr": "Kavşaktaki araçta"
    },
    {
     "de": "Wer zuerst blinkt",
-    "en": "Whoever signals first"
+    "en": "Whoever signals first",
+    "tr": "Önce sinyal verende"
    }
   ],
   "correct": [
@@ -5597,11 +5719,13 @@
   "unit": null,
   "why": {
    "de": "Ohne Zeichen 215 ist es kein Kreisverkehr im Sinne von § 9a StVO, sondern eine normale Kreuzung. Dann gilt „rechts vor links“ – der Verkehr im Kreisel muss Sie hineinlassen.",
-   "en": "Without sign 215 this is not a roundabout in the sense of § 9a StVO but an ordinary junction. \"Right before left\" applies, so the traffic on the circle has to let you in."
+   "en": "Without sign 215 this is not a roundabout in the sense of § 9a StVO but an ordinary junction. \"Right before left\" applies, so the traffic on the circle has to let you in.",
+   "tr": "215 numaralı levha olmadan burası StVO § 9a anlamında bir dönel kavşak değil, sıradan bir kavşaktır. \"Sağdan gelen önce geçer\" geçerlidir - kavşaktaki trafik sizi içeri almak zorundadır."
   },
   "tip": {
    "de": "Kein blaues Kreisverkehr-Schild = rechts vor links.",
-   "en": "No blue roundabout sign = right before left."
+   "en": "No blue roundabout sign = right before left.",
+   "tr": "Mavi dönel kavşak levhası yoksa = sağdan gelen önce geçer."
   },
   "scene": {
    "road": "roundabout",
@@ -5634,20 +5758,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Sie fahren auf der durchgehenden Straße geradeaus. Es gibt keine Verkehrszeichen. Wer hat Vorfahrt?",
-   "en": "You are going straight on along the through road. There are no signs. Who has right of way?"
+   "en": "You are going straight on along the through road. There are no signs. Who has right of way?",
+   "tr": "Devam eden ana güzergâhta düz gidiyorsunuz. Hiç işaret yok. Geçiş hakkı kimde?"
   },
   "options": [
    {
     "de": "Der Pkw aus der Einmündung rechts",
-    "en": "The car coming out of the side road on the right"
+    "en": "The car coming out of the side road on the right",
+    "tr": "Sağdaki yan yoldan çıkan araçta"
    },
    {
     "de": "Ich – ich bin auf der durchgehenden Straße",
-    "en": "I do - I am on the through road"
+    "en": "I do - I am on the through road",
+    "tr": "Bende - devam eden yoldayım"
    },
    {
     "de": "Wer schneller ist",
-    "en": "Whoever is faster"
+    "en": "Whoever is faster",
+    "tr": "Daha hızlı olanda"
    }
   ],
   "correct": [
@@ -5657,11 +5785,13 @@
   "unit": null,
   "why": {
    "de": "Eine durchgehende Straße ist ohne Zeichen keine Vorfahrtstraße. An Einmündungen gilt dann ebenfalls „rechts vor links“ – der Pkw kommt von Ihrer rechten Seite.",
-   "en": "A road that carries straight on is not a priority road without a sign. \"Right before left\" applies at T-junctions too, and the car is on your right."
+   "en": "A road that carries straight on is not a priority road without a sign. \"Right before left\" applies at T-junctions too, and the car is on your right.",
+   "tr": "Düz devam eden bir yol, işaret olmadan ana yol değildir. T kavşaklarında da \"sağdan gelen önce geçer\" geçerlidir ve araç sağınızdadır."
   },
   "tip": {
    "de": "Breiter oder durchgehend heißt nicht Vorfahrt.",
-   "en": "Wider or straighter does not mean priority."
+   "en": "Wider or straighter does not mean priority.",
+   "tr": "Daha geniş ya da düz olmak öncelik demek değildir."
   },
   "scene": {
    "road": "tee",
@@ -5700,20 +5830,24 @@
   "kind": "choice",
   "prompt": {
    "de": "In welcher Reihenfolge fahren die Fahrzeuge?",
-   "en": "In what order do the vehicles go?"
+   "en": "In what order do the vehicles go?",
+   "tr": "Araçlar hangi sırayla geçer?"
   },
   "options": [
    {
     "de": "3, 1, 2",
-    "en": "3, 1, 2"
+    "en": "3, 1, 2",
+    "tr": "3, 1, 2"
    },
    {
     "de": "1, 2, 3",
-    "en": "1, 2, 3"
+    "en": "1, 2, 3",
+    "tr": "1, 2, 3"
    },
    {
     "de": "3, 2, 1",
-    "en": "3, 2, 1"
+    "en": "3, 2, 1",
+    "tr": "3, 2, 1"
    }
   ],
   "correct": [
@@ -5723,7 +5857,8 @@
   "unit": null,
   "why": {
    "de": "Der Lkw 3 fährt auf der Vorfahrtstraße und darf zuerst. 1 und 2 stehen sich an den Seitenstraßen gegenüber; 2 biegt links ab und muss den geradeaus fahrenden Gegenverkehr 1 durchlassen.",
-   "en": "The lorry, 3, is on the priority road and goes first. 1 and 2 face each other on the side roads; 2 is turning left and has to let 1, coming the other way and going straight, go first."
+   "en": "The lorry, 3, is on the priority road and goes first. 1 and 2 face each other on the side roads; 2 is turning left and has to let 1, coming the other way and going straight, go first.",
+   "tr": "3 numaralı kamyon ana yolda ve önce geçer. 1 ve 2 yan yollarda karşı karşıya; 2 sola dönüyor ve karşıdan düz gelen 1’i önce geçirmek zorunda."
   },
   "tip": null,
   "scene": {
@@ -5792,20 +5927,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Sie fahren auf der Vorfahrtstraße und wollen links abbiegen. Wer muss warten?",
-   "en": "You are on the priority road and want to turn left. Who has to wait?"
+   "en": "You are on the priority road and want to turn left. Who has to wait?",
+   "tr": "Ana yoldasınız ve sola dönmek istiyorsunuz. Kim beklemek zorunda?"
   },
   "options": [
    {
     "de": "Ich",
-    "en": "I do"
+    "en": "I do",
+    "tr": "Ben"
    },
    {
     "de": "Der entgegenkommende Pkw",
-    "en": "The oncoming car"
+    "en": "The oncoming car",
+    "tr": "Karşıdan gelen araç"
    },
    {
     "de": "Niemand, wir sind beide auf der Vorfahrtstraße",
-    "en": "Nobody, we are both on the priority road"
+    "en": "Nobody, we are both on the priority road",
+    "tr": "Kimse, ikimiz de ana yoldayız"
    }
   ],
   "correct": [
@@ -5815,7 +5954,8 @@
   "unit": null,
   "why": {
    "de": "Die Vorfahrtstraße regelt nur das Verhältnis zu den Seitenstraßen. Untereinander gelten die Abbiegeregeln: Wer links abbiegt, lässt den Gegenverkehr durch (§ 9 Abs. 3 StVO).",
-   "en": "A priority road only settles who goes first relative to the side roads. Between vehicles on it, the turning rules apply: a left-turner lets oncoming traffic through (§ 9(3) StVO)."
+   "en": "A priority road only settles who goes first relative to the side roads. Between vehicles on it, the turning rules apply: a left-turner lets oncoming traffic through (§ 9(3) StVO).",
+   "tr": "Ana yol yalnızca yan yollarla ilişkiyi düzenler. Ana yoldaki araçlar arasında dönüş kuralları geçerlidir: sola dönen, karşıdan geleni geçirir (StVO § 9 f. 3)."
   },
   "tip": null,
   "scene": {
@@ -5865,20 +6005,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Sie wollen rechts abbiegen. Was beachten Sie bei diesem Zeichen?",
-   "en": "You want to turn right. What does this sign mean for you?"
+   "en": "You want to turn right. What does this sign mean for you?",
+   "tr": "Sağa dönmek istiyorsunuz. Bu levha sizin için ne anlama gelir?"
   },
   "options": [
    {
     "de": "Ich muss dem Verkehr von links Vorfahrt gewähren",
-    "en": "I must give way to traffic from the left"
+    "en": "I must give way to traffic from the left",
+    "tr": "Soldan gelen trafiğe yol vermeliyim"
    },
    {
     "de": "Ich habe Vorfahrt, weil ich rechts abbiege",
-    "en": "I have priority because I am turning right"
+    "en": "I have priority because I am turning right",
+    "tr": "Sağa döndüğüm için önceliğim var"
    },
    {
     "de": "Ich darf ohne zu schauen einfahren",
-    "en": "I may pull out without looking"
+    "en": "I may pull out without looking",
+    "tr": "Bakmadan çıkabilirim"
    }
   ],
   "correct": [
@@ -5888,7 +6032,8 @@
   "unit": null,
   "why": {
    "de": "Zeichen 205 bedeutet: Vorfahrt gewähren. Beim Rechtsabbiegen fahren Sie in den Fahrstreifen ein, auf dem der Verkehr von links kommt – den müssen Sie durchlassen.",
-   "en": "Sign 205 means give way. Turning right, you join the lane that traffic from your left is driving in, so you must let it pass."
+   "en": "Sign 205 means give way. Turning right, you join the lane that traffic from your left is driving in, so you must let it pass.",
+   "tr": "205 numaralı levha \"Yol ver\" demektir. Sağa dönerken soldan gelen trafiğin gittiği şeride girersiniz - onu geçirmelisiniz."
   },
   "tip": null,
   "scene": {
@@ -5939,20 +6084,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Keine Verkehrszeichen. Sie wollen links abbiegen. In welcher Reihenfolge wird gefahren?",
-   "en": "No signs. You want to turn left. In what order do the vehicles go?"
+   "en": "No signs. You want to turn left. In what order do the vehicles go?",
+   "tr": "İşaret yok. Sola dönmek istiyorsunuz. Araçlar hangi sırayla geçer?"
   },
   "options": [
    {
     "de": "2, 1",
-    "en": "2, 1"
+    "en": "2, 1",
+    "tr": "2, 1"
    },
    {
     "de": "1, 2",
-    "en": "1, 2"
+    "en": "1, 2",
+    "tr": "1, 2"
    },
    {
     "de": "Gleichzeitig",
-    "en": "At the same time"
+    "en": "At the same time",
+    "tr": "Aynı anda"
    }
   ],
   "correct": [
@@ -5962,7 +6111,8 @@
   "unit": null,
   "why": {
    "de": "Der Pkw 2 kommt von rechts und hat nach „rechts vor links“ Vorfahrt. Dass Sie abbiegen und nicht geradeaus fahren, ändert daran nichts: Er fährt geradeaus und kreuzt Ihren Weg.",
-   "en": "Car 2 is coming from your right and has priority under \"right before left\". It makes no difference that you are turning rather than going straight on: it crosses your path."
+   "en": "Car 2 is coming from your right and has priority under \"right before left\". It makes no difference that you are turning rather than going straight on: it crosses your path.",
+   "tr": "2 numaralı araç sağınızdan geliyor ve \"sağdan gelen önce geçer\" kuralına göre önceliklidir. Düz değil de dönüyor olmanız bunu değiştirmez: o düz gidiyor ve yolunuzu kesiyor."
   },
   "tip": null,
   "scene": {
@@ -6505,20 +6655,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Der Polizeibeamte steht Ihnen zugewandt und streckt beide Arme seitlich aus. Was bedeutet das für Sie?",
-   "en": "The police officer is facing you with both arms stretched out to the sides. What does this mean for you?"
+   "en": "The police officer is facing you with both arms stretched out to the sides. What does this mean for you?",
+   "tr": "Polis memuru size dönük duruyor ve iki kolunu yana açmış. Bu sizin için ne anlama gelir?"
   },
   "options": [
    {
     "de": "Halt vor der Kreuzung – wie Rot",
-    "en": "Stop before the junction - like a red light"
+    "en": "Stop before the junction - like a red light",
+    "tr": "Kavşaktan önce dur - kırmızı ışık gibi"
    },
    {
     "de": "Freie Fahrt – wie Grün",
-    "en": "Go - like a green light"
+    "en": "Go - like a green light",
+    "tr": "Geç - yeşil ışık gibi"
    },
    {
     "de": "Kreuzung zügig räumen",
-    "en": "Clear the junction quickly"
+    "en": "Clear the junction quickly",
+    "tr": "Kavşağı hızla boşalt"
    }
   ],
   "correct": [
@@ -6528,11 +6682,13 @@
   "unit": null,
   "why": {
    "de": "Arme quer zu Ihrer Fahrtrichtung bedeuten „Halt“ für den Verkehr von vorn und von hinten. Der Querverkehr – in Richtung der Arme – hat frei (§ 36 Abs. 2 StVO).",
-   "en": "Arms held across your direction of travel mean \"stop\" for traffic in front of and behind the officer. Traffic moving along the line of the arms may go (§ 36(2) StVO)."
+   "en": "Arms held across your direction of travel mean \"stop\" for traffic in front of and behind the officer. Traffic moving along the line of the arms may go (§ 36(2) StVO).",
+   "tr": "Gidiş yönünüze dik tutulan kollar, memurun önündeki ve arkasındaki trafik için \"dur\" demektir. Kolların doğrultusunda hareket eden trafik geçebilir (StVO § 36 f. 2)."
   },
   "tip": {
    "de": "Brust oder Rücken zu dir = Rot. Arm zeigt auf dich = Grün.",
-   "en": "Chest or back to you = red. Arm pointing at you = green."
+   "en": "Chest or back to you = red. Arm pointing at you = green.",
+   "tr": "Göğüs ya da sırt size dönükse = kırmızı. Kol size doğruysa = yeşil."
   },
   "scene": {
    "road": "cross",
@@ -6562,20 +6718,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Sie kommen von links auf den Polizeibeamten zu. Seine Arme zeigen in Ihre Richtung. Was bedeutet das für Sie?",
-   "en": "You are approaching the officer from the side. The officer’s arms point along your direction. What does this mean for you?"
+   "en": "You are approaching the officer from the side. The officer’s arms point along your direction. What does this mean for you?",
+   "tr": "Memura yandan yaklaşıyorsunuz. Memurun kolları sizin yönünüzü gösteriyor. Bu sizin için ne anlama gelir?"
   },
   "options": [
    {
     "de": "Ich darf fahren – wie Grün",
-    "en": "I may go - like a green light"
+    "en": "I may go - like a green light",
+    "tr": "Geçebilirim - yeşil ışık gibi"
    },
    {
     "de": "Halt – wie Rot",
-    "en": "Stop - like a red light"
+    "en": "Stop - like a red light",
+    "tr": "Dur - kırmızı ışık gibi"
    },
    {
     "de": "Ich muss warten, bis er winkt",
-    "en": "I must wait until he waves"
+    "en": "I must wait until the officer waves",
+    "tr": "Memur el sallayana kadar beklemeliyim"
    }
   ],
   "correct": [
@@ -6585,7 +6745,8 @@
   "unit": null,
   "why": {
    "de": "Der Beamte steht seitlich zu Ihnen, die Arme zeigen in Ihre Fahrtrichtung: Ihr Verkehr ist freigegeben. Wer abbiegt, beachtet trotzdem die Abbiegeregeln.",
-   "en": "The officer stands side-on to you and his arms point along your direction: your traffic is released. If you turn, the turning rules still apply."
+   "en": "The officer stands side-on to you, arms pointing along your direction: your traffic is released. If you turn, the turning rules still apply.",
+   "tr": "Memur size yan duruyor, kolları sizin yönünüzü gösteriyor: sizin trafiğiniz serbesttir. Dönüyorsanız dönüş kuralları yine geçerlidir."
   },
   "tip": null,
   "scene": {
@@ -6620,20 +6781,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Ein Polizeibeamter hebt einen Arm senkrecht nach oben. Was bedeutet das?",
-   "en": "A police officer raises one arm straight up. What does that mean?"
+   "en": "A police officer raises one arm straight up. What does that mean?",
+   "tr": "Bir polis memuru bir kolunu dik olarak yukarı kaldırıyor. Bu ne anlama gelir?"
   },
   "options": [
    {
     "de": "Wer vor der Kreuzung ist, wartet auf das nächste Zeichen",
-    "en": "Anyone before the junction waits for the next signal"
+    "en": "Anyone before the junction waits for the next signal",
+    "tr": "Kavşaktan önce olan, bir sonraki işareti bekler"
    },
    {
     "de": "Wer schon in der Kreuzung ist, räumt sie",
-    "en": "Anyone already in the junction clears it"
+    "en": "Anyone already in the junction clears it",
+    "tr": "Kavşağın içinde olan, kavşağı boşaltır"
    },
    {
     "de": "Alle dürfen fahren",
-    "en": "Everyone may go"
+    "en": "Everyone may go",
+    "tr": "Herkes geçebilir"
    }
   ],
   "correct": [
@@ -6644,7 +6809,8 @@
   "unit": null,
   "why": {
    "de": "Ein erhobener Arm entspricht Gelb: „Achtung, gleich wechselt die Freigabe.“ Vor der Kreuzung warten, in der Kreuzung räumen (§ 36 Abs. 2 Nr. 2 StVO).",
-   "en": "A raised arm is the equivalent of amber: \"attention, the signal is about to change\". Wait if you are before the junction, clear it if you are in it (§ 36(2) no. 2 StVO)."
+   "en": "A raised arm is the equivalent of amber: \"attention, the signal is about to change\". Wait if you are before the junction, clear it if you are in it (§ 36(2) no. 2 StVO).",
+   "tr": "Kaldırılmış kol sarı ışığa karşılık gelir: \"Dikkat, işaret değişmek üzere.\" Kavşaktan önceyseniz bekleyin, içindeyseniz boşaltın (StVO § 36 f. 2 no. 2)."
   },
   "tip": null,
   "scene": null,
@@ -6662,20 +6828,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Die Ampel zeigt Grün. Ein Polizeibeamter gibt Ihnen das Zeichen zum Anhalten. Was tun Sie?",
-   "en": "The light is green. A police officer signals you to stop. What do you do?"
+   "en": "The light is green. A police officer signals you to stop. What do you do?",
+   "tr": "Işık yeşil. Bir polis memuru size dur işareti veriyor. Ne yaparsınız?"
   },
   "options": [
    {
     "de": "Anhalten – die Polizei geht vor",
-    "en": "Stop - the police take precedence"
+    "en": "Stop - the police take precedence",
+    "tr": "Dururum - polis önceliklidir"
    },
    {
     "de": "Weiterfahren – Grün geht vor",
-    "en": "Carry on - the green light takes precedence"
+    "en": "Carry on - the green light takes precedence",
+    "tr": "Devam ederim - yeşil ışık önceliklidir"
    },
    {
     "de": "Hupen und langsam weiterfahren",
-    "en": "Sound the horn and carry on slowly"
+    "en": "Sound the horn and carry on slowly",
+    "tr": "Korna çalıp yavaşça devam ederim"
    }
   ],
   "correct": [
@@ -6685,7 +6855,8 @@
   "unit": null,
   "why": {
    "de": "Zeichen und Weisungen von Polizeibeamten gehen allen anderen Anordnungen und Regeln vor, auch Ampeln (§ 36 Abs. 1 StVO).",
-   "en": "Signals and instructions from police officers override everything else, traffic lights included (§ 36(1) StVO)."
+   "en": "Signals and instructions from police officers override everything else, traffic lights included (§ 36(1) StVO).",
+   "tr": "Polis memurlarının işaretleri ve talimatları, trafik ışıkları dahil diğer her şeyden önce gelir (StVO § 36 f. 1)."
   },
   "tip": null,
   "scene": {
@@ -6722,20 +6893,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Was gilt in welcher Rangfolge?",
-   "en": "Which order of precedence is correct?"
+   "en": "Which order of precedence is correct?",
+   "tr": "Hangi öncelik sıralaması doğrudur?"
   },
   "options": [
    {
     "de": "Polizei, Ampel, Verkehrszeichen, allgemeine Regeln",
-    "en": "Police, traffic lights, signs, general rules"
+    "en": "Police, traffic lights, signs, general rules",
+    "tr": "Polis, trafik ışıkları, levhalar, genel kurallar"
    },
    {
     "de": "Ampel, Polizei, Verkehrszeichen, allgemeine Regeln",
-    "en": "Traffic lights, police, signs, general rules"
+    "en": "Traffic lights, police, signs, general rules",
+    "tr": "Trafik ışıkları, polis, levhalar, genel kurallar"
    },
    {
     "de": "Verkehrszeichen, Ampel, Polizei, allgemeine Regeln",
-    "en": "Signs, traffic lights, police, general rules"
+    "en": "Signs, traffic lights, police, general rules",
+    "tr": "Levhalar, trafik ışıkları, polis, genel kurallar"
    }
   ],
   "correct": [
@@ -6745,11 +6920,13 @@
   "unit": null,
   "why": {
    "de": "Polizei geht allem vor (§ 36), Ampeln gehen den Vorfahrtschildern und -regeln vor (§ 37), Schilder gehen „rechts vor links“ vor.",
-   "en": "Police override everything (§ 36), lights override priority signs and rules (§ 37), and signs override \"right before left\"."
+   "en": "Police override everything (§ 36), lights override priority signs and rules (§ 37), and signs override \"right before left\".",
+   "tr": "Polis her şeyden önce gelir (§ 36), ışıklar öncelik levhalarından ve kurallarından önce gelir (§ 37), levhalar da \"sağdan gelen önce geçer\" kuralından önce gelir."
   },
   "tip": {
    "de": "Mensch, Licht, Schild, Regel.",
-   "en": "Person, light, sign, rule."
+   "en": "Person, light, sign, rule.",
+   "tr": "İnsan, ışık, levha, kural."
   },
   "scene": null,
   "signs": [],
@@ -6766,20 +6943,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Ihre Ampel zeigt Rot, daneben ist ein grüner Pfeil auf einem Schild. Sie wollen rechts abbiegen. Was gilt?",
-   "en": "Your light is red, with a green arrow sign next to it. You want to turn right. What applies?"
+   "en": "Your light is red, with a green arrow sign next to it. You want to turn right. What applies?",
+   "tr": "Işığınız kırmızı, yanında yeşil ok levhası var. Sağa dönmek istiyorsunuz. Ne geçerlidir?"
   },
   "options": [
    {
     "de": "Ich muss zuerst an der Haltlinie anhalten",
-    "en": "I must first stop at the stop line"
+    "en": "I must first stop at the stop line",
+    "tr": "Önce dur çizgisinde durmalıyım"
    },
    {
     "de": "Danach darf ich abbiegen, wenn ich niemanden behindere oder gefährde",
-    "en": "Then I may turn if I do not obstruct or endanger anyone"
+    "en": "Then I may turn if I do not obstruct or endanger anyone",
+    "tr": "Sonra kimseyi engellemez ve tehlikeye atmazsam dönebilirim"
    },
    {
     "de": "Ich darf ohne anzuhalten abbiegen",
-    "en": "I may turn without stopping"
+    "en": "I may turn without stopping",
+    "tr": "Durmadan dönebilirim"
    }
   ],
   "correct": [
@@ -6790,11 +6971,13 @@
   "unit": null,
   "why": {
    "de": "Der Grünpfeil (Zeichen 720) erlaubt das Rechtsabbiegen bei Rot nur nach einem Halt an der Haltlinie – und nur, wenn niemand behindert oder gefährdet wird, besonders Fußgänger und Radfahrer mit Grün (§ 37 Abs. 2 StVO).",
-   "en": "The green arrow sign (720) allows a right turn on red only after a full stop at the stop line, and only without obstructing or endangering anyone, especially pedestrians and cyclists who have green (§ 37(2) StVO)."
+   "en": "The green arrow sign (720) allows a right turn on red only after a full stop at the stop line, and only without obstructing or endangering anyone, especially pedestrians and cyclists who have green (§ 37(2) StVO).",
+   "tr": "Yeşil ok levhası (720) kırmızıda sağa dönüşe yalnızca dur çizgisinde tam durduktan sonra ve kimseyi - özellikle yeşil ışığı olan yayaları ve bisikletlileri - engellemeden ve tehlikeye atmadan izin verir (StVO § 37 f. 2)."
   },
   "tip": {
    "de": "Grünpfeil = Stoppschild mit Abbiege-Erlaubnis.",
-   "en": "Green arrow = a stop sign that lets you turn."
+   "en": "Green arrow = a stop sign that lets you turn.",
+   "tr": "Yeşil ok = dönmene izin veren bir DUR levhası."
   },
   "scene": {
    "road": "cross",
@@ -6842,20 +7025,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Die Ampel springt auf Gelb. Was tun Sie?",
-   "en": "The light changes to amber. What do you do?"
+   "en": "The light changes to amber. What do you do?",
+   "tr": "Işık sarıya dönüyor. Ne yaparsınız?"
   },
   "options": [
    {
     "de": "Anhalten, wenn das noch gefahrlos möglich ist",
-    "en": "Stop, if I can still do so safely"
+    "en": "Stop, if I can still do so safely",
+    "tr": "Hâlâ güvenle durabiliyorsam dururum"
    },
    {
     "de": "Beschleunigen, um noch durchzukommen",
-    "en": "Speed up to get through"
+    "en": "Speed up to get through",
+    "tr": "Geçmek için hızlanırım"
    },
    {
     "de": "Immer sofort voll bremsen",
-    "en": "Always brake as hard as possible at once"
+    "en": "Always brake as hard as possible at once",
+    "tr": "Her zaman hemen tam fren yaparım"
    }
   ],
   "correct": [
@@ -6865,7 +7052,8 @@
   "unit": null,
   "why": {
    "de": "Gelb ordnet an: vor der Kreuzung auf das nächste Zeichen warten. Wer so nah ist, dass ein sicheres Anhalten nicht mehr möglich ist, fährt weiter – Gas geben gehört nicht dazu.",
-   "en": "Amber means: wait before the junction for the next signal. If you are too close to stop safely, you carry on - but speeding up is never part of it."
+   "en": "Amber means: wait before the junction for the next signal. If you are too close to stop safely, you carry on - but speeding up is never part of it.",
+   "tr": "Sarı şu demektir: kavşaktan önce bir sonraki işareti bekle. Güvenle duramayacak kadar yakınsanız devam edersiniz - ama hızlanmak asla bunun parçası değildir."
   },
   "tip": null,
   "scene": {
@@ -6898,20 +7086,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Ihre Ampel zeigt Rot und Gelb zugleich. Was bedeutet das?",
-   "en": "Your light shows red and amber together. What does that mean?"
+   "en": "Your light shows red and amber together. What does that mean?",
+   "tr": "Işığınız aynı anda kırmızı ve sarı gösteriyor. Bu ne anlama gelir?"
   },
   "options": [
    {
     "de": "Gleich kommt Grün – ich warte noch",
-    "en": "Green is coming - I still wait"
+    "en": "Green is coming - I still wait",
+    "tr": "Yeşil geliyor - hâlâ beklerim"
    },
    {
     "de": "Ich darf schon losfahren",
-    "en": "I may already go"
+    "en": "I may already go",
+    "tr": "Artık hareket edebilirim"
    },
    {
     "de": "Die Ampel ist defekt",
-    "en": "The light is broken"
+    "en": "The light is broken",
+    "tr": "Işık bozuk"
    }
   ],
   "correct": [
@@ -6921,7 +7113,8 @@
   "unit": null,
   "why": {
    "de": "Rot und Gelb zusammen heißt: „Achtung, gleich Grün.“ Bis Grün kommt, bleiben Sie stehen.",
-   "en": "Red and amber together mean \"attention, green is next\". You stay where you are until it turns green."
+   "en": "Red and amber together mean \"attention, green is next\". You stay where you are until it turns green.",
+   "tr": "Kırmızı ve sarı birlikte \"Dikkat, sırada yeşil var\" demektir. Yeşil yanana kadar olduğunuz yerde kalırsınız."
   },
   "tip": null,
   "scene": {
@@ -6954,20 +7147,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Die Ampel ist ausgefallen. Was gilt jetzt?",
-   "en": "The traffic lights are out of order. What applies now?"
+   "en": "The traffic lights are out of order. What applies now?",
+   "tr": "Trafik ışıkları arızalı. Şimdi ne geçerlidir?"
   },
   "options": [
    {
     "de": "Die Vorfahrtschilder an der Kreuzung",
-    "en": "The priority signs at the junction"
+    "en": "The priority signs at the junction",
+    "tr": "Kavşaktaki öncelik levhaları"
    },
    {
     "de": "Wenn keine Schilder da sind: rechts vor links",
-    "en": "If there are no signs: right before left"
+    "en": "If there are no signs: right before left",
+    "tr": "Levha yoksa: sağdan gelen önce geçer"
    },
    {
     "de": "Wer zuerst kommt, fährt zuerst",
-    "en": "First come, first served"
+    "en": "First come, first served",
+    "tr": "İlk gelen önce geçer"
    }
   ],
   "correct": [
@@ -6978,7 +7175,8 @@
   "unit": null,
   "why": {
    "de": "Ist die Ampel aus oder blinkt nur Gelb, gelten die Verkehrszeichen. Gibt es keine, gilt „rechts vor links“.",
-   "en": "If the lights are off or only flashing amber, the signs apply. If there are none, \"right before left\" applies."
+   "en": "If the lights are off or only flashing amber, the signs apply. If there are none, \"right before left\" applies.",
+   "tr": "Işıklar kapalıysa ya da yalnızca sarı yanıp sönüyorsa levhalar geçerlidir. Levha yoksa \"sağdan gelen önce geçer\" geçerlidir."
   },
   "tip": null,
   "scene": {
@@ -7029,20 +7227,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Was bedeutet ein gelbes Blinklicht an einer Ampel?",
-   "en": "What does a single flashing amber light at a junction mean?"
+   "en": "What does a single flashing amber light at a junction mean?",
+   "tr": "Kavşakta tek başına yanıp sönen sarı ışık ne anlama gelir?"
   },
   "options": [
    {
     "de": "Vorsicht – es gelten die Verkehrszeichen",
-    "en": "Caution - the road signs apply"
+    "en": "Caution - the road signs apply",
+    "tr": "Dikkat - trafik levhaları geçerlidir"
    },
    {
     "de": "Freie Fahrt für alle",
-    "en": "Everyone may go"
+    "en": "Everyone may go",
+    "tr": "Herkes geçebilir"
    },
    {
     "de": "Anhalten wie bei Rot",
-    "en": "Stop as for red"
+    "en": "Stop as for red",
+    "tr": "Kırmızıdaki gibi dur"
    }
   ],
   "correct": [
@@ -7052,7 +7254,8 @@
   "unit": null,
   "why": {
    "de": "Gelbes Blinklicht warnt (§ 37 Abs. 2 Nr. 5 StVO). Es regelt nichts – die Vorfahrt ergibt sich aus den Schildern.",
-   "en": "A flashing amber light is a warning (§ 37(2) no. 5 StVO). It decides nothing; priority comes from the signs."
+   "en": "A flashing amber light is a warning (§ 37(2) no. 5 StVO). It decides nothing; priority comes from the signs.",
+   "tr": "Yanıp sönen sarı ışık bir uyarıdır (StVO § 37 f. 2 no. 5). Hiçbir şeyi düzenlemez; öncelik levhalardan gelir."
   },
   "tip": null,
   "scene": {
@@ -7091,20 +7294,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Hinter Ihnen nähert sich ein Rettungswagen mit Blaulicht und Martinshorn. Was tun Sie?",
-   "en": "An ambulance with blue lights and siren is coming up behind you. What do you do?"
+   "en": "An ambulance with blue lights and siren is coming up behind you. What do you do?",
+   "tr": "Arkanızdan mavi ışıklı ve sirenli bir ambulans geliyor. Ne yaparsınız?"
   },
   "options": [
    {
     "de": "Sofort freie Bahn schaffen",
-    "en": "Make way immediately"
+    "en": "Make way immediately",
+    "tr": "Hemen yol açarım"
    },
    {
     "de": "Weiterfahren, bis eine Parkbucht kommt",
-    "en": "Keep going until there is a lay-by"
+    "en": "Keep going until there is a lay-by",
+    "tr": "Bir cep gelene kadar devam ederim"
    },
    {
     "de": "Stark bremsen und auf meiner Spur stehen bleiben",
-    "en": "Brake hard and stop in my lane"
+    "en": "Brake hard and stop in my lane",
+    "tr": "Sert fren yapıp şeridimde dururum"
    }
   ],
   "correct": [
@@ -7114,7 +7321,8 @@
   "unit": null,
   "why": {
    "de": "Blaulicht zusammen mit Einsatzhorn ordnet an: Alle übrigen Verkehrsteilnehmer haben sofort freie Bahn zu schaffen (§ 38 Abs. 1 StVO). Mitten auf der Spur stehen zu bleiben hilft nicht.",
-   "en": "Blue lights together with the siren mean that everyone else must make way immediately (§ 38(1) StVO). Stopping in the middle of your lane does not help."
+   "en": "Blue lights together with the siren mean that everyone else must make way immediately (§ 38(1) StVO). Stopping in the middle of your lane does not help.",
+   "tr": "Mavi ışık sirenle birlikte, diğer herkesin hemen yol açması gerektiği anlamına gelir (StVO § 38 f. 1). Şeridinizin ortasında durmak işe yaramaz."
   },
   "tip": null,
   "scene": {
@@ -7161,20 +7369,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Ein Polizeifahrzeug steht mit Blaulicht, aber ohne Martinshorn am Straßenrand. Was bedeutet das?",
-   "en": "A police car is standing at the roadside with blue lights on but no siren. What does that mean?"
+   "en": "A police car is standing at the roadside with blue lights on but no siren. What does that mean?",
+   "tr": "Bir polis aracı yol kenarında mavi ışıkla ama sirensiz duruyor. Bu ne anlama gelir?"
   },
   "options": [
    {
     "de": "Es warnt vor einer Gefahr, z. B. einer Unfallstelle",
-    "en": "It warns of a hazard, such as an accident"
+    "en": "It warns of a hazard, such as an accident",
+    "tr": "Kaza gibi bir tehlikeye karşı uyarır"
    },
    {
     "de": "Ich muss sofort anhalten",
-    "en": "I must stop immediately"
+    "en": "I must stop immediately",
+    "tr": "Hemen durmalıyım"
    },
    {
     "de": "Ich muss freie Bahn schaffen",
-    "en": "I must make way"
+    "en": "I must make way",
+    "tr": "Yol açmalıyım"
    }
   ],
   "correct": [
@@ -7184,11 +7396,13 @@
   "unit": null,
   "why": {
    "de": "Blaues Blinklicht allein dient der Warnung an Unfall- oder Einsatzstellen (§ 38 Abs. 2 StVO). Fahren Sie langsam und vorsichtig vorbei.",
-   "en": "A blue light on its own is a warning at an accident or incident scene (§ 38(2) StVO). Pass slowly and carefully."
+   "en": "A blue light on its own is a warning at an accident or incident scene (§ 38(2) StVO). Pass slowly and carefully.",
+   "tr": "Tek başına mavi ışık, kaza ya da olay yerinde uyarı amaçlıdır (StVO § 38 f. 2). Yavaşça ve dikkatle geçin."
   },
   "tip": {
    "de": "Blau + Horn = Platz machen. Blau allein = aufpassen.",
-   "en": "Blue + siren = make way. Blue alone = take care."
+   "en": "Blue + siren = make way. Blue alone = take care.",
+   "tr": "Mavi + siren = yol aç. Yalnızca mavi = dikkat et."
   },
   "scene": null,
   "signs": [],
@@ -7205,20 +7419,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Ihre Ampel zeigt Grün, aber hinter der Kreuzung staut sich der Verkehr. Was tun Sie?",
-   "en": "Your light is green, but traffic is queuing beyond the junction. What do you do?"
+   "en": "Your light is green, but traffic is queuing beyond the junction. What do you do?",
+   "tr": "Işığınız yeşil ama kavşağın ilerisinde trafik sıkışmış. Ne yaparsınız?"
   },
   "options": [
    {
     "de": "Vor der Kreuzung warten",
-    "en": "Wait before the junction"
+    "en": "Wait before the junction",
+    "tr": "Kavşaktan önce beklerim"
    },
    {
     "de": "In die Kreuzung einfahren, weil ich Grün habe",
-    "en": "Drive into the junction because I have green"
+    "en": "Drive into the junction because I have green",
+    "tr": "Yeşil yandığı için kavşağa girerim"
    },
    {
     "de": "Langsam in die Kreuzung rollen",
-    "en": "Roll slowly into the junction"
+    "en": "Roll slowly into the junction",
+    "tr": "Kavşağa yavaşça ilerlerim"
    }
   ],
   "correct": [
@@ -7228,7 +7446,8 @@
   "unit": null,
   "why": {
    "de": "Wer in der Kreuzung warten müsste, darf trotz Grün nicht einfahren (§ 11 Abs. 1 StVO). Sonst blockieren Sie den Querverkehr, wenn dessen Ampel umschaltet.",
-   "en": "If you would have to stop inside the junction, you must not enter it, even on green (§ 11(1) StVO). Otherwise you block the cross traffic when its light changes."
+   "en": "If you would have to stop inside the junction, you must not enter it, even on green (§ 11(1) StVO). Otherwise you block the cross traffic when its light changes.",
+   "tr": "Kavşağın içinde beklemek zorunda kalacaksanız, yeşilde bile giremezsiniz (StVO § 11 f. 1). Aksi halde ışık değişince kesişen trafiği kapatırsınız."
   },
   "tip": null,
   "scene": {
@@ -7277,20 +7496,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Sie haben Grün und wollen links abbiegen. Was beachten Sie?",
-   "en": "You have green and want to turn left. What do you need to watch for?"
+   "en": "You have green and want to turn left. What do you need to watch for?",
+   "tr": "Yeşil ışığınız var ve sola dönmek istiyorsunuz. Neye dikkat etmelisiniz?"
   },
   "options": [
    {
     "de": "Den entgegenkommenden Verkehr durchfahren lassen",
-    "en": "Let oncoming traffic go first"
+    "en": "Let oncoming traffic go first",
+    "tr": "Karşıdan gelen trafiği önce geçirmeye"
    },
    {
     "de": "Fußgänger, die die Straße überqueren, in die ich abbiege",
-    "en": "Pedestrians crossing the road I am turning into"
+    "en": "Pedestrians crossing the road I am turning into",
+    "tr": "Döneceğim yolu geçen yayalara"
    },
    {
     "de": "Nichts – Grün heißt, ich habe Vorrang",
-    "en": "Nothing - green means I have priority"
+    "en": "Nothing - green means I have priority",
+    "tr": "Hiçbir şeye - yeşil, önceliğim olduğu demektir"
    }
   ],
   "correct": [
@@ -7301,7 +7524,8 @@
   "unit": null,
   "why": {
    "de": "Grün hebt die Abbiegeregeln nicht auf: Gegenverkehr durchlassen und auf Fußgänger besondere Rücksicht nehmen (§ 9 Abs. 3 StVO). Nur ein grüner Pfeil in der Ampel zeigt ein gesichertes Abbiegen an.",
-   "en": "Green does not switch off the turning rules: let oncoming traffic through and take special care of pedestrians (§ 9(3) StVO). Only a green arrow inside the light itself shows a protected turn."
+   "en": "Green does not switch off the turning rules: let oncoming traffic through and take special care of pedestrians (§ 9(3) StVO). Only a green arrow inside the light itself shows a protected turn.",
+   "tr": "Yeşil ışık dönüş kurallarını kaldırmaz: karşıdan geleni geçirin ve yayalara özellikle dikkat edin (StVO § 9 f. 3). Yalnızca ışığın kendisindeki yeşil ok korumalı bir dönüş gösterir."
   },
   "tip": null,
   "scene": {
@@ -7359,20 +7583,24 @@
   "kind": "choice",
   "prompt": {
    "de": "Ein Müllwagen steht mit gelbem Blinklicht auf der Fahrbahn. Was bedeutet das Licht?",
-   "en": "A refuse lorry is standing on the road with a flashing amber light. What does the light mean?"
+   "en": "A refuse lorry is standing on the road with a flashing amber light. What does the light mean?",
+   "tr": "Bir çöp kamyonu yolda yanıp sönen sarı ışıkla duruyor. Bu ışık ne anlama gelir?"
   },
   "options": [
    {
     "de": "Es warnt vor einer Gefahr",
-    "en": "It warns of a hazard"
+    "en": "It warns of a hazard",
+    "tr": "Bir tehlikeye karşı uyarır"
    },
    {
     "de": "Ich muss freie Bahn schaffen",
-    "en": "I must make way"
+    "en": "I must make way",
+    "tr": "Yol açmalıyım"
    },
    {
     "de": "Das Fahrzeug hat Vorfahrt",
-    "en": "The vehicle has priority"
+    "en": "The vehicle has priority",
+    "tr": "Bu aracın önceliği vardır"
    }
   ],
   "correct": [
@@ -7382,7 +7610,8 @@
   "unit": null,
   "why": {
    "de": "Gelbes Blinklicht an Fahrzeugen warnt vor Gefahren (§ 38 Abs. 3 StVO) – hier vor Menschen, die plötzlich hinter dem Wagen hervortreten. Langsam und mit Abstand vorbeifahren.",
-   "en": "An amber flashing light on a vehicle warns of danger (§ 38(3) StVO) - here, of workers stepping out from behind it. Pass slowly and with room to spare."
+   "en": "An amber flashing light on a vehicle warns of danger (§ 38(3) StVO) - here, of workers stepping out from behind it. Pass slowly and with room to spare.",
+   "tr": "Araçlardaki yanıp sönen sarı ışık tehlikeye karşı uyarır (StVO § 38 f. 3) - burada aracın arkasından aniden çıkabilecek işçilere karşı. Yavaşça ve geniş mesafeyle geçin."
   },
   "tip": null,
   "scene": null,

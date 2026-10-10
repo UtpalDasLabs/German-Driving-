@@ -48,10 +48,34 @@ for (const s of speeds) drawable.add(`274-${s.replace(/'/g, '')}`);
 
 /* --------------------------------------------------------- translations */
 
+/**
+ * Each language is a folder of JSON files (data-source/i18n/<lang>/*.json),
+ * split however is convenient to translate - by topic, say - and merged here.
+ * Every file has the same shape: { questions, signs, topics, practical, conversion }.
+ */
 const i18n = {};
 for (const lang of OTHER) {
-  const file = path.join(SRC, 'i18n', `${lang}.json`);
-  i18n[lang] = fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : {};
+  const dir = path.join(SRC, 'i18n', lang);
+  const merged = {};
+  if (fs.existsSync(dir)) {
+    for (const f of fs.readdirSync(dir).filter((x) => x.endsWith('.json')).sort()) {
+      let part;
+      try {
+        part = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8'));
+      } catch (e) {
+        problems.push(`i18n/${lang}/${f}: not valid JSON (${e.message})`);
+        continue;
+      }
+      for (const [section, entries] of Object.entries(part)) {
+        merged[section] ??= {};
+        for (const [k, v] of Object.entries(entries)) {
+          if (merged[section][k]) problems.push(`i18n/${lang}/${f}: ${section}.${k} is translated twice`);
+          merged[section][k] = v;
+        }
+      }
+    }
+  }
+  i18n[lang] = merged;
 }
 
 /** Adds the other languages' strings to a {de, en} object, by path. */
@@ -196,7 +220,7 @@ for (const file of files) {
 }
 
 for (const lang of OTHER) {
-  for (const id of Object.keys(i18n[lang]?.questions ?? {})) check(seen.has(id), `i18n/${lang}.json: unknown question ${id}`);
+  for (const id of Object.keys(i18n[lang]?.questions ?? {})) check(seen.has(id), `i18n/${lang}: unknown question ${id}`);
 }
 
 /* ------------------------------------------------- guides (practical, conversion) */
