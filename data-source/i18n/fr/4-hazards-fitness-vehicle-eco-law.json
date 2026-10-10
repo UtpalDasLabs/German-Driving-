@@ -1,317 +1,317 @@
 {
   "questions": {
     "ha01": {
-      "prompt": "Sous une forte pluie, la direction devient soudain légère — aquaplaning. Que fais-tu ?",
-      "options": ["J'appuie sur l'embrayage ou je lève le pied de l'accélérateur", "Je garde le volant droit", "Je freine fort et je contre-braque"],
-      "why": "En aquaplaning, les pneus roulent sur un film d'eau et ne transmettent plus aucune force. Lâche l'accélérateur (ou débraye), ne freine pas et garde le volant droit jusqu'à ce que les pneus accrochent de nouveau, sinon la voiture partira de travers.",
-      "tip": "Pied hors de l'accélérateur, mains immobiles."
+      "prompt": "Sous une forte pluie, la direction devient soudain légère — aquaplaning. Que fais-tu ?",
+      "options": ["J’appuie sur l’embrayage ou je lève le pied de l’accélérateur", "Je garde le volant droit", "Je freine fort et je contre-braque"],
+      "why": "En aquaplaning, les pneus roulent sur un film d’eau et ne transmettent plus aucune force. Lâche l’accélérateur (ou débraye), ne freine pas et garde le volant droit jusqu’à ce que les pneus accrochent de nouveau, sinon la voiture partira de travers.",
+      "tip": "Pied hors de l’accélérateur, mains immobiles."
     },
     "ha02": {
-      "prompt": "Où dois-tu t'attendre à du verglas, surtout en hiver ?",
-      "options": ["Sur les ponts", "Dans les passages en forêt et à l'ombre", "Dans les parkings souterrains chauffés"],
-      "why": "Les ponts se refroidissent par-dessus et par-dessous et gèlent en premier. En forêt et à l'ombre, le verglas persiste plus longtemps, même si la route juste avant était sèche."
+      "prompt": "Où dois-tu t’attendre à du verglas, surtout en hiver ?",
+      "options": ["Sur les ponts", "Dans les passages en forêt et à l’ombre", "Dans les parkings souterrains chauffés"],
+      "why": "Les ponts se refroidissent par-dessus et par-dessous et gèlent en premier. En forêt et à l’ombre, le verglas persiste plus longtemps, même si la route juste avant était sèche."
     },
     "ha03": {
-      "prompt": "Il commence à pleuvoir après une longue période sèche. Qu'est-ce qui est vrai ?",
-      "options": ["La chaussée peut maintenant être particulièrement glissante", "La pluie nettoie la chaussée et améliore l'adhérence", "Cela ne concerne que les pavés"],
-      "why": "La première pluie transforme la poussière, la gomme et l'huile en un film glissant. Seule une pluie plus longue le nettoie."
+      "prompt": "Il commence à pleuvoir après une longue période sèche. Qu’est-ce qui est vrai ?",
+      "options": ["La chaussée peut maintenant être particulièrement glissante", "La pluie nettoie la chaussée et améliore l’adhérence", "Cela ne concerne que les pavés"],
+      "why": "La première pluie transforme la poussière, la gomme et l’huile en un film glissant. Seule une pluie plus longue le nettoie."
     },
     "ha04": {
-      "prompt": "Quand peux-tu allumer le feu antibrouillard arrière ?",
-      "options": ["Quand le brouillard réduit la visibilité à moins de 50 m", "Chaque fois qu'il pleut", "La nuit sur route"],
-      "why": "Le feu antibrouillard arrière n'est permis que lorsque le brouillard réduit la visibilité à moins de 50 m — et la limite est alors de 50 km/h (§ 17 al. 3 StVO). Avec une meilleure visibilité, il éblouit la circulation qui suit.",
+      "prompt": "Quand peux-tu allumer le feu antibrouillard arrière ?",
+      "options": ["Quand le brouillard réduit la visibilité à moins de 50 m", "Chaque fois qu’il pleut", "La nuit sur route"],
+      "why": "Le feu antibrouillard arrière n’est permis que lorsque le brouillard réduit la visibilité à moins de 50 m — et la limite est alors de 50 km/h (§ 17 al. 3 StVO). Avec une meilleure visibilité, il éblouit la circulation qui suit.",
       "tip": "Antibrouillard arrière allumé = 50 au maximum."
     },
     "ha05": {
-      "prompt": "La nuit, les phares du trafic d'en face t'éblouissent. Que fais-tu ?",
-      "options": ["Je regarde le bord droit de la chaussée", "Je ralentis et je m'arrête si nécessaire", "Je réponds avec les feux de route"],
+      "prompt": "La nuit, les phares du trafic d’en face t’éblouissent. Que fais-tu ?",
+      "options": ["Je regarde le bord droit de la chaussée", "Je ralentis et je m’arrête si nécessaire", "Je réponds avec les feux de route"],
       "why": "Regarde le bord droit et ralentis. Après un éblouissement, les yeux ne voient presque rien pendant quelques secondes, et pendant ce temps tu parcours beaucoup de chemin."
     },
     "ha06": {
-      "prompt": "La nuit, un chevreuil se tient sur la chaussée dans la lumière de tes phares. Que fais-tu ?",
-      "options": ["Je passe en feux de croisement, je klaxonne et je freine", "Si le choc est inévitable : je tiens fermement le volant et je ne fais pas de manœuvre dangereuse", "Je laisse les feux de route pour qu'il s'en aille"],
-      "why": "Les feux de route paralysent les animaux sauvages ; les feux de croisement et le klaxon les font fuir. Faire un écart contre un arbre ou vers le trafic d'en face est plus dangereux que de heurter l'animal.",
+      "prompt": "La nuit, un chevreuil se tient sur la chaussée dans la lumière de tes phares. Que fais-tu ?",
+      "options": ["Je passe en feux de croisement, je klaxonne et je freine", "Si le choc est inévitable : je tiens fermement le volant et je ne fais pas de manœuvre dangereuse", "Je laisse les feux de route pour qu’il s’en aille"],
+      "why": "Les feux de route paralysent les animaux sauvages ; les feux de croisement et le klaxon les font fuir. Faire un écart contre un arbre ou vers le trafic d’en face est plus dangereux que de heurter l’animal.",
       "tip": "Croisement, klaxon, frein — pas de coup de volant."
     },
     "ha07": {
-      "prompt": "Tu as percuté un chevreuil. Que fais-tu ?",
-      "options": ["Je signale et sécurise le lieu de l'accident", "Je préviens la police ou la personne titulaire du droit de chasse", "J'emporte l'animal"],
-      "why": "Feux de détresse, gilet, triangle — puis appelle la police, qui préviendra la personne titulaire du droit de chasse. Ne touche pas l'animal et ne l'emporte pas : ce serait du braconnage. Ton assurance voudra une attestation d'accident avec du gibier."
+      "prompt": "Tu as percuté un chevreuil. Que fais-tu ?",
+      "options": ["Je signale et sécurise le lieu de l’accident", "Je préviens la police ou la personne titulaire du droit de chasse", "J’emporte l’animal"],
+      "why": "Feux de détresse, gilet, triangle — puis appelle la police, qui préviendra la personne titulaire du droit de chasse. Ne touche pas l’animal et ne l’emporte pas : ce serait du braconnage. Ton assurance voudra une attestation d’accident avec du gibier."
     },
     "ha08": {
-      "prompt": "Quand freines-tu pour un virage ?",
+      "prompt": "Quand freines-tu pour un virage ?",
       "options": ["Avant le virage, encore en ligne droite", "Au milieu du virage", "À la sortie du virage"],
-      "why": "Dans le virage, les pneus ont besoin de l'adhérence pour tenir la trajectoire. Y freiner peut faire partir la voiture tout droit. Freine d'abord, puis prends le virage de façon régulière.",
-      "tip": "Lent à l'entrée, ferme à la sortie."
+      "why": "Dans le virage, les pneus ont besoin de l’adhérence pour tenir la trajectoire. Y freiner peut faire partir la voiture tout droit. Freine d’abord, puis prends le virage de façon régulière.",
+      "tip": "Lent à l’entrée, ferme à la sortie."
     },
     "ha09": {
-      "prompt": "Lors d'un long trajet, la fatigue te gagne. Qu'est-ce qui aide vraiment ?",
+      "prompt": "Lors d’un long trajet, la fatigue te gagne. Qu’est-ce qui aide vraiment ?",
       "options": ["Faire une pause et, si possible, dormir un peu", "Ouvrir la fenêtre et mettre la musique fort", "Rouler plus vite pour arriver plus tôt"],
-      "why": "Seul le sommeil vient à bout de la fatigue. L'air frais et la musique te donnent au mieux quelques minutes. Un micro-sommeil de trois secondes à 100 km/h, c'est plus de 80 mètres à l'aveugle."
+      "why": "Seul le sommeil vient à bout de la fatigue. L’air frais et la musique te donnent au mieux quelques minutes. Un micro-sommeil de trois secondes à 100 km/h, c’est plus de 80 mètres à l’aveugle."
     },
     "ha10": {
-      "prompt": "Sur un pont ou dans une trouée entre les arbres, le vent latéral te frappe. Que fais-tu ?",
-      "options": ["Je ralentis et je tiens fermement le volant", "Je m'attends à une rafale en dépassant des camions", "Je contre-braque fort dès que je sens quelque chose"],
-      "why": "Le vent latéral arrive par rafales. Plus lentement, avec une prise calme et ferme, tu corriges par de petits mouvements ; les coups de volant font louvoyer la voiture. Le panneau 117 signale les endroits typiques."
+      "prompt": "Sur un pont ou dans une trouée entre les arbres, le vent latéral te frappe. Que fais-tu ?",
+      "options": ["Je ralentis et je tiens fermement le volant", "Je m’attends à une rafale en dépassant des camions", "Je contre-braque fort dès que je sens quelque chose"],
+      "why": "Le vent latéral arrive par rafales. Plus lentement, avec une prise calme et ferme, tu corriges par de petits mouvements ; les coups de volant font louvoyer la voiture. Le panneau 117 signale les endroits typiques."
     },
     "ha11": {
-      "prompt": "Une moto approche et tu veux tourner à gauche. Qu'est-ce qui complique la situation ?",
-      "options": ["Sa vitesse est difficile à évaluer", "Il est facile de ne pas la voir parce qu'elle est étroite", "Les motos doivent céder le passage aux véhicules qui tournent à gauche"],
-      "why": "Les motos sont étroites et semblent plus loin et plus lentes qu'elles ne le sont. Beaucoup d'accidents se produisent exactement ainsi : la personne qui tourne à gauche ne voit pas la moto qui arrive en face. Dans le doute, attends."
+      "prompt": "Une moto approche et tu veux tourner à gauche. Qu’est-ce qui complique la situation ?",
+      "options": ["Sa vitesse est difficile à évaluer", "Il est facile de ne pas la voir parce qu’elle est étroite", "Les motos doivent céder le passage aux véhicules qui tournent à gauche"],
+      "why": "Les motos sont étroites et semblent plus loin et plus lentes qu’elles ne le sont. Beaucoup d’accidents se produisent exactement ainsi : la personne qui tourne à gauche ne voit pas la moto qui arrive en face. Dans le doute, attends."
     },
     "ha12": {
-      "prompt": "Pendant que tu conduis, ton téléphone sonne. Que peux-tu faire ?",
-      "options": ["Parler en mains libres sans prendre le téléphone", "Le prendre un instant pendant que j'attends au rouge", "Lire un message en ligne droite"],
-      "why": "Pendant que tu conduis, tu ne peux ni prendre ni tenir ton téléphone, pas même au rouge ou quand le start-stop a coupé le moteur. Seuls la commande vocale ou un bref coup d'œil à un téléphone fixé sur un support sont permis (§ 23 al. 1a StVO).",
-      "tip": "Au rouge, tu conduis toujours. Ce n'est une pause que moteur complètement coupé."
+      "prompt": "Pendant que tu conduis, ton téléphone sonne. Que peux-tu faire ?",
+      "options": ["Parler en mains libres sans prendre le téléphone", "Le prendre un instant pendant que j’attends au rouge", "Lire un message en ligne droite"],
+      "why": "Pendant que tu conduis, tu ne peux ni prendre ni tenir ton téléphone, pas même au rouge ou quand le start-stop a coupé le moteur. Seuls la commande vocale ou un bref coup d’œil à un téléphone fixé sur un support sont permis (§ 23 al. 1a StVO).",
+      "tip": "Au rouge, tu conduis toujours. Ce n’est une pause que moteur complètement coupé."
     },
     "ha13": {
-      "prompt": "La nuit, tu roules sur route en feux de route. Quand dois-tu passer en feux de croisement ?",
-      "options": ["Quand quelqu'un arrive en face", "Quand je suis de près un autre véhicule", "Seulement quand des camions arrivent en face"],
-      "why": "Passe en feux de croisement quand quelqu'un arrive en face, quand tu suis de près un autre véhicule et chaque fois que tu éblouirais d'autres personnes (§ 17 al. 2 StVO) — piétons et cyclistes compris."
+      "prompt": "La nuit, tu roules sur route en feux de route. Quand dois-tu passer en feux de croisement ?",
+      "options": ["Quand quelqu’un arrive en face", "Quand je suis de près un autre véhicule", "Seulement quand des camions arrivent en face"],
+      "why": "Passe en feux de croisement quand quelqu’un arrive en face, quand tu suis de près un autre véhicule et chaque fois que tu éblouirais d’autres personnes (§ 17 al. 2 StVO) — piétons et cyclistes compris."
     },
     "ha14": {
-      "prompt": "Quand as-tu besoin de pneus hiver ?",
+      "prompt": "Quand as-tu besoin de pneus hiver ?",
       "options": ["Par verglas, neige tassée, neige fondue, plaques de glace ou givre", "Du 1er octobre au 31 mars, quel que soit le temps", "Seulement sur autoroute"],
-      "why": "En Allemagne, la règle dépend de la météo : en conditions hivernales, on ne peut circuler qu'avec des pneus hiver ou toutes saisons portant le symbole alpin (montagne avec flocon de neige). Les pneus marqués seulement M+S ne sont plus acceptés depuis octobre 2024.",
-      "tip": "Règle empirique : d'octobre à Pâques."
+      "why": "En Allemagne, la règle dépend de la météo : en conditions hivernales, on ne peut circuler qu’avec des pneus hiver ou toutes saisons portant le symbole alpin (montagne avec flocon de neige). Les pneus marqués seulement M+S ne sont plus acceptés depuis octobre 2024.",
+      "tip": "Règle empirique : d’octobre à Pâques."
     },
     "ha15": {
-      "prompt": "Devant toi, une camionnette de glaces s'est arrêtée au bord de la route. À quoi t'attends-tu ?",
+      "prompt": "Devant toi, une camionnette de glaces s’est arrêtée au bord de la route. À quoi t’attends-tu ?",
       "options": ["À des enfants qui traversent soudain en courant", "À ce que la camionnette redémarre bientôt", "À rien de particulier"],
       "why": "Là où quelque chose attire les enfants — camionnettes de glaces, parcs, écoles — ils courent sans regarder. Roule lentement et sois en mesure de freiner."
     },
     "ha16": {
-      "prompt": "Tu roules derrière un camion sur route. Pourquoi gardes-tu plus de distance ?",
+      "prompt": "Tu roules derrière un camion sur route. Pourquoi gardes-tu plus de distance ?",
       "options": ["Pour voir la route au-delà du camion", "Parce que la personne au volant du camion ne me voit peut-être pas", "Parce que les camions ne freinent jamais"],
-      "why": "Juste derrière un camion, tu ne vois rien de la route devant et tu es dans l'angle mort de ses rétroviseurs. Plus de distance te donne de la visibilité, et du temps s'il freine brusquement."
+      "why": "Juste derrière un camion, tu ne vois rien de la route devant et tu es dans l’angle mort de ses rétroviseurs. Plus de distance te donne de la visibilité, et du temps s’il freine brusquement."
     },
     "fi01": {
-      "prompt": "Quel taux d'alcool dans le sang peux-tu avoir en conduisant pendant la période probatoire ou avant 21 ans ?",
-      "why": "Pendant la période probatoire et avant 21 ans, l'interdiction absolue d'alcool s'applique (§ 24c StVG) : 0,0 pour mille, pas même une petite bière. L'enfreindre est une infraction grave de la période probatoire, avec stage et prolongation de la période.",
-      "tip": "Période probatoire : zéro virgule zéro."
+      "prompt": "Quel taux d’alcool dans le sang peux-tu avoir en conduisant pendant la période probatoire ou avant 21 ans ?",
+      "why": "Pendant la période probatoire et avant 21 ans, l’interdiction absolue d’alcool s’applique (§ 24c StVG) : 0,0 pour mille, pas même une petite bière. L’enfreindre est une infraction grave de la période probatoire, avec stage et prolongation de la période.",
+      "tip": "Période probatoire : zéro virgule zéro."
     },
     "fi02": {
-      "prompt": "À partir de quel taux d'alcool dans le sang commets-tu une infraction, même sans signe d'altération ?",
-      "options": ["0,5 ‰", "0,8 ‰", "1,1 ‰"],
-      "why": "À partir de 0,5 ‰, c'est une infraction administrative (amende, points, interdiction de conduire). À partir de 0,3 ‰, c'est déjà un délit en cas d'erreurs de conduite ou de signes d'altération. À partir de 1,1 ‰, on considère qu'il y a incapacité absolue de conduire — toujours un délit.",
+      "prompt": "À partir de quel taux d’alcool dans le sang commets-tu une infraction, même sans signe d’altération ?",
+      "options": ["0,5 ‰", "0,8 ‰", "1,1 ‰"],
+      "why": "À partir de 0,5 ‰, c’est une infraction administrative (amende, points, interdiction de conduire). À partir de 0,3 ‰, c’est déjà un délit en cas d’erreurs de conduite ou de signes d’altération. À partir de 1,1 ‰, on considère qu’il y a incapacité absolue de conduire — toujours un délit.",
       "tip": "0,3 avec erreurs — 0,5 toujours — 1,1 délit."
     },
     "fi03": {
-      "prompt": "À peu près à quel rythme le corps élimine-t-il l'alcool ?",
-      "options": ["Environ 0,1 pour mille par heure", "Plus vite avec un café fort", "Plus vite avec une douche froide et de l'air frais"],
-      "why": "Le foie élimine environ 0,1 ‰ par heure, pas plus vite. Le café, la douche ou l'exercice n'y changent rien. Après une longue soirée, on peut encore dépasser la limite le lendemain matin."
+      "prompt": "À peu près à quel rythme le corps élimine-t-il l’alcool ?",
+      "options": ["Environ 0,1 pour mille par heure", "Plus vite avec un café fort", "Plus vite avec une douche froide et de l’air frais"],
+      "why": "Le foie élimine environ 0,1 ‰ par heure, pas plus vite. Le café, la douche ou l’exercice n’y changent rien. Après une longue soirée, on peut encore dépasser la limite le lendemain matin."
     },
     "fi04": {
-      "prompt": "Quelle règle s'applique depuis 2024 au cannabis et à la conduite ?",
-      "options": ["À partir de 3,5 ng/ml de THC dans le sérum sanguin, c'est une infraction", "En période probatoire et avant 21 ans, toute trace de THC est interdite", "Cannabis et alcool, c'est permis si les deux sont sous la limite"],
-      "why": "Depuis août 2024, la limite de THC est de 3,5 ng/ml dans le sérum sanguin (§ 24a StVG). En période probatoire ou avant 21 ans, on ne peut pas conduire du tout sous l'effet du cannabis. En cas de consommation combinée de cannabis et d'alcool, il faut être à 0,0 ‰."
+      "prompt": "Quelle règle s’applique depuis 2024 au cannabis et à la conduite ?",
+      "options": ["À partir de 3,5 ng/ml de THC dans le sérum sanguin, c’est une infraction", "En période probatoire et avant 21 ans, toute trace de THC est interdite", "Cannabis et alcool, c’est permis si les deux sont sous la limite"],
+      "why": "Depuis août 2024, la limite de THC est de 3,5 ng/ml dans le sérum sanguin (§ 24a StVG). En période probatoire ou avant 21 ans, on ne peut pas conduire du tout sous l’effet du cannabis. En cas de consommation combinée de cannabis et d’alcool, il faut être à 0,0 ‰."
     },
     "fi05": {
-      "prompt": "Tu prends un médicament. Que fais-tu avant de conduire ?",
-      "options": ["Je lis la notice et, en cas de doute, je demande au cabinet médical ou à la pharmacie", "Rien — les médicaments sans ordonnance sont toujours sans problème", "Je bois un peu d'alcool pour atténuer l'effet"],
-      "why": "Beaucoup de médicaments, y compris ceux en vente libre contre le rhume et les allergies, provoquent de la somnolence ou ralentissent les réactions. Avec de l'alcool, l'effet est souvent bien plus fort."
+      "prompt": "Tu prends un médicament. Que fais-tu avant de conduire ?",
+      "options": ["Je lis la notice et, en cas de doute, je demande au cabinet médical ou à la pharmacie", "Rien — les médicaments sans ordonnance sont toujours sans problème", "Je bois un peu d’alcool pour atténuer l’effet"],
+      "why": "Beaucoup de médicaments, y compris ceux en vente libre contre le rhume et les allergies, provoquent de la somnolence ou ralentissent les réactions. Avec de l’alcool, l’effet est souvent bien plus fort."
     },
     "fi06": {
-      "prompt": "Ton permis porte le code 01 (correction de la vue). Qu'est-ce que cela signifie ?",
+      "prompt": "Ton permis porte le code 01 (correction de la vue). Qu’est-ce que cela signifie ?",
       "options": ["En conduisant, je dois porter des lunettes ou des lentilles", "Je ne peux conduire que de jour", "Je dois toujours avoir des lunettes de rechange"],
-      "why": "La condition de correction de la vue s'applique à chaque trajet. Conduire sans lunettes ni lentilles enfreint cette condition — amende et problèmes avec l'assurance après un accident."
+      "why": "La condition de correction de la vue s’applique à chaque trajet. Conduire sans lunettes ni lentilles enfreint cette condition — amende et problèmes avec l’assurance après un accident."
     },
     "fi07": {
-      "prompt": "À quoi remarques-tu que la fatigue t'empêche de conduire ?",
+      "prompt": "À quoi remarques-tu que la fatigue t’empêche de conduire ?",
       "options": ["Des bâillements fréquents et des paupières lourdes", "Je ne me souviens pas des derniers kilomètres", "Je ressens une énergie particulière"],
-      "why": "Bâillements, yeux qui piquent, frissons, trous de mémoire, sorties de voie — ce sont des signaux d'alarme. À ce moment-là au plus tard, arrête-toi et repose-toi."
+      "why": "Bâillements, yeux qui piquent, frissons, trous de mémoire, sorties de voie — ce sont des signaux d’alarme. À ce moment-là au plus tard, arrête-toi et repose-toi."
     },
     "fi08": {
-      "prompt": "Après une dispute, la colère te domine. Quel effet sur ta conduite ?",
+      "prompt": "Après une dispute, la colère te domine. Quel effet sur ta conduite ?",
       "options": ["Une tendance à conduire de façon plus risquée et agressive", "Je perçois moins bien les dangers", "Aucun"],
-      "why": "Les émotions fortes — colère, tristesse, même la joie — distraient et poussent à prendre des risques. Retrouve d'abord ton calme, puis prends la route."
+      "why": "Les émotions fortes — colère, tristesse, même la joie — distraient et poussent à prendre des risques. Retrouve d’abord ton calme, puis prends la route."
     },
     "ve01": {
-      "prompt": "Quelle est la profondeur minimale légale des sculptures des pneus ?",
-      "why": "Le minimum légal est de 1,6 mm (§ 36 StVZO). Les spécialistes recommandent 3 mm pour les pneus été et 4 mm pour les pneus hiver ; en dessous, la distance de freinage sur sol mouillé et sur neige augmente beaucoup."
+      "prompt": "Quelle est la profondeur minimale légale des sculptures des pneus ?",
+      "why": "Le minimum légal est de 1,6 mm (§ 36 StVZO). Les spécialistes recommandent 3 mm pour les pneus été et 4 mm pour les pneus hiver ; en dessous, la distance de freinage sur sol mouillé et sur neige augmente beaucoup."
     },
     "ve02": {
-      "prompt": "Quand contrôle-t-on correctement la pression des pneus ?",
+      "prompt": "Quand contrôle-t-on correctement la pression des pneus ?",
       "options": ["Pneus froids", "Selon les valeurs du constructeur, augmentées à pleine charge", "Juste après un long trajet sur autoroute"],
-      "why": "Des pneus chauds affichent une pression trop élevée. Les valeurs figurent dans le manuel, souvent aussi sur la trappe à carburant ou dans l'encadrement de la portière avant. Une pression trop basse allonge le freinage, augmente la consommation et peut détruire le pneu."
+      "why": "Des pneus chauds affichent une pression trop élevée. Les valeurs figurent dans le manuel, souvent aussi sur la trappe à carburant ou dans l’encadrement de la portière avant. Une pression trop basse allonge le freinage, augmente la consommation et peut détruire le pneu."
     },
     "ve03": {
-      "prompt": "En roulant, le témoin rouge de pression d'huile s'allume. Que fais-tu ?",
-      "options": ["Je m'arrête dès que c'est possible en sécurité et je coupe le moteur", "Je continue jusqu'à chez moi et je regarde là-bas", "Je monte dans les tours pour pomper plus d'huile"],
-      "why": "Les témoins rouges signifient : agis tout de suite. Sans pression d'huile, le moteur n'est plus lubrifié et peut casser en quelques minutes. Arrête-toi, coupe le moteur et vérifie le niveau d'huile.",
+      "prompt": "En roulant, le témoin rouge de pression d’huile s’allume. Que fais-tu ?",
+      "options": ["Je m’arrête dès que c’est possible en sécurité et je coupe le moteur", "Je continue jusqu’à chez moi et je regarde là-bas", "Je monte dans les tours pour pomper plus d’huile"],
+      "why": "Les témoins rouges signifient : agis tout de suite. Sans pression d’huile, le moteur n’est plus lubrifié et peut casser en quelques minutes. Arrête-toi, coupe le moteur et vérifie le niveau d’huile.",
       "tip": "Rouge = arrête-toi tout de suite. Orange = bientôt au garage."
     },
     "ve04": {
-      "prompt": "Ta voiture a l'ABS. Comment freines-tu en urgence ?",
-      "options": ["J'enfonce le frein à fond et je le maintiens", "Pendant le freinage à fond, je peux tourner le volant", "Je pompe sur le frein pour que les roues ne se bloquent pas"],
-      "why": "L'ABS empêche les roues de se bloquer — les vibrations dans la pédale sont normales. Appuie fort et maintiens ; tu peux encore diriger. Pomper sur le frein n'avait de sens que sans ABS."
+      "prompt": "Ta voiture a l’ABS. Comment freines-tu en urgence ?",
+      "options": ["J’enfonce le frein à fond et je le maintiens", "Pendant le freinage à fond, je peux tourner le volant", "Je pompe sur le frein pour que les roues ne se bloquent pas"],
+      "why": "L’ABS empêche les roues de se bloquer — les vibrations dans la pédale sont normales. Appuie fort et maintiens ; tu peux encore diriger. Pomper sur le frein n’avait de sens que sans ABS."
     },
     "ve05": {
-      "prompt": "Que fait le contrôle électronique de stabilité (ESP) ?",
+      "prompt": "Que fait le contrôle électronique de stabilité (ESP) ?",
       "options": ["Il aide à éviter les dérapages en freinant les roues séparément", "Il dépasse les limites de la physique", "Il ramène le freinage sur verglas à la normale"],
-      "why": "L'ESP freine des roues individuellement et réduit la puissance pour maintenir la voiture sur sa trajectoire. Ce n'est pas un remède contre l'excès de vitesse — la physique reste la même."
+      "why": "L’ESP freine des roues individuellement et réduit la puissance pour maintenir la voiture sur sa trajectoire. Ce n’est pas un remède contre l’excès de vitesse — la physique reste la même."
     },
     "ve06": {
-      "prompt": "Ta voiture a des feux de jour. Quand dois-tu tout de même allumer les feux de croisement ?",
+      "prompt": "Ta voiture a des feux de jour. Quand dois-tu tout de même allumer les feux de croisement ?",
       "options": ["Au crépuscule et la nuit", "Dans les tunnels et par mauvaise visibilité", "Jamais — les feux de jour suffisent toujours"],
-      "why": "Les feux de jour n'éclairent que vers l'avant et n'éclairent presque pas la route ; les feux arrière restent souvent éteints. Au crépuscule, la nuit, dans les tunnels et par mauvaise visibilité, les feux de croisement sont obligatoires (§ 17 StVO)."
+      "why": "Les feux de jour n’éclairent que vers l’avant et n’éclairent presque pas la route ; les feux arrière restent souvent éteints. Au crépuscule, la nuit, dans les tunnels et par mauvaise visibilité, les feux de croisement sont obligatoires (§ 17 StVO)."
     },
     "ve07": {
-      "prompt": "Tu remorques une voiture avec une corde. Qu'est-ce qui est correct ?",
+      "prompt": "Tu remorques une voiture avec une corde. Qu’est-ce qui est correct ?",
       "options": ["Les deux véhicules allument leurs feux de détresse", "La distance entre les véhicules est de 5 m au maximum", "Le contact de la voiture remorquée reste coupé"],
-      "why": "En remorquage, les deux véhicules ont leurs feux de détresse allumés (§ 15a StVO), la distance est de 5 m au maximum et la corde est signalée en son milieu. Le contact de la voiture remorquée doit être mis, sinon le volant se bloque ; moteur coupé, la direction et les freins sont durs."
+      "why": "En remorquage, les deux véhicules ont leurs feux de détresse allumés (§ 15a StVO), la distance est de 5 m au maximum et la corde est signalée en son milieu. Le contact de la voiture remorquée doit être mis, sinon le volant se bloque ; moteur coupé, la direction et les freins sont durs."
     },
     "ve08": {
-      "prompt": "Tu veux transporter des bagages sur le toit. À quoi fais-tu attention ?",
-      "options": ["Ne pas dépasser la charge sur toit autorisée dans les papiers du véhicule", "La voiture se comporte autrement : centre de gravité plus haut, plus sensible au vent latéral", "Les objets non fixés passent si je roule lentement"],
-      "why": "Le chargement doit être arrimé pour ne pas glisser ni tomber, même lors d'un freinage d'urgence ou d'un coup de volant (§ 22 StVO). Une charge sur le toit modifie le comportement et augmente la consommation."
+      "prompt": "Tu veux transporter des bagages sur le toit. À quoi fais-tu attention ?",
+      "options": ["Ne pas dépasser la charge sur toit autorisée dans les papiers du véhicule", "La voiture se comporte autrement : centre de gravité plus haut, plus sensible au vent latéral", "Les objets non fixés passent si je roule lentement"],
+      "why": "Le chargement doit être arrimé pour ne pas glisser ni tomber, même lors d’un freinage d’urgence ou d’un coup de volant (§ 22 StVO). Une charge sur le toit modifie le comportement et augmente la consommation."
     },
     "ve09": {
-      "prompt": "Quelles remorques peux-tu tracter avec le permis B ?",
-      "options": ["Des remorques jusqu'à 750 kg de masse maximale", "Des remorques plus lourdes, si l'ensemble ne dépasse pas 3 500 kg de masse maximale", "N'importe quelle remorque que ma voiture est homologuée pour tracter"],
-      "why": "Le permis B permet des remorques jusqu'à 750 kg, ou plus lourdes tant que l'ensemble ne dépasse pas 3 500 kg. Le code 96 (après une formation) permet jusqu'à 4 250 kg ; au-delà, il faut le permis BE."
+      "prompt": "Quelles remorques peux-tu tracter avec le permis B ?",
+      "options": ["Des remorques jusqu’à 750 kg de masse maximale", "Des remorques plus lourdes, si l’ensemble ne dépasse pas 3 500 kg de masse maximale", "N’importe quelle remorque que ma voiture est homologuée pour tracter"],
+      "why": "Le permis B permet des remorques jusqu’à 750 kg, ou plus lourdes tant que l’ensemble ne dépasse pas 3 500 kg. Le code 96 (après une formation) permet jusqu’à 4 250 kg ; au-delà, il faut le permis BE."
     },
     "ve10": {
-      "prompt": "Tu descends une pente longue et raide. Comment ménages-tu les freins ?",
+      "prompt": "Tu descends une pente longue et raide. Comment ménages-tu les freins ?",
       "options": ["Avec un rapport court et le frein moteur", "Au point mort, en freinant légèrement tout le temps", "En coupant le contact"],
-      "why": "Freiner sans arrêt surchauffe les freins jusqu'à ce qu'ils ne fonctionnent presque plus (fading). Règle empirique : en descente, le rapport que tu utiliserais en montée. Couper le contact est dangereux — tu perds l'assistance de direction et de freinage."
+      "why": "Freiner sans arrêt surchauffe les freins jusqu’à ce qu’ils ne fonctionnent presque plus (fading). Règle empirique : en descente, le rapport que tu utiliserais en montée. Couper le contact est dangereux — tu perds l’assistance de direction et de freinage."
     },
     "ve11": {
-      "prompt": "Que doit contenir toute voiture particulière ?",
+      "prompt": "Que doit contenir toute voiture particulière ?",
       "options": ["Une trousse de secours", "Un triangle de signalisation", "Au moins un gilet de sécurité"],
-      "why": "Trousse de secours, triangle et au moins un gilet de sécurité sont obligatoires. Un gilet par personne à bord est recommandé, à portée de main dans l'habitacle."
+      "why": "Trousse de secours, triangle et au moins un gilet de sécurité sont obligatoires. Un gilet par personne à bord est recommandé, à portée de main dans l’habitacle."
     },
     "ve12": {
-      "prompt": "Tu veux installer un siège enfant dos à la route sur le siège avant droit. Que dois-tu faire ?",
-      "options": ["Désactiver l'airbag du siège avant droit", "Rien — l'airbag ajoute de la protection", "Avancer le siège au maximum"],
-      "why": "Un airbag qui se déclenche frappe avec une force énorme le dossier d'un siège dos à la route — cela peut tuer. Avec un siège dos à la route, l'airbag du siège avant droit doit être désactivé."
+      "prompt": "Tu veux installer un siège enfant dos à la route sur le siège avant droit. Que dois-tu faire ?",
+      "options": ["Désactiver l’airbag du siège avant droit", "Rien — l’airbag ajoute de la protection", "Avancer le siège au maximum"],
+      "why": "Un airbag qui se déclenche frappe avec une force énorme le dossier d’un siège dos à la route — cela peut tuer. Avec un siège dos à la route, l’airbag du siège avant droit doit être désactivé."
     },
     "ve13": {
-      "prompt": "Jusqu'à quelle taille les moins de 12 ans doivent-ils utiliser un siège enfant ?",
+      "prompt": "Jusqu’à quelle taille les moins de 12 ans doivent-ils utiliser un siège enfant ?",
       "why": "Les enfants de moins de 12 ans mesurant moins de 150 cm ne peuvent voyager que dans un dispositif de retenue pour enfants adapté et homologué (§ 21 al. 1a StVO).",
       "tip": "12 ans ou 150 cm — selon ce qui arrive en premier."
     },
     "ve14": {
-      "prompt": "À quelle fréquence une voiture doit-elle passer le contrôle technique (« TÜV ») ?",
-      "options": ["Tous les deux ans ; une voiture neuve la première fois au bout de trois ans", "Tous les ans", "Seulement après un accident"],
-      "why": "Les voitures particulières passent le contrôle tous les 24 mois, les neuves la première fois au bout de 36 mois. La vignette sur la plaque arrière indique le mois et l'année du prochain."
+      "prompt": "À quelle fréquence une voiture doit-elle passer le contrôle technique (« TÜV ») ?",
+      "options": ["Tous les deux ans ; une voiture neuve la première fois au bout de trois ans", "Tous les ans", "Seulement après un accident"],
+      "why": "Les voitures particulières passent le contrôle tous les 24 mois, les neuves la première fois au bout de 36 mois. La vignette sur la plaque arrière indique le mois et l’année du prochain."
     },
     "ve15": {
-      "prompt": "Comment règle-t-on correctement l'appuie-tête ?",
+      "prompt": "Comment règle-t-on correctement l’appuie-tête ?",
       "options": ["Bord supérieur à hauteur du sommet du crâne, le plus près possible", "Le plus bas possible", "À hauteur de la nuque"],
-      "why": "Lors d'une collision par l'arrière, l'appuie-tête retient la tête. S'il est trop bas, il fait levier et peut blesser le cou."
+      "why": "Lors d’une collision par l’arrière, l’appuie-tête retient la tête. S’il est trop bas, il fait levier et peut blesser le cou."
     },
     "ve16": {
-      "prompt": "À quoi dois-tu faire attention en conduisant lentement une voiture électrique ?",
-      "options": ["Les piétons l'entendent à peine et ne s'attendent peut-être pas à moi", "Elle accélère très fort à l'arrêt", "Les voitures électriques ont toujours la priorité dans les parkings"],
-      "why": "À basse vitesse, les voitures électriques sont très silencieuses ; les piétons — surtout les personnes aveugles et les enfants — les remarquent tard. Leur couple immédiat les fait bondir depuis l'arrêt."
+      "prompt": "À quoi dois-tu faire attention en conduisant lentement une voiture électrique ?",
+      "options": ["Les piétons l’entendent à peine et ne s’attendent peut-être pas à moi", "Elle accélère très fort à l’arrêt", "Les voitures électriques ont toujours la priorité dans les parkings"],
+      "why": "À basse vitesse, les voitures électriques sont très silencieuses ; les piétons — surtout les personnes aveugles et les enfants — les remarquent tard. Leur couple immédiat les fait bondir depuis l’arrêt."
     },
     "ec01": {
-      "prompt": "Comment conduis-tu de la façon la plus économique ?",
-      "options": ["Je passe tôt les rapports et garde un régime bas", "J'anticipe et j'évite les freinages inutiles", "Sur des rapports courts à haut régime"],
-      "why": "Passer tôt les rapports (environ 2 000–2 500 tr/min pour un moteur essence) et laisser rouler en anticipant économise beaucoup de carburant. Chaque arrêt inutile gaspille de l'énergie payée en carburant."
+      "prompt": "Comment conduis-tu de la façon la plus économique ?",
+      "options": ["Je passe tôt les rapports et garde un régime bas", "J’anticipe et j’évite les freinages inutiles", "Sur des rapports courts à haut régime"],
+      "why": "Passer tôt les rapports (environ 2 000–2 500 tr/min pour un moteur essence) et laisser rouler en anticipant économise beaucoup de carburant. Chaque arrêt inutile gaspille de l’énergie payée en carburant."
     },
     "ec02": {
-      "prompt": "Tu t'approches en roue libre d'un feu rouge, une vitesse engagée. Que se passe-t-il ?",
-      "options": ["L'injection de carburant est coupée (coupure en décélération)", "Le moteur consomme plus qu'au ralenti", "Le moteur cale"],
-      "why": "En roulant avec une vitesse engagée sans appuyer sur l'accélérateur, les moteurs modernes coupent l'injection et ne consomment pas de carburant. Au point mort, le moteur continue de brûler du carburant pour tourner au ralenti."
+      "prompt": "Tu t’approches en roue libre d’un feu rouge, une vitesse engagée. Que se passe-t-il ?",
+      "options": ["L’injection de carburant est coupée (coupure en décélération)", "Le moteur consomme plus qu’au ralenti", "Le moteur cale"],
+      "why": "En roulant avec une vitesse engagée sans appuyer sur l’accélérateur, les moteurs modernes coupent l’injection et ne consomment pas de carburant. Au point mort, le moteur continue de brûler du carburant pour tourner au ralenti."
     },
     "ec03": {
-      "prompt": "Qu'est-ce qui est interdit pour éviter le bruit et les gaz inutiles ?",
-      "options": ["Faire chauffer le moteur à l'arrêt", "Tourner en rond sans raison en ville", "Laisser le moteur tourner à un feu"],
-      "why": "Le bruit inutile et les gaz évitables sont interdits, y compris faire chauffer le moteur à l'arrêt et tourner en rond sans but en ville (§ 30 al. 1 StVO). Au feu, le moteur peut tourner, mais lors de longues attentes, il vaut la peine de le couper."
+      "prompt": "Qu’est-ce qui est interdit pour éviter le bruit et les gaz inutiles ?",
+      "options": ["Faire chauffer le moteur à l’arrêt", "Tourner en rond sans raison en ville", "Laisser le moteur tourner à un feu"],
+      "why": "Le bruit inutile et les gaz évitables sont interdits, y compris faire chauffer le moteur à l’arrêt et tourner en rond sans but en ville (§ 30 al. 1 StVO). Au feu, le moteur peut tourner, mais lors de longues attentes, il vaut la peine de le couper."
     },
     "ec04": {
-      "prompt": "Une longue attente t'attend devant la barrière fermée d'un passage à niveau. Que fais-tu ?",
-      "options": ["Je coupe le moteur", "Je le laisse tourner pour qu'il ne refroidisse pas", "J'accélère pour charger la batterie"],
+      "prompt": "Une longue attente t’attend devant la barrière fermée d’un passage à niveau. Que fais-tu ?",
+      "options": ["Je coupe le moteur", "Je le laisse tourner pour qu’il ne refroidisse pas", "J’accélère pour charger la batterie"],
       "why": "Lors de longues attentes aux barrières, dans les bouchons ou aux feux de chantier, couper le moteur économise du carburant et réduit le bruit et les gaz."
     },
     "ec05": {
-      "prompt": "Qu'est-ce qui augmente la consommation de carburant ?",
+      "prompt": "Qu’est-ce qui augmente la consommation de carburant ?",
       "options": ["Une galerie de toit vide", "Des pneus sous-gonflés", "La climatisation"],
-      "why": "Les accessoires de toit augmentent la résistance de l'air, une pression trop basse la résistance au roulement, et la climatisation prend de la puissance au moteur. Retire-les, vérifie les pressions et n'utilise la clim qu'en cas de besoin."
+      "why": "Les accessoires de toit augmentent la résistance de l’air, une pression trop basse la résistance au roulement, et la climatisation prend de la puissance au moteur. Retire-les, vérifie les pressions et n’utilise la clim qu’en cas de besoin."
     },
     "ec06": {
-      "prompt": "Pourquoi la consommation augmente-t-elle autant à haute vitesse ?",
-      "options": ["La résistance de l'air augmente avec le carré de la vitesse", "Parce que le moteur est inefficace sur le rapport le plus long", "Elle n'augmente pas — rouler vite fait gagner du temps et du carburant"],
-      "why": "Deux fois plus vite, c'est quatre fois plus de résistance de l'air. Rouler à 120 au lieu de 160 km/h sur autoroute économise souvent un tiers du carburant et ne coûte qu'environ douze minutes tous les 100 km."
+      "prompt": "Pourquoi la consommation augmente-t-elle autant à haute vitesse ?",
+      "options": ["La résistance de l’air augmente avec le carré de la vitesse", "Parce que le moteur est inefficace sur le rapport le plus long", "Elle n’augmente pas — rouler vite fait gagner du temps et du carburant"],
+      "why": "Deux fois plus vite, c’est quatre fois plus de résistance de l’air. Rouler à 120 au lieu de 160 km/h sur autoroute économise souvent un tiers du carburant et ne coûte qu’environ douze minutes tous les 100 km."
     },
     "ec07": {
-      "prompt": "Où déposes-tu l'huile moteur usagée ?",
-      "options": ["À un point de collecte, par exemple là où l'huile a été achetée", "Dans les ordures ménagères, dans une bouteille fermée", "Dans l'évier"],
-      "why": "Un litre d'huile usagée peut polluer un million de litres d'eau potable. Les magasins qui vendent de l'huile moteur doivent reprendre gratuitement la même quantité d'huile usagée."
+      "prompt": "Où déposes-tu l’huile moteur usagée ?",
+      "options": ["À un point de collecte, par exemple là où l’huile a été achetée", "Dans les ordures ménagères, dans une bouteille fermée", "Dans l’évier"],
+      "why": "Un litre d’huile usagée peut polluer un million de litres d’eau potable. Les magasins qui vendent de l’huile moteur doivent reprendre gratuitement la même quantité d’huile usagée."
     },
     "ec08": {
-      "prompt": "Qui peut entrer dans une zone à faibles émissions ?",
+      "prompt": "Qui peut entrer dans une zone à faibles émissions ?",
       "options": ["Les véhicules portant la vignette environnementale exigée", "Tout véhicule qui roule lentement", "Seulement les voitures électriques"],
-      "why": "Dans une zone à faibles émissions (panneau 270.1), seuls les véhicules portant la bonne vignette peuvent entrer — aujourd'hui presque partout, la verte. Sans elle, tu peux recevoir une amende."
+      "why": "Dans une zone à faibles émissions (panneau 270.1), seuls les véhicules portant la bonne vignette peuvent entrer — aujourd’hui presque partout, la verte. Sans elle, tu peux recevoir une amende."
     },
     "ec09": {
-      "prompt": "Quels trajets sont les plus pénalisants pour le moteur et l'environnement ?",
+      "prompt": "Quels trajets sont les plus pénalisants pour le moteur et l’environnement ?",
       "options": ["Les trajets courts moteur froid", "Les longs trajets réguliers", "Les trajets avec régulateur de vitesse"],
-      "why": "Un moteur froid consomme beaucoup plus et s'use plus vite, et le catalyseur n'a pas encore chauffé. Pour les courtes distances, il vaut souvent mieux aller à pied, à vélo ou en bus."
+      "why": "Un moteur froid consomme beaucoup plus et s’use plus vite, et le catalyseur n’a pas encore chauffé. Pour les courtes distances, il vaut souvent mieux aller à pied, à vélo ou en bus."
     },
     "la01": {
-      "prompt": "Qu'exige la règle de base du § 1 StVO ?",
-      "options": ["Une prudence constante et des égards mutuels", "Que personne ne subisse de dommage, de danger, ni plus de gêne ou de désagrément que l'inévitable", "Que la personne prioritaire puisse imposer sa priorité"],
-      "why": "Le § 1 StVO prime sur toutes les autres règles : prudence constante et égards mutuels. La priorité est un droit que tu ne peux pas imposer par la force quand l'autre personne l'ignore manifestement.",
-      "tip": "Avoir raison ne veut pas dire l'imposer."
+      "prompt": "Qu’exige la règle de base du § 1 StVO ?",
+      "options": ["Une prudence constante et des égards mutuels", "Que personne ne subisse de dommage, de danger, ni plus de gêne ou de désagrément que l’inévitable", "Que la personne prioritaire puisse imposer sa priorité"],
+      "why": "Le § 1 StVO prime sur toutes les autres règles : prudence constante et égards mutuels. La priorité est un droit que tu ne peux pas imposer par la force quand l’autre personne l’ignore manifestement.",
+      "tip": "Avoir raison ne veut pas dire l’imposer."
     },
     "la02": {
-      "prompt": "Tu arrives sur un accident avec des blessés. Que fais-tu d'abord ?",
-      "options": ["Je signale et sécurise le lieu de l'accident", "J'appelle le 112 et je donne les premiers secours", "Je continue — quelqu'un d'autre va sûrement s'arrêter"],
-      "why": "Feux de détresse, gilet, triangle : sécurise d'abord le lieu pour que personne d'autre ne percute. Ensuite le 112 et les premiers secours. Ne pas porter assistance alors que c'est raisonnablement possible est un délit (§ 323c StGB).",
+      "prompt": "Tu arrives sur un accident avec des blessés. Que fais-tu d’abord ?",
+      "options": ["Je signale et sécurise le lieu de l’accident", "J’appelle le 112 et je donne les premiers secours", "Je continue — quelqu’un d’autre va sûrement s’arrêter"],
+      "why": "Feux de détresse, gilet, triangle : sécurise d’abord le lieu pour que personne d’autre ne percute. Ensuite le 112 et les premiers secours. Ne pas porter assistance alors que c’est raisonnablement possible est un délit (§ 323c StGB).",
       "tip": "Sécuriser — appeler — secourir."
     },
     "la03": {
-      "prompt": "En sortant d'une place, tu as endommagé une autre voiture. La personne propriétaire n'est pas là. Que fais-tu ?",
-      "options": ["J'attends un temps raisonnable et, si personne ne vient, je préviens la police", "Je laisse un mot avec mon numéro sous l'essuie-glace et je pars", "Je pars — le dégât est minime"],
+      "prompt": "En sortant d’une place, tu as endommagé une autre voiture. La personne propriétaire n’est pas là. Que fais-tu ?",
+      "options": ["J’attends un temps raisonnable et, si personne ne vient, je préviens la police", "Je laisse un mot avec mon numéro sous l’essuie-glace et je pars", "Je pars — le dégât est minime"],
       "why": "Partir sans permettre de faire le constat des faits est un délit (§ 142 StGB, délit de fuite). Un mot ne suffit pas. Attends un temps raisonnable, puis signale-le à la police sans tarder.",
-      "tip": "Un mot n'est pas une déclaration."
+      "tip": "Un mot n’est pas une déclaration."
     },
     "la04": {
-      "prompt": "Quels documents dois-tu avoir sur toi en conduisant ?",
-      "options": ["Le permis de conduire", "Le certificat d'immatriculation partie I (Fahrzeugschein)", "Le contrat d'achat de la voiture"],
-      "why": "Tu dois avoir sur toi le permis de conduire et le certificat d'immatriculation partie I et les présenter si on te les demande. La partie II (titre de propriété) ne se garde pas dans la voiture."
+      "prompt": "Quels documents dois-tu avoir sur toi en conduisant ?",
+      "options": ["Le permis de conduire", "Le certificat d’immatriculation partie I (Fahrzeugschein)", "Le contrat d’achat de la voiture"],
+      "why": "Tu dois avoir sur toi le permis de conduire et le certificat d’immatriculation partie I et les présenter si on te les demande. La partie II (titre de propriété) ne se garde pas dans la voiture."
     },
     "la05": {
-      "prompt": "Combien d'années dure normalement la période probatoire après l'obtention du permis ?",
+      "prompt": "Combien d’années dure normalement la période probatoire après l’obtention du permis ?",
       "why": "La période probatoire dure deux ans à compter du premier permis. Après une infraction grave (A) ou deux moins graves (B), il faut suivre un stage de réhabilitation et la période est prolongée à quatre ans (§ 2a StVG)."
     },
     "la06": {
-      "prompt": "Quelle infraction est grave (catégorie A) pendant la période probatoire ?",
+      "prompt": "Quelle infraction est grave (catégorie A) pendant la période probatoire ?",
       "options": ["Dépasser la limite de plus de 20 km/h", "Griller un feu rouge", "Conduire sans gilet de sécurité dans la voiture"],
-      "why": "La catégorie A comprend l'excès de vitesse de 21 km/h ou plus, griller un feu rouge, ne pas respecter la priorité, dépasser de façon dangereuse, et l'alcool ou le cannabis au volant. Une seule suffit pour le stage de réhabilitation."
+      "why": "La catégorie A comprend l’excès de vitesse de 21 km/h ou plus, griller un feu rouge, ne pas respecter la priorité, dépasser de façon dangereuse, et l’alcool ou le cannabis au volant. Une seule suffit pour le stage de réhabilitation."
     },
     "la07": {
-      "prompt": "Avec combien de points au registre de Flensburg le permis est-il retiré ?",
-      "why": "Le registre des points de Flensburg fonctionne par paliers : 4–5 points un rappel, 6–7 un avertissement, et à 8 points le permis est retiré."
+      "prompt": "Avec combien de points au registre de Flensburg le permis est-il retiré ?",
+      "why": "Le registre des points de Flensburg fonctionne par paliers : 4–5 points un rappel, 6–7 un avertissement, et à 8 points le permis est retiré."
     },
     "la08": {
-      "prompt": "Qu'est-ce qui t'attend si tu passes à un feu rouge depuis plus d'une seconde ?",
-      "options": ["Un mois d'interdiction de conduire", "Deux points au registre de Flensburg", "Seulement un avertissement"],
-      "why": "Un franchissement de feu rouge « qualifié » (rouge depuis plus d'une seconde) coûte, selon le barème des amendes, 200 €, 2 points et un mois d'interdiction de conduire — plus stage et prolongation si tu es en période probatoire."
+      "prompt": "Qu’est-ce qui t’attend si tu passes à un feu rouge depuis plus d’une seconde ?",
+      "options": ["Un mois d’interdiction de conduire", "Deux points au registre de Flensburg", "Seulement un avertissement"],
+      "why": "Un franchissement de feu rouge « qualifié » (rouge depuis plus d’une seconde) coûte, selon le barème des amendes, 200 €, 2 points et un mois d’interdiction de conduire — plus stage et prolongation si tu es en période probatoire."
     },
     "la09": {
-      "prompt": "Qui est responsable du bon état de marche du véhicule au départ ?",
-      "options": ["Moi, en tant que personne au volant", "Seulement la personne titulaire du certificat d'immatriculation", "Le garage"],
-      "why": "La personne qui conduit est responsable du bon ordre du véhicule, du chargement et des occupants, et de l'état de marche du véhicule (§ 23 al. 1 StVO). La personne titulaire du certificat d'immatriculation en répond aussi."
+      "prompt": "Qui est responsable du bon état de marche du véhicule au départ ?",
+      "options": ["Moi, en tant que personne au volant", "Seulement la personne titulaire du certificat d’immatriculation", "Le garage"],
+      "why": "La personne qui conduit est responsable du bon ordre du véhicule, du chargement et des occupants, et de l’état de marche du véhicule (§ 23 al. 1 StVO). La personne titulaire du certificat d’immatriculation en répond aussi."
     },
     "la10": {
-      "prompt": "Qui doit porter la ceinture en voiture ?",
-      "options": ["Toute personne assise sur un siège équipé d'une ceinture", "Seulement la personne au volant et celle assise à l'avant", "Seulement sur autoroute"],
-      "why": "La ceinture est obligatoire en roulant, à l'avant comme à l'arrière (§ 21a StVO). En tant que personne au volant, tu es aussi responsable de la bonne attache des enfants."
+      "prompt": "Qui doit porter la ceinture en voiture ?",
+      "options": ["Toute personne assise sur un siège équipé d’une ceinture", "Seulement la personne au volant et celle assise à l’avant", "Seulement sur autoroute"],
+      "why": "La ceinture est obligatoire en roulant, à l’avant comme à l’arrière (§ 21a StVO). En tant que personne au volant, tu es aussi responsable de la bonne attache des enfants."
     },
     "la11": {
-      "prompt": "Quelles conditions doit remplir la personne adulte qui accompagne dans la conduite accompagnée dès 17 ans ?",
+      "prompt": "Quelles conditions doit remplir la personne adulte qui accompagne dans la conduite accompagnée dès 17 ans ?",
       "options": ["Avoir au moins 30 ans", "Avoir le permis B depuis au moins 5 ans", "Avoir au plus un point au registre de Flensburg"],
-      "why": "Les personnes accompagnatrices doivent avoir au moins 30 ans, le permis B depuis au moins 5 ans, au plus un point et être inscrites sur l'attestation. Les limites de 0,5 ‰ d'alcool et celles du cannabis s'appliquent à elles."
+      "why": "Les personnes accompagnatrices doivent avoir au moins 30 ans, le permis B depuis au moins 5 ans, au plus un point et être inscrites sur l’attestation. Les limites de 0,5 ‰ d’alcool et celles du cannabis s’appliquent à elles."
     },
     "la12": {
-      "prompt": "Quelle assurance est obligatoire pour toute voiture immatriculée ?",
-      "options": ["L'assurance responsabilité civile", "L'assurance tous risques", "L'assurance accidents pour les occupants"],
-      "why": "Seule l'assurance responsabilité civile est obligatoire : elle paie les dommages que tu causes aux autres. Les couvertures partielle et tous risques de ta propre voiture sont facultatives."
+      "prompt": "Quelle assurance est obligatoire pour toute voiture immatriculée ?",
+      "options": ["L’assurance responsabilité civile", "L’assurance tous risques", "L’assurance accidents pour les occupants"],
+      "why": "Seule l’assurance responsabilité civile est obligatoire : elle paie les dommages que tu causes aux autres. Les couvertures partielle et tous risques de ta propre voiture sont facultatives."
     }
   }
 }

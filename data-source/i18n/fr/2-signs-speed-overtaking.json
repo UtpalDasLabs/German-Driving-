@@ -1,322 +1,322 @@
 {
   "questions": {
     "si01": {
-      "prompt": "Où se termine cette limitation de vitesse ?",
+      "prompt": "Où se termine cette limitation de vitesse ?",
       "options": ["À un panneau qui indique sa fin (par exemple le 278 ou le 282)", "Toujours au carrefour suivant", "Après exactement 500 mètres"],
-      "why": "Les limitations sur un tronçon durent jusqu'à ce qu'un panneau les lève ; elles ne s'arrêtent pas d'elles-mêmes après un carrefour. Exceptions : un panonceau indique la longueur, ou la limitation accompagne un panneau de danger et se termine clairement avec le danger.",
-      "tip": "Les carrefours n'annulent pas la limitation de vitesse."
+      "why": "Les limitations sur un tronçon durent jusqu’à ce qu’un panneau les lève ; elles ne s’arrêtent pas d’elles-mêmes après un carrefour. Exceptions : un panonceau indique la longueur, ou la limitation accompagne un panneau de danger et se termine clairement avec le danger.",
+      "tip": "Les carrefours n’annulent pas la limitation de vitesse."
     },
     "si02": {
-      "prompt": "Qu'est-ce qui est permis sur la chaussée avec ce panneau ?",
-      "options": ["Rien — s'arrêter est totalement interdit", "Un bref arrêt pour laisser descendre quelqu'un", "Stationner jusqu'à trois minutes"],
-      "why": "Le panneau 283 est l'interdiction absolue de s'arrêter : sur la chaussée, tu ne peux pas t'arrêter du tout, pas même un instant pour laisser monter ou descendre quelqu'un.",
+      "prompt": "Qu’est-ce qui est permis sur la chaussée avec ce panneau ?",
+      "options": ["Rien — s’arrêter est totalement interdit", "Un bref arrêt pour laisser descendre quelqu’un", "Stationner jusqu’à trois minutes"],
+      "why": "Le panneau 283 est l’interdiction absolue de s’arrêter : sur la chaussée, tu ne peux pas t’arrêter du tout, pas même un instant pour laisser monter ou descendre quelqu’un.",
       "tip": "Croix = jamais. Une barre = un instant."
     },
     "si03": {
-      "prompt": "Qu'est-ce que ce panneau permet ?",
-      "options": ["S'arrêter jusqu'à trois minutes", "S'arrêter plus longtemps pour charger ou pour faire monter et descendre des passagers", "Stationner"],
-      "why": "Le panneau 286, interdiction restreinte de s'arrêter, interdit de s'arrêter plus de trois minutes, sauf pour faire monter ou descendre des personnes ou pour charger et décharger. Stationner n'est pas permis."
+      "prompt": "Qu’est-ce que ce panneau permet ?",
+      "options": ["S’arrêter jusqu’à trois minutes", "S’arrêter plus longtemps pour charger ou pour faire monter et descendre des passagers", "Stationner"],
+      "why": "Le panneau 286, interdiction restreinte de s’arrêter, interdit de s’arrêter plus de trois minutes, sauf pour faire monter ou descendre des personnes ou pour charger et décharger. Stationner n’est pas permis."
     },
     "si04": {
-      "prompt": "Que signifie ce panneau ?",
+      "prompt": "Que signifie ce panneau ?",
       "options": ["Circulation interdite à tout véhicule — on peut pousser son vélo à la main", "Riverains uniquement", "Les vélos peuvent circuler"],
-      "why": "Le panneau 250 interdit les véhicules de tout type. Il ne s'applique pas aux chariots à bras ni aux vélos et motos poussés à la main."
+      "why": "Le panneau 250 interdit les véhicules de tout type. Il ne s’applique pas aux chariots à bras ni aux vélos et motos poussés à la main."
     },
     "si05": {
-      "prompt": "Que signifie ce panneau ?",
+      "prompt": "Que signifie ce panneau ?",
       "options": ["Sens interdit", "Circulation interdite dans les deux sens", "Arrêt interdit"],
-      "why": "Le panneau 267 signifie sens interdit. Il se trouve souvent à l'extrémité d'une rue à sens unique dans laquelle on peut entrer par l'autre côté."
+      "why": "Le panneau 267 signifie sens interdit. Il se trouve souvent à l’extrémité d’une rue à sens unique dans laquelle on peut entrer par l’autre côté."
     },
     "si06": {
-      "prompt": "Quelle règle s'applique dans cette rue ?",
-      "options": ["Je ne peux circuler que dans le sens de la flèche", "Je peux aussi m'arrêter et stationner à gauche", "Je peux faire demi-tour ici"],
-      "why": "Le panneau 220 indique une rue à sens unique. On ne circule que dans le sens de la flèche ; s'arrêter et stationner est aussi permis à gauche (§ 12 al. 4 StVO). Faire demi-tour reviendrait à rouler à contresens."
+      "prompt": "Quelle règle s’applique dans cette rue ?",
+      "options": ["Je ne peux circuler que dans le sens de la flèche", "Je peux aussi m’arrêter et stationner à gauche", "Je peux faire demi-tour ici"],
+      "why": "Le panneau 220 indique une rue à sens unique. On ne circule que dans le sens de la flèche ; s’arrêter et stationner est aussi permis à gauche (§ 12 al. 4 StVO). Faire demi-tour reviendrait à rouler à contresens."
     },
     "si07": {
-      "prompt": "Que t'indique ce panneau ?",
+      "prompt": "Que t’indique ce panneau ?",
       "options": ["Voie sans issue", "Route prioritaire", "Stationnement interdit"],
-      "why": "Le panneau 357 indique une voie sans issue : les véhicules ne peuvent pas passer. Prévois de devoir faire demi-tour."
+      "why": "Le panneau 357 indique une voie sans issue : les véhicules ne peuvent pas passer. Prévois de devoir faire demi-tour."
     },
     "si08": {
-      "prompt": "Quelle règle s'applique dans cette zone ?",
-      "options": ["Circuler au pas", "Les piétons peuvent utiliser toute la rue et les enfants jouer partout", "On peut stationner n'importe où au bord"],
+      "prompt": "Quelle règle s’applique dans cette zone ?",
+      "options": ["Circuler au pas", "Les piétons peuvent utiliser toute la rue et les enfants jouer partout", "On peut stationner n’importe où au bord"],
       "why": "Dans une zone de rencontre (panneau 325.1), on circule au pas. Les piétons peuvent utiliser toute la largeur et les enfants jouer partout. On ne stationne que sur les emplacements signalés.",
-      "tip": "Zone de rencontre : ici, tu es en visite."
+      "tip": "Zone de rencontre : ici, tu es en visite."
     },
     "si09": {
-      "prompt": "Tu sors d'une zone de rencontre pour rejoindre une route normale. Qui a la priorité ?",
+      "prompt": "Tu sors d’une zone de rencontre pour rejoindre une route normale. Qui a la priorité ?",
       "options": ["Tous les véhicules qui circulent sur la route que je rejoins", "Moi, si je viens de droite", "Moi, parce que je roule au pas"],
-      "why": "En sortant d'une zone de rencontre, tu dois laisser passer tout le monde et exclure tout danger (§ 10 StVO), comme en sortant d'une entrée charretière."
+      "why": "En sortant d’une zone de rencontre, tu dois laisser passer tout le monde et exclure tout danger (§ 10 StVO), comme en sortant d’une entrée charretière."
     },
     "si10": {
-      "prompt": "Quelle règle s'applique normalement dans cette zone ?",
-      "options": ["30 km/h maximum", "Aux carrefours, normalement la « priorité à droite »", "Interdiction de dépasser qui que ce soit"],
-      "why": "Dans une zone 30 (panneau 274.1), la limite est de 30 km/h jusqu'à ce que le panneau 274.2 ferme la zone. Ces zones n'ont pas de routes prioritaires, donc aux carrefours, c'est généralement la « priorité à droite »."
+      "prompt": "Quelle règle s’applique normalement dans cette zone ?",
+      "options": ["30 km/h maximum", "Aux carrefours, normalement la « priorité à droite »", "Interdiction de dépasser qui que ce soit"],
+      "why": "Dans une zone 30 (panneau 274.1), la limite est de 30 km/h jusqu’à ce que le panneau 274.2 ferme la zone. Ces zones n’ont pas de routes prioritaires, donc aux carrefours, c’est généralement la « priorité à droite »."
     },
     "si11": {
-      "prompt": "Quelle est la limite de vitesse pour une voiture particulière à partir de ce panneau, si d'autres panneaux n'indiquent pas le contraire ?",
-      "why": "Le panneau d'entrée d'agglomération (310) marque le début d'une zone urbaine. À l'intérieur, la limite pour tous les véhicules à moteur est de 50 km/h (§ 3 al. 3 StVO).",
-      "tip": "Panneau jaune d'agglomération = 50."
+      "prompt": "Quelle est la limite de vitesse pour une voiture particulière à partir de ce panneau, si d’autres panneaux n’indiquent pas le contraire ?",
+      "why": "Le panneau d’entrée d’agglomération (310) marque le début d’une zone urbaine. À l’intérieur, la limite pour tous les véhicules à moteur est de 50 km/h (§ 3 al. 3 StVO).",
+      "tip": "Panneau jaune d’agglomération = 50."
     },
     "si12": {
-      "prompt": "Qui peut circuler sur l'autoroute ?",
+      "prompt": "Qui peut circuler sur l’autoroute ?",
       "options": ["Les véhicules à moteur conçus pour dépasser 60 km/h", "Tous les véhicules à moteur", "Aussi les cyclomoteurs limités à 45 km/h"],
       "why": "Les autoroutes (panneau 330.1) et les voies express sont réservées aux véhicules à moteur dont la vitesse maximale par construction dépasse 60 km/h (§ 18 al. 1 StVO)."
     },
     "si13": {
-      "prompt": "Qu'indique ce panneau ?",
+      "prompt": "Qu’indique ce panneau ?",
       "options": ["Fin de route prioritaire", "Début de route prioritaire", "Priorité au prochain carrefour"],
-      "why": "Le panneau 307 met fin à la route prioritaire. Ensuite, ce sont de nouveau les panneaux ou la « priorité à droite » qui décident. Souvent, le panneau 205 suit peu après."
+      "why": "Le panneau 307 met fin à la route prioritaire. Ensuite, ce sont de nouveau les panneaux ou la « priorité à droite » qui décident. Souvent, le panneau 205 suit peu après."
     },
     "si14": {
-      "prompt": "Quand l'avertissement de ces panneaux s'applique-t-il ?",
+      "prompt": "Quand l’avertissement de ces panneaux s’applique-t-il ?",
       "options": ["Seulement quand la chaussée est mouillée", "Toujours", "Seulement en hiver"],
-      "why": "Le panneau 114 avertit d'une chaussée glissante. Le panonceau « bei Nässe » (par chaussée mouillée) limite l'avertissement à la chaussée mouillée."
+      "why": "Le panneau 114 avertit d’une chaussée glissante. Le panonceau « bei Nässe » (par chaussée mouillée) limite l’avertissement à la chaussée mouillée."
     },
     "si15": {
-      "prompt": "À quoi dois-tu t'attendre devant ce panneau ?",
-      "options": ["À des enfants qui surgissent soudain sur la chaussée", "À des enfants qui jouent au bord de la route", "À des enfants seulement aux heures d'école"],
-      "why": "Le panneau 136 avertit de la présence d'enfants à toute heure de la journée. Ralentis et sois en mesure de freiner (§ 3 al. 2a StVO)."
+      "prompt": "À quoi dois-tu t’attendre devant ce panneau ?",
+      "options": ["À des enfants qui surgissent soudain sur la chaussée", "À des enfants qui jouent au bord de la route", "À des enfants seulement aux heures d’école"],
+      "why": "Le panneau 136 avertit de la présence d’enfants à toute heure de la journée. Ralentis et sois en mesure de freiner (§ 3 al. 2a StVO)."
     },
     "si16": {
-      "prompt": "Qu'est-ce qui est vrai devant ce panneau ?",
-      "options": ["Les animaux apparaissent surtout au crépuscule et à l'aube", "Là où un animal traverse, d'autres le suivent souvent", "L'avertissement ne vaut qu'en automne"],
-      "why": "Le panneau 142 avertit du passage d'animaux sauvages. Ils sont plus actifs à l'aube et au crépuscule et se déplacent souvent en groupe : après le premier chevreuil, il en vient souvent un deuxième."
+      "prompt": "Qu’est-ce qui est vrai devant ce panneau ?",
+      "options": ["Les animaux apparaissent surtout au crépuscule et à l’aube", "Là où un animal traverse, d’autres le suivent souvent", "L’avertissement ne vaut qu’en automne"],
+      "why": "Le panneau 142 avertit du passage d’animaux sauvages. Ils sont plus actifs à l’aube et au crépuscule et se déplacent souvent en groupe : après le premier chevreuil, il en vient souvent un deuxième."
     },
     "si17": {
-      "prompt": "À environ combien de mètres avant le passage à niveau se trouve la balise à trois bandes ?",
+      "prompt": "À environ combien de mètres avant le passage à niveau se trouve la balise à trois bandes ?",
       "why": "Les balises se trouvent à environ 240 m (trois bandes), 160 m (deux) et 80 m (une) avant le passage. Chaque bande correspond à environ 80 mètres.",
       "tip": "Une bande = 80 mètres."
     },
     "si18": {
-      "prompt": "Qui peux-tu encore dépasser devant ce panneau ?",
+      "prompt": "Qui peux-tu encore dépasser devant ce panneau ?",
       "options": ["Un vélo", "Une moto sans side-car", "Une voiture particulière lente"],
       "why": "Le panneau 276 interdit de dépasser les véhicules à moteur à plusieurs voies et les motos avec side-car. Les deux-roues — vélos, cyclomoteurs, motos — peuvent encore être dépassés avec un espace suffisant."
     },
     "si19": {
-      "prompt": "Tu conduis une voiture avec remorque, de plus de 3,5 t au total. Peux-tu dépasser avec ce panneau ?",
-      "options": ["Oui — les voitures particulières sont exclues de cette interdiction", "Non — l'ensemble pèse plus de 3,5 t", "Seulement les cyclistes"],
-      "why": "Le panneau 277 s'applique aux véhicules à moteur de plus de 3,5 t, remorques comprises, et aux tracteurs. Les voitures particulières et les bus en sont expressément exclus, avec ou sans remorque."
+      "prompt": "Tu conduis une voiture avec remorque, de plus de 3,5 t au total. Peux-tu dépasser avec ce panneau ?",
+      "options": ["Oui — les voitures particulières sont exclues de cette interdiction", "Non — l’ensemble pèse plus de 3,5 t", "Seulement les cyclistes"],
+      "why": "Le panneau 277 s’applique aux véhicules à moteur de plus de 3,5 t, remorques comprises, et aux tracteurs. Les voitures particulières et les bus en sont expressément exclus, avec ou sans remorque."
     },
     "si20": {
-      "prompt": "Qu'est-ce que ce panneau annule ?",
-      "options": ["Toutes les limitations du tronçon précédent, comme les limitations de vitesse et les interdictions de dépasser", "Seulement l'interdiction de dépasser", "La route prioritaire"],
-      "why": "Le panneau 282 met fin à toutes les limitations du tronçon. Ensuite, les règles générales s'appliquent de nouveau — hors agglomération, par exemple, 100 km/h pour les voitures particulières."
+      "prompt": "Qu’est-ce que ce panneau annule ?",
+      "options": ["Toutes les limitations du tronçon précédent, comme les limitations de vitesse et les interdictions de dépasser", "Seulement l’interdiction de dépasser", "La route prioritaire"],
+      "why": "Le panneau 282 met fin à toutes les limitations du tronçon. Ensuite, les règles générales s’appliquent de nouveau — hors agglomération, par exemple, 100 km/h pour les voitures particulières."
     },
     "si21": {
-      "prompt": "Qu'exige ce panneau ?",
-      "options": ["Ne pas rouler à moins de 30 km/h, sauf si la circulation, la visibilité ou la météo l'exigent", "Rouler à 30 km/h au maximum", "Rouler exactement à 30 km/h"],
-      "why": "Les panneaux ronds bleus sont des obligations : le panneau 275 est une vitesse minimale. Les véhicules qui ne peuvent pas aller aussi vite ne peuvent pas utiliser cette voie.",
+      "prompt": "Qu’exige ce panneau ?",
+      "options": ["Ne pas rouler à moins de 30 km/h, sauf si la circulation, la visibilité ou la météo l’exigent", "Rouler à 30 km/h au maximum", "Rouler exactement à 30 km/h"],
+      "why": "Les panneaux ronds bleus sont des obligations : le panneau 275 est une vitesse minimale. Les véhicules qui ne peuvent pas aller aussi vite ne peuvent pas utiliser cette voie.",
       "tip": "Bleu = obligation. Bord rouge = interdiction."
     },
     "si22": {
-      "prompt": "Qui peut utiliser ces voies ?",
+      "prompt": "Qui peut utiliser ces voies ?",
       "options": ["Les cyclistes (et, sur les deux de droite, aussi les piétons)", "Les voitures, quand la chaussée est encombrée", "Les motos"],
-      "why": "Le panneau 237 est une piste cyclable, le 240 une voie partagée et le 241 une voie séparée pour piétons et vélos. Aucune ne peut être empruntée en voiture ; les trottinettes électriques, en revanche, doivent utiliser les pistes cyclables."
+      "why": "Le panneau 237 est une piste cyclable, le 240 une voie partagée et le 241 une voie séparée pour piétons et vélos. Aucune ne peut être empruntée en voiture ; les trottinettes électriques, en revanche, doivent utiliser les pistes cyclables."
     },
     "si23": {
-      "prompt": "Sur combien de mètres avant et après ce panneau est-il interdit de stationner ?",
+      "prompt": "Sur combien de mètres avant et après ce panneau est-il interdit de stationner ?",
       "why": "Le panneau 224 indique un arrêt de bus ou de tram. Il est interdit de stationner sur 15 m de chaque côté, pour que les bus et les trams puissent entrer et sortir."
     },
     "si24": {
-      "prompt": "Qui peut entrer malgré l'interdiction ?",
+      "prompt": "Qui peut entrer malgré l’interdiction ?",
       "options": ["Les riverains et toute personne qui a affaire là, comme les visites et les livraisons", "Toute personne qui cherche un raccourci", "Personne"],
-      "why": "« Anlieger frei » laisse entrer toute personne qui a quelque chose à faire dans cette rue — riverains, visites, livraisons. La circulation de transit reste interdite."
+      "why": "« Anlieger frei » laisse entrer toute personne qui a quelque chose à faire dans cette rue — riverains, visites, livraisons. La circulation de transit reste interdite."
     },
     "si25": {
-      "prompt": "Quand cette interdiction de s'arrêter s'applique-t-elle ?",
+      "prompt": "Quand cette interdiction de s’arrêter s’applique-t-elle ?",
       "options": ["Seulement entre 16 h et 18 h", "Toute la journée", "Seulement le matin en semaine"],
-      "why": "Un panonceau restreint le panneau principal. Avec « 16-18 h », l'interdiction de s'arrêter ne s'applique que pendant ces deux heures."
+      "why": "Un panonceau restreint le panneau principal. Avec « 16-18 h », l’interdiction de s’arrêter ne s’applique que pendant ces deux heures."
     },
     "si26": {
-      "prompt": "Que signifie cette ligne continue ?",
+      "prompt": "Que signifie cette ligne continue ?",
       "options": ["On ne peut pas la franchir", "On ne peut pas non plus rouler dessus", "On peut dépasser si la route est libre"],
-      "why": "La ligne continue de séparation des voies (295) ne peut être ni franchie ni chevauchée. On ne peut pas non plus s'arrêter à sa gauche."
+      "why": "La ligne continue de séparation des voies (295) ne peut être ni franchie ni chevauchée. On ne peut pas non plus s’arrêter à sa gauche."
     },
     "si27": {
-      "prompt": "Quelle règle s'applique à cette ligne discontinue ?",
+      "prompt": "Quelle règle s’applique à cette ligne discontinue ?",
       "options": ["Je peux la franchir si cela ne met personne en danger", "Je ne peux jamais la franchir", "Elle délimite une voie de stationnement"],
       "why": "La ligne discontinue (340) sépare les voies. On peut la franchir, par exemple pour dépasser, quand la circulation le permet."
     },
     "si28": {
-      "prompt": "Que signifie ce marquage au sol ?",
+      "prompt": "Que signifie ce marquage au sol ?",
       "options": ["Zone hachurée — on ne roule pas dessus", "Stationnement autorisé", "Bus uniquement"],
-      "why": "La zone hachurée (298) ne peut en aucun cas être utilisée par les véhicules — ni pour rouler, ni pour s'arrêter ou stationner."
+      "why": "La zone hachurée (298) ne peut en aucun cas être utilisée par les véhicules — ni pour rouler, ni pour s’arrêter ou stationner."
     },
     "si29": {
-      "prompt": "Qu'indique cette ligne en zigzag ?",
-      "options": ["Une zone où il est interdit de s'arrêter ou de stationner", "Une zone de rencontre", "Une piste cyclable"],
-      "why": "La ligne en zigzag (299) marque ou prolonge une zone d'interdiction de s'arrêter ou de stationner, par exemple devant des sorties ou des arrêts de bus."
+      "prompt": "Qu’indique cette ligne en zigzag ?",
+      "options": ["Une zone où il est interdit de s’arrêter ou de stationner", "Une zone de rencontre", "Une piste cyclable"],
+      "why": "La ligne en zigzag (299) marque ou prolonge une zone d’interdiction de s’arrêter ou de stationner, par exemple devant des sorties ou des arrêts de bus."
     },
     "si30": {
-      "prompt": "Tu vois ce panneau avant un rétrécissement. Que fais-tu ?",
-      "options": ["Je cède le passage au trafic d'en face, en attendant si nécessaire", "Je passe vite avant l'arrivée du trafic d'en face", "Je klaxonne et je passe"],
-      "why": "Le panneau 208 signifie « priorité au sens inverse ». La flèche rouge, c'est toi : tu attends. Le trafic d'en face voit le panneau 308.",
-      "tip": "Flèche rouge = c'est moi qui attends."
+      "prompt": "Tu vois ce panneau avant un rétrécissement. Que fais-tu ?",
+      "options": ["Je cède le passage au trafic d’en face, en attendant si nécessaire", "Je passe vite avant l’arrivée du trafic d’en face", "Je klaxonne et je passe"],
+      "why": "Le panneau 208 signifie « priorité au sens inverse ». La flèche rouge, c’est toi : tu attends. Le trafic d’en face voit le panneau 308.",
+      "tip": "Flèche rouge = c’est moi qui attends."
     },
     "si31": {
-      "prompt": "Que signifie ce panonceau sous une limitation de vitesse ?",
-      "options": ["La limitation s'applique sur les 800 prochains mètres", "La limitation commence dans 800 mètres", "La prochaine station-service est à 800 mètres"],
-      "why": "« auf 800 m » indique la longueur sur laquelle la limitation s'applique ; aucun panneau de fin ne suit. « nach 200 m », en revanche, te dit où quelque chose commence.",
-      "tip": "« auf » = sur quelle longueur. « nach » = à quelle distance."
+      "prompt": "Que signifie ce panonceau sous une limitation de vitesse ?",
+      "options": ["La limitation s’applique sur les 800 prochains mètres", "La limitation commence dans 800 mètres", "La prochaine station-service est à 800 mètres"],
+      "why": "« auf 800 m » indique la longueur sur laquelle la limitation s’applique ; aucun panneau de fin ne suit. « nach 200 m », en revanche, te dit où quelque chose commence.",
+      "tip": "« auf » = sur quelle longueur. « nach » = à quelle distance."
     },
     "si32": {
-      "prompt": "Qu'indiquent ces flèches rouges et blanches ?",
-      "options": ["La direction d'un virage", "Une sortie de chantier", "Une interdiction de dépasser"],
-      "why": "Les balises de virage (625) montrent dans quelle direction tourne le virage. Là où elles se trouvent, le virage est souvent plus serré qu'il n'y paraît."
+      "prompt": "Qu’indiquent ces flèches rouges et blanches ?",
+      "options": ["La direction d’un virage", "Une sortie de chantier", "Une interdiction de dépasser"],
+      "why": "Les balises de virage (625) montrent dans quelle direction tourne le virage. Là où elles se trouvent, le virage est souvent plus serré qu’il n’y paraît."
     },
     "sp01": {
-      "prompt": "Quelle est la limite de vitesse pour une voiture particulière hors agglomération sans panneau (pas sur autoroute) ?",
-      "why": "Hors agglomération, la limite pour les voitures particulières est de 100 km/h (§ 3 al. 3 StVO). Sur autoroute, il n'y a pas de limite générale pour les voitures particulières, mais la vitesse maximale recommandée est de 130 km/h.",
+      "prompt": "Quelle est la limite de vitesse pour une voiture particulière hors agglomération sans panneau (pas sur autoroute) ?",
+      "why": "Hors agglomération, la limite pour les voitures particulières est de 100 km/h (§ 3 al. 3 StVO). Sur autoroute, il n’y a pas de limite générale pour les voitures particulières, mais la vitesse maximale recommandée est de 130 km/h.",
       "tip": "Ville 50, route 100, autoroute 130 recommandés."
     },
     "sp02": {
-      "prompt": "Quelle règle s'applique sur l'autoroute s'il n'y a pas de limite signalée ?",
-      "options": ["Un maximum de 130 km/h est recommandé", "130 km/h est la limite légale", "Il n'y a rien à prendre en compte"],
-      "why": "Les 130 km/h sont une recommandation, pas une limite. Mais si tu roules plus vite et que tu as un accident, une part de responsabilité peut t'être attribuée même si tu n'as par ailleurs commis aucune faute."
+      "prompt": "Quelle règle s’applique sur l’autoroute s’il n’y a pas de limite signalée ?",
+      "options": ["Un maximum de 130 km/h est recommandé", "130 km/h est la limite légale", "Il n’y a rien à prendre en compte"],
+      "why": "Les 130 km/h sont une recommandation, pas une limite. Mais si tu roules plus vite et que tu as un accident, une part de responsabilité peut t’être attribuée même si tu n’as par ailleurs commis aucune faute."
     },
     "sp03": {
-      "prompt": "Quelle est la vitesse maximale d'une voiture avec remorque hors agglomération et sur autoroute (sans homologation spéciale) ?",
-      "why": "Avec une remorque, les voitures particulières sont limitées à 80 km/h hors agglomération et sur autoroute. Avec l'homologation « Tempo 100 » pour l'ensemble, 100 km/h sont autorisés sur les autoroutes et les voies express."
+      "prompt": "Quelle est la vitesse maximale d’une voiture avec remorque hors agglomération et sur autoroute (sans homologation spéciale) ?",
+      "why": "Avec une remorque, les voitures particulières sont limitées à 80 km/h hors agglomération et sur autoroute. Avec l’homologation « Tempo 100 » pour l’ensemble, 100 km/h sont autorisés sur les autoroutes et les voies express."
     },
     "sp04": {
-      "prompt": "Le brouillard, la neige ou la pluie réduisent la visibilité à moins de 50 m. À quelle vitesse peux-tu rouler au maximum ?",
+      "prompt": "Le brouillard, la neige ou la pluie réduisent la visibilité à moins de 50 m. À quelle vitesse peux-tu rouler au maximum ?",
       "why": "Avec une visibilité inférieure à 50 m due au brouillard, à la neige ou à la pluie, tu ne peux pas dépasser 50 km/h, et tu dois souvent rouler plus lentement (§ 3 al. 1 StVO). Les balises de bord de route sont espacées de 50 m, ce qui aide à estimer la distance.",
-      "tip": "Tu ne vois pas la balise suivante ? Moins de 50 km/h."
+      "tip": "Tu ne vois pas la balise suivante ? Moins de 50 km/h."
     },
     "sp05": {
-      "prompt": "Quelle est la vitesse maximale avec des chaînes à neige ?",
-      "why": "Avec des chaînes, la limite est de 50 km/h, même là où davantage serait normalement permis. N'utilise les chaînes que sur une couche de neige continue."
+      "prompt": "Quelle est la vitesse maximale avec des chaînes à neige ?",
+      "why": "Avec des chaînes, la limite est de 50 km/h, même là où davantage serait normalement permis. N’utilise les chaînes que sur une couche de neige continue."
     },
     "sp06": {
-      "prompt": "À quelle vitesse peux-tu rouler quand tu ne vois pas loin ?",
-      "options": ["De façon à pouvoir m'arrêter sur la distance que je vois", "Sur des routes très étroites, de façon à pouvoir m'arrêter sur la moitié de cette distance", "À celle que permet le panneau"],
-      "why": "Rouler dans les limites de sa visibilité (§ 3 al. 1 StVO) : tu dois pouvoir t'arrêter sur la distance que tu vois. Sur une route si étroite que le trafic d'en face serait en danger, sur la moitié — car l'autre personne a aussi besoin de place pour s'arrêter."
+      "prompt": "À quelle vitesse peux-tu rouler quand tu ne vois pas loin ?",
+      "options": ["De façon à pouvoir m’arrêter sur la distance que je vois", "Sur des routes très étroites, de façon à pouvoir m’arrêter sur la moitié de cette distance", "À celle que permet le panneau"],
+      "why": "Rouler dans les limites de sa visibilité (§ 3 al. 1 StVO) : tu dois pouvoir t’arrêter sur la distance que tu vois. Sur une route si étroite que le trafic d’en face serait en danger, sur la moitié — car l’autre personne a aussi besoin de place pour s’arrêter."
     },
     "sp07": {
-      "prompt": "Selon la règle empirique, quelle est la distance de réaction à 50 km/h ?",
-      "why": "50 ÷ 10 = 5, fois 3 = 15 m. Règles empiriques : distance de réaction = (vitesse ÷ 10) × 3. Distance de freinage = (vitesse ÷ 10) × (vitesse ÷ 10). Lors d'un freinage d'urgence, la distance de freinage est divisée par deux. Distance d'arrêt = réaction + freinage."
+      "prompt": "Selon la règle empirique, quelle est la distance de réaction à 50 km/h ?",
+      "why": "50 ÷ 10 = 5, fois 3 = 15 m. Règles empiriques : distance de réaction = (vitesse ÷ 10) × 3. Distance de freinage = (vitesse ÷ 10) × (vitesse ÷ 10). Lors d’un freinage d’urgence, la distance de freinage est divisée par deux. Distance d’arrêt = réaction + freinage."
     },
     "sp08": {
-      "prompt": "Selon la règle empirique, quelle est la distance de freinage normale à 50 km/h ?",
-      "why": "50 ÷ 10 = 5, fois 5 = 25 m. Règles empiriques : distance de réaction = (vitesse ÷ 10) × 3. Distance de freinage = (vitesse ÷ 10) × (vitesse ÷ 10). Lors d'un freinage d'urgence, la distance de freinage est divisée par deux. Distance d'arrêt = réaction + freinage."
+      "prompt": "Selon la règle empirique, quelle est la distance de freinage normale à 50 km/h ?",
+      "why": "50 ÷ 10 = 5, fois 5 = 25 m. Règles empiriques : distance de réaction = (vitesse ÷ 10) × 3. Distance de freinage = (vitesse ÷ 10) × (vitesse ÷ 10). Lors d’un freinage d’urgence, la distance de freinage est divisée par deux. Distance d’arrêt = réaction + freinage."
     },
     "sp09": {
-      "prompt": "Selon la règle empirique, quelle est la distance d'arrêt à 100 km/h (freinage normal) ?",
-      "why": "Réaction 10 × 3 = 30 m, freinage 10 × 10 = 100 m, au total 130 m. Règles empiriques : distance de réaction = (vitesse ÷ 10) × 3. Distance de freinage = (vitesse ÷ 10) × (vitesse ÷ 10). Lors d'un freinage d'urgence, la distance de freinage est divisée par deux. Distance d'arrêt = réaction + freinage."
+      "prompt": "Selon la règle empirique, quelle est la distance d’arrêt à 100 km/h (freinage normal) ?",
+      "why": "Réaction 10 × 3 = 30 m, freinage 10 × 10 = 100 m, au total 130 m. Règles empiriques : distance de réaction = (vitesse ÷ 10) × 3. Distance de freinage = (vitesse ÷ 10) × (vitesse ÷ 10). Lors d’un freinage d’urgence, la distance de freinage est divisée par deux. Distance d’arrêt = réaction + freinage."
     },
     "sp10": {
-      "prompt": "Selon la règle empirique, quelle est la distance de freinage lors d'un freinage d'urgence à 100 km/h ?",
-      "why": "Freinage normal 10 × 10 = 100 m ; le freinage d'urgence la divise par deux : 50 m. Règles empiriques : distance de réaction = (vitesse ÷ 10) × 3. Distance de freinage = (vitesse ÷ 10) × (vitesse ÷ 10). Lors d'un freinage d'urgence, la distance de freinage est divisée par deux. Distance d'arrêt = réaction + freinage."
+      "prompt": "Selon la règle empirique, quelle est la distance de freinage lors d’un freinage d’urgence à 100 km/h ?",
+      "why": "Freinage normal 10 × 10 = 100 m ; le freinage d’urgence la divise par deux : 50 m. Règles empiriques : distance de réaction = (vitesse ÷ 10) × 3. Distance de freinage = (vitesse ÷ 10) × (vitesse ÷ 10). Lors d’un freinage d’urgence, la distance de freinage est divisée par deux. Distance d’arrêt = réaction + freinage."
     },
     "sp11": {
-      "prompt": "Selon la règle empirique, quelle est la distance d'arrêt à 70 km/h (freinage normal) ?",
-      "why": "Réaction 7 × 3 = 21 m, freinage 7 × 7 = 49 m, au total 70 m. Règles empiriques : distance de réaction = (vitesse ÷ 10) × 3. Distance de freinage = (vitesse ÷ 10) × (vitesse ÷ 10). Lors d'un freinage d'urgence, la distance de freinage est divisée par deux. Distance d'arrêt = réaction + freinage."
+      "prompt": "Selon la règle empirique, quelle est la distance d’arrêt à 70 km/h (freinage normal) ?",
+      "why": "Réaction 7 × 3 = 21 m, freinage 7 × 7 = 49 m, au total 70 m. Règles empiriques : distance de réaction = (vitesse ÷ 10) × 3. Distance de freinage = (vitesse ÷ 10) × (vitesse ÷ 10). Lors d’un freinage d’urgence, la distance de freinage est divisée par deux. Distance d’arrêt = réaction + freinage."
     },
     "sp12": {
-      "prompt": "Tu roules deux fois plus vite. Qu'arrive-t-il aux distances de réaction et de freinage ?",
+      "prompt": "Tu roules deux fois plus vite. Qu’arrive-t-il aux distances de réaction et de freinage ?",
       "options": ["La distance de réaction double", "La distance de freinage quadruple", "La distance de freinage double"],
-      "why": "La distance de réaction augmente proportionnellement à la vitesse ; celle de freinage, avec son carré. Deux fois plus vite, c'est quatre fois la distance de freinage.",
+      "why": "La distance de réaction augmente proportionnellement à la vitesse ; celle de freinage, avec son carré. Deux fois plus vite, c’est quatre fois la distance de freinage.",
       "tip": "Vitesse double, freinage quadruple."
     },
     "sp13": {
-      "prompt": "Tu roules à 80 km/h hors agglomération. Quelle distance en mètres dois-tu garder au minimum avec le véhicule de devant (règle de « la moitié du compteur ») ?",
-      "why": "Hors agglomération, on applique « la moitié du compteur » : la moitié de ta vitesse, en mètres — 40 m à 80 km/h, un peu moins de deux secondes. Moins de trois dixièmes de cette distance est considéré comme une conduite dangereusement collée et sanctionné.",
-      "tip": "Compte deux secondes : « mille un, mille deux »."
+      "prompt": "Tu roules à 80 km/h hors agglomération. Quelle distance en mètres dois-tu garder au minimum avec le véhicule de devant (règle de « la moitié du compteur ») ?",
+      "why": "Hors agglomération, on applique « la moitié du compteur » : la moitié de ta vitesse, en mètres — 40 m à 80 km/h, un peu moins de deux secondes. Moins de trois dixièmes de cette distance est considéré comme une conduite dangereusement collée et sanctionné.",
+      "tip": "Compte deux secondes : « mille un, mille deux »."
     },
     "sp14": {
-      "prompt": "Qu'est-ce qui allonge la distance d'arrêt ?",
+      "prompt": "Qu’est-ce qui allonge la distance d’arrêt ?",
       "options": ["La fatigue, parce que la réaction arrive plus tard", "Une chaussée mouillée ou glissante", "Des pneus neufs aux sculptures profondes"],
-      "why": "La distance d'arrêt, c'est la réaction plus le freinage. La fatigue, les distractions et l'alcool allongent la première ; l'eau, les feuilles, la neige, les pneus usés et une charge lourde, la seconde."
+      "why": "La distance d’arrêt, c’est la réaction plus le freinage. La fatigue, les distractions et l’alcool allongent la première ; l’eau, les feuilles, la neige, les pneus usés et une charge lourde, la seconde."
     },
     "sp15": {
-      "prompt": "Quand dois-tu rouler plus lentement que ce que permet la limite ?",
-      "options": ["Par brouillard, sous la pluie ou sur chaussée glissante", "Quand il y a des enfants au bord de la route", "Quand quelqu'un me colle de près"],
-      "why": "La limite est un plafond. La vitesse doit être adaptée à la route, à la circulation, à la visibilité et à la météo (§ 3 al. 1 StVO), avec une attention particulière près des enfants, des personnes âgées et de toute personne ayant besoin d'aide."
+      "prompt": "Quand dois-tu rouler plus lentement que ce que permet la limite ?",
+      "options": ["Par brouillard, sous la pluie ou sur chaussée glissante", "Quand il y a des enfants au bord de la route", "Quand quelqu’un me colle de près"],
+      "why": "La limite est un plafond. La vitesse doit être adaptée à la route, à la circulation, à la visibilité et à la météo (§ 3 al. 1 StVO), avec une attention particulière près des enfants, des personnes âgées et de toute personne ayant besoin d’aide."
     },
     "sp16": {
-      "prompt": "Peux-tu rouler très lentement sans raison ?",
+      "prompt": "Peux-tu rouler très lentement sans raison ?",
       "options": ["Non, pas au point de gêner la circulation", "Oui, rouler lentement est toujours sans danger", "Oui, mais seulement sur autoroute"],
-      "why": "Sans raison valable, les véhicules à moteur ne doivent pas rouler si lentement qu'ils gênent la circulation (§ 3 al. 2 StVO). Rouler lentement sans nécessité pousse les autres à des dépassements risqués."
+      "why": "Sans raison valable, les véhicules à moteur ne doivent pas rouler si lentement qu’ils gênent la circulation (§ 3 al. 2 StVO). Rouler lentement sans nécessité pousse les autres à des dépassements risqués."
     },
     "sp17": {
-      "prompt": "Selon la règle empirique, quelle est la distance de freinage lors d'un freinage d'urgence à 80 km/h ?",
-      "why": "Freinage normal 8 × 8 = 64 m ; la moitié fait 32 m. Règles empiriques : distance de réaction = (vitesse ÷ 10) × 3. Distance de freinage = (vitesse ÷ 10) × (vitesse ÷ 10). Lors d'un freinage d'urgence, la distance de freinage est divisée par deux. Distance d'arrêt = réaction + freinage."
+      "prompt": "Selon la règle empirique, quelle est la distance de freinage lors d’un freinage d’urgence à 80 km/h ?",
+      "why": "Freinage normal 8 × 8 = 64 m ; la moitié fait 32 m. Règles empiriques : distance de réaction = (vitesse ÷ 10) × 3. Distance de freinage = (vitesse ÷ 10) × (vitesse ÷ 10). Lors d’un freinage d’urgence, la distance de freinage est divisée par deux. Distance d’arrêt = réaction + freinage."
     },
     "sp18": {
-      "prompt": "Selon la règle empirique, quelle est la distance de réaction à 100 km/h ?",
-      "why": "100 ÷ 10 = 10, fois 3 = 30 m — parcourus pendant cette seconde, avant même de toucher le frein. Règles empiriques : distance de réaction = (vitesse ÷ 10) × 3. Distance de freinage = (vitesse ÷ 10) × (vitesse ÷ 10). Lors d'un freinage d'urgence, la distance de freinage est divisée par deux. Distance d'arrêt = réaction + freinage."
+      "prompt": "Selon la règle empirique, quelle est la distance de réaction à 100 km/h ?",
+      "why": "100 ÷ 10 = 10, fois 3 = 30 m — parcourus pendant cette seconde, avant même de toucher le frein. Règles empiriques : distance de réaction = (vitesse ÷ 10) × 3. Distance de freinage = (vitesse ÷ 10) × (vitesse ÷ 10). Lors d’un freinage d’urgence, la distance de freinage est divisée par deux. Distance d’arrêt = réaction + freinage."
     },
     "sp19": {
-      "prompt": "Selon la règle empirique, quelle est la distance de freinage normale à 30 km/h ?",
-      "why": "30 ÷ 10 = 3, fois 3 = 9 m. À 50 km/h, c'est déjà 25 m — c'est pourquoi on roule à 30 devant les écoles. Règles empiriques : distance de réaction = (vitesse ÷ 10) × 3. Distance de freinage = (vitesse ÷ 10) × (vitesse ÷ 10). Lors d'un freinage d'urgence, la distance de freinage est divisée par deux. Distance d'arrêt = réaction + freinage."
+      "prompt": "Selon la règle empirique, quelle est la distance de freinage normale à 30 km/h ?",
+      "why": "30 ÷ 10 = 3, fois 3 = 9 m. À 50 km/h, c’est déjà 25 m — c’est pourquoi on roule à 30 devant les écoles. Règles empiriques : distance de réaction = (vitesse ÷ 10) × 3. Distance de freinage = (vitesse ÷ 10) × (vitesse ÷ 10). Lors d’un freinage d’urgence, la distance de freinage est divisée par deux. Distance d’arrêt = réaction + freinage."
     },
     "sp20": {
-      "prompt": "Tu roules à 50 km/h en ville. Quelle est la distance minimale raisonnable avec le véhicule de devant ?",
+      "prompt": "Tu roules à 50 km/h en ville. Quelle est la distance minimale raisonnable avec le véhicule de devant ?",
       "options": ["À peu près ce que je parcours en une seconde (environ 15 m)", "Une longueur de voiture", "Assez près pour que personne ne se faufile"],
-      "why": "La distance doit te permettre de t'arrêter même si le véhicule de devant freine brusquement (§ 4 al. 1 StVO). En ville, le minimum est la distance d'une seconde ; hors agglomération, « la moitié du compteur »."
+      "why": "La distance doit te permettre de t’arrêter même si le véhicule de devant freine brusquement (§ 4 al. 1 StVO). En ville, le minimum est la distance d’une seconde ; hors agglomération, « la moitié du compteur »."
     },
     "ov01": {
-      "prompt": "Quand est-il interdit de dépasser ?",
-      "options": ["Quand la situation de circulation est confuse", "Quand ma vitesse n'est pas beaucoup plus élevée que celle du véhicule que je veux dépasser", "Quand le trafic d'en face est loin"],
-      "why": "Tu ne peux dépasser que si tu vois que tu ne vas pas gêner le trafic d'en face et si ta vitesse est nettement supérieure à celle du véhicule dépassé. En cas de situation confuse, dépasser est interdit (§ 5 al. 2 et 3 StVO).",
+      "prompt": "Quand est-il interdit de dépasser ?",
+      "options": ["Quand la situation de circulation est confuse", "Quand ma vitesse n’est pas beaucoup plus élevée que celle du véhicule que je veux dépasser", "Quand le trafic d’en face est loin"],
+      "why": "Tu ne peux dépasser que si tu vois que tu ne vas pas gêner le trafic d’en face et si ta vitesse est nettement supérieure à celle du véhicule dépassé. En cas de situation confuse, dépasser est interdit (§ 5 al. 2 et 3 StVO).",
       "tip": "Dans le doute, ne dépasse pas."
     },
     "ov02": {
-      "prompt": "Quel est l'écart latéral minimal pour dépasser une personne à vélo hors agglomération ?",
-      "why": "Pour dépasser des piétons, des cyclistes et des personnes en trottinette électrique, l'écart minimal est de 1,5 m en agglomération et de 2 m hors agglomération (§ 5 al. 4 StVO). Si la place manque, tu ne dépasses pas.",
+      "prompt": "Quel est l’écart latéral minimal pour dépasser une personne à vélo hors agglomération ?",
+      "why": "Pour dépasser des piétons, des cyclistes et des personnes en trottinette électrique, l’écart minimal est de 1,5 m en agglomération et de 2 m hors agglomération (§ 5 al. 4 StVO). Si la place manque, tu ne dépasses pas.",
       "tip": "Ville 1,5 — route 2."
     },
     "ov03": {
-      "prompt": "Quelqu'un est en train de te dépasser. Que ne dois-tu pas faire ?",
+      "prompt": "Quelqu’un est en train de te dépasser. Que ne dois-tu pas faire ?",
       "options": ["Accélérer", "Me serrer davantage à droite", "Garder une vitesse constante"],
-      "why": "Pendant qu'on te dépasse, tu ne peux pas accélérer (§ 5 al. 6 StVO). Si nécessaire, ralentis et reste à droite."
+      "why": "Pendant qu’on te dépasse, tu ne peux pas accélérer (§ 5 al. 6 StVO). Si nécessaire, ralentis et reste à droite."
     },
     "ov04": {
-      "prompt": "Le véhicule de devant met son clignotant gauche et s'est déporté vers le centre. Comment le dépasses-tu ?",
-      "options": ["Par la droite", "Par la gauche", "D'aucune façon — je dois toujours attendre derrière"],
-      "why": "Un véhicule qui a signalé et s'est placé pour tourner à gauche se dépasse par la droite (§ 5 al. 7 StVO), s'il y a assez de place."
+      "prompt": "Le véhicule de devant met son clignotant gauche et s’est déporté vers le centre. Comment le dépasses-tu ?",
+      "options": ["Par la droite", "Par la gauche", "D’aucune façon — je dois toujours attendre derrière"],
+      "why": "Un véhicule qui a signalé et s’est placé pour tourner à gauche se dépasse par la droite (§ 5 al. 7 StVO), s’il y a assez de place."
     },
     "ov05": {
-      "prompt": "Où est-il interdit de dépasser ?",
-      "options": ["À l'approche d'un passage piéton et sur celui-ci", "Des panneaux de danger avant un passage à niveau jusqu'après les voies", "Sur n'importe quel pont"],
-      "why": "On ne dépasse pas aux passages piétons (§ 26 al. 3 StVO). Du panneau 151 ou 156 jusqu'après le passage à niveau, les véhicules à moteur ne peuvent pas dépasser d'autres véhicules à moteur (§ 19 al. 1 StVO). Pour les ponts, il n'y a pas de règle générale."
+      "prompt": "Où est-il interdit de dépasser ?",
+      "options": ["À l’approche d’un passage piéton et sur celui-ci", "Des panneaux de danger avant un passage à niveau jusqu’après les voies", "Sur n’importe quel pont"],
+      "why": "On ne dépasse pas aux passages piétons (§ 26 al. 3 StVO). Du panneau 151 ou 156 jusqu’après le passage à niveau, les véhicules à moteur ne peuvent pas dépasser d’autres véhicules à moteur (§ 19 al. 1 StVO). Pour les ponts, il n’y a pas de règle générale."
     },
     "ov06": {
-      "prompt": "Que dois-tu faire en dépassant ?",
-      "options": ["Avant de déboîter, clignotant gauche et regard par-dessus l'épaule", "En se rabattant, clignotant droit", "En se rabattant, ne pas couper la route au véhicule dépassé"],
-      "why": "Déboîter et se rabattre sont des changements de voie : clignotant à l'avance, rétroviseur et regard par-dessus l'épaule (§ 5 al. 4a StVO). Ne te rabats que lorsque tu ne gênes pas le véhicule dépassé."
+      "prompt": "Que dois-tu faire en dépassant ?",
+      "options": ["Avant de déboîter, clignotant gauche et regard par-dessus l’épaule", "En se rabattant, clignotant droit", "En se rabattant, ne pas couper la route au véhicule dépassé"],
+      "why": "Déboîter et se rabattre sont des changements de voie : clignotant à l’avance, rétroviseur et regard par-dessus l’épaule (§ 5 al. 4a StVO). Ne te rabats que lorsque tu ne gênes pas le véhicule dépassé."
     },
     "ov07": {
-      "prompt": "Sur l'autoroute, la voie de gauche avance lentement dans un bouchon. Peux-tu rouler plus vite à droite ?",
+      "prompt": "Sur l’autoroute, la voie de gauche avance lentement dans un bouchon. Peux-tu rouler plus vite à droite ?",
       "options": ["Oui, 20 km/h plus vite au maximum et avec beaucoup de précaution, si la voie de gauche roule à 60 km/h ou moins", "Oui, aussi vite que je veux", "Non, jamais"],
-      "why": "Si les véhicules de gauche sont à l'arrêt ou roulent lentement, tu peux les dépasser par la droite seulement un peu plus vite et avec beaucoup de précaution (§ 7 al. 2a StVO). Les tribunaux fixent cela à pas plus de 20 km/h de plus, avec la voie de gauche à 60 km/h ou moins."
+      "why": "Si les véhicules de gauche sont à l’arrêt ou roulent lentement, tu peux les dépasser par la droite seulement un peu plus vite et avec beaucoup de précaution (§ 7 al. 2a StVO). Les tribunaux fixent cela à pas plus de 20 km/h de plus, avec la voie de gauche à 60 km/h ou moins."
     },
     "ov08": {
-      "prompt": "De ton côté de la chaussée, il y a un obstacle et du trafic arrive en face. Qui doit attendre ?",
-      "options": ["Moi", "Le trafic d'en face", "Le premier véhicule arrivé"],
-      "why": "Qui a l'obstacle de son côté doit laisser passer les véhicules d'en face (§ 6 StVO). Mets le clignotant en déboîtant pour le contourner.",
+      "prompt": "De ton côté de la chaussée, il y a un obstacle et du trafic arrive en face. Qui doit attendre ?",
+      "options": ["Moi", "Le trafic d’en face", "Le premier véhicule arrivé"],
+      "why": "Qui a l’obstacle de son côté doit laisser passer les véhicules d’en face (§ 6 StVO). Mets le clignotant en déboîtant pour le contourner.",
       "tip": "Côté bloqué, on attend."
     },
     "ov09": {
-      "prompt": "Comment dépasses-tu un tram dans une rue à double sens ?",
-      "options": ["Par la droite", "Par la gauche", "Par n'importe quel côté"],
+      "prompt": "Comment dépasses-tu un tram dans une rue à double sens ?",
+      "options": ["Par la droite", "Par la gauche", "Par n’importe quel côté"],
       "why": "Les véhicules sur rails se dépassent par la droite. Par la gauche seulement dans les rues à sens unique ou là où les voies sont trop à droite (§ 5 al. 7 StVO)."
     },
     "ov10": {
-      "prompt": "À quoi dois-tu te préparer en dépassant un camion sur route ?",
-      "options": ["La distance de dépassement est très longue", "En sortant de derrière lui, le vent latéral peut me déporter", "Le camion me cache la vue du trafic d'en face"],
-      "why": "Un camion est long et souvent à peine plus lent que toi, donc le dépassement peut prendre plusieurs centaines de mètres. Derrière lui, tu vois peu du trafic d'en face, et en sortant de son sillage, le vent latéral peut te déporter."
+      "prompt": "À quoi dois-tu te préparer en dépassant un camion sur route ?",
+      "options": ["La distance de dépassement est très longue", "En sortant de derrière lui, le vent latéral peut me déporter", "Le camion me cache la vue du trafic d’en face"],
+      "why": "Un camion est long et souvent à peine plus lent que toi, donc le dépassement peut prendre plusieurs centaines de mètres. Derrière lui, tu vois peu du trafic d’en face, et en sortant de son sillage, le vent latéral peut te déporter."
     },
     "ov11": {
-      "prompt": "Quand peux-tu dépasser d'autres véhicules par la droite en ville ?",
-      "options": ["Sur les routes à plusieurs voies marquées dans un sens", "Chaque fois qu'il y a de la place à droite", "Jamais"],
-      "why": "En agglomération, les véhicules à moteur jusqu'à 3,5 t peuvent choisir n'importe quelle voie sur les routes à plusieurs voies marquées dans un sens, et peuvent alors aussi rouler plus vite à droite (§ 7 al. 3 StVO)."
+      "prompt": "Quand peux-tu dépasser d’autres véhicules par la droite en ville ?",
+      "options": ["Sur les routes à plusieurs voies marquées dans un sens", "Chaque fois qu’il y a de la place à droite", "Jamais"],
+      "why": "En agglomération, les véhicules à moteur jusqu’à 3,5 t peuvent choisir n’importe quelle voie sur les routes à plusieurs voies marquées dans un sens, et peuvent alors aussi rouler plus vite à droite (§ 7 al. 3 StVO)."
     },
     "ov12": {
-      "prompt": "Tu roules derrière une personne à vélo, du trafic arrive en face et il n'y a pas la place pour un écart de 1,5 m. Que fais-tu ?",
-      "options": ["Je reste derrière le vélo jusqu'à pouvoir dépasser avec un espace suffisant", "Je dépasse au plus près — la personne à vélo peut s'écarter", "Je klaxonne pour que la personne à vélo fasse de la place"],
-      "why": "L'écart minimal est une obligation légale, pas un conseil. S'il n'y a pas de place, tu ne dépasses pas. Le klaxon sert uniquement à avertir d'un danger."
+      "prompt": "Tu roules derrière une personne à vélo, du trafic arrive en face et il n’y a pas la place pour un écart de 1,5 m. Que fais-tu ?",
+      "options": ["Je reste derrière le vélo jusqu’à pouvoir dépasser avec un espace suffisant", "Je dépasse au plus près — la personne à vélo peut s’écarter", "Je klaxonne pour que la personne à vélo fasse de la place"],
+      "why": "L’écart minimal est une obligation légale, pas un conseil. S’il n’y a pas de place, tu ne dépasses pas. Le klaxon sert uniquement à avertir d’un danger."
     }
   }
 }
