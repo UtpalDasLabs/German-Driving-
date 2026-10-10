@@ -11,7 +11,8 @@
    "ru": "Как проходит экзамен",
    "pl": "Jak przebiega egzamin",
    "ro": "Cum se desfășoară examenul",
-   "hr": "Kako ispit izgleda"
+   "hr": "Kako ispit izgleda",
+   "el": "Πώς γίνεται η εξέταση"
   },
   "body": [
    {
@@ -22,7 +23,8 @@
     "ru": "Экзамен длится всего 55 минут, из них не меньше 30 — само вождение. Вы ведёте учебный автомобиль автошколы, рядом сидит инструктор; экзаменатор (из TÜV или DEKRA) сидит сзади.",
     "pl": "Egzamin trwa łącznie 55 minut, w tym co najmniej 30 minut samej jazdy. Prowadzisz samochód szkoły jazdy, obok siedzi instruktor; egzaminator (z TÜV lub DEKRA) siedzi z tyłu.",
     "ro": "Examenul durează în total 55 de minute, din care cel puțin 30 de condus efectiv. Conduci mașina școlii de șoferi, cu instructorul alături; examinatorul (de la TÜV sau DEKRA) stă în spate.",
-    "hr": "Ispit ukupno traje 55 minuta, od toga barem 30 minuta stvarne vožnje. Voziš automobil autoškole uz instruktora pokraj sebe; ispitivač (iz TÜV-a ili DEKRA-e) sjedi straga."
+    "hr": "Ispit ukupno traje 55 minuta, od toga barem 30 minuta stvarne vožnje. Voziš automobil autoškole uz instruktora pokraj sebe; ispitivač (iz TÜV-a ili DEKRA-e) sjedi straga.",
+    "el": "Η εξέταση διαρκεί συνολικά 55 λεπτά, από τα οποία τουλάχιστον 30 είναι πραγματική οδήγηση. Οδηγείς το αυτοκίνητο της σχολής με τον εκπαιδευτή δίπλα σου· ο εξεταστής (από TÜV ή DEKRA) κάθεται πίσω."
    },
    {
     "de": "Zuerst prüft der Prüfer Ihren Ausweis. Dann folgen die Fahrtvorbereitung und Abfahrtkontrolle, die Fahrt durch Stadt, über Land und meist auf Autobahn oder Kraftfahrstraße, und die Grundfahraufgaben.",
@@ -32,7 +34,8 @@
     "ru": "Сначала экзаменатор проверяет документ, удостоверяющий личность. Затем подготовка и проверка автомобиля, езда по городу, за городом и обычно по автобану или автомагистрали, а также обязательные манёвры.",
     "pl": "Najpierw egzaminator sprawdza dokument tożsamości. Potem przygotowanie i kontrola pojazdu, jazda po mieście, poza miastem i zwykle po autostradzie lub drodze ekspresowej oraz wyznaczone manewry.",
     "ro": "Întâi examinatorul verifică actul de identitate. Urmează pregătirea și verificarea vehiculului, condusul prin oraș, pe drumuri din afara localității și de obicei pe autostradă sau drum expres, precum și manevrele stabilite.",
-    "hr": "Najprije ispitivač provjerava osobnu ispravu. Zatim slijede priprema i provjera vozila, vožnja kroz grad, izvan naselja i obično autocestom ili brzom cestom te propisane radnje."
+    "hr": "Najprije ispitivač provjerava osobnu ispravu. Zatim slijede priprema i provjera vozila, vožnja kroz grad, izvan naselja i obično autocestom ili brzom cestom te propisane radnje.",
+    "el": "Πρώτα ο εξεταστής ελέγχει την ταυτότητα. Ακολουθούν προετοιμασία και έλεγχος οχήματος, οδήγηση στην πόλη, σε επαρχιακούς δρόμους και συνήθως σε αυτοκινητόδρομο ή οδό ταχείας κυκλοφορίας, και οι προβλεπόμενοι ελιγμοί."
    },
    {
     "de": "Am Ende bekommen Sie sofort das Ergebnis und eine Rückmeldung zu jedem der fünf Kompetenzbereiche. Haben Sie bestanden, erhalten Sie Ihren Führerschein oder eine vorläufige Bescheinigung direkt nach der Prüfung.",
@@ -42,7 +45,8 @@
     "ru": "В конце вы сразу узнаёте результат с отзывом по каждой из пяти областей компетенций. Если экзамен сдан, права — или временное удостоверение — выдают сразу после экзамена.",
     "pl": "Na koniec od razu poznajesz wynik, z omówieniem każdego z pięciu obszarów kompetencji. Jeśli zdasz, prawo jazdy — albo tymczasowe zaświadczenie — dostajesz zaraz po egzaminie.",
     "ro": "La final primești rezultatul pe loc, cu feedback pentru fiecare dintre cele cinci domenii de competență. Dacă promovezi, primești permisul — sau o adeverință provizorie — imediat după examen.",
-    "hr": "Na kraju odmah dobivaš rezultat, uz povratnu informaciju za svako od pet područja kompetencija. Ako položiš, vozačku dozvolu — ili privremenu potvrdu — dobivaš odmah nakon ispita."
+    "hr": "Na kraju odmah dobivaš rezultat, uz povratnu informaciju za svako od pet područja kompetencija. Ako položiš, vozačku dozvolu — ili privremenu potvrdu — dobivaš odmah nakon ispita.",
+    "el": "Στο τέλος παίρνεις αμέσως το αποτέλεσμα, με σχόλια για κάθε έναν από τους πέντε τομείς ικανοτήτων. Αν πετύχεις, παίρνεις το δίπλωμα — ή μια προσωρινή βεβαίωση — αμέσως μετά την εξέταση."
    },
    {
     "de": "Die praktische Prüfung muss innerhalb von 12 Monaten nach der bestandenen Theorieprüfung abgelegt werden. Nicht bestanden? Eine Wiederholung ist in der Regel frühestens nach zwei Wochen möglich.",
@@ -52,7 +56,8 @@
     "ru": "Практический экзамен нужно сдать в течение 12 месяцев после сдачи теории. Не сдали? Обычно пересдать можно не раньше чем через две недели.",
     "pl": "Egzamin praktyczny trzeba zdać w ciągu 12 miesięcy od zdania teorii. Nie udało się? Zwykle można powtórzyć najwcześniej po dwóch tygodniach.",
     "ro": "Examenul practic trebuie dat în 12 luni de la promovarea teoriei. Nu a mers? De obicei îl poți repeta cel mai devreme după două săptămâni.",
-    "hr": "Ispit vožnje treba položiti u roku od 12 mjeseci od položene teorije. Nije uspjelo? Obično se može ponoviti najranije nakon dva tjedna."
+    "hr": "Ispit vožnje treba položiti u roku od 12 mjeseci od položene teorije. Nije uspjelo? Obično se može ponoviti najranije nakon dva tjedna.",
+    "el": "Η πρακτική εξέταση πρέπει να δοθεί μέσα σε 12 μήνες από την επιτυχία στη θεωρία. Δεν πήγε καλά; Συνήθως μπορείς να την ξαναδώσεις το νωρίτερο μετά από δύο εβδομάδες."
    }
   ],
   "checklist": [
@@ -64,7 +69,8 @@
     "ru": "Удостоверение личности или паспорт с собой",
     "pl": "Dowód osobisty lub paszport przy sobie",
     "ro": "Buletinul sau pașaportul la mine",
-    "hr": "Osobna iskaznica ili putovnica uza me"
+    "hr": "Osobna iskaznica ili putovnica uza me",
+    "el": "Ταυτότητα ή διαβατήριο μαζί μου"
    },
    {
     "de": "Brille oder Kontaktlinsen, falls im Führerschein vorgeschrieben",
@@ -74,7 +80,8 @@
     "ru": "Очки или линзы, если этого требуют права",
     "pl": "Okulary lub soczewki, jeśli wymaga tego prawo jazdy",
     "ro": "Ochelari sau lentile, dacă permisul le cere",
-    "hr": "Naočale ili leće, ako to dozvola traži"
+    "hr": "Naočale ili leće, ako to dozvola traži",
+    "el": "Γυαλιά ή φακοί, αν το απαιτεί το δίπλωμα"
    },
    {
     "de": "Bequeme, flache Schuhe",
@@ -84,7 +91,8 @@
     "ru": "Удобная обувь на плоской подошве",
     "pl": "Wygodne, płaskie buty",
     "ro": "Pantofi comozi, cu talpă plată",
-    "hr": "Udobna, ravna obuća"
+    "hr": "Udobna, ravna obuća",
+    "el": "Άνετα, επίπεδα παπούτσια"
    },
    {
     "de": "Ausgeschlafen und 0,0 Promille",
@@ -94,7 +102,8 @@
     "ru": "Выспаться и 0,0 алкоголя",
     "pl": "Wyspanie się i 0,0 alkoholu",
     "ro": "Odihnă bună și 0,0 alcool",
-    "hr": "Naspavati se i 0,0 alkohola"
+    "hr": "Naspavati se i 0,0 alkohola",
+    "el": "Καλός ύπνος και 0,0 αλκοόλ"
    },
    {
     "de": "15 Minuten vor dem Termin bei der Fahrschule",
@@ -104,7 +113,8 @@
     "ru": "Быть в автошколе за 15 минут",
     "pl": "W szkole jazdy 15 minut wcześniej",
     "ro": "La școala de șoferi cu 15 minute mai devreme",
-    "hr": "U autoškoli 15 minuta ranije"
+    "hr": "U autoškoli 15 minuta ranije",
+    "el": "Στη σχολή 15 λεπτά νωρίτερα"
    }
   ],
   "pitfalls": [
@@ -116,7 +126,8 @@
     "ru": "Без действующего документа экзамен не проводится — а плата обычно всё равно сгорает.",
     "pl": "Bez ważnego dokumentu egzamin się nie odbędzie — a opłata zwykle i tak przepada.",
     "ro": "Fără act de identitate valabil examenul nu are loc — iar taxa se pierde de obicei oricum.",
-    "hr": "Bez važeće isprave ispit se ne održava — a pristojba obično ionako propada."
+    "hr": "Bez važeće isprave ispit se ne održava — a pristojba obično ionako propada.",
+    "el": "Χωρίς έγκυρη ταυτότητα η εξέταση δεν γίνεται — και το παράβολο συνήθως χάνεται έτσι κι αλλιώς."
    }
   ],
   "phrases": []
@@ -133,7 +144,8 @@
    "ru": "Подготовка и проверка автомобиля",
    "pl": "Przygotowanie i kontrola pojazdu",
    "ro": "Pregătirea și verificarea vehiculului",
-   "hr": "Priprema i provjera vozila"
+   "hr": "Priprema i provjera vozila",
+   "el": "Προετοιμασία και έλεγχος οχήματος"
   },
   "body": [
    {
@@ -144,7 +156,8 @@
     "ru": "Перед началом движения вы регулируете сиденье, руль, зеркала и подголовник и пристёгиваетесь. Обычно экзаменатор просит показать или объяснить несколько вещей в автомобиле.",
     "pl": "Przed ruszeniem ustawiasz fotel, kierownicę, lusterka i zagłówek oraz zapinasz pas. Egzaminator zwykle prosi o pokazanie lub objaśnienie kilku rzeczy w samochodzie.",
     "ro": "Înainte de plecare reglezi scaunul, volanul, oglinzile și tetiera și îți pui centura. Examinatorul îți cere de obicei să arăți sau să explici câteva lucruri la mașină.",
-    "hr": "Prije polaska namještaš sjedalo, upravljač, zrcala i naslon za glavu te se vežeš. Ispitivač obično traži da pokažeš ili objasniš nekoliko stvari na vozilu."
+    "hr": "Prije polaska namještaš sjedalo, upravljač, zrcala i naslon za glavu te se vežeš. Ispitivač obično traži da pokažeš ili objasniš nekoliko stvari na vozilu.",
+    "el": "Πριν ξεκινήσεις ρυθμίζεις κάθισμα, τιμόνι, καθρέφτες και προσκέφαλο και φοράς ζώνη. Ο εξεταστής συνήθως ζητά να δείξεις ή να εξηγήσεις μερικά πράγματα στο αυτοκίνητο."
    },
    {
     "de": "Typisch sind: Beleuchtung einschalten und prüfen, Reifen (Profil, Beschädigungen, wo steht der Luftdruck), Flüssigkeitsstände (Motoröl, Kühlmittel, Scheibenwaschwasser, Bremsflüssigkeit), Hupe, Warnleuchten im Display.",
@@ -154,7 +167,8 @@
     "ru": "Типичные пункты: включить и проверить свет; шины (протектор, повреждения, где указано давление); уровни жидкостей (моторное масло, охлаждающая жидкость, омыватель, тормозная жидкость); звуковой сигнал; контрольные лампы на приборной панели.",
     "pl": "Typowe punkty: włączenie i sprawdzenie świateł; opony (bieżnik, uszkodzenia, gdzie podano ciśnienie); poziomy płynów (olej silnikowy, płyn chłodniczy, płyn do spryskiwaczy, płyn hamulcowy); klakson; kontrolki na desce rozdzielczej.",
     "ro": "Puncte tipice: aprinderea și verificarea luminilor; anvelopele (profil, defecte, unde scrie presiunea); nivelurile lichidelor (ulei de motor, lichid de răcire, lichid de parbriz, lichid de frână); claxonul; martorii de pe bord.",
-    "hr": "Tipične stavke: paljenje i provjera svjetala; gume (šara, oštećenja, gdje piše tlak); razine tekućina (motorno ulje, rashladna tekućina, tekućina za pranje stakla, kočiona tekućina); truba; žaruljice upozorenja na instrumentnoj ploči."
+    "hr": "Tipične stavke: paljenje i provjera svjetala; gume (šara, oštećenja, gdje piše tlak); razine tekućina (motorno ulje, rashladna tekućina, tekućina za pranje stakla, kočiona tekućina); truba; žaruljice upozorenja na instrumentnoj ploči.",
+    "el": "Τυπικά θέματα: άναμμα και έλεγχος φώτων· ελαστικά (πέλμα, φθορές, πού αναγράφονται οι πιέσεις)· στάθμες υγρών (λάδι κινητήρα, ψυκτικό, υγρό υαλοκαθαριστήρων, υγρό φρένων)· κόρνα· ενδεικτικές λυχνίες στον πίνακα οργάνων."
    }
   ],
   "checklist": [
@@ -166,7 +180,8 @@
     "ru": "Сиденье настроено так, что педаль сцепления или тормоза выжимается до конца",
     "pl": "Fotel ustawiony tak, by sprzęgło lub hamulec dało się wcisnąć do końca",
     "ro": "Scaunul reglat astfel încât pedala de ambreiaj sau de frână să se apese până la capăt",
-    "hr": "Sjedalo namješteno tako da se papučica spojke ili kočnice može pritisnuti do kraja"
+    "hr": "Sjedalo namješteno tako da se papučica spojke ili kočnice može pritisnuti do kraja",
+    "el": "Κάθισμα ρυθμισμένο ώστε το πεντάλ συμπλέκτη ή φρένου να πατιέται μέχρι κάτω"
    },
    {
     "de": "Innen- und Außenspiegel eingestellt",
@@ -176,7 +191,8 @@
     "ru": "Салонное и наружные зеркала настроены",
     "pl": "Lusterko wewnętrzne i boczne ustawione",
     "ro": "Oglinda interioară și cele exterioare reglate",
-    "hr": "Unutarnje i vanjska zrcala namještena"
+    "hr": "Unutarnje i vanjska zrcala namještena",
+    "el": "Εσωτερικός και εξωτερικοί καθρέφτες ρυθμισμένοι"
    },
    {
     "de": "Kopfstütze: Oberkante etwa auf Scheitelhöhe",
@@ -186,7 +202,8 @@
     "ru": "Подголовник: верхний край примерно на уровне макушки",
     "pl": "Zagłówek: górna krawędź mniej więcej na wysokości czubka głowy",
     "ro": "Tetiera: marginea de sus cam la nivelul creștetului",
-    "hr": "Naslon za glavu: gornji rub otprilike u visini tjemena"
+    "hr": "Naslon za glavu: gornji rub otprilike u visini tjemena",
+    "el": "Προσκέφαλο: πάνω άκρη περίπου στο ύψος της κορυφής του κεφαλιού"
    },
    {
     "de": "Abblendlicht, Fernlicht, Blinker, Warnblinker, Nebelschlussleuchte zeigen können",
@@ -196,7 +213,8 @@
     "ru": "Могу показать ближний и дальний свет, поворотники, аварийку, задний противотуманный фонарь",
     "pl": "Umiem pokazać światła mijania i drogowe, kierunkowskazy, awaryjne, tylne przeciwmgłowe",
     "ro": "Pot arăta faza scurtă și lungă, semnalizările, avariile, lampa de ceață spate",
-    "hr": "Mogu pokazati kratka i duga svjetla, pokazivače smjera, sva četiri pokazivača, stražnje svjetlo za maglu"
+    "hr": "Mogu pokazati kratka i duga svjetla, pokazivače smjera, sva četiri pokazivača, stražnje svjetlo za maglu",
+    "el": "Μπορώ να δείξω μεσαία και μεγάλη σκάλα, φλας, αλάρμ, πίσω φως ομίχλης"
    },
    {
     "de": "Ölmessstab finden und Ölstand ablesen können",
@@ -206,7 +224,8 @@
     "ru": "Могу найти щуп и определить уровень масла",
     "pl": "Umiem znaleźć bagnet i odczytać poziom oleju",
     "ro": "Pot găsi joja și citi nivelul uleiului",
-    "hr": "Mogu pronaći mjerač ulja i očitati razinu"
+    "hr": "Mogu pronaći mjerač ulja i očitati razinu",
+    "el": "Μπορώ να βρω τον δείκτη λαδιού και να διαβάσω τη στάθμη"
    },
    {
     "de": "Wissen, wo der vorgeschriebene Reifendruck steht",
@@ -216,7 +235,8 @@
     "ru": "Знаю, где указано правильное давление в шинах",
     "pl": "Wiem, gdzie podano prawidłowe ciśnienie w oponach",
     "ro": "Știu unde e scrisă presiunea corectă a anvelopelor",
-    "hr": "Znam gdje piše ispravan tlak u gumama"
+    "hr": "Znam gdje piše ispravan tlak u gumama",
+    "el": "Ξέρω πού αναγράφονται οι σωστές πιέσεις ελαστικών"
    }
   ],
   "pitfalls": [
@@ -228,7 +248,8 @@
     "ru": "Тронуться, не настроив зеркала или не пристегнувшись.",
     "pl": "Ruszenie bez ustawienia lusterek albo zapięcia pasa.",
     "ro": "Plecarea fără reglarea oglinzilor sau fără centură.",
-    "hr": "Polazak bez namještanja zrcala ili bez vezanja pojasa."
+    "hr": "Polazak bez namještanja zrcala ili bez vezanja pojasa.",
+    "el": "Εκκίνηση χωρίς ρύθμιση καθρεφτών ή χωρίς ζώνη."
    }
   ],
   "phrases": []
@@ -245,7 +266,8 @@
    "ru": "Параллельная парковка задним ходом",
    "pl": "Parkowanie równoległe tyłem",
    "ro": "Parcare laterală cu spatele",
-   "hr": "Uzdužno parkiranje unatrag"
+   "hr": "Uzdužno parkiranje unatrag",
+   "el": "Παράλληλη στάθμευση με όπισθεν"
   },
   "body": [
    {
@@ -256,7 +278,8 @@
     "ru": "Вы заезжаете задним ходом на место у правого края между двумя автомобилями. Место должно быть не меньше примерно полутора длин автомобиля.",
     "pl": "Wjeżdżasz tyłem w lukę przy prawej krawędzi między dwoma pojazdami. Luka powinna mieć co najmniej ok. półtorej długości samochodu.",
     "ro": "Intri cu spatele într-un loc la bordura din dreapta, între două vehicule. Locul ar trebui să aibă cel puțin circa o lungime și jumătate de mașină.",
-    "hr": "Unatrag ulaziš u prazninu uz desni rub između dva vozila. Praznina treba biti barem oko jedne i pol duljine automobila."
+    "hr": "Unatrag ulaziš u prazninu uz desni rub između dva vozila. Praznina treba biti barem oko jedne i pol duljine automobila.",
+    "el": "Μπαίνεις με όπισθεν σε κενό στο δεξί κράσπεδο ανάμεσα σε δύο οχήματα. Το κενό πρέπει να είναι τουλάχιστον περίπου ενάμισι μήκος αυτοκινήτου."
    },
    {
     "de": "Halten Sie etwa 50 cm seitlich neben dem vorderen Auto, Heck auf Höhe von dessen Heck. Langsam zurück, bis Ihre Hinterachse auf Höhe von dessen Heck ist, dann voll rechts einschlagen. Wenn das Auto etwa 45° steht, geradeaus zurück, dann voll links einschlagen, bis Sie parallel stehen.",
@@ -266,7 +289,8 @@
     "ru": "Остановитесь примерно в 50 см сбоку от переднего автомобиля, задом на уровне его задней части. Медленно сдавайте назад, пока задняя ось не окажется на уровне его заднего бампера, затем выверните руль полностью вправо. Примерно при 45° выровняйте руль и двигайтесь назад, затем выверните полностью влево, пока не встанете параллельно.",
     "pl": "Zatrzymaj się ok. 50 cm obok samochodu z przodu, tyłem na wysokości jego tyłu. Cofaj powoli, aż tylna oś znajdzie się na wysokości jego tylnego zderzaka, potem skręć kierownicę do oporu w prawo. Przy ok. 45° wyprostuj koła i cofaj, potem skręć do oporu w lewo, aż ustawisz się równolegle.",
     "ro": "Oprește la circa 50 cm lângă mașina din față, cu spatele la nivelul spatelui ei. Dă încet înapoi până când axa ta din spate ajunge la nivelul barei ei din spate, apoi bracează complet la dreapta. La circa 45°, îndreaptă roțile și dă înapoi, apoi bracează complet la stânga până ajungi paralel.",
-    "hr": "Stani oko 50 cm pokraj automobila ispred, stražnjim dijelom u ravnini s njegovim. Polako vozi unatrag dok ti stražnja osovina ne dođe u ravninu s njegovim stražnjim branikom, zatim okreni upravljač do kraja udesno. Pri oko 45° izravnaj kotače i vozi unatrag, zatim okreni do kraja ulijevo dok ne budeš usporedno."
+    "hr": "Stani oko 50 cm pokraj automobila ispred, stražnjim dijelom u ravnini s njegovim. Polako vozi unatrag dok ti stražnja osovina ne dođe u ravninu s njegovim stražnjim branikom, zatim okreni upravljač do kraja udesno. Pri oko 45° izravnaj kotače i vozi unatrag, zatim okreni do kraja ulijevo dok ne budeš usporedno.",
+    "el": "Σταμάτα περίπου 50 cm δίπλα στο μπροστινό αυτοκίνητο, με το πίσω μέρος στο ύψος του πίσω μέρους του. Κάνε αργά όπισθεν μέχρι ο πίσω άξονάς σου να έρθει στο ύψος του πίσω προφυλακτήρα του, μετά στρίψε τέρμα δεξιά. Στις περίπου 45° ίσιωσε και κάνε όπισθεν, μετά στρίψε τέρμα αριστερά μέχρι να είσαι παράλληλα."
    }
   ],
   "checklist": [
@@ -278,7 +302,8 @@
     "ru": "Перед остановкой включить правый поворотник",
     "pl": "Prawy kierunkowskaz przed zatrzymaniem",
     "ro": "Semnalizare la dreapta înainte de oprire",
-    "hr": "Pokazati desno prije zaustavljanja"
+    "hr": "Pokazati desno prije zaustavljanja",
+    "el": "Δεξί φλας πριν σταματήσω"
    },
    {
     "de": "Rundumblick, bevor ich zurücksetze",
@@ -288,7 +313,8 @@
     "ru": "Осмотреться вокруг перед движением назад",
     "pl": "Rozejrzenie się dookoła przed cofaniem",
     "ro": "Privire de jur împrejur înainte de mersul înapoi",
-    "hr": "Pogledati oko sebe prije vožnje unatrag"
+    "hr": "Pogledati oko sebe prije vožnje unatrag",
+    "el": "Ματιά παντού πριν την όπισθεν"
    },
    {
     "de": "Ständig nach hinten und zur Seite schauen, nicht nur in den Spiegel",
@@ -298,7 +324,8 @@
     "ru": "Продолжать смотреть назад и в сторону, а не только в зеркало",
     "pl": "Patrzenie do tyłu i na bok, nie tylko w lusterko",
     "ro": "Privire continuă în spate și lateral, nu doar în oglindă",
-    "hr": "Gledati unatrag i u stranu, ne samo u zrcalo"
+    "hr": "Gledati unatrag i u stranu, ne samo u zrcalo",
+    "el": "Συνεχής ματιά πίσω και στο πλάι, όχι μόνο στον καθρέφτη"
    },
    {
     "de": "Am Ende höchstens etwa 30 cm vom Bordstein, Räder gerade",
@@ -308,7 +335,8 @@
     "ru": "Закончить не дальше примерно 30 см от бордюра, колёса прямо",
     "pl": "Koniec najwyżej ok. 30 cm od krawężnika, koła prosto",
     "ro": "Final la cel mult circa 30 cm de bordură, cu roțile drepte",
-    "hr": "Završiti najviše oko 30 cm od rubnjaka, s ravnim kotačima"
+    "hr": "Završiti najviše oko 30 cm od rubnjaka, s ravnim kotačima",
+    "el": "Τέλος το πολύ περίπου 30 cm από το κράσπεδο, τροχοί ίσιοι"
    }
   ],
   "pitfalls": [
@@ -320,7 +348,8 @@
     "ru": "Заехать задним колесом на бордюр.",
     "pl": "Najechanie tylnym kołem na krawężnik.",
     "ro": "Urcarea cu roata din spate pe bordură.",
-    "hr": "Penjanje stražnjim kotačem na rubnjak."
+    "hr": "Penjanje stražnjim kotačem na rubnjak.",
+    "el": "Ανέβασμα του πίσω τροχού στο κράσπεδο."
    },
    {
     "de": "Den Verkehr nicht beobachten, während die Front ausschwenkt.",
@@ -330,7 +359,8 @@
     "ru": "Не следить за движением, пока перед машины выносит в сторону.",
     "pl": "Brak obserwacji ruchu, gdy przód wychyla się na bok.",
     "ro": "Neatenția la trafic în timp ce partea din față iese în afară.",
-    "hr": "Nepraćenje prometa dok prednji dio izlazi u stranu."
+    "hr": "Nepraćenje prometa dok prednji dio izlazi u stranu.",
+    "el": "Δεν παρακολουθώ την κυκλοφορία ενώ το μπροστινό μέρος βγαίνει στο πλάι."
    },
    {
     "de": "Zu viele Korrekturzüge.",
@@ -340,7 +370,8 @@
     "ru": "Слишком много поправок.",
     "pl": "Zbyt wiele poprawek.",
     "ro": "Prea multe corecții.",
-    "hr": "Previše ispravljanja."
+    "hr": "Previše ispravljanja.",
+    "el": "Πάρα πολλές διορθώσεις."
    }
   ],
   "phrases": []
@@ -357,7 +388,8 @@
    "ru": "Парковка на место (перпендикулярно или под углом)",
    "pl": "Parkowanie prostopadłe lub skośne",
    "ro": "Parcare perpendiculară sau oblică",
-   "hr": "Okomito ili koso parkiranje"
+   "hr": "Okomito ili koso parkiranje",
+   "el": "Κάθετη ή λοξή στάθμευση"
   },
   "body": [
    {
@@ -368,7 +400,8 @@
     "ru": "Вы паркуетесь передом или задом на место перпендикулярно или наискосок к дороге, например на парковке. Автомобиль должен стоять по центру и ровно, не заезжая на линии.",
     "pl": "Parkujesz przodem lub tyłem na miejscu prostopadłym albo skośnym do jezdni, np. na parkingu. Samochód powinien stać na środku i prosto, bez najeżdżania na linie.",
     "ro": "Parchezi cu fața sau cu spatele într-un loc perpendicular sau oblic față de drum, de exemplu într-o parcare. Mașina trebuie să ajungă centrată și dreaptă, fără să treacă peste linii.",
-    "hr": "Parkiraš naprijed ili unatrag na mjesto okomito ili koso prema cesti, npr. na parkiralištu. Vozilo treba završiti u sredini i ravno, bez prelaženja crta."
+    "hr": "Parkiraš naprijed ili unatrag na mjesto okomito ili koso prema cesti, npr. na parkiralištu. Vozilo treba završiti u sredini i ravno, bez prelaženja crta.",
+    "el": "Σταθμεύεις μπροστά ή όπισθεν σε θέση κάθετη ή λοξή προς τον δρόμο, π.χ. σε πάρκινγκ. Το αυτοκίνητο πρέπει να καταλήξει στο κέντρο και ίσιο, χωρίς να πατά τις γραμμές."
    },
    {
     "de": "Rückwärts ist meist leichter, weil die Vorderräder lenken: Fahren Sie an der Lücke vorbei, schlagen Sie ein, wenn Ihr Heck etwa an der zweiten Linie vorbei ist, und richten Sie das Auto an den Linien aus.",
@@ -378,7 +411,8 @@
     "ru": "Задом обычно проще, потому что рулят передние колёса: проезжаете место, начинаете поворачивать, когда задняя часть примерно миновала дальнюю линию, и выравниваете машину по разметке.",
     "pl": "Tyłem jest zwykle łatwiej, bo kierują przednie koła: miń miejsce, skręcaj, gdy tył minie mniej więcej dalszą linię, i wyrównaj samochód do linii.",
     "ro": "Cu spatele e de obicei mai ușor, pentru că roțile din față fac direcția: treci de loc, bracează când spatele a trecut cam de linia îndepărtată și aliniază mașina cu marcajele.",
-    "hr": "Unatrag je obično lakše, jer upravljaju prednji kotači: prođi mjesto, okreni upravljač kad ti stražnji dio otprilike prijeđe daljnju crtu i poravnaj vozilo s oznakama."
+    "hr": "Unatrag je obično lakše, jer upravljaju prednji kotači: prođi mjesto, okreni upravljač kad ti stražnji dio otprilike prijeđe daljnju crtu i poravnaj vozilo s oznakama.",
+    "el": "Με όπισθεν είναι συνήθως ευκολότερο, γιατί κατευθύνουν οι μπροστινοί τροχοί: πέρνα τη θέση, στρίψε όταν το πίσω μέρος έχει περάσει περίπου τη μακρινή γραμμή, και ευθυγράμμισε το αυτοκίνητο με τις γραμμές."
    }
   ],
   "checklist": [
@@ -390,7 +424,8 @@
     "ru": "Включить поворотник перед заездом на место",
     "pl": "Kierunkowskaz przed wjazdem na miejsce",
     "ro": "Semnalizare înainte de intrarea în loc",
-    "hr": "Pokazati smjer prije ulaska na mjesto"
+    "hr": "Pokazati smjer prije ulaska na mjesto",
+    "el": "Φλας πριν μπω στη θέση"
    },
    {
     "de": "Auf Fußgänger auf dem Parkplatz achten",
@@ -400,7 +435,8 @@
     "ru": "Следить за пешеходами на парковке",
     "pl": "Uwaga na pieszych na parkingu",
     "ro": "Atenție la pietonii din parcare",
-    "hr": "Paziti na pješake na parkiralištu"
+    "hr": "Paziti na pješake na parkiralištu",
+    "el": "Προσοχή στους πεζούς στο πάρκινγκ"
    },
    {
     "de": "Mittig zwischen den Linien, Räder gerade",
@@ -410,7 +446,8 @@
     "ru": "По центру между линиями, колёса прямо",
     "pl": "Na środku między liniami, koła prosto",
     "ro": "Centrat între linii, roțile drepte",
-    "hr": "U sredini između crta, kotači ravno"
+    "hr": "U sredini između crta, kotači ravno",
+    "el": "Στο κέντρο ανάμεσα στις γραμμές, τροχοί ίσιοι"
    }
   ],
   "pitfalls": [
@@ -422,7 +459,8 @@
     "ru": "Почти коснуться соседней машины и не остановиться.",
     "pl": "Prawie dotknięcie sąsiedniego auta bez zatrzymania się.",
     "ro": "Aproape atingerea mașinii vecine, fără oprire.",
-    "hr": "Gotovo dodirivanje susjednog vozila bez zaustavljanja."
+    "hr": "Gotovo dodirivanje susjednog vozila bez zaustavljanja.",
+    "el": "Σχεδόν ακουμπάω το διπλανό αυτοκίνητο χωρίς να σταματήσω."
    }
   ],
   "phrases": []
@@ -439,7 +477,8 @@
    "ru": "Задним ходом за угол",
    "pl": "Cofanie z wjazdem za róg",
    "ro": "Mers înapoi după colț",
-   "hr": "Vožnja unatrag oko ugla"
+   "hr": "Vožnja unatrag oko ugla",
+   "el": "Όπισθεν σε γωνία"
   },
   "body": [
    {
@@ -450,7 +489,8 @@
     "ru": "Вы заезжаете задним ходом направо в боковую улицу, перекрёсток или въезд, держась на равном расстоянии от бордюра.",
     "pl": "Cofasz w prawo w boczną ulicę, skrzyżowanie lub wjazd, trzymając równy odstęp od krawężnika.",
     "ro": "Dai înapoi la dreapta într-o stradă laterală, o intersecție sau o intrare, urmând bordura la distanță constantă.",
-    "hr": "Unatrag ulaziš udesno u sporednu ulicu, raskrižje ili ulaz, prateći rubnjak na jednakoj udaljenosti."
+    "hr": "Unatrag ulaziš udesno u sporednu ulicu, raskrižje ili ulaz, prateći rubnjak na jednakoj udaljenosti.",
+    "el": "Κάνεις όπισθεν δεξιά σε πλευρικό δρόμο, διασταύρωση ή είσοδο, ακολουθώντας το κράσπεδο σε σταθερή απόσταση."
    },
    {
     "de": "Fahren Sie an der Einmündung vorbei und halten Sie nahe am Bordstein. Langsam zurück; wenn der Bordstein im rechten Spiegel abknickt, rechts einlenken. Nach der Ecke geradeaus zurück, bis der Prüfer stoppt.",
@@ -460,7 +500,8 @@
     "ru": "Проезжаете проём и останавливаетесь близко к бордюру. Медленно сдаёте назад; когда в правом зеркале видно, что бордюр начинает загибаться, начинаете поворачивать вправо. После угла выравниваете руль и сдаёте назад, пока экзаменатор не остановит.",
     "pl": "Miń wlot i zatrzymaj się blisko krawężnika. Cofaj powoli; gdy w prawym lusterku widać, że krawężnik zaczyna się zaginać, zacznij skręcać w prawo. Za rogiem wyprostuj koła i cofaj, aż egzaminator cię zatrzyma.",
     "ro": "Treci de deschidere și oprește aproape de bordură. Dă încet înapoi; când în oglinda dreaptă vezi bordura curbându-se, începe să bracezi la dreapta. După colț îndreaptă roțile și dă înapoi până te oprește examinatorul.",
-    "hr": "Prođi otvor i stani blizu rubnjaka. Polako vozi unatrag; kad u desnom zrcalu vidiš da rubnjak skreće, počni okretati udesno. Nakon ugla izravnaj kotače i vozi unatrag dok te ispitivač ne zaustavi."
+    "hr": "Prođi otvor i stani blizu rubnjaka. Polako vozi unatrag; kad u desnom zrcalu vidiš da rubnjak skreće, počni okretati udesno. Nakon ugla izravnaj kotače i vozi unatrag dok te ispitivač ne zaustavi.",
+    "el": "Πέρνα το άνοιγμα και σταμάτα κοντά στο κράσπεδο. Κάνε αργά όπισθεν· όταν στον δεξί καθρέφτη δεις ότι το κράσπεδο καμπυλώνει, άρχισε να στρίβεις δεξιά. Μετά τη γωνία ίσιωσε και συνέχισε όπισθεν μέχρι να σε σταματήσει ο εξεταστής."
    }
   ],
   "checklist": [
@@ -472,7 +513,8 @@
     "ru": "Осматриваться до и во время движения назад",
     "pl": "Rozglądanie się przed cofaniem i w trakcie",
     "ro": "Privire de jur împrejur înainte și în timpul mersului înapoi",
-    "hr": "Gledati oko sebe prije i tijekom vožnje unatrag"
+    "hr": "Gledati oko sebe prije i tijekom vožnje unatrag",
+    "el": "Ματιά παντού πριν και κατά την όπισθεν"
    },
    {
     "de": "Fußgänger an der Ecke durchlassen",
@@ -482,7 +524,8 @@
     "ru": "Пропускать пешеходов на углу",
     "pl": "Przepuszczenie pieszych na rogu",
     "ro": "Pietonii de la colț au întâietate",
-    "hr": "Propustiti pješake na uglu"
+    "hr": "Propustiti pješake na uglu",
+    "el": "Οι πεζοί στη γωνία περνούν πρώτοι"
    },
    {
     "de": "Gleichmäßiger Abstand zum Bordstein",
@@ -492,7 +535,8 @@
     "ru": "Равное расстояние до бордюра",
     "pl": "Równy odstęp od krawężnika",
     "ro": "Distanță constantă față de bordură",
-    "hr": "Jednaka udaljenost od rubnjaka"
+    "hr": "Jednaka udaljenost od rubnjaka",
+    "el": "Σταθερή απόσταση από το κράσπεδο"
    }
   ],
   "pitfalls": [
@@ -504,7 +548,8 @@
     "ru": "Перед машины незаметно выносит на встречную полосу.",
     "pl": "Przód niepostrzeżenie wychyla się na pas przeciwny.",
     "ro": "Partea din față intră neobservat în traficul din sens opus.",
-    "hr": "Prednji dio neprimjetno izlazi u promet iz suprotnog smjera."
+    "hr": "Prednji dio neprimjetno izlazi u promet iz suprotnog smjera.",
+    "el": "Το μπροστινό μέρος βγαίνει απαρατήρητα στην αντίθετη κυκλοφορία."
    }
   ],
   "phrases": []
@@ -521,7 +566,8 @@
    "ru": "Разворот",
    "pl": "Zawracanie",
    "ro": "Întoarcerea",
-   "hr": "Okretanje"
+   "hr": "Okretanje",
+   "el": "Αναστροφή"
   },
   "body": [
    {
@@ -532,7 +578,8 @@
     "ru": "Вы разворачиваете автомобиль на дороге в обратную сторону, двигаясь вперёд и назад. Касаться бордюров нельзя.",
     "pl": "Obracasz samochód na drodze w przeciwnym kierunku, jadąc do przodu i do tyłu. Nie wolno dotknąć krawężników.",
     "ro": "Întorci mașina pe un drum în sens opus, cu mers înainte și înapoi. Nu ai voie să atingi bordurile.",
-    "hr": "Okrećeš vozilo na cesti u suprotan smjer, vožnjom naprijed i unatrag. Ne smiješ dodirnuti rubnjake."
+    "hr": "Okrećeš vozilo na cesti u suprotan smjer, vožnjom naprijed i unatrag. Ne smiješ dodirnuti rubnjake.",
+    "el": "Γυρίζεις το αυτοκίνητο στην αντίθετη κατεύθυνση πάνω στον δρόμο, με κινήσεις μπροστά και πίσω. Δεν επιτρέπεται να ακουμπήσεις τα κράσπεδα."
    }
   ],
   "checklist": [
@@ -544,7 +591,8 @@
     "ru": "Только там, где это разрешено и хорошо видно",
     "pl": "Tylko tam, gdzie jest to dozwolone i dobrze widać",
     "ro": "Doar unde e permis și vizibilitatea e bună",
-    "hr": "Samo gdje je dopušteno i dobro se vidi"
+    "hr": "Samo gdje je dopušteno i dobro se vidi",
+    "el": "Μόνο όπου επιτρέπεται και υπάρχει καλή ορατότητα"
    },
    {
     "de": "Vor jedem Zug in beide Richtungen schauen",
@@ -554,7 +602,8 @@
     "ru": "Смотреть в обе стороны перед каждым движением",
     "pl": "Spojrzenie w obie strony przed każdym ruchem",
     "ro": "Privire în ambele părți înainte de fiecare mișcare",
-    "hr": "Pogledati na obje strane prije svakog pomaka"
+    "hr": "Pogledati na obje strane prije svakog pomaka",
+    "el": "Ματιά και προς τις δύο πλευρές πριν από κάθε κίνηση"
    },
    {
     "de": "Langsam fahren, schnell lenken",
@@ -564,7 +613,8 @@
     "ru": "Двигаться медленно, рулить быстро",
     "pl": "Jechać powoli, kręcić szybko",
     "ro": "Deplasare lentă, bracare rapidă",
-    "hr": "Polako se kretati, brzo okretati upravljač"
+    "hr": "Polako se kretati, brzo okretati upravljač",
+    "el": "Κίνηση αργή, τιμόνι γρήγορο"
    }
   ],
   "pitfalls": [
@@ -576,7 +626,8 @@
     "ru": "Задерживать движение вместо того, чтобы пропустить.",
     "pl": "Blokowanie ruchu zamiast jego przepuszczenia.",
     "ro": "Blocarea traficului în loc să-l lași să treacă.",
-    "hr": "Zadržavanje prometa umjesto da ga propustiš."
+    "hr": "Zadržavanje prometa umjesto da ga propustiš.",
+    "el": "Καθυστερώ την κυκλοφορία αντί να την αφήσω να περάσει."
    }
   ],
   "phrases": []
@@ -593,7 +644,8 @@
    "ru": "Экстренное торможение",
    "pl": "Hamowanie awaryjne",
    "ro": "Frânarea de urgență",
-   "hr": "Naglo kočenje"
+   "hr": "Naglo kočenje",
+   "el": "Φρενάρισμα έκτακτης ανάγκης"
   },
   "body": [
    {
@@ -604,7 +656,8 @@
     "ru": "По сигналу экзаменатора вы тормозите со скорости около 30 км/ч как можно сильнее до полной остановки. Машина должна остаться прямо.",
     "pl": "Na sygnał egzaminatora hamujesz z ok. 30 km/h najmocniej, jak się da, aż do zatrzymania. Samochód powinien jechać prosto.",
     "ro": "La semnalul examinatorului frânezi de la circa 30 km/h cât poți de tare, până la oprire. Mașina trebuie să rămână dreaptă.",
-    "hr": "Na znak ispitivača kočiš s oko 30 km/h najjače što možeš do zaustavljanja. Vozilo treba ostati ravno."
+    "hr": "Na znak ispitivača kočiš s oko 30 km/h najjače što možeš do zaustavljanja. Vozilo treba ostati ravno.",
+    "el": "Με σήμα του εξεταστή φρενάρεις από περίπου 30 km/h όσο πιο δυνατά γίνεται μέχρι να σταματήσεις. Το αυτοκίνητο πρέπει να μείνει ευθεία."
    },
    {
     "de": "Mit ABS: Bremse und Kupplung voll durchtreten und halten. Das Rattern im Pedal ist normal. Vorher prüft der Prüfer, dass niemand hinter Ihnen fährt.",
@@ -614,7 +667,8 @@
     "ru": "С ABS: выжмите тормоз и сцепление до конца и держите. Дрожание педали — это нормально. Экзаменатор заранее убедится, что сзади никого нет.",
     "pl": "Z ABS: wciśnij hamulec i sprzęgło do końca i trzymaj. Drganie pedału jest normalne. Egzaminator wcześniej sprawdza, czy nikt nie jedzie z tyłu.",
     "ro": "Cu ABS: apasă frâna și ambreiajul până la capăt și ține-le. Vibrațiile din pedală sunt normale. Examinatorul verifică dinainte că nu vine nimeni din spate.",
-    "hr": "S ABS-om: pritisni kočnicu i spojku do kraja i drži. Podrhtavanje papučice je normalno. Ispitivač prije provjerava da nitko ne vozi iza."
+    "hr": "S ABS-om: pritisni kočnicu i spojku do kraja i drži. Podrhtavanje papučice je normalno. Ispitivač prije provjerava da nitko ne vozi iza.",
+    "el": "Με ABS: πάτα φρένο και συμπλέκτη μέχρι κάτω και κράτα τα. Το τρέμουλο στο πεντάλ είναι φυσιολογικό. Ο εξεταστής ελέγχει πριν ότι δεν έρχεται κανείς από πίσω."
    }
   ],
   "checklist": [
@@ -626,7 +680,8 @@
     "ru": "Реагировать по команде, а не раньше",
     "pl": "Reakcja na komendę, nie wcześniej",
     "ro": "Reacție la comandă, nu înainte",
-    "hr": "Reagirati na naredbu, ne prije"
+    "hr": "Reagirati na naredbu, ne prije",
+    "el": "Αντίδραση στην εντολή, όχι πριν"
    },
    {
     "de": "Voll durchtreten, nicht zögerlich steigern",
@@ -636,7 +691,8 @@
     "ru": "Нажать до конца, а не постепенно",
     "pl": "Wciśnięcie do końca, nie stopniowo",
     "ro": "Apăsare completă, nu treptată",
-    "hr": "Pritisnuti do kraja, ne postupno"
+    "hr": "Pritisnuti do kraja, ne postupno",
+    "el": "Πάτημα μέχρι κάτω, όχι σταδιακά"
    },
    {
     "de": "Danach Warnblinker oder Spiegelblick, bevor ich weiterfahre",
@@ -646,7 +702,8 @@
     "ru": "После — аварийка или взгляд в зеркало, прежде чем ехать дальше",
     "pl": "Potem światła awaryjne albo spojrzenie w lusterko przed dalszą jazdą",
     "ro": "După aceea, avarii sau privire în oglindă înainte de a pleca",
-    "hr": "Poslije sva četiri pokazivača ili pogled u zrcalo prije nastavka"
+    "hr": "Poslije sva četiri pokazivača ili pogled u zrcalo prije nastavka",
+    "el": "Μετά, αλάρμ ή ματιά στον καθρέφτη πριν συνεχίσω"
    }
   ],
   "pitfalls": [
@@ -658,7 +715,8 @@
     "ru": "Тормозить слишком мягко.",
     "pl": "Zbyt delikatne hamowanie.",
     "ro": "Frânare prea blândă.",
-    "hr": "Preblago kočenje."
+    "hr": "Preblago kočenje.",
+    "el": "Πολύ απαλό φρενάρισμα."
    }
   ],
   "phrases": []
@@ -675,7 +733,8 @@
    "ru": "Пять областей компетенций",
    "pl": "Pięć obszarów kompetencji",
    "ro": "Cele cinci domenii de competență",
-   "hr": "Pet područja kompetencija"
+   "hr": "Pet područja kompetencija",
+   "el": "Οι πέντε τομείς ικανοτήτων"
   },
   "body": [
    {
@@ -686,7 +745,8 @@
     "ru": "Экзаменатор не просто считает отдельные «ошибки», а оценивает вождение в пяти областях — на протяжении всего экзамена и в таких ситуациях, как перекрёстки, кольца, перестроения, въезды на автобан, повороты дороги и «зебры».",
     "pl": "Egzaminator nie tylko liczy pojedyncze „błędy”, ale ocenia jazdę w pięciu obszarach — przez cały egzamin i w sytuacjach takich jak skrzyżowania, ronda, zmiany pasa, wjazdy na autostradę, zakręty i przejścia dla pieszych.",
     "ro": "Examinatorul nu doar numără „greșelile” una câte una, ci îți evaluează condusul în cinci domenii — pe tot parcursul examenului și în situații precum intersecții, sensuri giratorii, schimbări de bandă, intrări pe autostradă, curbe și treceri de pietoni.",
-    "hr": "Ispitivač ne broji samo pojedinačne „pogreške”, nego ocjenjuje vožnju u pet područja — tijekom cijelog ispita i u situacijama kao što su raskrižja, kružni tokovi, promjene traka, ulazi na autocestu, zavoji i pješački prijelazi."
+    "hr": "Ispitivač ne broji samo pojedinačne „pogreške”, nego ocjenjuje vožnju u pet područja — tijekom cijelog ispita i u situacijama kao što su raskrižja, kružni tokovi, promjene traka, ulazi na autocestu, zavoji i pješački prijelazi.",
+    "el": "Ο εξεταστής δεν μετρά απλώς μεμονωμένα «λάθη» αλλά αξιολογεί την οδήγησή σου σε πέντε τομείς — σε όλη την εξέταση και σε καταστάσεις όπως διασταυρώσεις, κυκλικοί κόμβοι, αλλαγές λωρίδας, είσοδοι σε αυτοκινητόδρομο, στροφές και διαβάσεις πεζών."
    }
   ],
   "checklist": [
@@ -698,7 +758,8 @@
     "ru": "Наблюдение: зеркала, взгляд через плечо, взгляд вперёд",
     "pl": "Obserwacja: lusterka, spojrzenie przez ramię, patrzenie daleko przed siebie",
     "ro": "Observare: oglinzi, priviri peste umăr, privire departe înainte",
-    "hr": "Promatranje: zrcala, pogled preko ramena, gledanje daleko naprijed"
+    "hr": "Promatranje: zrcala, pogled preko ramena, gledanje daleko naprijed",
+    "el": "Παρατήρηση: καθρέφτες, ματιά από τον ώμο, βλέμμα μακριά μπροστά"
    },
    {
     "de": "Fahrzeugpositionierung: richtige Spur, Abstand nach vorne und zur Seite",
@@ -708,7 +769,8 @@
     "ru": "Положение на дороге: правильная полоса, дистанция и боковой интервал",
     "pl": "Pozycja na drodze: właściwy pas, odstęp z przodu i z boku",
     "ro": "Poziționare: banda corectă, distanța în față și lateral",
-    "hr": "Položaj: pravi trak, razmak naprijed i u stranu"
+    "hr": "Položaj: pravi trak, razmak naprijed i u stranu",
+    "el": "Θέση: σωστή λωρίδα, απόσταση μπροστά και πλάγια"
    },
    {
     "de": "Geschwindigkeitsanpassung: Tempo passend zu Limit, Sicht und Situation",
@@ -718,7 +780,8 @@
     "ru": "Скорость: по ограничению, обзору и ситуации",
     "pl": "Prędkość: dostosowana do ograniczenia, widoczności i sytuacji",
     "ro": "Viteză: potrivită limitei, vizibilității și situației",
-    "hr": "Brzina: prilagođena ograničenju, preglednosti i situaciji"
+    "hr": "Brzina: prilagođena ograničenju, preglednosti i situaciji",
+    "el": "Ταχύτητα: ανάλογη με το όριο, την ορατότητα και την κατάσταση"
    },
    {
     "de": "Kommunikation: rechtzeitig blinken, Blickkontakt, klare Absichten",
@@ -728,7 +791,8 @@
     "ru": "Коммуникация: вовремя включённый поворотник, зрительный контакт, ясные намерения",
     "pl": "Komunikacja: kierunkowskaz w porę, kontakt wzrokowy, jasne zamiary",
     "ro": "Comunicare: semnalizare la timp, contact vizual, intenții clare",
-    "hr": "Komunikacija: pokazivač na vrijeme, kontakt očima, jasne namjere"
+    "hr": "Komunikacija: pokazivač na vrijeme, kontakt očima, jasne namjere",
+    "el": "Επικοινωνία: φλας έγκαιρα, οπτική επαφή, σαφείς προθέσεις"
    },
    {
     "de": "Fahrzeugbedienung und umweltbewusstes Fahren: Schalten, Lenken, sanftes Bremsen",
@@ -738,7 +802,8 @@
     "ru": "Управление и экономичная езда: переключение передач, руление, плавное торможение",
     "pl": "Obsługa pojazdu i jazda ekonomiczna: zmiana biegów, kierowanie, płynne hamowanie",
     "ro": "Manevrarea vehiculului și condus economic: schimbarea treptelor, direcția, frânare lină",
-    "hr": "Upravljanje vozilom i štedljiva vožnja: mijenjanje stupnjeva, upravljanje, glatko kočenje"
+    "hr": "Upravljanje vozilom i štedljiva vožnja: mijenjanje stupnjeva, upravljanje, glatko kočenje",
+    "el": "Χειρισμός και οικονομική οδήγηση: αλλαγές ταχυτήτων, τιμόνι, ομαλό φρενάρισμα"
    }
   ],
   "pitfalls": [],
@@ -756,7 +821,8 @@
    "ru": "Из-за чего чаще всего не сдают",
    "pl": "Za co najczęściej się oblewa",
    "ro": "Pentru ce se pică cel mai des",
-   "hr": "Zbog čega se najčešće pada"
+   "hr": "Zbog čega se najčešće pada",
+   "el": "Για τι αποτυγχάνουν πιο συχνά"
   },
   "body": [
    {
@@ -767,7 +833,8 @@
     "ru": "Мелкие промахи не приводят к провалу. Провал — за серьёзную ошибку, например когда кто-то оказался в опасности, или когда мелкие ошибки повторяются.",
     "pl": "Drobne potknięcia nie oznaczają niezdania. Oblewa się za poważny błąd — np. gdy ktoś zostanie narażony — albo gdy drobne błędy się powtarzają.",
     "ro": "Micile scăpări nu duc la respingere. Pici pentru o greșeală gravă — de exemplu când cineva e pus în pericol — sau când greșelile mici se repetă.",
-    "hr": "Sitni propusti ne znače pad. Pada se zbog teške pogreške — npr. kad je netko ugrožen — ili kad se manje pogreške ponavljaju."
+    "hr": "Sitni propusti ne znače pad. Pada se zbog teške pogreške — npr. kad je netko ugrožen — ili kad se manje pogreške ponavljaju.",
+    "el": "Μικρές αστοχίες δεν σημαίνουν αποτυχία. Αποτυγχάνεις για σοβαρό λάθος — π.χ. όταν κάποιος τίθεται σε κίνδυνο — ή όταν τα μικρότερα λάθη επαναλαμβάνονται."
    }
   ],
   "checklist": [],
@@ -780,7 +847,8 @@
     "ru": "Несоблюдение преимущества, особенно «правый перед левым» в зонах 30",
     "pl": "Nieustąpienie pierwszeństwa, zwłaszcza „prawa przed lewą” w strefach 30",
     "ro": "Nerespectarea priorității, mai ales „dreapta înaintea stângii” în zonele 30",
-    "hr": "Nepoštivanje prednosti, osobito „desni ima prednost” u zonama 30"
+    "hr": "Nepoštivanje prednosti, osobito „desni ima prednost” u zonama 30",
+    "el": "Παραβίαση προτεραιότητας, κυρίως της «προτεραιότητας από δεξιά» σε ζώνες 30"
    },
    {
     "de": "Kein Schulterblick beim Abbiegen, Anfahren oder Spurwechsel",
@@ -790,7 +858,8 @@
     "ru": "Нет взгляда через плечо при повороте, начале движения или перестроении",
     "pl": "Brak spojrzenia przez ramię przy skręcie, ruszaniu lub zmianie pasa",
     "ro": "Lipsa privirii peste umăr la viraj, la plecare sau la schimbarea benzii",
-    "hr": "Nema pogleda preko ramena pri skretanju, polasku ili promjeni traka"
+    "hr": "Nema pogleda preko ramena pri skretanju, polasku ili promjeni traka",
+    "el": "Χωρίς ματιά από τον ώμο στη στροφή, στην εκκίνηση ή στην αλλαγή λωρίδας"
    },
    {
     "de": "Am Stoppschild nicht vollständig angehalten",
@@ -800,7 +869,8 @@
     "ru": "Нет полной остановки у знака STOP",
     "pl": "Brak całkowitego zatrzymania przy znaku STOP",
     "ro": "Lipsa opririi complete la indicatorul STOP",
-    "hr": "Nema potpunog zaustavljanja kod znaka STOP"
+    "hr": "Nema potpunog zaustavljanja kod znaka STOP",
+    "el": "Χωρίς πλήρη στάση στην πινακίδα STOP"
    },
    {
     "de": "Fußgänger am Zebrastreifen nicht durchgelassen",
@@ -810,7 +880,8 @@
     "ru": "Не пропустить пешеходов на «зебре»",
     "pl": "Nieprzepuszczenie pieszych na przejściu",
     "ro": "Nelăsarea pietonilor să traverseze pe trecere",
-    "hr": "Nepropuštanje pješaka na pješačkom prijelazu"
+    "hr": "Nepropuštanje pješaka na pješačkom prijelazu",
+    "el": "Δεν αφήνω τους πεζούς να περάσουν στη διάβαση"
    },
    {
     "de": "Deutlich zu schnell, z. B. in einer 30-Zone",
@@ -820,7 +891,8 @@
     "ru": "Явное превышение скорости, например в зоне 30",
     "pl": "Wyraźne przekroczenie prędkości, np. w strefie 30",
     "ro": "Depășirea clară a vitezei, de exemplu într-o zonă 30",
-    "hr": "Očito prekoračenje brzine, npr. u zoni 30"
+    "hr": "Očito prekoračenje brzine, npr. u zoni 30",
+    "el": "Σαφής υπέρβαση ταχύτητας, π.χ. σε ζώνη 30"
    },
    {
     "de": "Rote Ampel überfahren",
@@ -830,7 +902,8 @@
     "ru": "Проезд на красный",
     "pl": "Przejazd na czerwonym",
     "ro": "Trecerea pe roșu",
-    "hr": "Prolazak kroz crveno"
+    "hr": "Prolazak kroz crveno",
+    "el": "Παραβίαση κόκκινου"
    },
    {
     "de": "Der Fahrlehrer muss eingreifen (Doppelbremse oder Lenkrad)",
@@ -840,7 +913,8 @@
     "ru": "Инструктору пришлось вмешаться (второй тормоз или руль)",
     "pl": "Interwencja instruktora (dodatkowy hamulec lub kierownica)",
     "ro": "Instructorul e nevoit să intervină (frâna dublă sau volanul)",
-    "hr": "Instruktor mora intervenirati (dvostruka kočnica ili upravljač)"
+    "hr": "Instruktor mora intervenirati (dvostruka kočnica ili upravljač)",
+    "el": "Ο εκπαιδευτής αναγκάζεται να επέμβει (διπλό φρένο ή τιμόνι)"
    }
   ],
   "phrases": []
@@ -857,7 +931,8 @@
    "ru": "Что говорит экзаменатор",
    "pl": "Co mówi egzaminator",
    "ro": "Ce spune examinatorul",
-   "hr": "Što govori ispitivač"
+   "hr": "Što govori ispitivač",
+   "el": "Τι λέει ο εξεταστής"
   },
   "body": [
    {
@@ -868,7 +943,8 @@
     "ru": "Практический экзамен проходит на немецком. Экзаменатор даёт указания заранее. Если что-то непонятно, спросите — это не ошибка.",
     "pl": "Egzamin praktyczny odbywa się po niemiecku. Egzaminator podaje polecenia zawczasu. Jeśli czegoś nie rozumiesz, zapytaj — to nie jest błąd.",
     "ro": "Examenul practic e în germană. Examinatorul dă indicațiile din timp. Dacă nu înțelegi, întreabă — nu e o greșeală.",
-    "hr": "Ispit vožnje je na njemačkom. Ispitivač daje upute na vrijeme. Ako nešto ne razumiješ, pitaj — to nije pogreška."
+    "hr": "Ispit vožnje je na njemačkom. Ispitivač daje upute na vrijeme. Ako nešto ne razumiješ, pitaj — to nije pogreška.",
+    "el": "Η πρακτική εξέταση γίνεται στα γερμανικά. Ο εξεταστής δίνει τις οδηγίες έγκαιρα. Αν δεν καταλάβεις, ρώτα — δεν είναι λάθος."
    }
   ],
   "checklist": [],
@@ -882,7 +958,8 @@
     "ru": "На следующем перекрёстке, пожалуйста, направо.",
     "pl": "Na następnym skrzyżowaniu proszę skręcić w prawo.",
     "ro": "La următoarea intersecție, vă rog, la dreapta.",
-    "hr": "Na sljedećem raskrižju, molim, desno."
+    "hr": "Na sljedećem raskrižju, molim, desno.",
+    "el": "Στην επόμενη διασταύρωση, δεξιά παρακαλώ."
    },
    {
     "de": "Bitte biegen Sie links ab.",
@@ -892,7 +969,8 @@
     "ru": "Пожалуйста, поверните налево.",
     "pl": "Proszę skręcić w lewo.",
     "ro": "Vă rog, virați la stânga.",
-    "hr": "Molim, skrenite lijevo."
+    "hr": "Molim, skrenite lijevo.",
+    "el": "Στρίψτε αριστερά παρακαλώ."
    },
    {
     "de": "Fahren Sie bitte geradeaus weiter.",
@@ -902,7 +980,8 @@
     "ru": "Пожалуйста, езжайте прямо.",
     "pl": "Proszę jechać dalej prosto.",
     "ro": "Vă rog, continuați înainte.",
-    "hr": "Molim, nastavite ravno."
+    "hr": "Molim, nastavite ravno.",
+    "el": "Συνεχίστε ευθεία παρακαλώ."
    },
    {
     "de": "Folgen Sie bitte dem Straßenverlauf.",
@@ -912,7 +991,8 @@
     "ru": "Пожалуйста, следуйте по дороге.",
     "pl": "Proszę jechać zgodnie z przebiegiem drogi.",
     "ro": "Vă rog, urmați cursul drumului.",
-    "hr": "Molim, pratite tijek ceste."
+    "hr": "Molim, pratite tijek ceste.",
+    "el": "Ακολουθήστε την πορεία του δρόμου παρακαλώ."
    },
    {
     "de": "Folgen Sie der Beschilderung Richtung Autobahn.",
@@ -922,7 +1002,8 @@
     "ru": "Следуйте по указателям на автобан.",
     "pl": "Proszę jechać za drogowskazami na autostradę.",
     "ro": "Urmați indicatoarele spre autostradă.",
-    "hr": "Pratite putokaze prema autocesti."
+    "hr": "Pratite putokaze prema autocesti.",
+    "el": "Ακολουθήστε τις πινακίδες προς τον αυτοκινητόδρομο."
    },
    {
     "de": "Im Kreisverkehr bitte die zweite Ausfahrt nehmen.",
@@ -932,7 +1013,8 @@
     "ru": "На кольце, пожалуйста, второй съезд.",
     "pl": "Na rondzie proszę wybrać drugi zjazd.",
     "ro": "În sensul giratoriu, vă rog, a doua ieșire.",
-    "hr": "U kružnom toku, molim, drugi izlaz."
+    "hr": "U kružnom toku, molim, drugi izlaz.",
+    "el": "Στον κυκλικό κόμβο, τη δεύτερη έξοδο παρακαλώ."
    },
    {
     "de": "Halten Sie bitte hier rechts am Fahrbahnrand an.",
@@ -942,7 +1024,8 @@
     "ru": "Пожалуйста, остановитесь здесь справа у края дороги.",
     "pl": "Proszę zatrzymać się tutaj przy prawej krawędzi jezdni.",
     "ro": "Vă rog, opriți aici pe dreapta, la marginea drumului.",
-    "hr": "Molim, zaustavite se ovdje desno uz rub ceste."
+    "hr": "Molim, zaustavite se ovdje desno uz rub ceste.",
+    "el": "Σταματήστε εδώ δεξιά στην άκρη του δρόμου παρακαλώ."
    },
    {
     "de": "Parken Sie bitte hinter dem blauen Auto rückwärts ein.",
@@ -952,7 +1035,8 @@
     "ru": "Пожалуйста, припаркуйтесь задним ходом за синим автомобилем.",
     "pl": "Proszę zaparkować tyłem za niebieskim samochodem.",
     "ro": "Vă rog, parcați cu spatele în spatele mașinii albastre.",
-    "hr": "Molim, parkirajte unatrag iza plavog automobila."
+    "hr": "Molim, parkirajte unatrag iza plavog automobila.",
+    "el": "Σταθμεύστε με όπισθεν πίσω από το μπλε αυτοκίνητο παρακαλώ."
    },
    {
     "de": "Bitte wenden Sie hier.",
@@ -962,7 +1046,8 @@
     "ru": "Пожалуйста, развернитесь здесь.",
     "pl": "Proszę tutaj zawrócić.",
     "ro": "Vă rog, întoarceți aici.",
-    "hr": "Molim, okrenite se ovdje."
+    "hr": "Molim, okrenite se ovdje.",
+    "el": "Κάντε αναστροφή εδώ παρακαλώ."
    },
    {
     "de": "Wenn ich „Stopp“ sage, machen Sie bitte eine Gefahrbremsung.",
@@ -972,7 +1057,8 @@
     "ru": "Когда я скажу «Stopp», пожалуйста, выполните экстренное торможение.",
     "pl": "Gdy powiem „Stopp”, proszę wykonać hamowanie awaryjne.",
     "ro": "Când spun „Stopp”, vă rog să faceți o frânare de urgență.",
-    "hr": "Kad kažem „Stopp”, molim, naglo zakočite."
+    "hr": "Kad kažem „Stopp”, molim, naglo zakočite.",
+    "el": "Όταν πω «Stopp», κάντε φρενάρισμα έκτακτης ανάγκης παρακαλώ."
    },
    {
     "de": "Fahren Sie bitte wieder an, wenn es die Verkehrslage erlaubt.",
@@ -982,7 +1068,8 @@
     "ru": "Пожалуйста, трогайтесь, когда позволит обстановка.",
     "pl": "Proszę ruszyć, gdy pozwoli na to sytuacja na drodze.",
     "ro": "Vă rog, porniți din nou când traficul permite.",
-    "hr": "Molim, ponovno krenite kad promet dopusti."
+    "hr": "Molim, ponovno krenite kad promet dopusti.",
+    "el": "Ξεκινήστε ξανά όταν το επιτρέπει η κυκλοφορία παρακαλώ."
    },
    {
     "de": "Die Prüfung ist beendet. Sie haben bestanden.",
@@ -992,7 +1079,8 @@
     "ru": "Экзамен окончен. Вы сдали.",
     "pl": "Egzamin zakończony. Zdane.",
     "ro": "Examenul s-a încheiat. Ați promovat.",
-    "hr": "Ispit je završen. Položeno."
+    "hr": "Ispit je završen. Položeno.",
+    "el": "Η εξέταση τελείωσε. Επιτυχία."
    }
   ]
  }
