@@ -1,6 +1,6 @@
 ---
 lesson: 9
-youtube: "German Driving Test 9: The Autobahn & Hazards — Emergency Corridor, Ice, Wildlife (26 Questions)"
+youtube: "German Driving Test 9: Autobahn & Road Hazards (26 Questions)"
 thumb: ["Autobahn", "Motorway & Hazards", "signs:330.1"]
 title: "The German Autobahn — Motorway Rules, the Emergency Corridor and Hazards on the Road"
 topic: motorway

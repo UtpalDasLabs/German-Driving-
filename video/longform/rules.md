@@ -1,6 +1,6 @@
 ---
 lesson: 5
-youtube: "German Driving Test 5: Ground Rules & Overtaking — Keep Right and Pass Safely (20 Questions)"
+youtube: "German Driving Test 5: Ground Rules & Overtaking (20 Questions)"
 thumb: ["Überholen", "Ground Rules & Overtaking", "signs:276"]
 title: "Ground Rules & Overtaking in Germany — Keep Right, Zip-Merge and Pass Safely"
 topic: rules

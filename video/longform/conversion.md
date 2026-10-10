@@ -1,6 +1,6 @@
 ---
 lesson: 14
-youtube: "German Driving Test 14: Converting a Foreign Licence — Six Months, Anlage 11 & Documents"
+youtube: "German Driving Test 14: Converting a Foreign Licence"
 thumb: ["Umschreiben", "Converting a Foreign Licence", "text:6 Monate"]
 title: "Converting a Foreign Licence in Germany — Six Months, Anlage 11 and What to Bring"
 topic: conversion

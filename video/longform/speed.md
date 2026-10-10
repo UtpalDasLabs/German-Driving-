@@ -1,6 +1,6 @@
 ---
 lesson: 6
-youtube: "German Driving Test 6: Speed & Stopping Distances — The Rules of Thumb (20 Questions)"
+youtube: "German Driving Test 6: Speed & Stopping Distances (20 Questions)"
 thumb: ["Anhalteweg", "Speed & Stopping Distances", "signs:274-30,274-50,274-100"]
 title: "Speed & Stopping Distances in Germany — The Rules of Thumb That Do the Maths for You"
 topic: speed

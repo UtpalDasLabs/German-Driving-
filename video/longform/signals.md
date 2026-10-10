@@ -1,6 +1,6 @@
 ---
 lesson: 2
-youtube: "German Driving Test 2: Traffic Lights, Police & Blue Lights — Who Outranks Whom (15 Questions)"
+youtube: "German Driving Test 2: Traffic Lights & Police (15 Questions)"
 thumb: ["Ampel & Polizei", "Lights, Police & Blue Lights", "scene:sg11"]
 title: "Lights, Police & Blue Lights — Who Outranks Whom at a German Junction"
 topic: signals

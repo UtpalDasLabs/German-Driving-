@@ -1,6 +1,6 @@
 ---
 lesson: 11
-youtube: "German Driving Test 11: Your Car & the Environment — Tyres, Warning Lights, Eco (25 Questions)"
+youtube: "German Driving Test 11: Your Car & the Environment (25 Questions)"
 thumb: ["Auto & Umwelt", "Your Car & the Environment", "signs:270.1"]
 title: "Your Car & the Environment — Warning Lights, Child Seats, Trailers and Driving Green"
 topic: car

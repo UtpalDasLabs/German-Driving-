@@ -1,6 +1,6 @@
 ---
 lesson: 8
-youtube: "German Driving Test 8: Pedestrians, Cyclists, Trains & Buses — Sharing the Road (20 Questions)"
+youtube: "German Driving Test 8: Pedestrians, Cyclists & Trains (20 Questions)"
 thumb: ["Fußgänger & Bahn", "Pedestrians, Cyclists, Trains & Buses", "scene:pe01"]
 title: "Pedestrians, Cyclists, Trains & Buses — Sharing the Road in Germany"
 topic: people

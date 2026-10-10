@@ -1,6 +1,6 @@
 ---
 lesson: 4
-youtube: "German Driving Test 4: Road Signs Part 2 — Bans, Orders & Road Markings (16 Questions)"
+youtube: "German Driving Test 4: Road Signs, Part 2 (16 Questions)"
 thumb: ["Verkehrszeichen", "Part 2 · Bans, Orders & Markings", "signs:267,283,237"]
 title: "Road Signs, part 2 — Bans, Orders, Extra Plates and Road Markings"
 topic: signs-2

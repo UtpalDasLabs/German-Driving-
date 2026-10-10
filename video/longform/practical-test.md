@@ -1,6 +1,6 @@
 ---
 lesson: 12
-youtube: "German Driving Test 12: The Practical Test, Step by Step — What the Examiner Watches"
+youtube: "German Driving Test 12: The Practical Test, Step by Step"
 thumb: ["Praktische Prüfung", "The Practical Test, Step by Step", "manoeuvre:emergency"]
 title: "The Practical Test, Step by Step — What Happens, What the Examiner Watches, and What They Say"
 topic: practical-test

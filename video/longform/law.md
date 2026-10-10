@@ -1,6 +1,6 @@
 ---
 lesson: 10
-youtube: "German Driving Test 10: Alcohol, Cannabis, Fatigue & the Law — Limits and Points (20 Questions)"
+youtube: "German Driving Test 10: Alcohol, Drugs & the Law (20 Questions)"
 thumb: ["Alkohol & Recht", "Alcohol, Fatigue & the Law", "text:0,0 ‰"]
 title: "Alcohol, Cannabis and Points in Germany — Driving Limits, Probation and the Law"
 topic: law

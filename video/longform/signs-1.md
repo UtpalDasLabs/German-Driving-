@@ -1,6 +1,6 @@
 ---
 lesson: 3
-youtube: "German Driving Test 3: Road Signs Part 1 — Warning, Priority & Zone Signs (16 Questions)"
+youtube: "German Driving Test 3: Road Signs, Part 1 (16 Questions)"
 thumb: ["Verkehrszeichen", "Part 1 · Warning & Priority", "signs:101,205,306"]
 title: "Road Signs, part 1 — Warning Signs, Priority, Places and Zones"
 topic: signs-1
