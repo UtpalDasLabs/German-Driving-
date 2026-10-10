@@ -1,0 +1,214 @@
+{
+  "practical": {
+    "overview": {
+      "title": "Sınav nasıl işler",
+      "body": [
+        "Sınav toplam 55 dakika sürer, bunun en az 30 dakikası gerçek sürüştür. Yanınızda eğitmeninizle sürücü kursunun aracını kullanırsınız; sınav görevlisi (TÜV ya da DEKRA’dan) arkada oturur.",
+        "Önce sınav görevlisi kimliğinizi kontrol eder. Ardından hazırlık ve araç kontrolleri, şehir içinde, kırsal yollarda ve genellikle otoyol ya da ekspres yolda sürüş ve belirlenmiş manevralar gelir.",
+        "Sonunda sonucu hemen, beş yetkinlik alanının her biri için geri bildirimle birlikte alırsınız. Geçerseniz ehliyetinizi - ya da geçici bir belgeyi - sınavdan hemen sonra alırsınız.",
+        "Direksiyon sınavına teorik sınavı geçtikten sonra 12 ay içinde girilmelidir. Kaldınız mı? Genellikle en erken iki hafta sonra tekrar girebilirsiniz."
+      ],
+      "checklist": [
+        "Kimlik kartı ya da pasaport yanımda",
+        "Ehliyetim gerektiriyorsa gözlük ya da lens",
+        "Rahat, düz ayakkabılar",
+        "İyi dinlenmiş ve 0,0 alkol",
+        "Sürücü kursunda 15 dakika erken"
+      ],
+      "pitfalls": [
+        "Geçerli kimlik olmadan sınav yapılmaz - ve ücret genellikle yine de yanar."
+      ]
+    },
+    "checks": {
+      "title": "Hazırlık ve araç kontrolleri",
+      "body": [
+        "Yola çıkmadan önce koltuğu, direksiyonu, aynaları ve koltuk başlığını ayarlar ve kemerinizi takarsınız. Sınav görevlisi genellikle araçta birkaç şeyi göstermenizi ya da açıklamanızı ister.",
+        "Tipik konular: farları açıp kontrol etmek; lastikler (diş derinliği, hasar, basınç değerlerinin nerede yazdığı); sıvı seviyeleri (motor yağı, soğutma suyu, cam suyu, fren hidroliği); korna; gösterge panelindeki uyarı lambaları."
+      ],
+      "checklist": [
+        "Koltuk, debriyaj ya da fren pedalı tamamen basılabilecek şekilde ayarlı",
+        "İç ve dış aynalar ayarlı",
+        "Koltuk başlığı: üst kenarı yaklaşık başımın tepesi hizasında",
+        "Kısa ve uzun far, sinyaller, dörtlüler, arka sis lambasını gösterebiliyorum",
+        "Yağ çubuğunu bulup yağ seviyesini okuyabiliyorum",
+        "Doğru lastik basınçlarının nerede yazdığını biliyorum"
+      ],
+      "pitfalls": [
+        "Aynaları ayarlamadan ya da kemeri takmadan yola çıkmak."
+      ]
+    },
+    "parallel": {
+      "title": "Geri geri paralel park",
+      "body": [
+        "Sağ kaldırım kenarında iki araç arasındaki bir boşluğa geri geri girersiniz. Boşluk en az yaklaşık bir buçuk araç boyu olmalıdır.",
+        "Öndeki aracın yaklaşık 50 cm yanında, arkanız onun arkasıyla aynı hizada durun. Arka aksınız onun arka tamponuyla aynı hizaya gelene kadar yavaşça geri gidin, sonra direksiyonu tamamen sağa kırın. Yaklaşık 45°’de düzeltin ve geri gidin, sonra paralel olana kadar direksiyonu tamamen sola kırın."
+      ],
+      "checklist": [
+        "Durmadan önce sağa sinyal vermek",
+        "Geri gitmeden önce her yöne bakmak",
+        "Yalnızca aynaya değil, arkaya ve yana bakmaya devam etmek",
+        "Kaldırıma en fazla yaklaşık 30 cm uzaklıkta, tekerlekler düz bitirmek"
+      ],
+      "pitfalls": [
+        "Arka tekerlekle kaldırıma çıkmak.",
+        "Ön taraf dışarı savrulurken trafiği izlememek.",
+        "Çok fazla düzeltme."
+      ]
+    },
+    "bay": {
+      "title": "Cep parkı (dik ya da açılı)",
+      "body": [
+        "Örneğin bir otoparkta, yola dik ya da çapraz bir park yerine ileri ya da geri park edersiniz. Araç, çizgileri geçmeden ortada ve düz durmalıdır.",
+        "Geri geri girmek genellikle daha kolaydır, çünkü yönlendirmeyi ön tekerlekler yapar: park yerini geçin, arkanız yaklaşık uzak çizgiyi geçince direksiyonu kırın ve aracı çizgilere göre hizalayın."
+      ],
+      "checklist": [
+        "Park yerine dönmeden önce sinyal vermek",
+        "Otoparkta yayalara dikkat etmek",
+        "Çizgiler arasında ortada, tekerlekler düz"
+      ],
+      "pitfalls": [
+        "Durmadan komşu araca neredeyse değmek."
+      ]
+    },
+    "corner": {
+      "title": "Geri geri köşe dönme",
+      "body": [
+        "Bir yan yola, kavşağa ya da girişe geri geri sağa dönersiniz; kaldırım kenarını eşit mesafeyle izlersiniz.",
+        "Ağzı geçin ve kaldırıma yakın durun. Yavaşça geri gidin; sağ aynada kaldırımın kıvrıldığını görünce direksiyonu sağa çevirmeye başlayın. Köşeden sonra düzeltin ve sınav görevlisi sizi durdurana kadar geri gidin."
+      ],
+      "checklist": [
+        "Geri gitmeden önce ve giderken her yöne bakmak",
+        "Köşedeki yayaları önce geçirmek",
+        "Kaldırımdan eşit mesafe"
+      ],
+      "pitfalls": [
+        "Ön tarafın fark etmeden karşıdan gelen trafiğe savrulması."
+      ]
+    },
+    "turnround": {
+      "title": "Geri dönme",
+      "body": [
+        "Aracı ileri ve geri hareketlerle bir yolda ters yöne çevirirsiniz. Kaldırımlara değmemelisiniz."
+      ],
+      "checklist": [
+        "Yalnızca izin verilen ve iyi görebildiğiniz yerde",
+        "Her hareketten önce iki yöne bakmak",
+        "Yavaş hareket etmek, hızlı direksiyon çevirmek"
+      ],
+      "pitfalls": [
+        "Trafiği geçirmek yerine bekletmek."
+      ]
+    },
+    "emergency": {
+      "title": "Acil fren",
+      "body": [
+        "Sınav görevlisi işaret verdiğinde yaklaşık 30 km/sa’ten olabildiğince sert frenleyerek durursunuz. Araç düz kalmalıdır.",
+        "ABS ile: fren ve debriyaja tamamen basın ve basılı tutun. Pedaldaki titreşim normaldir. Sınav görevlisi önceden arkanızda kimse olmadığını kontrol eder."
+      ],
+      "checklist": [
+        "Komutla tepki vermek, önce değil",
+        "Kademeli değil, tamamen basmak",
+        "Sonrasında devam etmeden önce dörtlüler ya da ayna kontrolü"
+      ],
+      "pitfalls": [
+        "Çok yumuşak fren yapmak."
+      ]
+    },
+    "competences": {
+      "title": "Beş yetkinlik alanı",
+      "body": [
+        "Sınav görevlisi yalnızca tek tek \"hataları\" saymaz, sürüşünüzü beş alanda değerlendirir - tüm sınav boyunca ve kavşaklar, dönel kavşaklar, şerit değiştirmeler, otoyol bağlantı yolları, virajlar ve yaya geçitleri gibi durumlarda."
+      ],
+      "checklist": [
+        "Gözlem: aynalar, omuz kontrolleri, ileriye bakmak",
+        "Konumlanma: doğru şerit, öne ve yana mesafe",
+        "Hız: sınıra, görüşe ve duruma uygun",
+        "İletişim: zamanında sinyal, göz teması, açık niyetler",
+        "Araç kontrolü ve ekonomik sürüş: vites değiştirme, direksiyon, yumuşak frenleme"
+      ]
+    },
+    "fail": {
+      "title": "İnsanlar en çok neden kalıyor",
+      "body": [
+        "Küçük hatalar sizi sınavdan bırakmaz. Ciddi bir hatadan - örneğin biri tehlikeye atıldığında - ya da küçük hatalar tekrarlandığında kalırsınız."
+      ],
+      "pitfalls": [
+        "Geçiş hakkını, özellikle 30 bölgelerinde \"sağdan gelen önce geçer\" kuralını görmezden gelmek",
+        "Dönerken, hareket ederken ya da şerit değiştirirken omuz kontrolü yapmamak",
+        "DUR levhasında tam olarak durmamak",
+        "Yaya geçidinde yayaları geçirmemek",
+        "Örneğin 30 bölgesinde açıkça hız yapmak",
+        "Kırmızı ışıkta geçmek",
+        "Eğitmenin müdahale etmek zorunda kalması (çift fren ya da direksiyon)"
+      ]
+    },
+    "phrases": {
+      "title": "Sınav görevlisi ne der",
+      "body": [
+        "Direksiyon sınavı Almancadır. Sınav görevlisi talimatları zamanında verir. Anlamazsanız sorun - bu bir hata değildir."
+      ],
+      "phrases": [
+        "Bir sonraki kavşakta lütfen sağa dönün.",
+        "Lütfen sola dönün.",
+        "Lütfen düz devam edin.",
+        "Lütfen yolu takip edin.",
+        "Otoyol levhalarını takip edin.",
+        "Dönel kavşakta lütfen ikinci çıkışı alın.",
+        "Lütfen burada sağda yol kenarında durun.",
+        "Lütfen mavi otomobilin arkasına geri geri park edin.",
+        "Lütfen burada geri dönün.",
+        "\"Stopp\" dediğimde lütfen acil fren yapın.",
+        "Trafik izin verdiğinde lütfen yeniden hareket edin.",
+        "Sınav bitti. Geçtiniz."
+      ]
+    }
+  },
+  "conversion": {
+    "eu": {
+      "title": "AB ya da AEA ülkesinden ehliyet",
+      "body": [
+        "Bir AB ya da AEA ülkesinden (AB artı İzlanda, Lihtenştayn ve Norveç) alınmış geçerli bir ehliyet Almanya’da geçerli kalır. Değiştirmeniz gerekmez.",
+        "Ehliyetinizin bir son geçerlilik tarihi varsa, burada yaşamaya başladıktan sonra Alman ehliyet dairesinde yenilersiniz."
+      ]
+    },
+    "six-months": {
+      "title": "Diğer herkes: altı ay",
+      "body": [
+        "Başka bir ülkeden alınmış ehliyetle, Almanya’ya yerleştiğiniz günden itibaren altı ay araç kullanabilirsiniz. Yalnızca geçici olarak kalıyorsanız altı aya kadar ek süre için başvurabilirsiniz.",
+        "Bundan sonra Alman ehliyetine ihtiyacınız vardır. Süre dolduktan sonra yabancı ehliyetle araç kullanmak ehliyetsiz araç kullanmak sayılır ve suçtur.",
+        "Ehliyetiniz Almanca değilse ve uluslararası bir modele uymuyorsa, bu altı ay boyunca bir tercümeye ya da Uluslararası Sürücü Belgesine ihtiyacınız vardır."
+      ]
+    },
+    "which-case": {
+      "title": "Hangi sınavlara ihtiyacınız var",
+      "body": [
+        "Bu, ehliyeti veren ülkenin Sürücü Belgesi Yönetmeliği’nin 11. Ek’inde ve hangi sınıf için listelendiğine bağlıdır. Üç durum vardır:",
+        "1. Ülkeniz B sınıfı için sınavsız listelenmiştir (örneğin Japonya, İsviçre, Birleşik Krallık ve Ağustos 2026’dan beri Ukrayna): başvurursunuz ve sınavlardan muaf tutulursunuz.",
+        "2. Ülkeniz \"yalnızca teorik sınav\" olarak listelenmiştir: teorik sınava girersiniz, direksiyon sınavından muaf tutulursunuz.",
+        "3. Ülkeniz listelenmemiştir (birçok ülke ile ayrı ayrı listelenen bazı ABD eyaletleri ve Kanada eyaletleri için geçerlidir): hem teorik hem direksiyon sınavına girersiniz. Dersler zorunlu değildir, ama sınava sürücü kursu aracıyla girersiniz.",
+        "Liste değişir. Bir şey ayarlamadan önce 11. Ek’in güncel metnini kontrol edin ve yerel ehliyet dairenize sorun."
+      ]
+    },
+    "documents": {
+      "title": "Başvuru ve getirilecekler",
+      "body": [
+        "Oturduğunuz yerdeki ehliyet dairesine (Führerscheinstelle) olabildiğince erken başvurursunuz; işlem çoğu zaman haftalar sürer.",
+        "Genellikle: yabancı ehliyetinizin aslı, bir tercüme (örneğin ADAC’tan ya da yeminli bir tercümandan), pasaport ya da kimlik, ikamet belgesi (Meldebescheinigung), biyometrik fotoğraf, göz testi ve genellikle ilk yardım kursu belgesi. Daire tam olarak neye ihtiyaç duyduğunu size söyler.",
+        "Alman ehliyetini aldığınızda yabancı ehliyetinizi teslim edersiniz."
+      ]
+    },
+    "tests": {
+      "title": "Sınavlara girmeniz gerekiyorsa",
+      "body": [
+        "Bir sürücü kursuna kaydolun; kurs sizi TÜV ya da DEKRA’da sınava kaydeder. Teorik sınava Almanca ya da diğer on iki dilden birinde girebilirsiniz - bu uygulamanın dilleriyle aynı.",
+        "Deneyimli sürücüler bile birkaç ders almalıdır: sınav başka yerlerde farklı işleyen şeylere bakar - \"sağdan gelen önce geçer\", her dönüşte omuz kontrolü, 30 bölgeleri ve her DUR levhasında tam duruş."
+      ]
+    },
+    "costs": {
+      "title": "Yaklaşık ne kadar tutar",
+      "body": [
+        "Ücretler şehre ve sürücü kursuna göre değişir. Kabaca: daire ücreti yaklaşık 40-50 €, tercüme 30-60 €, TÜV ya da DEKRA’da teorik sınav yaklaşık 25 €, direksiyon sınavı yaklaşık 130 €, artı kaydı, dersleri ve sınav günü aracı için sürücü kursunun masrafları."
+      ]
+    }
+  }
+}

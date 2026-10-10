@@ -7,11 +7,13 @@
    "color": "#FF4B4B",
    "title": {
     "de": "Vorfahrt",
-    "en": "Right of way"
+    "en": "Right of way",
+    "tr": "Geçiş hakkı"
    },
    "blurb": {
     "de": "Rechts vor links, Schilder, Abbiegen, Kreisverkehr",
-    "en": "Right before left, signs, turning, roundabouts"
+    "en": "Right before left, signs, turning, roundabouts",
+    "tr": "Sağdan gelen önce geçer, levhalar, dönüş, dönel kavşaklar"
    }
   },
   {
@@ -21,11 +23,13 @@
    "color": "#F59E0B",
    "title": {
     "de": "Ampel & Polizei",
-    "en": "Lights & police"
+    "en": "Lights & police",
+    "tr": "Işıklar ve polis"
    },
    "blurb": {
     "de": "Wer wen überstimmt, Blaulicht, Grünpfeil",
-    "en": "Who overrules whom, blue lights, green arrow"
+    "en": "Who overrules whom, blue lights, green arrow",
+    "tr": "Kim kimden önce gelir, mavi ışık, yeşil ok"
    }
   },
   {
@@ -35,11 +39,13 @@
    "color": "#2BB3F3",
    "title": {
     "de": "Verkehrszeichen",
-    "en": "Road signs"
+    "en": "Road signs",
+    "tr": "Trafik levhaları"
    },
    "blurb": {
     "de": "Gefahr, Gebot, Verbot, Markierungen",
-    "en": "Warning, mandatory, prohibition, markings"
+    "en": "Warning, mandatory, prohibition, markings",
+    "tr": "Uyarı, zorunluluk, yasak, yol çizgileri"
    }
   },
   {
@@ -49,11 +55,13 @@
    "color": "#5B7CF5",
    "title": {
     "de": "Grundregeln",
-    "en": "Ground rules"
+    "en": "Ground rules",
+    "tr": "Temel kurallar"
    },
    "blurb": {
     "de": "Rechtsfahren, Spurwechsel, Reißverschluss",
-    "en": "Keeping right, lane changes, zip merge"
+    "en": "Keeping right, lane changes, zip merge",
+    "tr": "Sağdan gitme, şerit değiştirme, fermuar sistemi"
    }
   },
   {
@@ -63,11 +71,13 @@
    "color": "#A472F0",
    "title": {
     "de": "Tempo & Abstand",
-    "en": "Speed & distance"
+    "en": "Speed & distance",
+    "tr": "Hız ve mesafe"
    },
    "blurb": {
     "de": "Limits, Anhalteweg, Faustformeln",
-    "en": "Limits, stopping distance, rules of thumb"
+    "en": "Limits, stopping distance, rules of thumb",
+    "tr": "Sınırlar, durma mesafesi, pratik formüller"
    }
   },
   {
@@ -77,11 +87,13 @@
    "color": "#0FA3B1",
    "title": {
     "de": "Überholen",
-    "en": "Overtaking"
+    "en": "Overtaking",
+    "tr": "Sollama"
    },
    "blurb": {
     "de": "Wann, wie, mit wie viel Abstand",
-    "en": "When, how, with how much room"
+    "en": "When, how, with how much room",
+    "tr": "Ne zaman, nasıl, ne kadar mesafeyle"
    }
   },
   {
@@ -91,11 +103,13 @@
    "color": "#18B98A",
    "title": {
     "de": "Abbiegen & Wenden",
-    "en": "Turning & reversing"
+    "en": "Turning & reversing",
+    "tr": "Dönüş ve geri gitme"
    },
    "blurb": {
     "de": "Schulterblick, Einordnen, Rückwärtsfahren",
-    "en": "Shoulder checks, positioning, reversing"
+    "en": "Shoulder checks, positioning, reversing",
+    "tr": "Omuz kontrolü, konumlanma, geri gitme"
    }
   },
   {
@@ -105,11 +119,13 @@
    "color": "#F45D9C",
    "title": {
     "de": "Fußgänger & Radfahrer",
-    "en": "Pedestrians & cyclists"
+    "en": "Pedestrians & cyclists",
+    "tr": "Yayalar ve bisikletliler"
    },
    "blurb": {
     "de": "Kinder, Zebrastreifen, Seitenabstand",
-    "en": "Children, zebra crossings, clearance"
+    "en": "Children, zebra crossings, clearance",
+    "tr": "Çocuklar, yaya geçitleri, yan mesafe"
    }
   },
   {
@@ -119,11 +135,13 @@
    "color": "#FF9F1C",
    "title": {
     "de": "Bahn & Bus",
-    "en": "Trains & buses"
+    "en": "Trains & buses",
+    "tr": "Trenler ve otobüsler"
    },
    "blurb": {
     "de": "Bahnübergang, Straßenbahn, Haltestellen",
-    "en": "Level crossings, trams, bus stops"
+    "en": "Level crossings, trams, bus stops",
+    "tr": "Hemzemin geçitler, tramvaylar, otobüs durakları"
    }
   },
   {
@@ -133,11 +151,13 @@
    "color": "#4CC93F",
    "title": {
     "de": "Halten & Parken",
-    "en": "Stopping & parking"
+    "en": "Stopping & parking",
+    "tr": "Durma ve park etme"
    },
    "blurb": {
     "de": "Wo nicht, wie lange, Parkscheibe",
-    "en": "Where not, how long, parking disc"
+    "en": "Where not, how long, parking disc",
+    "tr": "Nerede değil, ne kadar, park diski"
    }
   },
   {
@@ -147,11 +167,13 @@
    "color": "#2E7DD7",
    "title": {
     "de": "Autobahn",
-    "en": "Motorway"
+    "en": "Motorway",
+    "tr": "Otoyol"
    },
    "blurb": {
     "de": "Auffahren, Rettungsgasse, Panne",
-    "en": "Joining, emergency corridor, breakdowns"
+    "en": "Joining, emergency corridor, breakdowns",
+    "tr": "Katılma, acil durum koridoru, arızalar"
    }
   },
   {
@@ -161,11 +183,13 @@
    "color": "#3B82C4",
    "title": {
     "de": "Gefahren",
-    "en": "Hazards"
+    "en": "Hazards",
+    "tr": "Tehlikeler"
    },
    "blurb": {
     "de": "Nässe, Glätte, Nacht, Wild, Ablenkung",
-    "en": "Wet, ice, night, animals, distraction"
+    "en": "Wet, ice, night, animals, distraction",
+    "tr": "Islaklık, buz, gece, hayvanlar, dikkat dağınıklığı"
    }
   },
   {
@@ -175,11 +199,13 @@
    "color": "#E5484D",
    "title": {
     "de": "Alkohol & Müdigkeit",
-    "en": "Alcohol & fatigue"
+    "en": "Alcohol & fatigue",
+    "tr": "Alkol ve yorgunluk"
    },
    "blurb": {
     "de": "Promille, Cannabis, Medikamente",
-    "en": "Alcohol limits, cannabis, medicines"
+    "en": "Alcohol limits, cannabis, medicines",
+    "tr": "Alkol sınırları, esrar, ilaçlar"
    }
   },
   {
@@ -189,11 +215,13 @@
    "color": "#8E6BE8",
    "title": {
     "de": "Fahrzeug & Technik",
-    "en": "Car & technology"
+    "en": "Car & technology",
+    "tr": "Araç ve teknik"
    },
    "blurb": {
     "de": "Reifen, Warnleuchten, Ladung, Anhänger",
-    "en": "Tyres, warning lights, loads, trailers"
+    "en": "Tyres, warning lights, loads, trailers",
+    "tr": "Lastikler, uyarı lambaları, yükler, römorklar"
    }
   },
   {
@@ -203,11 +231,13 @@
    "color": "#3DBB6E",
    "title": {
     "de": "Umwelt",
-    "en": "Environment"
+    "en": "Environment",
+    "tr": "Çevre"
    },
    "blurb": {
     "de": "Sparsam fahren, Lärm, Umweltzone",
-    "en": "Economical driving, noise, low-emission zones"
+    "en": "Economical driving, noise, low-emission zones",
+    "tr": "Ekonomik sürüş, gürültü, düşük emisyon bölgeleri"
    }
   },
   {
@@ -217,11 +247,13 @@
    "color": "#64748B",
    "title": {
     "de": "Pflichten & Recht",
-    "en": "Duties & the law"
+    "en": "Duties & the law",
+    "tr": "Yükümlülükler ve hukuk"
    },
    "blurb": {
     "de": "Unfall, Probezeit, Punkte, Papiere",
-    "en": "Accidents, probation, points, papers"
+    "en": "Accidents, probation, points, papers",
+    "tr": "Kazalar, deneme süresi, puanlar, belgeler"
    }
   }
  ],
@@ -252,7 +284,7 @@
  "coverage": {
   "de": 1,
   "en": 1,
-  "tr": 0.214,
+  "tr": 1,
   "ar": 0,
   "ru": 0,
   "pl": 0,

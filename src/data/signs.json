@@ -4,11 +4,13 @@
   "category": "danger",
   "name": {
    "de": "Gefahrstelle",
-   "en": "Danger point"
+   "en": "Danger point",
+   "tr": "Tehlikeli yer"
   },
   "meaning": {
    "de": "Warnt vor einer Gefahr, die kein eigenes Zeichen hat. Ein Zusatzzeichen sagt oft, welche.",
-   "en": "Warns of a hazard that has no sign of its own. A plate underneath often says what it is."
+   "en": "Warns of a hazard that has no sign of its own. A plate underneath often says what it is.",
+   "tr": "Kendi levhası olmayan bir tehlikeye karşı uyarır. Altındaki ek levha çoğu zaman ne olduğunu söyler."
   }
  },
  {
@@ -16,11 +18,13 @@
   "category": "danger",
   "name": {
    "de": "Kreuzung oder Einmündung mit Vorfahrt von rechts",
-   "en": "Junction with priority from the right"
+   "en": "Junction with priority from the right",
+   "tr": "Sağdan gelenin öncelikli olduğu kavşak"
   },
   "meaning": {
    "de": "An der nächsten Kreuzung gilt „rechts vor links“.",
-   "en": "At the next junction, \"right before left\" applies."
+   "en": "At the next junction, \"right before left\" applies.",
+   "tr": "Bir sonraki kavşakta \"sağdan gelen önce geçer\" geçerlidir."
   }
  },
  {
@@ -28,11 +32,13 @@
   "category": "danger",
   "name": {
    "de": "Kurve (links)",
-   "en": "Bend (left)"
+   "en": "Bend (left)",
+   "tr": "Viraj (sola)"
   },
   "meaning": {
    "de": "Eine Kurve nach links. Vorher bremsen.",
-   "en": "A bend to the left. Brake before it."
+   "en": "A bend to the left. Brake before it.",
+   "tr": "Sola viraj. Öncesinde fren yapın."
   }
  },
  {
@@ -40,11 +46,13 @@
   "category": "danger",
   "name": {
    "de": "Kurve (rechts)",
-   "en": "Bend (right)"
+   "en": "Bend (right)",
+   "tr": "Viraj (sağa)"
   },
   "meaning": {
    "de": "Eine Kurve nach rechts. Vorher bremsen.",
-   "en": "A bend to the right. Brake before it."
+   "en": "A bend to the right. Brake before it.",
+   "tr": "Sağa viraj. Öncesinde fren yapın."
   }
  },
  {
@@ -52,11 +60,13 @@
   "category": "danger",
   "name": {
    "de": "Doppelkurve (zunächst rechts)",
-   "en": "Double bend (right first)"
+   "en": "Double bend (right first)",
+   "tr": "Çift viraj (önce sağa)"
   },
   "meaning": {
    "de": "Zwei Kurven hintereinander, die erste nach rechts.",
-   "en": "Two bends in a row, the first to the right."
+   "en": "Two bends in a row, the first to the right.",
+   "tr": "Art arda iki viraj, ilki sağa."
   }
  },
  {
@@ -64,11 +74,13 @@
   "category": "danger",
   "name": {
    "de": "Gefälle",
-   "en": "Steep descent"
+   "en": "Steep descent",
+   "tr": "Dik iniş"
   },
   "meaning": {
    "de": "Steiles Gefälle. Kleinen Gang wählen und die Motorbremse nutzen.",
-   "en": "Steep downhill. Choose a low gear and use engine braking."
+   "en": "Steep downhill. Choose a low gear and use engine braking.",
+   "tr": "Dik yokuş aşağı. Düşük vites seçin ve motor frenini kullanın."
   }
  },
  {
@@ -76,11 +88,13 @@
   "category": "danger",
   "name": {
    "de": "Steigung",
-   "en": "Steep climb"
+   "en": "Steep climb",
+   "tr": "Dik çıkış"
   },
   "meaning": {
    "de": "Steile Steigung. Rechtzeitig herunterschalten.",
-   "en": "Steep uphill. Change down in good time."
+   "en": "Steep uphill. Change down in good time.",
+   "tr": "Dik yokuş yukarı. Zamanında vites küçültün."
   }
  },
  {
@@ -88,11 +102,13 @@
   "category": "danger",
   "name": {
    "de": "Unebene Fahrbahn",
-   "en": "Uneven road"
+   "en": "Uneven road",
+   "tr": "Bozuk yol"
   },
   "meaning": {
    "de": "Die Fahrbahn ist uneben. Langsamer fahren.",
-   "en": "The surface is uneven. Slow down."
+   "en": "The surface is uneven. Slow down.",
+   "tr": "Yol yüzeyi bozuk. Yavaşlayın."
   }
  },
  {
@@ -100,11 +116,13 @@
   "category": "danger",
   "name": {
    "de": "Schleuder- oder Rutschgefahr",
-   "en": "Slippery road"
+   "en": "Slippery road",
+   "tr": "Kaygan yol"
   },
   "meaning": {
    "de": "Gefahr, ins Schleudern zu kommen – besonders bei Nässe oder Schmutz.",
-   "en": "Risk of skidding - especially when wet or dirty."
+   "en": "Risk of skidding - especially when wet or dirty.",
+   "tr": "Kayma tehlikesi - özellikle ıslak ya da kirliyken."
   }
  },
  {
@@ -112,11 +130,13 @@
   "category": "danger",
   "name": {
    "de": "Seitenwind",
-   "en": "Crosswind"
+   "en": "Crosswind",
+   "tr": "Yan rüzgâr"
   },
   "meaning": {
    "de": "Mit starken Windböen von der Seite rechnen.",
-   "en": "Expect strong gusts from the side."
+   "en": "Expect strong gusts from the side.",
+   "tr": "Yandan güçlü rüzgâr darbeleri bekleyin."
   }
  },
  {
@@ -124,11 +144,13 @@
   "category": "danger",
   "name": {
    "de": "Verengte Fahrbahn",
-   "en": "Road narrows"
+   "en": "Road narrows",
+   "tr": "Yol daralıyor"
   },
   "meaning": {
    "de": "Die Fahrbahn wird auf beiden Seiten enger.",
-   "en": "The road narrows on both sides."
+   "en": "The road narrows on both sides.",
+   "tr": "Yol iki taraftan daralıyor."
   }
  },
  {
@@ -136,11 +158,13 @@
   "category": "danger",
   "name": {
    "de": "Arbeitsstelle",
-   "en": "Roadworks"
+   "en": "Roadworks",
+   "tr": "Yol çalışması"
   },
   "meaning": {
    "de": "Baustelle voraus. Mit Arbeitern und Fahrzeugen auf der Fahrbahn rechnen.",
-   "en": "Roadworks ahead. Expect workers and vehicles on the road."
+   "en": "Roadworks ahead. Expect workers and vehicles on the road.",
+   "tr": "İleride yol çalışması. Yolda işçiler ve araçlar bekleyin."
   }
  },
  {
@@ -148,11 +172,13 @@
   "category": "danger",
   "name": {
    "de": "Stau",
-   "en": "Queues likely"
+   "en": "Queues likely",
+   "tr": "Trafik sıkışıklığı olabilir"
   },
   "meaning": {
    "de": "Mit Stau rechnen. Bremsbereit sein, am Stauende Warnblinklicht.",
-   "en": "Expect queues. Be ready to brake; hazard lights at the tail."
+   "en": "Expect queues. Be ready to brake; hazard lights at the tail.",
+   "tr": "Kuyruk bekleyin. Fren yapmaya hazır olun; kuyruğun sonunda dörtlü flaşörler."
   }
  },
  {
@@ -160,11 +186,13 @@
   "category": "danger",
   "name": {
    "de": "Gegenverkehr",
-   "en": "Two-way traffic"
+   "en": "Two-way traffic",
+   "tr": "Çift yönlü trafik"
   },
   "meaning": {
    "de": "Ab hier Gegenverkehr, z. B. nach einer Einbahnstraße oder auf einer Baustellenfahrbahn.",
-   "en": "Two-way traffic from here, for example after a one-way section or at roadworks."
+   "en": "Two-way traffic from here, for example after a one-way section or at roadworks.",
+   "tr": "Buradan itibaren çift yönlü trafik, örneğin tek yönlü bir kesimden sonra ya da yol çalışmasında."
   }
  },
  {
@@ -172,11 +200,13 @@
   "category": "danger",
   "name": {
    "de": "Lichtzeichenanlage",
-   "en": "Traffic lights ahead"
+   "en": "Traffic lights ahead",
+   "tr": "Trafik ışıkları"
   },
   "meaning": {
    "de": "Eine Ampel folgt, oft hinter einer Kurve.",
-   "en": "Traffic lights ahead, often round a bend."
+   "en": "Traffic lights ahead, often round a bend.",
+   "tr": "İleride trafik ışıkları, çoğu zaman bir virajın arkasında."
   }
  },
  {
@@ -184,11 +214,13 @@
   "category": "danger",
   "name": {
    "de": "Fußgänger",
-   "en": "Pedestrians"
+   "en": "Pedestrians",
+   "tr": "Yayalar"
   },
   "meaning": {
    "de": "Mit Fußgängern auf der Fahrbahn rechnen.",
-   "en": "Expect pedestrians on the road."
+   "en": "Expect pedestrians on the road.",
+   "tr": "Yolda yayalar bekleyin."
   }
  },
  {
@@ -196,11 +228,13 @@
   "category": "danger",
   "name": {
    "de": "Kinder",
-   "en": "Children"
+   "en": "Children",
+   "tr": "Çocuklar"
   },
   "meaning": {
    "de": "Mit Kindern rechnen, z. B. an Schulen und Spielplätzen. Langsam und bremsbereit.",
-   "en": "Expect children, for example near schools and playgrounds. Slow and ready to brake."
+   "en": "Expect children, for example near schools and playgrounds. Slow and ready to brake.",
+   "tr": "Örneğin okulların ve oyun parklarının yakınında çocuklar bekleyin. Yavaş ve fren yapmaya hazır."
   }
  },
  {
@@ -208,11 +242,13 @@
   "category": "danger",
   "name": {
    "de": "Radverkehr",
-   "en": "Cyclists"
+   "en": "Cyclists",
+   "tr": "Bisikletliler"
   },
   "meaning": {
    "de": "Radfahrer kreuzen oder fahren auf der Fahrbahn.",
-   "en": "Cyclists cross or ride on the road."
+   "en": "Cyclists cross or ride on the road.",
+   "tr": "Bisikletliler yolu geçer ya da yolda gider."
   }
  },
  {
@@ -220,11 +256,13 @@
   "category": "danger",
   "name": {
    "de": "Wildwechsel",
-   "en": "Wild animals"
+   "en": "Wild animals",
+   "tr": "Yaban hayvanları"
   },
   "meaning": {
    "de": "Wild kann die Straße kreuzen, besonders in der Dämmerung.",
-   "en": "Wild animals may cross, especially at dawn and dusk."
+   "en": "Wild animals may cross, especially at dawn and dusk.",
+   "tr": "Özellikle şafakta ve alacakaranlıkta yaban hayvanları yola çıkabilir."
   }
  },
  {
@@ -232,11 +270,13 @@
   "category": "danger",
   "name": {
    "de": "Bahnübergang",
-   "en": "Level crossing"
+   "en": "Level crossing",
+   "tr": "Hemzemin geçit"
   },
   "meaning": {
    "de": "Ein Bahnübergang folgt. Ab hier keine Kraftfahrzeuge mehr überholen.",
-   "en": "A level crossing ahead. From here, do not overtake motor vehicles."
+   "en": "A level crossing ahead. From here, do not overtake motor vehicles.",
+   "tr": "İleride hemzemin geçit. Buradan itibaren motorlu araçları sollamayın."
   }
  },
  {
@@ -244,11 +284,13 @@
   "category": "danger",
   "name": {
    "de": "Dreistreifige Bake (rechts)",
-   "en": "Countdown marker, three stripes"
+   "en": "Countdown marker, three stripes",
+   "tr": "Geri sayım işareti, üç çizgi"
   },
   "meaning": {
    "de": "Etwa 240 m bis zum Bahnübergang.",
-   "en": "About 240 m to the level crossing."
+   "en": "About 240 m to the level crossing.",
+   "tr": "Hemzemin geçide yaklaşık 240 m."
   }
  },
  {
@@ -256,11 +298,13 @@
   "category": "danger",
   "name": {
    "de": "Zweistreifige Bake (rechts)",
-   "en": "Countdown marker, two stripes"
+   "en": "Countdown marker, two stripes",
+   "tr": "Geri sayım işareti, iki çizgi"
   },
   "meaning": {
    "de": "Etwa 160 m bis zum Bahnübergang.",
-   "en": "About 160 m to the level crossing."
+   "en": "About 160 m to the level crossing.",
+   "tr": "Hemzemin geçide yaklaşık 160 m."
   }
  },
  {
@@ -268,11 +312,13 @@
   "category": "danger",
   "name": {
    "de": "Einstreifige Bake (rechts)",
-   "en": "Countdown marker, one stripe"
+   "en": "Countdown marker, one stripe",
+   "tr": "Geri sayım işareti, tek çizgi"
   },
   "meaning": {
    "de": "Etwa 80 m bis zum Bahnübergang.",
-   "en": "About 80 m to the level crossing."
+   "en": "About 80 m to the level crossing.",
+   "tr": "Hemzemin geçide yaklaşık 80 m."
   }
  },
  {
@@ -280,11 +326,13 @@
   "category": "priority",
   "name": {
    "de": "Andreaskreuz",
-   "en": "St Andrew’s cross"
+   "en": "St Andrew’s cross",
+   "tr": "Andreas haçı"
   },
   "meaning": {
    "de": "Schienenfahrzeuge haben Vorrang. Vor dem Kreuz warten, wenn sich ein Zug nähert.",
-   "en": "Rail vehicles have priority. Wait before the cross when a train approaches."
+   "en": "Rail vehicles have priority. Wait before the cross when a train approaches.",
+   "tr": "Raylı araçların önceliği vardır. Tren yaklaşırken haçtan önce bekleyin."
   }
  },
  {
@@ -292,11 +340,13 @@
   "category": "priority",
   "name": {
    "de": "Vorfahrt gewähren",
-   "en": "Give way"
+   "en": "Give way",
+   "tr": "Yol ver"
   },
   "meaning": {
    "de": "Dem Verkehr auf der kreuzenden Straße Vorfahrt gewähren.",
-   "en": "Give way to traffic on the road you are joining or crossing."
+   "en": "Give way to traffic on the road you are joining or crossing.",
+   "tr": "Gireceğiniz ya da geçeceğiniz yoldaki trafiğe yol verin."
   }
  },
  {
@@ -304,11 +354,13 @@
   "category": "priority",
   "name": {
    "de": "Halt. Vorfahrt gewähren.",
-   "en": "Stop. Give way."
+   "en": "Stop. Give way.",
+   "tr": "Dur. Yol ver."
   },
   "meaning": {
    "de": "Vollständig anhalten – an der Haltlinie oder wo die Straße einzusehen ist – und Vorfahrt gewähren.",
-   "en": "Come to a complete stop - at the line, or where you can see - and give way."
+   "en": "Come to a complete stop - at the line, or where you can see - and give way.",
+   "tr": "Tamamen durun - çizgide ya da görebildiğiniz yerde - ve yol verin."
   }
  },
  {
@@ -316,11 +368,13 @@
   "category": "priority",
   "name": {
    "de": "Vorrang des Gegenverkehrs",
-   "en": "Give way to oncoming traffic"
+   "en": "Give way to oncoming traffic",
+   "tr": "Karşıdan gelen trafiğe öncelik"
   },
   "meaning": {
    "de": "An der Engstelle hat der Gegenverkehr Vorrang. Wenn nötig, warten.",
-   "en": "Oncoming traffic has priority at the narrow section. Wait if necessary."
+   "en": "Oncoming traffic has priority at the narrow section. Wait if necessary.",
+   "tr": "Dar kesimde karşıdan gelen trafiğin önceliği vardır. Gerekirse bekleyin."
   }
  },
  {
@@ -328,11 +382,13 @@
   "category": "priority",
   "name": {
    "de": "Vorfahrt",
-   "en": "Priority at the next junction"
+   "en": "Priority at the next junction",
+   "tr": "Bir sonraki kavşakta öncelik"
   },
   "meaning": {
    "de": "Vorfahrt nur an der nächsten Kreuzung oder Einmündung.",
-   "en": "Priority at the next junction only."
+   "en": "Priority at the next junction only.",
+   "tr": "Yalnızca bir sonraki kavşakta öncelik."
   }
  },
  {
@@ -340,11 +396,13 @@
   "category": "priority",
   "name": {
    "de": "Vorfahrtstraße",
-   "en": "Priority road"
+   "en": "Priority road",
+   "tr": "Ana yol"
   },
   "meaning": {
    "de": "Vorfahrt an allen folgenden Kreuzungen, bis Zeichen 307 oder 205 kommt.",
-   "en": "Priority at every junction until sign 307 or 205."
+   "en": "Priority at every junction until sign 307 or 205.",
+   "tr": "307 ya da 205 numaralı levhaya kadar her kavşakta öncelik."
   }
  },
  {
@@ -352,11 +410,13 @@
   "category": "priority",
   "name": {
    "de": "Ende der Vorfahrtstraße",
-   "en": "End of priority road"
+   "en": "End of priority road",
+   "tr": "Ana yol sonu"
   },
   "meaning": {
    "de": "Die Vorfahrtstraße endet. Danach wieder auf Schilder oder „rechts vor links“ achten.",
-   "en": "The priority road ends. Signs or \"right before left\" decide again."
+   "en": "The priority road ends. Signs or \"right before left\" decide again.",
+   "tr": "Ana yol bitiyor. Yine levhalar ya da \"sağdan gelen önce geçer\" belirler."
   }
  },
  {
@@ -364,11 +424,13 @@
   "category": "priority",
   "name": {
    "de": "Vorrang vor dem Gegenverkehr",
-   "en": "Priority over oncoming traffic"
+   "en": "Priority over oncoming traffic",
+   "tr": "Karşıdan gelen trafiğe karşı öncelik"
   },
   "meaning": {
    "de": "An der Engstelle haben Sie Vorrang – achten Sie trotzdem auf den Gegenverkehr.",
-   "en": "You have priority at the narrow section - still watch the oncoming traffic."
+   "en": "You have priority at the narrow section - still watch the oncoming traffic.",
+   "tr": "Dar kesimde öncelik sizde - yine de karşıdan gelen trafiğe dikkat edin."
   }
  },
  {
@@ -376,11 +438,13 @@
   "category": "mandatory",
   "name": {
    "de": "Vorgeschriebene Fahrtrichtung rechts",
-   "en": "Turn right"
+   "en": "Turn right",
+   "tr": "Sağa dön"
   },
   "meaning": {
    "de": "Hier nur nach rechts fahren.",
-   "en": "You must turn right here."
+   "en": "You must turn right here.",
+   "tr": "Burada sağa dönmek zorundasınız."
   }
  },
  {
@@ -388,11 +452,13 @@
   "category": "mandatory",
   "name": {
    "de": "Vorgeschriebene Fahrtrichtung links",
-   "en": "Turn left"
+   "en": "Turn left",
+   "tr": "Sola dön"
   },
   "meaning": {
    "de": "Hier nur nach links fahren.",
-   "en": "You must turn left here."
+   "en": "You must turn left here.",
+   "tr": "Burada sola dönmek zorundasınız."
   }
  },
  {
@@ -400,11 +466,13 @@
   "category": "mandatory",
   "name": {
    "de": "Vorgeschriebene Fahrtrichtung geradeaus",
-   "en": "Straight on only"
+   "en": "Straight on only",
+   "tr": "Yalnızca düz"
   },
   "meaning": {
    "de": "Hier nur geradeaus fahren.",
-   "en": "You must go straight on."
+   "en": "You must go straight on.",
+   "tr": "Düz gitmek zorundasınız."
   }
  },
  {
@@ -412,11 +480,13 @@
   "category": "mandatory",
   "name": {
    "de": "Hier rechts",
-   "en": "Turn right here"
+   "en": "Turn right here",
+   "tr": "Burada sağa dön"
   },
   "meaning": {
    "de": "An dieser Stelle rechts abbiegen.",
-   "en": "Turn right at this point."
+   "en": "Turn right at this point.",
+   "tr": "Bu noktada sağa dönün."
   }
  },
  {
@@ -424,11 +494,13 @@
   "category": "mandatory",
   "name": {
    "de": "Geradeaus oder rechts",
-   "en": "Straight on or right"
+   "en": "Straight on or right",
+   "tr": "Düz ya da sağa"
   },
   "meaning": {
    "de": "Nur geradeaus oder nach rechts.",
-   "en": "Only straight on or right."
+   "en": "Only straight on or right.",
+   "tr": "Yalnızca düz ya da sağa."
   }
  },
  {
@@ -436,11 +508,13 @@
   "category": "mandatory",
   "name": {
    "de": "Kreisverkehr",
-   "en": "Roundabout"
+   "en": "Roundabout",
+   "tr": "Dönel kavşak"
   },
   "meaning": {
    "de": "Im Kreisverkehr nur rechts herum fahren. Mit Zeichen 205 hat der Kreis Vorfahrt.",
-   "en": "Drive anticlockwise only. With sign 205, traffic on the roundabout has priority."
+   "en": "Drive anticlockwise only. With sign 205, traffic on the roundabout has priority.",
+   "tr": "Yalnızca saat yönünün tersine gidin. 205 numaralı levhayla birlikte dönel kavşaktaki trafiğin önceliği vardır."
   }
  },
  {
@@ -448,11 +522,13 @@
   "category": "mandatory",
   "name": {
    "de": "Einbahnstraße",
-   "en": "One-way street"
+   "en": "One-way street",
+   "tr": "Tek yönlü yol"
   },
   "meaning": {
    "de": "Nur in Pfeilrichtung fahren. Halten und Parken auch links erlaubt.",
-   "en": "Drive only in the direction of the arrow. Stopping and parking also allowed on the left."
+   "en": "Drive only in the direction of the arrow. Stopping and parking also allowed on the left.",
+   "tr": "Yalnızca ok yönünde gidin. Solda durmak ve park etmek de serbesttir."
   }
  },
  {
@@ -460,11 +536,13 @@
   "category": "mandatory",
   "name": {
    "de": "Rechts vorbei",
-   "en": "Keep right"
+   "en": "Keep right",
+   "tr": "Sağdan geç"
   },
   "meaning": {
    "de": "Rechts am Hindernis oder der Insel vorbeifahren.",
-   "en": "Pass the obstacle or island on the right."
+   "en": "Pass the obstacle or island on the right.",
+   "tr": "Engeli ya da adayı sağdan geçin."
   }
  },
  {
@@ -472,11 +550,13 @@
   "category": "mandatory",
   "name": {
    "de": "Radweg",
-   "en": "Cycle path"
+   "en": "Cycle path",
+   "tr": "Bisiklet yolu"
   },
   "meaning": {
    "de": "Nur für Radfahrer (und E-Scooter). Radfahrer müssen ihn benutzen.",
-   "en": "For cyclists (and e-scooters) only. Cyclists must use it."
+   "en": "For cyclists (and e-scooters) only. Cyclists must use it.",
+   "tr": "Yalnızca bisikletliler (ve elektrikli scooterlar) için. Bisikletliler kullanmak zorundadır."
   }
  },
  {
@@ -484,11 +564,13 @@
   "category": "mandatory",
   "name": {
    "de": "Gehweg",
-   "en": "Footpath"
+   "en": "Footpath",
+   "tr": "Yaya yolu"
   },
   "meaning": {
    "de": "Nur für Fußgänger.",
-   "en": "For pedestrians only."
+   "en": "For pedestrians only.",
+   "tr": "Yalnızca yayalar için."
   }
  },
  {
@@ -496,11 +578,13 @@
   "category": "mandatory",
   "name": {
    "de": "Gemeinsamer Geh- und Radweg",
-   "en": "Shared foot and cycle path"
+   "en": "Shared foot and cycle path",
+   "tr": "Ortak yaya ve bisiklet yolu"
   },
   "meaning": {
    "de": "Fußgänger und Radfahrer teilen sich den Weg. Kein Kfz-Verkehr.",
-   "en": "Pedestrians and cyclists share the path. No motor vehicles."
+   "en": "Pedestrians and cyclists share the path. No motor vehicles.",
+   "tr": "Yayalar ve bisikletliler yolu paylaşır. Motorlu araç yok."
   }
  },
  {
@@ -508,11 +592,13 @@
   "category": "mandatory",
   "name": {
    "de": "Getrennter Rad- und Gehweg",
-   "en": "Split cycle and footpath"
+   "en": "Split cycle and footpath",
+   "tr": "Ayrılmış bisiklet ve yaya yolu"
   },
   "meaning": {
    "de": "Radfahrer und Fußgänger haben jeweils ihre Seite.",
-   "en": "Cyclists and pedestrians each keep to their side."
+   "en": "Cyclists and pedestrians each keep to their side.",
+   "tr": "Bisikletliler ve yayalar kendi taraflarında kalır."
   }
  },
  {
@@ -520,11 +606,13 @@
   "category": "mandatory",
   "name": {
    "de": "Beginn eines Fußgängerbereichs",
-   "en": "Pedestrian zone"
+   "en": "Pedestrian zone",
+   "tr": "Yaya bölgesi"
   },
   "meaning": {
    "de": "Fußgängerzone. Fahrzeuge nur, wenn ein Zusatzzeichen es erlaubt, dann mit Schrittgeschwindigkeit.",
-   "en": "Pedestrian zone. Vehicles only if a plate allows, then at walking pace."
+   "en": "Pedestrian zone. Vehicles only if a plate allows, then at walking pace.",
+   "tr": "Yaya bölgesi. Araçlar yalnızca ek levha izin veriyorsa, o zaman da yürüme hızında."
   }
  },
  {
@@ -532,11 +620,13 @@
   "category": "mandatory",
   "name": {
    "de": "Beginn einer Fahrradstraße",
-   "en": "Cycle street"
+   "en": "Cycle street",
+   "tr": "Bisiklet sokağı"
   },
   "meaning": {
    "de": "Fahrradstraße: andere Fahrzeuge nur mit Zusatzzeichen, höchstens 30 km/h, Radfahrer dürfen nebeneinander fahren.",
-   "en": "Cycle street: other vehicles only with a plate, 30 km/h max, cyclists may ride side by side."
+   "en": "Cycle street: other vehicles only with a plate, 30 km/h max, cyclists may ride side by side.",
+   "tr": "Bisiklet sokağı: diğer araçlar yalnızca ek levhayla, en fazla 30 km/sa, bisikletliler yan yana gidebilir."
   }
  },
  {
@@ -544,11 +634,13 @@
   "category": "mandatory",
   "name": {
    "de": "Bussonderfahrstreifen",
-   "en": "Bus lane"
+   "en": "Bus lane",
+   "tr": "Otobüs şeridi"
   },
   "meaning": {
    "de": "Nur für Linienbusse und, wenn ein Zusatzzeichen es erlaubt, z. B. Taxis oder Radfahrer.",
-   "en": "For buses only, and others such as taxis or cyclists if a plate allows."
+   "en": "For buses only, and others such as taxis or cyclists if a plate allows.",
+   "tr": "Yalnızca otobüsler için; ek levha izin veriyorsa taksiler ya da bisikletliler gibi başkaları da."
   }
  },
  {
@@ -556,11 +648,13 @@
   "category": "mandatory",
   "name": {
    "de": "Vorgeschriebene Mindestgeschwindigkeit",
-   "en": "Minimum speed"
+   "en": "Minimum speed",
+   "tr": "Asgari hız"
   },
   "meaning": {
    "de": "Nicht langsamer fahren als angegeben, wenn Verkehr, Sicht und Wetter es zulassen.",
-   "en": "Do not drive slower than shown, unless traffic, visibility or weather require it."
+   "en": "Do not drive slower than shown, unless traffic, visibility or weather require it.",
+   "tr": "Trafik, görüş ya da hava gerektirmedikçe gösterilenden yavaş gitmeyin."
   }
  },
  {
@@ -568,11 +662,13 @@
   "category": "prohibition",
   "name": {
    "de": "Verbot für Fahrzeuge aller Art",
-   "en": "No vehicles"
+   "en": "No vehicles",
+   "tr": "Araç giremez"
   },
   "meaning": {
    "de": "Kein Fahrzeug darf fahren. Fahrräder und Krafträder schieben ist erlaubt.",
-   "en": "No vehicles at all. Pushing bicycles and motorbikes is allowed."
+   "en": "No vehicles at all. Pushing bicycles and motorbikes is allowed.",
+   "tr": "Hiçbir araç giremez. Bisiklet ve motosiklet yürütülerek götürülebilir."
   }
  },
  {
@@ -580,11 +676,13 @@
   "category": "prohibition",
   "name": {
    "de": "Verbot für Kraftwagen",
-   "en": "No cars"
+   "en": "No cars",
+   "tr": "Otomobil giremez"
   },
   "meaning": {
    "de": "Verbot für Kraftwagen und sonstige mehrspurige Kraftfahrzeuge.",
-   "en": "No cars or other multi-track motor vehicles."
+   "en": "No cars or other multi-track motor vehicles.",
+   "tr": "Otomobiller ve diğer çok izli motorlu araçlar giremez."
   }
  },
  {
@@ -592,11 +690,13 @@
   "category": "prohibition",
   "name": {
    "de": "Verbot für Kfz über 3,5 t",
-   "en": "No goods vehicles over 3.5 t"
+   "en": "No goods vehicles over 3.5 t",
+   "tr": "3,5 tonun üzerindeki yük araçları giremez"
   },
   "meaning": {
    "de": "Verbot für Lkw und Zugmaschinen über 3,5 t zulässige Gesamtmasse, auch mit Anhänger.",
-   "en": "No lorries or tractors over 3.5 t gross weight, trailers included."
+   "en": "No lorries or tractors over 3.5 t gross weight, trailers included.",
+   "tr": "Römorklar dahil 3,5 ton toplam ağırlığın üzerindeki kamyonlar ve traktörler giremez."
   }
  },
  {
@@ -604,11 +704,13 @@
   "category": "prohibition",
   "name": {
    "de": "Verbot für Radverkehr",
-   "en": "No cycling"
+   "en": "No cycling",
+   "tr": "Bisiklet giremez"
   },
   "meaning": {
    "de": "Radfahren verboten.",
-   "en": "No cycling."
+   "en": "No cycling.",
+   "tr": "Bisiklet sürmek yasak."
   }
  },
  {
@@ -616,11 +718,13 @@
   "category": "prohibition",
   "name": {
    "de": "Verbot für Krafträder",
-   "en": "No motorbikes"
+   "en": "No motorbikes",
+   "tr": "Motosiklet giremez"
   },
   "meaning": {
    "de": "Verbot für Krafträder.",
-   "en": "No motorbikes."
+   "en": "No motorbikes.",
+   "tr": "Motosiklet giremez."
   }
  },
  {
@@ -628,11 +732,13 @@
   "category": "prohibition",
   "name": {
    "de": "Verbot für Fußgänger",
-   "en": "No pedestrians"
+   "en": "No pedestrians",
+   "tr": "Yaya giremez"
   },
   "meaning": {
    "de": "Fußgänger dürfen hier nicht gehen.",
-   "en": "No pedestrians."
+   "en": "No pedestrians.",
+   "tr": "Yaya giremez."
   }
  },
  {
@@ -640,11 +746,13 @@
   "category": "prohibition",
   "name": {
    "de": "Verbot für Kraftfahrzeuge",
-   "en": "No motor vehicles"
+   "en": "No motor vehicles",
+   "tr": "Motorlu araç giremez"
   },
   "meaning": {
    "de": "Verbot für Krafträder und alle anderen Kraftfahrzeuge.",
-   "en": "No motorbikes or other motor vehicles."
+   "en": "No motorbikes or other motor vehicles.",
+   "tr": "Motosikletler ve diğer motorlu araçlar giremez."
   }
  },
  {
@@ -652,11 +760,13 @@
   "category": "prohibition",
   "name": {
    "de": "Tatsächliche Masse",
-   "en": "Weight limit"
+   "en": "Weight limit",
+   "tr": "Ağırlık sınırı"
   },
   "meaning": {
    "de": "Verbot für Fahrzeuge, die schwerer sind als angegeben.",
-   "en": "No vehicles weighing more than shown."
+   "en": "No vehicles weighing more than shown.",
+   "tr": "Gösterilenden ağır araçlar giremez."
   }
  },
  {
@@ -664,11 +774,13 @@
   "category": "prohibition",
   "name": {
    "de": "Tatsächliche Breite",
-   "en": "Width limit"
+   "en": "Width limit",
+   "tr": "Genişlik sınırı"
   },
   "meaning": {
    "de": "Verbot für Fahrzeuge, die breiter sind als angegeben (einschließlich Ladung).",
-   "en": "No vehicles wider than shown, load included."
+   "en": "No vehicles wider than shown, load included.",
+   "tr": "Yük dahil gösterilenden geniş araçlar giremez."
   }
  },
  {
@@ -676,11 +788,13 @@
   "category": "prohibition",
   "name": {
    "de": "Tatsächliche Höhe",
-   "en": "Height limit"
+   "en": "Height limit",
+   "tr": "Yükseklik sınırı"
   },
   "meaning": {
    "de": "Verbot für Fahrzeuge, die höher sind als angegeben (einschließlich Ladung).",
-   "en": "No vehicles taller than shown, load included."
+   "en": "No vehicles taller than shown, load included.",
+   "tr": "Yük dahil gösterilenden yüksek araçlar giremez."
   }
  },
  {
@@ -688,11 +802,13 @@
   "category": "prohibition",
   "name": {
    "de": "Verbot der Einfahrt",
-   "en": "No entry"
+   "en": "No entry",
+   "tr": "Girilmez"
   },
   "meaning": {
    "de": "Hier darf nicht eingefahren werden.",
-   "en": "Do not enter."
+   "en": "Do not enter.",
+   "tr": "Girmeyin."
   }
  },
  {
@@ -700,11 +816,13 @@
   "category": "prohibition",
   "name": {
    "de": "Beginn einer Verkehrsverbotszone (Umweltzone)",
-   "en": "Low-emission zone"
+   "en": "Low-emission zone",
+   "tr": "Düşük emisyon bölgesi"
   },
   "meaning": {
    "de": "Nur Fahrzeuge mit der vorgeschriebenen Plakette dürfen einfahren.",
-   "en": "Only vehicles with the required sticker may enter."
+   "en": "Only vehicles with the required sticker may enter.",
+   "tr": "Yalnızca gerekli etikete sahip araçlar girebilir."
   }
  },
  {
@@ -712,11 +830,13 @@
   "category": "prohibition",
   "name": {
    "de": "Verbot des Wendens",
-   "en": "No U-turns"
+   "en": "No U-turns",
+   "tr": "Geri dönmek yasak"
   },
   "meaning": {
    "de": "Hier darf nicht gewendet werden.",
-   "en": "No turning round here."
+   "en": "No turning round here.",
+   "tr": "Burada geri dönülmez."
   }
  },
  {
@@ -724,11 +844,13 @@
   "category": "prohibition",
   "name": {
    "de": "Zulässige Höchstgeschwindigkeit 10",
-   "en": "Speed limit 10"
+   "en": "Speed limit 10",
+   "tr": "Hız sınırı 10"
   },
   "meaning": {
    "de": "Nicht schneller als 10 km/h.",
-   "en": "No faster than 10 km/h."
+   "en": "No faster than 10 km/h.",
+   "tr": "10 km/sa’ten hızlı gitmeyin."
   }
  },
  {
@@ -736,11 +858,13 @@
   "category": "prohibition",
   "name": {
    "de": "Zulässige Höchstgeschwindigkeit 20",
-   "en": "Speed limit 20"
+   "en": "Speed limit 20",
+   "tr": "Hız sınırı 20"
   },
   "meaning": {
    "de": "Nicht schneller als 20 km/h.",
-   "en": "No faster than 20 km/h."
+   "en": "No faster than 20 km/h.",
+   "tr": "20 km/sa’ten hızlı gitmeyin."
   }
  },
  {
@@ -748,11 +872,13 @@
   "category": "prohibition",
   "name": {
    "de": "Zulässige Höchstgeschwindigkeit 30",
-   "en": "Speed limit 30"
+   "en": "Speed limit 30",
+   "tr": "Hız sınırı 30"
   },
   "meaning": {
    "de": "Nicht schneller als 30 km/h.",
-   "en": "No faster than 30 km/h."
+   "en": "No faster than 30 km/h.",
+   "tr": "30 km/sa’ten hızlı gitmeyin."
   }
  },
  {
@@ -760,11 +886,13 @@
   "category": "prohibition",
   "name": {
    "de": "Zulässige Höchstgeschwindigkeit 50",
-   "en": "Speed limit 50"
+   "en": "Speed limit 50",
+   "tr": "Hız sınırı 50"
   },
   "meaning": {
    "de": "Nicht schneller als 50 km/h, bis ein Zeichen die Beschränkung aufhebt.",
-   "en": "No faster than 50 km/h until a sign lifts the limit."
+   "en": "No faster than 50 km/h until a sign lifts the limit.",
+   "tr": "Bir levha sınırı kaldırana kadar 50 km/sa’ten hızlı gitmeyin."
   }
  },
  {
@@ -772,11 +900,13 @@
   "category": "prohibition",
   "name": {
    "de": "Zulässige Höchstgeschwindigkeit 60",
-   "en": "Speed limit 60"
+   "en": "Speed limit 60",
+   "tr": "Hız sınırı 60"
   },
   "meaning": {
    "de": "Nicht schneller als 60 km/h.",
-   "en": "No faster than 60 km/h."
+   "en": "No faster than 60 km/h.",
+   "tr": "60 km/sa’ten hızlı gitmeyin."
   }
  },
  {
@@ -784,11 +914,13 @@
   "category": "prohibition",
   "name": {
    "de": "Zulässige Höchstgeschwindigkeit 70",
-   "en": "Speed limit 70"
+   "en": "Speed limit 70",
+   "tr": "Hız sınırı 70"
   },
   "meaning": {
    "de": "Nicht schneller als 70 km/h.",
-   "en": "No faster than 70 km/h."
+   "en": "No faster than 70 km/h.",
+   "tr": "70 km/sa’ten hızlı gitmeyin."
   }
  },
  {
@@ -796,11 +928,13 @@
   "category": "prohibition",
   "name": {
    "de": "Zulässige Höchstgeschwindigkeit 80",
-   "en": "Speed limit 80"
+   "en": "Speed limit 80",
+   "tr": "Hız sınırı 80"
   },
   "meaning": {
    "de": "Nicht schneller als 80 km/h.",
-   "en": "No faster than 80 km/h."
+   "en": "No faster than 80 km/h.",
+   "tr": "80 km/sa’ten hızlı gitmeyin."
   }
  },
  {
@@ -808,11 +942,13 @@
   "category": "prohibition",
   "name": {
    "de": "Zulässige Höchstgeschwindigkeit 100",
-   "en": "Speed limit 100"
+   "en": "Speed limit 100",
+   "tr": "Hız sınırı 100"
   },
   "meaning": {
    "de": "Nicht schneller als 100 km/h.",
-   "en": "No faster than 100 km/h."
+   "en": "No faster than 100 km/h.",
+   "tr": "100 km/sa’ten hızlı gitmeyin."
   }
  },
  {
@@ -820,11 +956,13 @@
   "category": "prohibition",
   "name": {
    "de": "Zulässige Höchstgeschwindigkeit 120",
-   "en": "Speed limit 120"
+   "en": "Speed limit 120",
+   "tr": "Hız sınırı 120"
   },
   "meaning": {
    "de": "Nicht schneller als 120 km/h.",
-   "en": "No faster than 120 km/h."
+   "en": "No faster than 120 km/h.",
+   "tr": "120 km/sa’ten hızlı gitmeyin."
   }
  },
  {
@@ -832,11 +970,13 @@
   "category": "prohibition",
   "name": {
    "de": "Zulässige Höchstgeschwindigkeit 130",
-   "en": "Speed limit 130"
+   "en": "Speed limit 130",
+   "tr": "Hız sınırı 130"
   },
   "meaning": {
    "de": "Nicht schneller als 130 km/h.",
-   "en": "No faster than 130 km/h."
+   "en": "No faster than 130 km/h.",
+   "tr": "130 km/sa’ten hızlı gitmeyin."
   }
  },
  {
@@ -844,11 +984,13 @@
   "category": "prohibition",
   "name": {
    "de": "Beginn einer Tempo-30-Zone",
-   "en": "30 zone"
+   "en": "30 zone",
+   "tr": "30 bölgesi"
   },
   "meaning": {
    "de": "In der ganzen Zone höchstens 30 km/h, meist „rechts vor links“.",
-   "en": "30 km/h throughout the zone; usually \"right before left\"."
+   "en": "30 km/h throughout the zone; usually \"right before left\".",
+   "tr": "Bölge boyunca 30 km/sa; genellikle \"sağdan gelen önce geçer\"."
   }
  },
  {
@@ -856,11 +998,13 @@
   "category": "prohibition",
   "name": {
    "de": "Ende einer Tempo-30-Zone",
-   "en": "End of 30 zone"
+   "en": "End of 30 zone",
+   "tr": "30 bölgesi sonu"
   },
   "meaning": {
    "de": "Die Tempo-30-Zone endet.",
-   "en": "The 30 zone ends."
+   "en": "The 30 zone ends.",
+   "tr": "30 bölgesi bitiyor."
   }
  },
  {
@@ -868,11 +1012,13 @@
   "category": "prohibition",
   "name": {
    "de": "Überholverbot für Kraftfahrzeuge aller Art",
-   "en": "No overtaking"
+   "en": "No overtaking",
+   "tr": "Sollamak yasak"
   },
   "meaning": {
    "de": "Mehrspurige Kraftfahrzeuge dürfen nicht überholt werden. Einspurige (Rad, Motorrad) schon.",
-   "en": "Do not overtake multi-track motor vehicles. Single-track ones (bikes, motorbikes) you may."
+   "en": "Do not overtake multi-track motor vehicles. Single-track ones (bikes, motorbikes) you may.",
+   "tr": "Çok izli motorlu araçları sollamayın. Tek izlileri (bisiklet, motosiklet) sollayabilirsiniz."
   }
  },
  {
@@ -880,11 +1026,13 @@
   "category": "prohibition",
   "name": {
    "de": "Überholverbot für Kfz über 3,5 t",
-   "en": "No overtaking for lorries over 3.5 t"
+   "en": "No overtaking for lorries over 3.5 t",
+   "tr": "3,5 tonun üzerindeki kamyonlar için sollama yasağı"
   },
   "meaning": {
    "de": "Gilt für Kfz über 3,5 t und Zugmaschinen – nicht für Pkw und Busse, auch nicht mit Anhänger.",
-   "en": "Applies to vehicles over 3.5 t and tractors - not to cars or buses, even with a trailer."
+   "en": "Applies to vehicles over 3.5 t and tractors - not to cars or buses, even with a trailer.",
+   "tr": "3,5 tonun üzerindeki araçlar ve traktörler için geçerlidir - römorklu olsalar bile otomobiller ve otobüsler için değil."
   }
  },
  {
@@ -892,11 +1040,13 @@
   "category": "prohibition",
   "name": {
    "de": "Ende der zulässigen Höchstgeschwindigkeit",
-   "en": "End of speed limit"
+   "en": "End of speed limit",
+   "tr": "Hız sınırı sonu"
   },
   "meaning": {
    "de": "Die angezeigte Beschränkung endet. Es gilt wieder das allgemeine Limit.",
-   "en": "The limit shown ends. The general limit applies again."
+   "en": "The limit shown ends. The general limit applies again.",
+   "tr": "Gösterilen sınır bitiyor. Yine genel sınır geçerlidir."
   }
  },
  {
@@ -904,11 +1054,13 @@
   "category": "prohibition",
   "name": {
    "de": "Ende des Überholverbots",
-   "en": "End of no overtaking"
+   "en": "End of no overtaking",
+   "tr": "Sollama yasağı sonu"
   },
   "meaning": {
    "de": "Das Überholverbot endet.",
-   "en": "The overtaking ban ends."
+   "en": "The overtaking ban ends.",
+   "tr": "Sollama yasağı bitiyor."
   }
  },
  {
@@ -916,11 +1068,13 @@
   "category": "prohibition",
   "name": {
    "de": "Ende sämtlicher Streckenverbote",
-   "en": "End of all restrictions"
+   "en": "End of all restrictions",
+   "tr": "Tüm yasakların sonu"
   },
   "meaning": {
    "de": "Alle vorher angeordneten Streckenverbote (Tempo, Überholen) enden.",
-   "en": "All restrictions along the stretch (speed, overtaking) end."
+   "en": "All restrictions along the stretch (speed, overtaking) end.",
+   "tr": "Güzergâh boyunca geçerli tüm kısıtlamalar (hız, sollama) bitiyor."
   }
  },
  {
@@ -928,11 +1082,13 @@
   "category": "parking",
   "name": {
    "de": "Absolutes Haltverbot",
-   "en": "No stopping"
+   "en": "No stopping",
+   "tr": "Durmak yasak"
   },
   "meaning": {
    "de": "Halten auf der Fahrbahn ist ganz verboten, auch kurz.",
-   "en": "No stopping on the carriageway at all, not even briefly."
+   "en": "No stopping on the carriageway at all, not even briefly.",
+   "tr": "Taşıt yolunda hiçbir şekilde, kısa süreliğine bile durulmaz."
   }
  },
  {
@@ -940,11 +1096,13 @@
   "category": "parking",
   "name": {
    "de": "Eingeschränktes Haltverbot",
-   "en": "Limited stopping"
+   "en": "Limited stopping",
+   "tr": "Sınırlı durma yasağı"
   },
   "meaning": {
    "de": "Halten höchstens 3 Minuten, außer zum Ein- und Aussteigen oder Be- und Entladen. Kein Parken.",
-   "en": "Stop for 3 minutes at most, except to let people in or out or to load. No parking."
+   "en": "Stop for 3 minutes at most, except to let people in or out or to load. No parking.",
+   "tr": "Yolcu bindirip indirmek ya da yükleme dışında en fazla 3 dakika durun. Park etmek yasak."
   }
  },
  {
@@ -952,11 +1110,13 @@
   "category": "parking",
   "name": {
    "de": "Beginn eines eingeschränkten Haltverbots für eine Zone",
-   "en": "Limited-stopping zone"
+   "en": "Limited-stopping zone",
+   "tr": "Sınırlı durma yasağı bölgesi"
   },
   "meaning": {
    "de": "In der ganzen Zone gilt das eingeschränkte Haltverbot, außer auf markierten Parkflächen.",
-   "en": "Limited stopping applies throughout the zone, except in marked spaces."
+   "en": "Limited stopping applies throughout the zone, except in marked spaces.",
+   "tr": "İşaretli yerler dışında bölge boyunca sınırlı durma yasağı geçerlidir."
   }
  },
  {
@@ -964,11 +1124,13 @@
   "category": "parking",
   "name": {
    "de": "Parken",
-   "en": "Parking"
+   "en": "Parking",
+   "tr": "Park yeri"
   },
   "meaning": {
    "de": "Hier ist Parken erlaubt; Zusatzzeichen können es beschränken.",
-   "en": "Parking is allowed here; plates may restrict it."
+   "en": "Parking is allowed here; plates may restrict it.",
+   "tr": "Burada park etmek serbesttir; ek levhalar sınırlayabilir."
   }
  },
  {
@@ -976,11 +1138,13 @@
   "category": "parking",
   "name": {
    "de": "Haltestelle",
-   "en": "Bus or tram stop"
+   "en": "Bus or tram stop",
+   "tr": "Otobüs ya da tramvay durağı"
   },
   "meaning": {
    "de": "Haltestelle. Bis zu je 15 m davor und dahinter nicht parken.",
-   "en": "Bus or tram stop. No parking for 15 m either side."
+   "en": "Bus or tram stop. No parking for 15 m either side.",
+   "tr": "Otobüs ya da tramvay durağı. İki tarafta 15 m boyunca park etmek yasak."
   }
  },
  {
@@ -988,11 +1152,13 @@
   "category": "info",
   "name": {
    "de": "Ortstafel (Vorderseite)",
-   "en": "Town sign"
+   "en": "Town sign",
+   "tr": "Yerleşim yeri levhası"
   },
   "meaning": {
    "de": "Beginn der geschlossenen Ortschaft: Ab hier 50 km/h, wenn nichts anderes gilt.",
-   "en": "Start of a built-up area: 50 km/h from here unless signed otherwise."
+   "en": "Start of a built-up area: 50 km/h from here unless signed otherwise.",
+   "tr": "Yerleşim yerinin başlangıcı: aksi belirtilmedikçe buradan itibaren 50 km/sa."
   }
  },
  {
@@ -1000,11 +1166,13 @@
   "category": "info",
   "name": {
    "de": "Ortstafel (Rückseite)",
-   "en": "End of town"
+   "en": "End of town",
+   "tr": "Yerleşim yeri sonu"
   },
   "meaning": {
    "de": "Ende der geschlossenen Ortschaft: Es gelten die Regeln für außerorts.",
-   "en": "End of the built-up area: the rules for outside towns apply."
+   "en": "End of the built-up area: the rules for outside towns apply.",
+   "tr": "Yerleşim yerinin sonu: yerleşim yeri dışı kuralları geçerlidir."
   }
  },
  {
@@ -1012,11 +1180,13 @@
   "category": "info",
   "name": {
    "de": "Beginn eines verkehrsberuhigten Bereichs",
-   "en": "Traffic-calmed area"
+   "en": "Traffic-calmed area",
+   "tr": "Trafiği sakinleştirilmiş bölge"
   },
   "meaning": {
    "de": "Schrittgeschwindigkeit. Fußgänger dürfen die ganze Straße nutzen, Kinder überall spielen.",
-   "en": "Walking pace. Pedestrians may use the whole street and children may play anywhere."
+   "en": "Walking pace. Pedestrians may use the whole street and children may play anywhere.",
+   "tr": "Yürüme hızı. Yayalar yolun tamamını kullanabilir, çocuklar her yerde oynayabilir."
   }
  },
  {
@@ -1024,11 +1194,13 @@
   "category": "info",
   "name": {
    "de": "Ende eines verkehrsberuhigten Bereichs",
-   "en": "End of traffic-calmed area"
+   "en": "End of traffic-calmed area",
+   "tr": "Trafiği sakinleştirilmiş bölge sonu"
   },
   "meaning": {
    "de": "Wer hinausfährt, muss allen anderen Vorfahrt lassen.",
-   "en": "When leaving, give way to everyone else."
+   "en": "When leaving, give way to everyone else.",
+   "tr": "Çıkarken herkese yol verin."
   }
  },
  {
@@ -1036,11 +1208,13 @@
   "category": "info",
   "name": {
    "de": "Autobahn",
-   "en": "Motorway"
+   "en": "Motorway",
+   "tr": "Otoyol"
   },
   "meaning": {
    "de": "Nur für Kfz über 60 km/h bauartbedingt. Kein Halten, Wenden, Rückwärtsfahren.",
-   "en": "Only for motor vehicles built for over 60 km/h. No stopping, turning round or reversing."
+   "en": "Only for motor vehicles built for over 60 km/h. No stopping, turning round or reversing.",
+   "tr": "Yalnızca 60 km/sa’ten hızlı gitmek üzere yapılmış motorlu araçlar için. Durmak, geri dönmek ve geri gitmek yasak."
   }
  },
  {
@@ -1048,11 +1222,13 @@
   "category": "info",
   "name": {
    "de": "Ende der Autobahn",
-   "en": "End of motorway"
+   "en": "End of motorway",
+   "tr": "Otoyol sonu"
   },
   "meaning": {
    "de": "Die Autobahnregeln enden.",
-   "en": "Motorway rules end."
+   "en": "Motorway rules end.",
+   "tr": "Otoyol kuralları bitiyor."
   }
  },
  {
@@ -1060,11 +1236,13 @@
   "category": "info",
   "name": {
    "de": "Kraftfahrstraße",
-   "en": "Expressway"
+   "en": "Expressway",
+   "tr": "Ekspres yol"
   },
   "meaning": {
    "de": "Wie Autobahn: nur schnelle Kfz, kein Halten, kein Wenden. Vorfahrt an Einmündungen.",
-   "en": "Like a motorway: fast motor vehicles only, no stopping or turning round. Priority at junctions."
+   "en": "Like a motorway: fast motor vehicles only, no stopping or turning round. Priority at junctions.",
+   "tr": "Otoyol gibi: yalnızca hızlı motorlu araçlar, durmak ve geri dönmek yasak. Kavşaklarda öncelik."
   }
  },
  {
@@ -1072,11 +1250,13 @@
   "category": "info",
   "name": {
    "de": "Ende der Kraftfahrstraße",
-   "en": "End of expressway"
+   "en": "End of expressway",
+   "tr": "Ekspres yol sonu"
   },
   "meaning": {
    "de": "Die Regeln der Kraftfahrstraße enden.",
-   "en": "Expressway rules end."
+   "en": "Expressway rules end.",
+   "tr": "Ekspres yol kuralları bitiyor."
   }
  },
  {
@@ -1084,11 +1264,13 @@
   "category": "info",
   "name": {
    "de": "Fußgängerüberweg",
-   "en": "Zebra crossing"
+   "en": "Zebra crossing",
+   "tr": "Yaya geçidi"
   },
   "meaning": {
    "de": "Fußgänger, die erkennbar hinüber wollen, haben Vorrang. Nicht überholen, 5 m davor nicht halten.",
-   "en": "Pedestrians who clearly want to cross have priority. No overtaking; no stopping for 5 m before it."
+   "en": "Pedestrians who clearly want to cross have priority. No overtaking; no stopping for 5 m before it.",
+   "tr": "Açıkça geçmek isteyen yayaların önceliği vardır. Sollamak yasak; 5 m öncesinde durmak yasak."
   }
  },
  {
@@ -1096,11 +1278,13 @@
   "category": "info",
   "name": {
    "de": "Sackgasse",
-   "en": "Dead end"
+   "en": "Dead end",
+   "tr": "Çıkmaz yol"
   },
   "meaning": {
    "de": "Für Fahrzeuge geht es hier nicht weiter.",
-   "en": "No through road for vehicles."
+   "en": "No through road for vehicles.",
+   "tr": "Araçlar için çıkışı olmayan yol."
   }
  },
  {
@@ -1108,11 +1292,13 @@
   "category": "info",
   "name": {
    "de": "Ankündigungsbake",
-   "en": "Exit countdown marker"
+   "en": "Exit countdown marker",
+   "tr": "Çıkış geri sayım işareti"
   },
   "meaning": {
    "de": "Etwa 300, 200 und 100 m bis zur Autobahnausfahrt.",
-   "en": "About 300, 200 and 100 m to the motorway exit."
+   "en": "About 300, 200 and 100 m to the motorway exit.",
+   "tr": "Otoyol çıkışına yaklaşık 300, 200 ve 100 m."
   }
  },
  {
@@ -1120,11 +1306,13 @@
   "category": "info",
   "name": {
    "de": "Richtungstafel in Kurven",
-   "en": "Chevron board"
+   "en": "Chevron board",
+   "tr": "Yön levhası"
   },
   "meaning": {
    "de": "Zeigt die Richtung einer Kurve an, die oft enger ist, als sie wirkt.",
-   "en": "Shows the direction of a bend, often tighter than it looks."
+   "en": "Shows the direction of a bend, often tighter than it looks.",
+   "tr": "Virajın yönünü gösterir; viraj çoğu zaman göründüğünden keskindir."
   }
  },
  {
@@ -1132,11 +1320,13 @@
   "category": "extra",
   "name": {
    "de": "Länge einer Strecke („auf 800 m“)",
-   "en": "Length of restriction (\"for 800 m\")"
+   "en": "Length of restriction (\"for 800 m\")",
+   "tr": "Kısıtlama uzunluğu (\"800 m boyunca\")"
   },
   "meaning": {
    "de": "Das Zeichen darüber gilt auf der angegebenen Länge.",
-   "en": "The sign above applies for the distance shown."
+   "en": "The sign above applies for the distance shown.",
+   "tr": "Üstteki levha gösterilen mesafe boyunca geçerlidir."
   }
  },
  {
@@ -1144,11 +1334,13 @@
   "category": "extra",
   "name": {
    "de": "Entfernung („nach 200 m“)",
-   "en": "Distance (\"in 200 m\")"
+   "en": "Distance (\"in 200 m\")",
+   "tr": "Mesafe (\"200 m sonra\")"
   },
   "meaning": {
    "de": "Was das Zeichen darüber ankündigt, beginnt nach der angegebenen Entfernung.",
-   "en": "What the sign above announces begins after the distance shown."
+   "en": "What the sign above announces begins after the distance shown.",
+   "tr": "Üstteki levhanın bildirdiği şey gösterilen mesafeden sonra başlar."
   }
  },
  {
@@ -1156,11 +1348,13 @@
   "category": "extra",
   "name": {
    "de": "Anlieger frei",
-   "en": "Access only"
+   "en": "Access only",
+   "tr": "Yalnızca ilgililer"
   },
   "meaning": {
    "de": "Wer dort ein Anliegen hat – Anwohner, Besucher, Lieferanten –, darf trotz Verbot einfahren.",
-   "en": "Anyone with business there - residents, visitors, deliveries - may still enter."
+   "en": "Anyone with business there - residents, visitors, deliveries - may still enter.",
+   "tr": "Orada işi olan herkes - sakinler, ziyaretçiler, teslimatlar - yine de girebilir."
   }
  },
  {
@@ -1168,11 +1362,13 @@
   "category": "extra",
   "name": {
    "de": "Radverkehr frei",
-   "en": "Cyclists excepted"
+   "en": "Cyclists excepted",
+   "tr": "Bisikletliler hariç"
   },
   "meaning": {
    "de": "Das Verbot darüber gilt nicht für Radfahrer.",
-   "en": "The ban above does not apply to cyclists."
+   "en": "The ban above does not apply to cyclists.",
+   "tr": "Üstteki yasak bisikletliler için geçerli değildir."
   }
  },
  {
@@ -1180,11 +1376,13 @@
   "category": "extra",
   "name": {
    "de": "Zeitliche Beschränkung",
-   "en": "Times of operation"
+   "en": "Times of operation",
+   "tr": "Geçerlilik saatleri"
   },
   "meaning": {
    "de": "Das Zeichen darüber gilt nur zu den angegebenen Zeiten.",
-   "en": "The sign above applies only at the times shown."
+   "en": "The sign above applies only at the times shown.",
+   "tr": "Üstteki levha yalnızca gösterilen saatlerde geçerlidir."
   }
  },
  {
@@ -1192,11 +1390,13 @@
   "category": "extra",
   "name": {
    "de": "bei Nässe",
-   "en": "When wet"
+   "en": "When wet",
+   "tr": "Islakken"
   },
   "meaning": {
    "de": "Das Zeichen darüber gilt nur bei nasser Fahrbahn.",
-   "en": "The sign above applies only when the road is wet."
+   "en": "The sign above applies only when the road is wet.",
+   "tr": "Üstteki levha yalnızca yol ıslakken geçerlidir."
   }
  },
  {
@@ -1204,11 +1404,13 @@
   "category": "extra",
   "name": {
    "de": "Gilt für Kfz über 7,5 t",
-   "en": "Applies to vehicles over 7.5 t"
+   "en": "Applies to vehicles over 7.5 t",
+   "tr": "7,5 tonun üzerindeki araçlar için geçerli"
   },
   "meaning": {
    "de": "Das Zeichen darüber gilt nur für Kfz über der angegebenen Masse.",
-   "en": "The sign above applies only to vehicles over the weight shown."
+   "en": "The sign above applies only to vehicles over the weight shown.",
+   "tr": "Üstteki levha yalnızca gösterilen ağırlığın üzerindeki araçlar için geçerlidir."
   }
  },
  {
@@ -1216,11 +1418,13 @@
   "category": "extra",
   "name": {
    "de": "Verlauf der Vorfahrtstraße",
-   "en": "Bending priority road"
+   "en": "Bending priority road",
+   "tr": "Kıvrılan ana yol"
   },
   "meaning": {
    "de": "Die dicke Linie zeigt, wie die Vorfahrtstraße verläuft. Wer ihr folgt, muss blinken.",
-   "en": "The thick line shows the course of the priority road. Signal if you follow it."
+   "en": "The thick line shows the course of the priority road. Signal if you follow it.",
+   "tr": "Kalın çizgi ana yolun gidişini gösterir. Onu takip ederseniz sinyal verin."
   }
  },
  {
@@ -1228,11 +1432,13 @@
   "category": "marking",
   "name": {
    "de": "Fußgängerüberweg (Markierung)",
-   "en": "Zebra crossing (marking)"
+   "en": "Zebra crossing (marking)",
+   "tr": "Yaya geçidi (yol çizgisi)"
   },
   "meaning": {
    "de": "Zebrastreifen: Fußgänger haben Vorrang. Halten auf ihm und 5 m davor verboten.",
-   "en": "Zebra crossing: pedestrians have priority. No stopping on it or for 5 m before."
+   "en": "Zebra crossing: pedestrians have priority. No stopping on it or for 5 m before.",
+   "tr": "Yaya geçidi: yayaların önceliği vardır. Üzerinde ve 5 m öncesinde durmak yasak."
   }
  },
  {
@@ -1240,11 +1446,13 @@
   "category": "marking",
   "name": {
    "de": "Haltlinie",
-   "en": "Stop line"
+   "en": "Stop line",
+   "tr": "Dur çizgisi"
   },
   "meaning": {
    "de": "Hier halten, wenn Zeichen 206, eine Ampel oder die Polizei es verlangt.",
-   "en": "Stop here when sign 206, lights or the police require it."
+   "en": "Stop here when sign 206, lights or the police require it.",
+   "tr": "206 numaralı levha, ışıklar ya da polis gerektirdiğinde burada durun."
   }
  },
  {
@@ -1252,11 +1460,13 @@
   "category": "marking",
   "name": {
    "de": "Fahrstreifenbegrenzung",
-   "en": "Solid line"
+   "en": "Solid line",
+   "tr": "Düz çizgi"
   },
   "meaning": {
    "de": "Nicht überfahren und nicht auf ihr fahren. Links davon nicht halten.",
-   "en": "Do not cross or drive on it. No stopping to its left."
+   "en": "Do not cross or drive on it. No stopping to its left.",
+   "tr": "Geçmeyin ve üzerinden gitmeyin. Solunda durmak yasak."
   }
  },
  {
@@ -1264,11 +1474,13 @@
   "category": "marking",
   "name": {
    "de": "Einseitige Fahrstreifenbegrenzung",
-   "en": "Solid and broken line"
+   "en": "Solid and broken line",
+   "tr": "Düz ve kesik çizgi"
   },
   "meaning": {
    "de": "Von der unterbrochenen Seite darf überfahren werden, von der durchgehenden nicht.",
-   "en": "You may cross from the broken side, not from the solid side."
+   "en": "You may cross from the broken side, not from the solid side.",
+   "tr": "Kesik taraftan geçebilirsiniz, düz taraftan geçemezsiniz."
   }
  },
  {
@@ -1276,11 +1488,13 @@
   "category": "marking",
   "name": {
    "de": "Pfeilmarkierung",
-   "en": "Lane arrows"
+   "en": "Lane arrows",
+   "tr": "Şerit okları"
   },
   "meaning": {
    "de": "Die Pfeile geben die Fahrtrichtung für den Fahrstreifen vor.",
-   "en": "The arrows set the direction for the lane."
+   "en": "The arrows set the direction for the lane.",
+   "tr": "Oklar şeridin yönünü belirler."
   }
  },
  {
@@ -1288,11 +1502,13 @@
   "category": "marking",
   "name": {
    "de": "Sperrfläche",
-   "en": "Hatched area"
+   "en": "Hatched area",
+   "tr": "Taralı alan"
   },
   "meaning": {
    "de": "Darf nicht benutzt werden – weder befahren noch zum Halten.",
-   "en": "May not be used - not driven on, not stopped on."
+   "en": "May not be used - not driven on, not stopped on.",
+   "tr": "Kullanılamaz - üzerinden gidilmez, üzerinde durulmaz."
   }
  },
  {
@@ -1300,11 +1516,13 @@
   "category": "marking",
   "name": {
    "de": "Grenzmarkierung für Halt- und Parkverbote",
-   "en": "Zigzag line"
+   "en": "Zigzag line",
+   "tr": "Zikzak çizgi"
   },
   "meaning": {
    "de": "Kennzeichnet oder verlängert ein Halt- oder Parkverbot.",
-   "en": "Marks or extends a no-stopping or no-parking area."
+   "en": "Marks or extends a no-stopping or no-parking area.",
+   "tr": "Durma ya da park etme yasağı olan bir alanı gösterir veya uzatır."
   }
  },
  {
@@ -1312,11 +1530,13 @@
   "category": "marking",
   "name": {
    "de": "Leitlinie",
-   "en": "Broken line"
+   "en": "Broken line",
+   "tr": "Kesik çizgi"
   },
   "meaning": {
    "de": "Darf überfahren werden, wenn niemand gefährdet wird.",
-   "en": "May be crossed if nobody is endangered."
+   "en": "May be crossed if nobody is endangered.",
+   "tr": "Kimse tehlikeye girmiyorsa geçilebilir."
   }
  }
 ]

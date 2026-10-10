@@ -1,0 +1,270 @@
+{
+  "questions": {
+    "tu01": {
+      "prompt": "Sağa dönmek istiyorsunuz. Sağınızdaki bisiklet yolunda bir bisikletli düz gidiyor. Ne yaparsınız?",
+      "options": ["Bisikletliyi önce geçiririm", "Dönmeden önce sağ omzumun üzerinden bakarım", "Bisikletlinin önünden hızla dönerim"],
+      "why": "Dönerken, yolun üzerinde ya da yanında aynı yönde düz giden bisikletlileri önce geçirmelisiniz (StVO § 9 f. 3). Kör noktada onları yalnızca omuz kontrolüyle görürsünüz.",
+      "tip": "Sağa dönüş = sağ omuz kontrolü. Her seferinde."
+    },
+    "tu02": {
+      "prompt": "Dönüyorsunuz. Döneceğiniz yolu yayalar geçiyor. Ne yaparsınız?",
+      "options": ["Karşıya geçene kadar beklerim", "Aralarından yavaşça geçerim", "Acele etsinler diye korna çalarım"],
+      "why": "Dönerken yayalara özellikle dikkat etmeli ve gerekirse beklemelisiniz (StVO § 9 f. 3)."
+    },
+    "tu03": {
+      "prompt": "Sola dönmek için nasıl konumlanırsınız?",
+      "options": ["Çift yönlü yolda orta çizgiye kadar", "Tek yönlü yolda olabildiğince solda", "Her zaman en sağda"],
+      "why": "Sola dönmek için zamanında olabildiğince sola geçersiniz: karşıdan trafik varsa ortaya kadar, tek yönlü yolda sol kenara kadar (StVO § 9 f. 1)."
+    },
+    "tu04": {
+      "prompt": "Sola dönüşün parçası nedir?",
+      "options": ["Zamanında sinyal vermek ve konumlanmak", "Yana geçmeden önce aynaya bakmak", "Dönmeden hemen önce bir kez daha arkaya bakmak"],
+      "why": "Sola dönüş iki kez arkaya bakmayı gerektirir: yana geçmeden önce ve dönmeden hemen önce, çünkü biri sizi sollamak üzere olabilir (StVO § 9 f. 1).",
+      "tip": "Ayna - sinyal - konum - omuz kontrolü - dönüş."
+    },
+    "tu05": {
+      "prompt": "Bir garaj yoluna dönmek istiyorsunuz. Ne geçerlidir?",
+      "options": ["Başkalarına yönelik her türlü tehlike önlenmelidir", "Gerekirse beni yönlendirmesi için birinden yardım alırım", "Benim için yalnızca kavşaktaki dönüş kuralları geçerlidir"],
+      "why": "Bir arsaya dönmek, geri dönmek ve geri geri gitmek kimsenin tehlikeye girmemesini gerektirir; gerekirse sizi yönlendirmesi için birinden yardım alın (StVO § 9 f. 5)."
+    },
+    "tu06": {
+      "prompt": "Geri dönmek nerede yasaktır?",
+      "options": ["Otoyollarda ve ekspres yollarda", "272 numaralı levhanın bulunduğu yerde", "Şehirdeki her yolda"],
+      "why": "Otoyollarda ve ekspres yollarda geri dönmek ve geri geri gitmek yasaktır (StVO § 18 f. 7). 272 numaralı levha bunu açıkça yasaklar. Başka yerlerde kimse tehlikeye girmedikçe geri dönebilirsiniz."
+    },
+    "tu07": {
+      "prompt": "Bir park yerinden geri geri çıkmak istiyorsunuz ve arkanızı az görüyorsunuz. Ne yaparsınız?",
+      "options": ["Yavaş giderim, bakmaya devam ederim, gerekirse birinden beni yönlendirmesini isterim", "Kimseyi uzun süre bekletmemek için hızla geri giderim", "Yalnızca geri görüş kamerasına güvenirim"],
+      "why": "Geri gitmek kimseyi tehlikeye atmamalıdır (StVO § 9 f. 5). Kameralar ve sensörler yardımcı olur ama bakmanın yerini tutmaz; çocukları ya da alçak engelleri kaçırabilir."
+    },
+    "tu08": {
+      "prompt": "Sağa nasıl dönersiniz?",
+      "options": ["Olabildiğince sağda kalarak", "Kesişen yolun ortasından geniş bir yay çizerek", "Yol boşsa sinyal vermeden"],
+      "why": "Sağa dönenler olabildiğince sağda kalır (StVO § 9 f. 1) ve dar bir yay çizerek döner. Kimseyi görmeseniz bile her zaman sinyal verirsiniz."
+    },
+    "tu09": {
+      "prompt": "Dönmek istiyorsunuz. Yanınızdaki tramvay aynı yönde düz gidiyor. Önce kim geçer?",
+      "options": ["Tramvay", "Ben, çünkü önce sinyal verdim", "Daha hızlı olan"],
+      "why": "Dönen araçlar, yanlarında aynı yönde gitseler bile raylı araçları önce geçirmelidir (StVO § 9 f. 3)."
+    },
+    "tu10": {
+      "prompt": "Ne zaman sinyal verirsiniz?",
+      "options": ["Dönmeden zamanında önce", "Her şerit değiştirmeden önce", "Ancak dönmeye başladığımda"],
+      "why": "Sinyal, yapmak üzere olduğunuz şeyi bildirir - önceden, sırasında değil. Dönerken, şerit değiştirirken ve kaldırım kenarından hareket ederken."
+    },
+    "pa01": {
+      "prompt": "Ne zaman (durmak değil) park etmiş olursunuz?",
+      "options": ["Aracı terk ettiğimde", "Üç dakikadan uzun durduğumda", "Bir kuyrukta sıkıştığımda"],
+      "why": "Aracı terk etmek ya da üç dakikadan uzun durmak park etmektir (StVO § 12 f. 2). Trafik nedeniyle durmak - kuyrukta, kırmızı ışıkta - ikisine de girmez."
+    },
+    "pa02": {
+      "prompt": "Durmak nerede yasaktır?",
+      "options": ["Dar yerlerde ve görüşün kötü olduğu yerlerde", "Hemzemin geçitlerde", "Bir fırının önünde"],
+      "why": "Durmak diğerlerinin yanı sıra dar yerlerde ve görüşün kötü olduğu yerlerde, keskin virajlarda, bağlantı yollarında, hemzemin geçitlerde ve itfaiye giriş noktalarının önünde yasaktır (StVO § 12 f. 1)."
+    },
+    "pa03": {
+      "prompt": "Bir yaya geçidinden kaç metre önce duramazsınız?",
+      "why": "Yaya geçitlerinde ve 5 m öncesinde durmak yasaktır. Duran bir otomobil yayaları, özellikle çocukları gizler."
+    },
+    "pa04": {
+      "prompt": "Bir kavşaktan kaç metre önce ve sonra park edemezsiniz (ayrı bisiklet yolu yokken)?",
+      "why": "Kavşaklardan 5 m önce ve sonra park etmek yasaktır; mesafe kaldırım çizgilerinin birleştiği yerden ölçülür. Sağda ayrı bir bisiklet yolu varsa kavşaktan önce 8 m’dir (StVO § 12 f. 3)."
+    },
+    "pa05": {
+      "prompt": "Park etmek nerede yasaktır?",
+      "options": ["Garaj yolu giriş ve çıkışlarının önünde", "Alçaltılmış kaldırımların önünde", "İşaretli bir park yerinde"],
+      "why": "Garaj yollarının önünde (dar yollarda karşısında da) ve tekerlekli sandalyeler ile bebek arabalarının ihtiyaç duyduğu alçaltılmış kaldırımların önünde park etmek yasaktır (StVO § 12 f. 3)."
+    },
+    "pa06": {
+      "prompt": "Saat 9:10’da varıyor ve park diskini ayarlıyorsunuz. Hangi saati ayarlarsınız?",
+      "options": ["9:30", "9:10", "9:00"],
+      "why": "Disk, varışınızdan sonraki ilk yarım saate ayarlanır: 9:10’da 9:30’a.",
+      "tip": "Her zaman bir sonraki yarım saate yuvarlayın."
+    },
+    "pa07": {
+      "prompt": "Normalde yolun hangi tarafına park edebilirsiniz?",
+      "options": ["Sağ tarafa", "Tek yönlü yollarda sol tarafa", "Yer olan her yerde sol tarafa"],
+      "why": "Sağda, sağ kenarda ya da yol kenarındaki banket üzerinde durur ve park edersiniz. Solda yalnızca tek yönlü yollarda ya da sağda raylar varsa (StVO § 12 f. 4)."
+    },
+    "pa08": {
+      "prompt": "Sürücü kapısını açmak istiyorsunuz. Bisikletlileri en iyi nasıl korursunuz?",
+      "options": ["Sağ elimle açarım, böylece dönüp arkamı görürüm", "Kapıyı hızla açarım", "Yalnızca dikiz aynasına bakarım"],
+      "why": "Binerken ya da inerken kimseyi tehlikeye atmamalısınız (StVO § 14 f. 1). Sürücü kapısını sağ elinizle açmak (\"Hollanda yöntemi\") vücudunuzu döndürür, böylece kör noktadaki bisikletlileri görürsünüz.",
+      "tip": "Uzaktaki el kapı kolunda."
+    },
+    "pa09": {
+      "prompt": "Park ettiğiniz otomobilden ayrılmadan önce ne yaparsınız?",
+      "options": ["Motoru kapatıp el frenini çekerim", "Kaymaya ve yetkisiz kullanıma karşı emniyete alırım", "Kısa sürede döneceksem motoru çalışır bırakırım"],
+      "why": "Aracınızdan ayrılırken onu kaza ya da engel yaratmayacak şekilde ve yetkisiz kullanıma karşı emniyete almalısınız (StVO § 14 f. 2). Motoru gözetimsiz çalışır bırakmak yasaktır."
+    },
+    "pa10": {
+      "prompt": "Gece yerleşim yeri dışında yol kenarına park ediyorsunuz. Ne yapmalısınız?",
+      "options": ["Aracı aydınlatmak, örneğin park lambalarıyla", "Hiçbir şey, reflektörler yeterli", "Arka sis lambasını açmak"],
+      "why": "Yerleşim yeri dışında duran ve park eden araçlar karanlıkta aydınlatılmalıdır. Şehirde trafik tarafındaki park lambası yeterlidir; sokak lambaları bütün gece yanıyorsa genellikle hiçbirine gerek yoktur (StVO § 17 f. 4)."
+    },
+    "pa11": {
+      "prompt": "İkinci sıraya park edebilir misiniz?",
+      "options": ["Hayır", "Evet, dörtlü flaşörler açıkken", "Evet, on dakikaya kadar"],
+      "why": "İkinci sıraya park etmek yasaktır ve dörtlü flaşörler bunu yasal hale getirmez. Yolu kapatır ve başkalarını karşıdan gelen trafiğe çıkmaya zorlar."
+    },
+    "pa12": {
+      "prompt": "Nereye park edemezsiniz?",
+      "options": ["Bir levha ya da yol çizgisi izin vermedikçe kaldırıma", "Bir itfaiye giriş noktasının önüne", "İşaretli bir park cebine"],
+      "why": "Kaldırımlar yayalar içindir. Kaldırıma park etmek yalnızca 315 numaralı levha ya da bir yol çizgisi izin veriyorsa serbesttir. İtfaiye giriş noktalarının önünde durmak bile yasaktır."
+    },
+    "pe01": {
+      "prompt": "Bir yaya, yaya geçidinde bekliyor. Ne yaparsınız?",
+      "options": ["Durur ve geçmesine izin veririm", "Devam ederim - henüz geçmeye başlamadı", "Geldiğimi bilsin diye korna çalarım"],
+      "why": "Yaya geçitlerinde, açıkça geçmek isteyen yayaların ve tekerlekli sandalye kullanıcılarının geçmesine izin vermelisiniz. Ölçülü hızla yaklaşın ve gerekirse bekleyin (StVO § 26 f. 1).",
+      "tip": "Yaya geçidinde beklemek, ona zaten öncelik verir."
+    },
+    "pe02": {
+      "prompt": "Yol kenarında çocuklar var. Nasıl davranırsınız?",
+      "options": ["Yavaşlar ve fren yapmaya hazır olurum", "Bir çocuğun aniden yola fırlayacağını hesaba katarım", "Korna çalar ve hızımı korurum"],
+      "why": "Çocukların, yaşlıların ve yardıma ihtiyacı olanların yakınında, onlara zarar gelmemesi için yavaşlamalı ve fren yapmaya hazır olmalısınız (StVO § 3 f. 2a). Çocuklar hızı ve mesafeyi henüz değerlendiremez."
+    },
+    "pe03": {
+      "prompt": "Park etmiş araçların arasından yola bir top yuvarlanıyor. Ne beklersiniz?",
+      "options": ["Arkasından bir çocuğun koşarak çıkmasını", "Özel bir şey değil", "Topun araca zarar verebileceğini"],
+      "why": "Topun peşindeki çocuk yalnızca topu görür. Hemen fren yapın ve araçların arasından fırlayacağını hesaba katın.",
+      "tip": "Top = çocuk."
+    },
+    "pe04": {
+      "prompt": "Beyaz bastonlu bir yaya karşıya geçmek istiyor. Bu ne anlama gelir?",
+      "options": ["Görme engelli ya da ağır derecede az görüyor", "Özellikle dikkatli olmalı ve gerekirse durmalıyım", "Beni görebilir ve bekleyecektir"],
+      "why": "Beyaz baston, beyaz koşum takımlı rehber köpek ya da üç siyah noktalı sarı kol bandı görme engelli birini gösterir. Sizi göremez, bu yüzden gerekirse durun."
+    },
+    "pe05": {
+      "prompt": "Işığınız yeşile dönerken yaşlı bir yaya yavaşça karşıya geçiyor. Ne yaparsınız?",
+      "options": ["Yoldan çıkana kadar beklerim", "Yanından yavaşça geçerim", "Acele etsin diye korna çalarım"],
+      "why": "Yeşil ışık size kimseyi tehlikeye atma hakkı vermez. Yaşlı insanlar çoğu zaman daha uzun süreye ihtiyaç duyar ve korkabilir. Geçişini rahatça bitirmesine izin verin."
+    },
+    "pe06": {
+      "prompt": "Çocuklar kaç yaşına kadar bisikletle kaldırımda gitmek zorundadır?",
+      "why": "Çocuklar 8. yaş günlerine kadar kaldırımda gitmek zorundadır, 10. yaş günlerine kadar gidebilir (StVO § 2 f. 5). Garaj yollarında ve kavşaklarda çocukların kaldırımdan yola çıkacağını hesaba katın."
+    },
+    "pe07": {
+      "prompt": "Öndeki bir bisikletli park etmiş bir otomobile yaklaşıyor. Ne beklersiniz?",
+      "options": ["Belki sinyal vermeden sola kaçacağını", "Durup bekleyeceğini", "Kaldırıma çıkacağını"],
+      "why": "Bisikletliler engellerin etrafından dolaşmak zorundadır ve her zaman önce arkaya bakmazlar. Mesafenizi koruyun ve ancak ne yapacakları belli olduğunda sollayın."
+    },
+    "pe08": {
+      "prompt": "Bisikletliler yan yana gidebilir mi?",
+      "options": ["Evet, trafiği engellemedikleri sürece", "Hayır, asla", "Yalnızca 16 kişi ya da daha fazla gruplar halinde"],
+      "why": "Bisikletliler trafiği engellemiyorlarsa ikişer yan yana gidebilir (StVO § 2 f. 4). Bisiklet yolunda ve 16 kişi ya da daha fazla bir grupta, başkalarını yavaşlatsa bile bunu yapabilirler."
+    },
+    "pe09": {
+      "prompt": "Gece koyu renk giysili yayalar zor görülür. Ne doğrudur?",
+      "options": ["Kısa farla onları çoğu zaman çok geç görürüm", "Hızımı farlarımın aydınlattığı mesafeye göre ayarlarım", "Gündüz farları gece yeterlidir"],
+      "why": "Kısa farla koyu renk giysili bir yayayı çoğu zaman ancak 25-30 m’den görürsünüz - bu, 50 km/sa’teki durma mesafenizden azdır. Gündüz farları yolu aydınlatmaz ve arkayı ışıksız bırakır."
+    },
+    "pe10": {
+      "prompt": "Elektrikli scooterlar nerede ve nasıl kullanılabilir?",
+      "options": ["Bisiklet yollarında, yoksa taşıt yolunda", "Yalnızca tek kişiyle", "Kaldırımda"],
+      "why": "Elektrikli scooterlar bisiklet yollarını, yoksa taşıt yolunu kullanmak zorundadır; kaldırımlar yasaktır. Yalnızca 14 yaş ve üstü tek bir kişi tarafından kullanılabilir (eKFV). Dönerken onlara bisikletli gibi davranın."
+    },
+    "pe11": {
+      "prompt": "Bir okul servisi yol kenarında durmuş ve çocuklar iniyor. Ne yaparsınız?",
+      "options": ["Yavaşça, bol mesafeyle ve fren yapmaya hazır geçerim", "Çocukların otobüsün önünden ya da arkasından koşarak geçeceğini hesaba katarım", "Çocuklar güvenle insin diye hızla geçerim"],
+      "why": "Çocuklar çoğu zaman otobüsün hemen önünden ya da arkasından koşarak geçer. Dörtlü flaşörleri yanıyorsa yürüme hızına bile inmelisiniz (StVO § 20 f. 4)."
+    },
+    "pe12": {
+      "prompt": "Bir yaya, geçit olmayan bir yerden karşıya geçiyor. Ne yaparsınız?",
+      "options": ["Aslında beklemesi gerekse bile fren yapıp geçmesine izin veririm", "Devam ederim - önceliği yok", "Hemen arkasından yakından geçerim"],
+      "why": "Yayalar araçlara dikkat etmelidir (StVO § 25), ama StVO § 1 sürekli dikkat ister: kimse tehlikeye atılamaz. Başkasının hatası size asla ona çarpma hakkı vermez."
+    },
+    "ra01": {
+      "prompt": "Bu hemzemin geçitte ne zaman beklemelisiniz?",
+      "options": ["Bir tren yaklaşırken", "Kırmızı ışıklar yanıp sönerken ya da bariyerler inerken", "Yalnızca bariyerler tamamen indiğinde"],
+      "why": "Hemzemin geçitlerde trenlerin önceliği vardır (StVO § 19 f. 1). Tren geliyorsa, kırmızı ya da yanıp sönen ışık yanıyorsa, bariyerler iniyorsa ya da inmişse veya bir demiryolu görevlisi dur işareti veriyorsa beklemelisiniz (StVO § 19 f. 2).",
+      "tip": "İnmekte olan bariyer zaten kapalıdır."
+    },
+    "ra02": {
+      "prompt": "Trafik hemzemin geçidin hemen ilerisinde sıkışmış. Ne yaparsınız?",
+      "options": ["Hemzemin geçitten önce beklerim", "Rayların üzerine çıkıp orada beklerim", "Diğerleri ilerlesin diye korna çalarım"],
+      "why": "Hemzemin geçide ancak durmadan tamamen geçebilecekseniz girin (StVO § 19 f. 1). Kuyrukta rayların üzerinde sıkışırsanız kaçamazsınız."
+    },
+    "ra03": {
+      "prompt": "Otomobiliniz hemzemin geçidin üzerinde arızalanıyor. Ne yaparsınız?",
+      "options": ["Herkesi hemen dışarı çıkarıp tehlike bölgesinden uzaklaştırırım", "Acil numarayı ya da geçitte gösterilen numarayı ararım", "Arabada kalıp tekrar çalıştırmaya çalışırım"],
+      "why": "Tren kaçamaz ve durmak için çoğu zaman bir kilometreden fazla yola ihtiyaç duyar. Önce insanlar: dışarı, raylardan uzağa, sonra acil numara üzerinden demiryolunu uyarın."
+    },
+    "ra04": {
+      "prompt": "Bir otobüs dörtlü flaşörleri açık olarak durağa yaklaşıyor. Ne geçerlidir?",
+      "options": ["Onu sollayamam", "Durmadan önce hızla sollayabilirim", "Hemen durmalıyım"],
+      "why": "Dörtlü flaşörleri açık olarak durağa yaklaşan otobüsler ve işaretli okul servisleri sollanamaz (StVO § 20 f. 3)."
+    },
+    "ra05": {
+      "prompt": "Bir otobüs dörtlü flaşörleri açık olarak durakta duruyor. Yanından nasıl geçebilirsiniz?",
+      "options": ["Yalnızca yürüme hızında", "Yolcuları tehlikeye atmadan - gerekirse bekleyerek", "30 km/sa ile"],
+      "why": "Dörtlü flaşörleri açık olarak durakta duran otobüslerin ve okul servislerinin yanından yalnızca yürüme hızında ve yolcuları tehlikeye atmayacak mesafeyle geçebilirsiniz. Bu, aynı taşıt yolunda karşıdan gelen trafik için de geçerlidir (StVO § 20 f. 4).",
+      "tip": "Durakta flaşörü yanan otobüs = yürüme hızı, karşıdan gelirken bile."
+    },
+    "ra06": {
+      "prompt": "Bir otobüs durağından ayrılmak için sola sinyal veriyor. Ne yaparsınız?",
+      "options": ["Çıkmasına izin veririm, gerekirse beklerim", "Hızla yanından geçerim", "Korna çalarım"],
+      "why": "Otobüslerin ve okul servislerinin işaretli duraklardan ayrılmasına izin verilmelidir; diğer araçlar gerekirse beklemek zorundadır (StVO § 20 f. 5)."
+    },
+    "ra07": {
+      "prompt": "Bir tramvay adası olmayan bir durakta durmuş ve yolcular iniyor. Ne yaparsınız?",
+      "options": ["Yolcuları engellemeden yürüme hızında sağdan geçerim", "Gerekirse beklerim", "Soldan hızla geçerim"],
+      "why": "Yolcular inip binerken yalnızca yürüme hızında ve bol mesafeyle sağdan geçebilirsiniz; yolcular engellenmemeli, gerekirse beklersiniz (StVO § 20 f. 2)."
+    },
+    "ra08": {
+      "prompt": "Andreas haçı ile işaretlenmiş bir hemzemin geçide yaklaşıyorsunuz. Nasıl yaklaşırsınız?",
+      "options": ["Ölçülü bir hızla", "Hızla geçmek için olabildiğince hızlı", "Öndeki kamyonu hızla sollarım"],
+      "why": "Hemzemin geçitlere, tren gelirse durabilmek için ölçülü hızla yaklaşırsınız (StVO § 19 f. 1). 151 ya da 156 numaralı levhadan itibaren motorlu araçlar sollanamaz."
+    },
+    "mw01": {
+      "prompt": "Otoyola giriyorsunuz. Ne doğrudur?",
+      "options": ["Hızlanma şeridini otoyol hızına uyum sağlamak için kullanırım", "Otoyoldaki trafiğin önceliği vardır", "Otoyoldaki sürücüler beni içeri almak zorundadır"],
+      "why": "Ana taşıt yolundaki trafiğin önceliği vardır (StVO § 18 f. 3). Hızlanma şeridini uygun bir boşluğa uygun hızla ulaşmak için kullanın; çok yavaş katılmak tehlikelidir."
+    },
+    "mw02": {
+      "prompt": "Otoyolda kuyruk oluşuyor. Acil durum koridorunu nerede oluşturursunuz?",
+      "options": ["En sol şerit ile yanındaki şerit arasında", "Emniyet şeridinde", "Tüm şeritlere eşit dağıtarak"],
+      "why": "Otoyollarda ve yerleşim yeri dışındaki çok şeritli yollarda trafik yürüme hızına düşer düşmez, koridoru en sol şerit ile hemen sağındaki şerit arasında oluşturun (StVO § 11 f. 2) - acil durum araçları gelmeden önce.",
+      "tip": "En sol şerit sola, diğer herkes sağa."
+    },
+    "mw03": {
+      "prompt": "Otoyolda ne yasaktır?",
+      "options": ["Geri dönmek ve geri geri gitmek", "Emniyet şeridinde bile durmak (acil durum dışında)", "Sollamak için sol şeridi kullanmak"],
+      "why": "Otoyollarda, bağlantı yolları dahil, geri dönmek ve geri geri gitmek yasaktır. Emniyet şeridi dahil durmak da yasaktır (StVO § 18 f. 7 ve 8). Çıkışı mı kaçırdınız? Bir sonrakini kullanın."
+    },
+    "mw04": {
+      "prompt": "Otoyolda arızalanıyorsunuz. Ne yaparsınız?",
+      "options": ["Dörtlü flaşörleri açar ve mümkünse emniyet şeridine geçerim", "Reflektörlü yelek giyer ve herkesi bariyerin arkasına alırım", "Üçgen reflektörü yaklaşık 200 m geriye koyarım"],
+      "why": "Önce kendinizi güvene alın: dörtlüler açık, sağa çekin, yeleği giyin, herkes yolcu tarafından inip bariyerin arkasına. Sonra üçgen reflektör: otoyolda yaklaşık 200 m, kırsal yollarda 100 m, şehirde 50 m geriye (StVO § 15).",
+      "tip": "50 - 100 - 200 m: şehir, kırsal, otoyol."
+    },
+    "mw05": {
+      "prompt": "Otoyolda bir kuyruğun sonuna yaklaşıyorsunuz. Ne yaparsınız?",
+      "options": ["Zamanında fren yapar ve dörtlü flaşörleri açarım", "Son araçla yeterli mesafe bırakırım", "Emniyet şeridine kaçarım"],
+      "why": "Kuyruğun sonunda arkadan gelen trafiği dörtlü flaşörlerle uyarın (StVO § 16 f. 2). Arkadaki biri geç fren yaparsa kenara kaçabilmek için mesafe bırakın."
+    },
+    "mw06": {
+      "prompt": "Radyo, otoyolda bulunduğunuz kesimde ters yönde giden bir sürücü olduğunu bildiriyor. Ne yaparsınız?",
+      "options": ["Sağda kalır ve sollamam", "Yavaşlar ve mesafeyi artırırım", "Sol şeritte kalırım"],
+      "why": "Ters yönde giden sürücü, onu sağ şerit sandığı için genellikle sol şeritte üzerinize gelir. Sağda kalın, sollamayın, yavaşlayın ve yaklaşırsa dörtlüleri açın."
+    },
+    "mw07": {
+      "prompt": "Üç çizgili geri sayım işareti çıkıştan kaç metre öncedir?",
+      "why": "Geri sayım işaretleri (450 numaralı levha) çıkış şeridinin başlangıcından yaklaşık 300, 200 ve 100 m önce durur. Erkenden sağ şeride geçin.",
+      "tip": "Otoyol: çizgi başına 100 m. Hemzemin geçit: 80 m."
+    },
+    "mw08": {
+      "prompt": "Yol kenarındaki direkler normalde kaç metre arayla durur?",
+      "why": "Yol kenarı direkleri genellikle 50 m arayla durur. Mesafeleri ve görüşü tahmin etmek için kullanın: siste bir sonrakini göremiyorsanız görüş 50 m’nin altındadır ve 50 km/sa’ten hızlı gidemezsiniz."
+    },
+    "mw09": {
+      "prompt": "Otoyolun emniyet şeridinde kim gidebilir?",
+      "options": ["Hiç kimse - levhalar trafiğe açmadıkça", "Yavaş araçlar", "Kuyrukta sıkışan herkes"],
+      "why": "Emniyet şeridi bir şerit değildir. Yalnızca levhaların açıkça trafiğe açtığı yerlerde üzerinde gidebilirsiniz; aksi halde arızalar ve acil durum ekipleri içindir."
+    },
+    "mw10": {
+      "prompt": "Ekspres yolda (Kraftfahrstraße) ne geçerlidir?",
+      "options": ["Yalnızca 60 km/sa’ten hızlı gitmek üzere yapılmış motorlu araçlar kullanabilir", "Kavşaklarda ekspres yoldaki trafiğin önceliği vardır", "Yayalar kenarda yürüyebilir"],
+      "why": "Ekspres yollar (331.1 numaralı levha) büyük ölçüde otoyol kurallarına uyar: yalnızca hızlı motorlu araçlar, durmak yasak, geri dönmek yasak ve kavşaklarda üzerlerindeki trafiğin önceliği vardır."
+    }
+  }
+}

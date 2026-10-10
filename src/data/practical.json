@@ -5,52 +5,63 @@
   "diagram": null,
   "title": {
    "de": "So läuft die Prüfung ab",
-   "en": "How the test works"
+   "en": "How the test works",
+   "tr": "Sınav nasıl işler"
   },
   "body": [
    {
     "de": "Die Prüfung dauert insgesamt 55 Minuten, davon mindestens 30 Minuten reine Fahrzeit. Sie fahren das Fahrschulauto, Ihr Fahrlehrer sitzt neben Ihnen, der Prüfer (TÜV oder DEKRA) sitzt hinten.",
-    "en": "The test lasts 55 minutes in total, at least 30 of them actual driving. You drive the driving school car with your instructor beside you; the examiner (from TÜV or DEKRA) sits in the back."
+    "en": "The test lasts 55 minutes in total, at least 30 of them actual driving. You drive the driving school car with your instructor beside you; the examiner (from TÜV or DEKRA) sits in the back.",
+    "tr": "Sınav toplam 55 dakika sürer, bunun en az 30 dakikası gerçek sürüştür. Yanınızda eğitmeninizle sürücü kursunun aracını kullanırsınız; sınav görevlisi (TÜV ya da DEKRA’dan) arkada oturur."
    },
    {
     "de": "Zuerst prüft der Prüfer Ihren Ausweis. Dann folgen die Fahrtvorbereitung und Abfahrtkontrolle, die Fahrt durch Stadt, über Land und meist auf Autobahn oder Kraftfahrstraße, und die Grundfahraufgaben.",
-    "en": "First the examiner checks your ID. Then come the preparation and vehicle checks, the drive through town, on country roads and usually on a motorway or expressway, and the set manoeuvres."
+    "en": "First the examiner checks your ID. Then come the preparation and vehicle checks, the drive through town, on country roads and usually on a motorway or expressway, and the set manoeuvres.",
+    "tr": "Önce sınav görevlisi kimliğinizi kontrol eder. Ardından hazırlık ve araç kontrolleri, şehir içinde, kırsal yollarda ve genellikle otoyol ya da ekspres yolda sürüş ve belirlenmiş manevralar gelir."
    },
    {
     "de": "Am Ende bekommen Sie sofort das Ergebnis und eine Rückmeldung zu jedem der fünf Kompetenzbereiche. Haben Sie bestanden, erhalten Sie Ihren Führerschein oder eine vorläufige Bescheinigung direkt nach der Prüfung.",
-    "en": "At the end you get the result straight away, with feedback on each of the five competence areas. If you pass, you receive your licence - or a provisional certificate - right after the test."
+    "en": "At the end you get the result straight away, with feedback on each of the five competence areas. If you pass, you receive your licence - or a provisional certificate - right after the test.",
+    "tr": "Sonunda sonucu hemen, beş yetkinlik alanının her biri için geri bildirimle birlikte alırsınız. Geçerseniz ehliyetinizi - ya da geçici bir belgeyi - sınavdan hemen sonra alırsınız."
    },
    {
     "de": "Die praktische Prüfung muss innerhalb von 12 Monaten nach der bestandenen Theorieprüfung abgelegt werden. Nicht bestanden? Eine Wiederholung ist in der Regel frühestens nach zwei Wochen möglich.",
-    "en": "The practical test must be taken within 12 months of passing the theory test. Failed? You can usually retake it after two weeks at the earliest."
+    "en": "The practical test must be taken within 12 months of passing the theory test. Failed? You can usually retake it after two weeks at the earliest.",
+    "tr": "Direksiyon sınavına teorik sınavı geçtikten sonra 12 ay içinde girilmelidir. Kaldınız mı? Genellikle en erken iki hafta sonra tekrar girebilirsiniz."
    }
   ],
   "checklist": [
    {
     "de": "Personalausweis oder Reisepass dabei",
-    "en": "ID card or passport with me"
+    "en": "ID card or passport with me",
+    "tr": "Kimlik kartı ya da pasaport yanımda"
    },
    {
     "de": "Brille oder Kontaktlinsen, falls im Führerschein vorgeschrieben",
-    "en": "Glasses or contacts, if my licence requires them"
+    "en": "Glasses or contacts, if my licence requires them",
+    "tr": "Ehliyetim gerektiriyorsa gözlük ya da lens"
    },
    {
     "de": "Bequeme, flache Schuhe",
-    "en": "Comfortable, flat shoes"
+    "en": "Comfortable, flat shoes",
+    "tr": "Rahat, düz ayakkabılar"
    },
    {
     "de": "Ausgeschlafen und 0,0 Promille",
-    "en": "Well rested and 0.0 alcohol"
+    "en": "Well rested and 0.0 alcohol",
+    "tr": "İyi dinlenmiş ve 0,0 alkol"
    },
    {
     "de": "15 Minuten vor dem Termin bei der Fahrschule",
-    "en": "At the driving school 15 minutes early"
+    "en": "At the driving school 15 minutes early",
+    "tr": "Sürücü kursunda 15 dakika erken"
    }
   ],
   "pitfalls": [
    {
     "de": "Ohne gültiges Ausweisdokument findet die Prüfung nicht statt – und die Gebühr ist meist trotzdem weg.",
-    "en": "Without valid ID the test does not go ahead - and the fee is usually lost anyway."
+    "en": "Without valid ID the test does not go ahead - and the fee is usually lost anyway.",
+    "tr": "Geçerli kimlik olmadan sınav yapılmaz - ve ücret genellikle yine de yanar."
    }
   ],
   "phrases": []
@@ -61,48 +72,58 @@
   "diagram": null,
   "title": {
    "de": "Fahrtvorbereitung und Abfahrtkontrolle",
-   "en": "Preparation and vehicle checks"
+   "en": "Preparation and vehicle checks",
+   "tr": "Hazırlık ve araç kontrolleri"
   },
   "body": [
    {
     "de": "Vor der Fahrt stellen Sie Sitz, Lenkrad, Spiegel und Kopfstütze ein und legen den Gurt an. Der Prüfer bittet Sie meist, einige Punkte am Fahrzeug zu zeigen oder zu erklären.",
-    "en": "Before driving off you adjust the seat, steering wheel, mirrors and head restraint and fasten your belt. The examiner will usually ask you to show or explain a few things on the car."
+    "en": "Before driving off you adjust the seat, steering wheel, mirrors and head restraint and fasten your belt. The examiner will usually ask you to show or explain a few things on the car.",
+    "tr": "Yola çıkmadan önce koltuğu, direksiyonu, aynaları ve koltuk başlığını ayarlar ve kemerinizi takarsınız. Sınav görevlisi genellikle araçta birkaç şeyi göstermenizi ya da açıklamanızı ister."
    },
    {
     "de": "Typisch sind: Beleuchtung einschalten und prüfen, Reifen (Profil, Beschädigungen, wo steht der Luftdruck), Flüssigkeitsstände (Motoröl, Kühlmittel, Scheibenwaschwasser, Bremsflüssigkeit), Hupe, Warnleuchten im Display.",
-    "en": "Typical items: switch on and check the lights; the tyres (tread, damage, where the pressures are listed); fluid levels (engine oil, coolant, screen wash, brake fluid); the horn; the warning lamps on the dashboard."
+    "en": "Typical items: switch on and check the lights; the tyres (tread, damage, where the pressures are listed); fluid levels (engine oil, coolant, screen wash, brake fluid); the horn; the warning lamps on the dashboard.",
+    "tr": "Tipik konular: farları açıp kontrol etmek; lastikler (diş derinliği, hasar, basınç değerlerinin nerede yazdığı); sıvı seviyeleri (motor yağı, soğutma suyu, cam suyu, fren hidroliği); korna; gösterge panelindeki uyarı lambaları."
    }
   ],
   "checklist": [
    {
     "de": "Sitz so, dass das Kupplungs- bzw. Bremspedal ganz durchgetreten werden kann",
-    "en": "Seat set so the clutch or brake pedal goes fully down"
+    "en": "Seat set so the clutch or brake pedal goes fully down",
+    "tr": "Koltuk, debriyaj ya da fren pedalı tamamen basılabilecek şekilde ayarlı"
    },
    {
     "de": "Innen- und Außenspiegel eingestellt",
-    "en": "Interior and door mirrors adjusted"
+    "en": "Interior and door mirrors adjusted",
+    "tr": "İç ve dış aynalar ayarlı"
    },
    {
     "de": "Kopfstütze: Oberkante etwa auf Scheitelhöhe",
-    "en": "Head restraint: top edge at about the top of my head"
+    "en": "Head restraint: top edge at about the top of my head",
+    "tr": "Koltuk başlığı: üst kenarı yaklaşık başımın tepesi hizasında"
    },
    {
     "de": "Abblendlicht, Fernlicht, Blinker, Warnblinker, Nebelschlussleuchte zeigen können",
-    "en": "Can show dipped and main beam, indicators, hazards, rear fog light"
+    "en": "Can show dipped and main beam, indicators, hazards, rear fog light",
+    "tr": "Kısa ve uzun far, sinyaller, dörtlüler, arka sis lambasını gösterebiliyorum"
    },
    {
     "de": "Ölmessstab finden und Ölstand ablesen können",
-    "en": "Can find the dipstick and read the oil level"
+    "en": "Can find the dipstick and read the oil level",
+    "tr": "Yağ çubuğunu bulup yağ seviyesini okuyabiliyorum"
    },
    {
     "de": "Wissen, wo der vorgeschriebene Reifendruck steht",
-    "en": "Know where the correct tyre pressures are listed"
+    "en": "Know where the correct tyre pressures are listed",
+    "tr": "Doğru lastik basınçlarının nerede yazdığını biliyorum"
    }
   ],
   "pitfalls": [
    {
     "de": "Losfahren, ohne die Spiegel einzustellen oder sich anzuschnallen.",
-    "en": "Setting off without adjusting the mirrors or fastening the belt."
+    "en": "Setting off without adjusting the mirrors or fastening the belt.",
+    "tr": "Aynaları ayarlamadan ya da kemeri takmadan yola çıkmak."
    }
   ],
   "phrases": []
@@ -113,48 +134,58 @@
   "diagram": "parallel",
   "title": {
    "de": "Rückwärts einparken (längs)",
-   "en": "Reverse parallel parking"
+   "en": "Reverse parallel parking",
+   "tr": "Geri geri paralel park"
   },
   "body": [
    {
     "de": "Sie parken rückwärts in eine Lücke am rechten Fahrbahnrand zwischen zwei Fahrzeugen. Die Lücke sollte mindestens etwa anderthalb Autolängen lang sein.",
-    "en": "You reverse into a space at the right-hand kerb between two vehicles. The space should be at least about one and a half car lengths."
+    "en": "You reverse into a space at the right-hand kerb between two vehicles. The space should be at least about one and a half car lengths.",
+    "tr": "Sağ kaldırım kenarında iki araç arasındaki bir boşluğa geri geri girersiniz. Boşluk en az yaklaşık bir buçuk araç boyu olmalıdır."
    },
    {
     "de": "Halten Sie etwa 50 cm seitlich neben dem vorderen Auto, Heck auf Höhe von dessen Heck. Langsam zurück, bis Ihre Hinterachse auf Höhe von dessen Heck ist, dann voll rechts einschlagen. Wenn das Auto etwa 45° steht, geradeaus zurück, dann voll links einschlagen, bis Sie parallel stehen.",
-    "en": "Stop about 50 cm beside the car in front, your rear level with its rear. Reverse slowly until your rear axle is level with its back bumper, then steer full right. At about 45°, straighten up and reverse, then steer full left until you are parallel."
+    "en": "Stop about 50 cm beside the car in front, your rear level with its rear. Reverse slowly until your rear axle is level with its back bumper, then steer full right. At about 45°, straighten up and reverse, then steer full left until you are parallel.",
+    "tr": "Öndeki aracın yaklaşık 50 cm yanında, arkanız onun arkasıyla aynı hizada durun. Arka aksınız onun arka tamponuyla aynı hizaya gelene kadar yavaşça geri gidin, sonra direksiyonu tamamen sağa kırın. Yaklaşık 45°’de düzeltin ve geri gidin, sonra paralel olana kadar direksiyonu tamamen sola kırın."
    }
   ],
   "checklist": [
    {
     "de": "Rechts blinken, bevor ich anhalte",
-    "en": "Signal right before stopping"
+    "en": "Signal right before stopping",
+    "tr": "Durmadan önce sağa sinyal vermek"
    },
    {
     "de": "Rundumblick, bevor ich zurücksetze",
-    "en": "All-round check before reversing"
+    "en": "All-round check before reversing",
+    "tr": "Geri gitmeden önce her yöne bakmak"
    },
    {
     "de": "Ständig nach hinten und zur Seite schauen, nicht nur in den Spiegel",
-    "en": "Keep looking behind and to the side, not only in the mirror"
+    "en": "Keep looking behind and to the side, not only in the mirror",
+    "tr": "Yalnızca aynaya değil, arkaya ve yana bakmaya devam etmek"
    },
    {
     "de": "Am Ende höchstens etwa 30 cm vom Bordstein, Räder gerade",
-    "en": "Finish no more than about 30 cm from the kerb, wheels straight"
+    "en": "Finish no more than about 30 cm from the kerb, wheels straight",
+    "tr": "Kaldırıma en fazla yaklaşık 30 cm uzaklıkta, tekerlekler düz bitirmek"
    }
   ],
   "pitfalls": [
    {
     "de": "Mit dem Hinterrad auf den Bordstein fahren.",
-    "en": "Mounting the kerb with the rear wheel."
+    "en": "Mounting the kerb with the rear wheel.",
+    "tr": "Arka tekerlekle kaldırıma çıkmak."
    },
    {
     "de": "Den Verkehr nicht beobachten, während die Front ausschwenkt.",
-    "en": "Not watching traffic while the front swings out."
+    "en": "Not watching traffic while the front swings out.",
+    "tr": "Ön taraf dışarı savrulurken trafiği izlememek."
    },
    {
     "de": "Zu viele Korrekturzüge.",
-    "en": "Too many corrections."
+    "en": "Too many corrections.",
+    "tr": "Çok fazla düzeltme."
    }
   ],
   "phrases": []
@@ -165,36 +196,43 @@
   "diagram": "bay",
   "title": {
    "de": "Einparken quer oder schräg",
-   "en": "Bay parking (straight or angled)"
+   "en": "Bay parking (straight or angled)",
+   "tr": "Cep parkı (dik ya da açılı)"
   },
   "body": [
    {
     "de": "Sie parken vorwärts oder rückwärts in eine Parkbucht quer oder schräg zur Fahrbahn, z. B. auf einem Parkplatz. Das Auto soll mittig und gerade stehen, ohne die Linien zu überfahren.",
-    "en": "You park forwards or backwards in a bay at right angles or diagonally to the road, for instance in a car park. The car should end up centred and straight, without crossing the lines."
+    "en": "You park forwards or backwards in a bay at right angles or diagonally to the road, for instance in a car park. The car should end up centred and straight, without crossing the lines.",
+    "tr": "Örneğin bir otoparkta, yola dik ya da çapraz bir park yerine ileri ya da geri park edersiniz. Araç, çizgileri geçmeden ortada ve düz durmalıdır."
    },
    {
     "de": "Rückwärts ist meist leichter, weil die Vorderräder lenken: Fahren Sie an der Lücke vorbei, schlagen Sie ein, wenn Ihr Heck etwa an der zweiten Linie vorbei ist, und richten Sie das Auto an den Linien aus.",
-    "en": "Reversing in is usually easier, because the front wheels do the steering: drive past the space, steer in once your rear is about past the far line, and line the car up with the markings."
+    "en": "Reversing in is usually easier, because the front wheels do the steering: drive past the space, steer in once your rear is about past the far line, and line the car up with the markings.",
+    "tr": "Geri geri girmek genellikle daha kolaydır, çünkü yönlendirmeyi ön tekerlekler yapar: park yerini geçin, arkanız yaklaşık uzak çizgiyi geçince direksiyonu kırın ve aracı çizgilere göre hizalayın."
    }
   ],
   "checklist": [
    {
     "de": "Blinken, bevor ich in die Lücke fahre",
-    "en": "Signal before turning into the space"
+    "en": "Signal before turning into the space",
+    "tr": "Park yerine dönmeden önce sinyal vermek"
    },
    {
     "de": "Auf Fußgänger auf dem Parkplatz achten",
-    "en": "Watch for pedestrians in the car park"
+    "en": "Watch for pedestrians in the car park",
+    "tr": "Otoparkta yayalara dikkat etmek"
    },
    {
     "de": "Mittig zwischen den Linien, Räder gerade",
-    "en": "Centred between the lines, wheels straight"
+    "en": "Centred between the lines, wheels straight",
+    "tr": "Çizgiler arasında ortada, tekerlekler düz"
    }
   ],
   "pitfalls": [
    {
     "de": "Ein Nachbarfahrzeug fast berühren, ohne zu stoppen.",
-    "en": "Almost touching a neighbouring car without stopping."
+    "en": "Almost touching a neighbouring car without stopping.",
+    "tr": "Durmadan komşu araca neredeyse değmek."
    }
   ],
   "phrases": []
@@ -205,36 +243,43 @@
   "diagram": "corner",
   "title": {
    "de": "Rückwärts um eine Ecke",
-   "en": "Reversing round a corner"
+   "en": "Reversing round a corner",
+   "tr": "Geri geri köşe dönme"
   },
   "body": [
    {
     "de": "Sie fahren rückwärts nach rechts in eine Einmündung, Kreuzung oder Einfahrt und folgen dabei dem Bordstein in gleichmäßigem Abstand.",
-    "en": "You reverse to the right into a side road, junction or entrance, following the kerb at an even distance."
+    "en": "You reverse to the right into a side road, junction or entrance, following the kerb at an even distance.",
+    "tr": "Bir yan yola, kavşağa ya da girişe geri geri sağa dönersiniz; kaldırım kenarını eşit mesafeyle izlersiniz."
    },
    {
     "de": "Fahren Sie an der Einmündung vorbei und halten Sie nahe am Bordstein. Langsam zurück; wenn der Bordstein im rechten Spiegel abknickt, rechts einlenken. Nach der Ecke geradeaus zurück, bis der Prüfer stoppt.",
-    "en": "Drive past the opening and stop close to the kerb. Reverse slowly; when you see the kerb curve away in the right mirror, start steering right. After the corner, straighten and reverse until the examiner stops you."
+    "en": "Drive past the opening and stop close to the kerb. Reverse slowly; when you see the kerb curve away in the right mirror, start steering right. After the corner, straighten and reverse until the examiner stops you.",
+    "tr": "Ağzı geçin ve kaldırıma yakın durun. Yavaşça geri gidin; sağ aynada kaldırımın kıvrıldığını görünce direksiyonu sağa çevirmeye başlayın. Köşeden sonra düzeltin ve sınav görevlisi sizi durdurana kadar geri gidin."
    }
   ],
   "checklist": [
    {
     "de": "Vor und während des Zurücksetzens rundum beobachten",
-    "en": "Look all round before and while reversing"
+    "en": "Look all round before and while reversing",
+    "tr": "Geri gitmeden önce ve giderken her yöne bakmak"
    },
    {
     "de": "Fußgänger an der Ecke durchlassen",
-    "en": "Let pedestrians at the corner go first"
+    "en": "Let pedestrians at the corner go first",
+    "tr": "Köşedeki yayaları önce geçirmek"
    },
    {
     "de": "Gleichmäßiger Abstand zum Bordstein",
-    "en": "Even distance from the kerb"
+    "en": "Even distance from the kerb",
+    "tr": "Kaldırımdan eşit mesafe"
    }
   ],
   "pitfalls": [
    {
     "de": "Die Front schwenkt in den Gegenverkehr aus, ohne dass ich es bemerke.",
-    "en": "The front swings out into oncoming traffic without my noticing."
+    "en": "The front swings out into oncoming traffic without my noticing.",
+    "tr": "Ön tarafın fark etmeden karşıdan gelen trafiğe savrulması."
    }
   ],
   "phrases": []
@@ -245,32 +290,38 @@
   "diagram": "turnround",
   "title": {
    "de": "Umkehren",
-   "en": "Turning round"
+   "en": "Turning round",
+   "tr": "Geri dönme"
   },
   "body": [
    {
     "de": "Sie wenden das Auto auf einer Straße in die Gegenrichtung, durch Vorwärts- und Rückwärtsfahren. Der Bordstein darf dabei nicht berührt werden.",
-    "en": "You turn the car to face the other way on a road, using forward and reverse. You must not touch the kerbs."
+    "en": "You turn the car to face the other way on a road, using forward and reverse. You must not touch the kerbs.",
+    "tr": "Aracı ileri ve geri hareketlerle bir yolda ters yöne çevirirsiniz. Kaldırımlara değmemelisiniz."
    }
   ],
   "checklist": [
    {
     "de": "Nur, wo es erlaubt und übersichtlich ist",
-    "en": "Only where it is allowed and you can see well"
+    "en": "Only where it is allowed and you can see well",
+    "tr": "Yalnızca izin verilen ve iyi görebildiğiniz yerde"
    },
    {
     "de": "Vor jedem Zug in beide Richtungen schauen",
-    "en": "Look both ways before each move"
+    "en": "Look both ways before each move",
+    "tr": "Her hareketten önce iki yöne bakmak"
    },
    {
     "de": "Langsam fahren, schnell lenken",
-    "en": "Move slowly, steer quickly"
+    "en": "Move slowly, steer quickly",
+    "tr": "Yavaş hareket etmek, hızlı direksiyon çevirmek"
    }
   ],
   "pitfalls": [
    {
     "de": "Den Verkehr behindern, statt ihn vorbeizulassen.",
-    "en": "Holding traffic up instead of letting it pass."
+    "en": "Holding traffic up instead of letting it pass.",
+    "tr": "Trafiği geçirmek yerine bekletmek."
    }
   ],
   "phrases": []
@@ -281,36 +332,43 @@
   "diagram": "emergency",
   "title": {
    "de": "Gefahrbremsung",
-   "en": "Emergency stop"
+   "en": "Emergency stop",
+   "tr": "Acil fren"
   },
   "body": [
    {
     "de": "Aus etwa 30 km/h bremsen Sie auf Kommando des Prüfers so stark wie möglich bis zum Stillstand. Das Fahrzeug soll dabei in der Spur bleiben.",
-    "en": "From about 30 km/h you brake as hard as possible to a standstill when the examiner gives the signal. The car should stay straight."
+    "en": "From about 30 km/h you brake as hard as possible to a standstill when the examiner gives the signal. The car should stay straight.",
+    "tr": "Sınav görevlisi işaret verdiğinde yaklaşık 30 km/sa’ten olabildiğince sert frenleyerek durursunuz. Araç düz kalmalıdır."
    },
    {
     "de": "Mit ABS: Bremse und Kupplung voll durchtreten und halten. Das Rattern im Pedal ist normal. Vorher prüft der Prüfer, dass niemand hinter Ihnen fährt.",
-    "en": "With ABS: press brake and clutch fully down and hold them. The juddering in the pedal is normal. The examiner checks beforehand that nobody is behind you."
+    "en": "With ABS: press brake and clutch fully down and hold them. The juddering in the pedal is normal. The examiner checks beforehand that nobody is behind you.",
+    "tr": "ABS ile: fren ve debriyaja tamamen basın ve basılı tutun. Pedaldaki titreşim normaldir. Sınav görevlisi önceden arkanızda kimse olmadığını kontrol eder."
    }
   ],
   "checklist": [
    {
     "de": "Erst auf das Kommando reagieren, nicht vorher",
-    "en": "React on the command, not before"
+    "en": "React on the command, not before",
+    "tr": "Komutla tepki vermek, önce değil"
    },
    {
     "de": "Voll durchtreten, nicht zögerlich steigern",
-    "en": "Press fully, not gradually"
+    "en": "Press fully, not gradually",
+    "tr": "Kademeli değil, tamamen basmak"
    },
    {
     "de": "Danach Warnblinker oder Spiegelblick, bevor ich weiterfahre",
-    "en": "Afterwards, hazards or a mirror check before moving on"
+    "en": "Afterwards, hazards or a mirror check before moving on",
+    "tr": "Sonrasında devam etmeden önce dörtlüler ya da ayna kontrolü"
    }
   ],
   "pitfalls": [
    {
     "de": "Zu zaghaft bremsen.",
-    "en": "Braking too gently."
+    "en": "Braking too gently.",
+    "tr": "Çok yumuşak fren yapmak."
    }
   ],
   "phrases": []
@@ -321,34 +379,41 @@
   "diagram": null,
   "title": {
    "de": "Die fünf Kompetenzbereiche",
-   "en": "The five competence areas"
+   "en": "The five competence areas",
+   "tr": "Beş yetkinlik alanı"
   },
   "body": [
    {
     "de": "Der Prüfer bewertet nicht einzelne „Fehler“ für sich, sondern wie Sie in fünf Bereichen fahren – über die ganze Prüfung hinweg und in Situationen wie Kreuzungen, Kreisverkehren, Fahrstreifenwechseln, Autobahnauffahrten, Kurven und Fußgängerüberwegen.",
-    "en": "The examiner does not just tally individual \"mistakes\" but judges how you drive in five areas - across the whole test and in situations such as junctions, roundabouts, lane changes, motorway slip roads, bends and zebra crossings."
+    "en": "The examiner does not just tally individual \"mistakes\" but judges how you drive in five areas - across the whole test and in situations such as junctions, roundabouts, lane changes, motorway slip roads, bends and zebra crossings.",
+    "tr": "Sınav görevlisi yalnızca tek tek \"hataları\" saymaz, sürüşünüzü beş alanda değerlendirir - tüm sınav boyunca ve kavşaklar, dönel kavşaklar, şerit değiştirmeler, otoyol bağlantı yolları, virajlar ve yaya geçitleri gibi durumlarda."
    }
   ],
   "checklist": [
    {
     "de": "Verkehrsbeobachtung: Spiegel, Schulterblick, vorausschauen",
-    "en": "Observation: mirrors, shoulder checks, looking ahead"
+    "en": "Observation: mirrors, shoulder checks, looking ahead",
+    "tr": "Gözlem: aynalar, omuz kontrolleri, ileriye bakmak"
    },
    {
     "de": "Fahrzeugpositionierung: richtige Spur, Abstand nach vorne und zur Seite",
-    "en": "Positioning: the right lane, distance ahead and to the side"
+    "en": "Positioning: the right lane, distance ahead and to the side",
+    "tr": "Konumlanma: doğru şerit, öne ve yana mesafe"
    },
    {
     "de": "Geschwindigkeitsanpassung: Tempo passend zu Limit, Sicht und Situation",
-    "en": "Speed: matched to the limit, the view and the situation"
+    "en": "Speed: matched to the limit, the view and the situation",
+    "tr": "Hız: sınıra, görüşe ve duruma uygun"
    },
    {
     "de": "Kommunikation: rechtzeitig blinken, Blickkontakt, klare Absichten",
-    "en": "Communication: signal in time, eye contact, clear intentions"
+    "en": "Communication: signal in time, eye contact, clear intentions",
+    "tr": "İletişim: zamanında sinyal, göz teması, açık niyetler"
    },
    {
     "de": "Fahrzeugbedienung und umweltbewusstes Fahren: Schalten, Lenken, sanftes Bremsen",
-    "en": "Vehicle control and eco driving: gear changes, steering, smooth braking"
+    "en": "Vehicle control and eco driving: gear changes, steering, smooth braking",
+    "tr": "Araç kontrolü ve ekonomik sürüş: vites değiştirme, direksiyon, yumuşak frenleme"
    }
   ],
   "pitfalls": [],
@@ -360,43 +425,52 @@
   "diagram": null,
   "title": {
    "de": "Woran Prüflinge am häufigsten scheitern",
-   "en": "What people most often fail for"
+   "en": "What people most often fail for",
+   "tr": "İnsanlar en çok neden kalıyor"
   },
   "body": [
    {
     "de": "Kleine Unsicherheiten führen nicht zum Nichtbestehen. Eine Prüfung ist nicht bestanden bei einem erheblichen Fehler – etwa wenn jemand gefährdet wird – oder wenn sich viele kleinere Fehler wiederholen.",
-    "en": "Small slips do not fail you. You fail for a serious mistake - for example when someone is put in danger - or when smaller mistakes keep repeating."
+    "en": "Small slips do not fail you. You fail for a serious mistake - for example when someone is put in danger - or when smaller mistakes keep repeating.",
+    "tr": "Küçük hatalar sizi sınavdan bırakmaz. Ciddi bir hatadan - örneğin biri tehlikeye atıldığında - ya da küçük hatalar tekrarlandığında kalırsınız."
    }
   ],
   "checklist": [],
   "pitfalls": [
    {
     "de": "Vorfahrt missachtet, besonders „rechts vor links“ in Tempo-30-Zonen",
-    "en": "Ignoring right of way, especially \"right before left\" in 30 zones"
+    "en": "Ignoring right of way, especially \"right before left\" in 30 zones",
+    "tr": "Geçiş hakkını, özellikle 30 bölgelerinde \"sağdan gelen önce geçer\" kuralını görmezden gelmek"
    },
    {
     "de": "Kein Schulterblick beim Abbiegen, Anfahren oder Spurwechsel",
-    "en": "No shoulder check when turning, pulling away or changing lanes"
+    "en": "No shoulder check when turning, pulling away or changing lanes",
+    "tr": "Dönerken, hareket ederken ya da şerit değiştirirken omuz kontrolü yapmamak"
    },
    {
     "de": "Am Stoppschild nicht vollständig angehalten",
-    "en": "Not coming to a full stop at a STOP sign"
+    "en": "Not coming to a full stop at a STOP sign",
+    "tr": "DUR levhasında tam olarak durmamak"
    },
    {
     "de": "Fußgänger am Zebrastreifen nicht durchgelassen",
-    "en": "Not letting pedestrians cross at a zebra"
+    "en": "Not letting pedestrians cross at a zebra",
+    "tr": "Yaya geçidinde yayaları geçirmemek"
    },
    {
     "de": "Deutlich zu schnell, z. B. in einer 30-Zone",
-    "en": "Clearly speeding, for example in a 30 zone"
+    "en": "Clearly speeding, for example in a 30 zone",
+    "tr": "Örneğin 30 bölgesinde açıkça hız yapmak"
    },
    {
     "de": "Rote Ampel überfahren",
-    "en": "Running a red light"
+    "en": "Running a red light",
+    "tr": "Kırmızı ışıkta geçmek"
    },
    {
     "de": "Der Fahrlehrer muss eingreifen (Doppelbremse oder Lenkrad)",
-    "en": "The instructor has to intervene (dual brake or steering)"
+    "en": "The instructor has to intervene (dual brake or steering)",
+    "tr": "Eğitmenin müdahale etmek zorunda kalması (çift fren ya da direksiyon)"
    }
   ],
   "phrases": []
@@ -407,12 +481,14 @@
   "diagram": null,
   "title": {
    "de": "Was der Prüfer sagt",
-   "en": "What the examiner says"
+   "en": "What the examiner says",
+   "tr": "Sınav görevlisi ne der"
   },
   "body": [
    {
     "de": "Die praktische Prüfung findet auf Deutsch statt. Der Prüfer gibt die Richtung rechtzeitig an. Haben Sie etwas nicht verstanden, fragen Sie nach – das ist kein Fehler.",
-    "en": "The practical test is in German. The examiner gives directions in good time. If you do not understand, ask - that is not a mistake."
+    "en": "The practical test is in German. The examiner gives directions in good time. If you do not understand, ask - that is not a mistake.",
+    "tr": "Direksiyon sınavı Almancadır. Sınav görevlisi talimatları zamanında verir. Anlamazsanız sorun - bu bir hata değildir."
    }
   ],
   "checklist": [],
@@ -420,51 +496,63 @@
   "phrases": [
    {
     "de": "An der nächsten Kreuzung bitte rechts abbiegen.",
-    "en": "At the next junction, please turn right."
+    "en": "At the next junction, please turn right.",
+    "tr": "Bir sonraki kavşakta lütfen sağa dönün."
    },
    {
     "de": "Bitte biegen Sie links ab.",
-    "en": "Please turn left."
+    "en": "Please turn left.",
+    "tr": "Lütfen sola dönün."
    },
    {
     "de": "Fahren Sie bitte geradeaus weiter.",
-    "en": "Please carry straight on."
+    "en": "Please carry straight on.",
+    "tr": "Lütfen düz devam edin."
    },
    {
     "de": "Folgen Sie bitte dem Straßenverlauf.",
-    "en": "Please follow the road."
+    "en": "Please follow the road.",
+    "tr": "Lütfen yolu takip edin."
    },
    {
     "de": "Folgen Sie der Beschilderung Richtung Autobahn.",
-    "en": "Follow the signs for the motorway."
+    "en": "Follow the signs for the motorway.",
+    "tr": "Otoyol levhalarını takip edin."
    },
    {
     "de": "Im Kreisverkehr bitte die zweite Ausfahrt nehmen.",
-    "en": "At the roundabout, please take the second exit."
+    "en": "At the roundabout, please take the second exit.",
+    "tr": "Dönel kavşakta lütfen ikinci çıkışı alın."
    },
    {
     "de": "Halten Sie bitte hier rechts am Fahrbahnrand an.",
-    "en": "Please pull over here on the right."
+    "en": "Please pull over here on the right.",
+    "tr": "Lütfen burada sağda yol kenarında durun."
    },
    {
     "de": "Parken Sie bitte hinter dem blauen Auto rückwärts ein.",
-    "en": "Please reverse park behind the blue car."
+    "en": "Please reverse park behind the blue car.",
+    "tr": "Lütfen mavi otomobilin arkasına geri geri park edin."
    },
    {
     "de": "Bitte wenden Sie hier.",
-    "en": "Please turn round here."
+    "en": "Please turn round here.",
+    "tr": "Lütfen burada geri dönün."
    },
    {
     "de": "Wenn ich „Stopp“ sage, machen Sie bitte eine Gefahrbremsung.",
-    "en": "When I say \"Stopp\", please do an emergency stop."
+    "en": "When I say \"Stopp\", please do an emergency stop.",
+    "tr": "\"Stopp\" dediğimde lütfen acil fren yapın."
    },
    {
     "de": "Fahren Sie bitte wieder an, wenn es die Verkehrslage erlaubt.",
-    "en": "Please move off again when traffic allows."
+    "en": "Please move off again when traffic allows.",
+    "tr": "Trafik izin verdiğinde lütfen yeniden hareket edin."
    },
    {
     "de": "Die Prüfung ist beendet. Sie haben bestanden.",
-    "en": "The test is over. You have passed."
+    "en": "The test is over. You have passed.",
+    "tr": "Sınav bitti. Geçtiniz."
    }
   ]
  }
