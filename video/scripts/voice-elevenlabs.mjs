@@ -103,6 +103,7 @@ const files = {};
 
 for (const [i, beat] of script.beats.entries()) {
   if (only && beat.name !== only) continue;
+  if (beat.silent) continue; // shown, not said: the render holds it for its silent length
   const whole = `${TAKES_TAGS && beat.tag ? `${beat.tag} ` : ''}${beat.say.map((s) => s.text).join('')}`;
   // Cached by the exact text, so an edited line is voiced again and an
   // unchanged one never is.

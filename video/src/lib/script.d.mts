@@ -11,6 +11,8 @@ export type Beat = {
   correct?: number[];
   /** Delivery tag for Eleven v4 ("[curious]"); never shown, never spoken. */
   tag?: string;
+  /** Shown without narration; its length comes from SILENT_SECONDS. */
+  silent?: boolean;
 };
 
 export type Script = {

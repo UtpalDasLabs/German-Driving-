@@ -22,6 +22,8 @@ export const SILENT_SECONDS = {
   hook: 2.6,
   question: 4.5,
   option: 2.6,
+  /** An option shown without narration: long enough to read, short enough to keep pace. */
+  silentOption: 1.5,
   number: 2.4,
   countdown: 3.0,
   reveal: 3.4,
@@ -62,12 +64,12 @@ export function markGerman(text) {
   return out;
 }
 
-/** The explanation, cut to what fits a short: whole sentences, about 260 characters. */
+/** The explanation, cut to what fits a short: whole sentences, about 200 characters. */
 export function shortWhy(text) {
   const sentences = text.match(/[^.!?]+[.!?]+(\s|$)/g) ?? [text];
   let out = '';
   for (const s of sentences) {
-    if (out && (out + s).length > 260) break;
+    if (out && (out + s).length > 200) break;
     out += s;
   }
   return out.trim();
@@ -93,14 +95,16 @@ export function buildScript(q) {
   // from frame one, and the opening line is the challenge, not a title.
   beat(
     'hook',
-    [en(q.points === 5 ? 'Five-point question. Get two of these wrong, and you fail the German driving test.' : 'German driving test. Would you get this one right?')],
+    [en(q.points === 5 ? 'Five-point question. Two of these wrong, and you fail.' : 'German driving test. Would you get this one right?')],
     { tag: '[curious]' },
   );
   beat('question', [en(q.prompt.en)]);
 
   if (q.kind === 'choice') {
+    // The options are on screen, so they are not read out: reading them took
+    // ten seconds, and a short that runs under a minute keeps more viewers.
     q.options.forEach((o, i) => {
-      beat(`option${LETTERS[i]}`, [en(`${LETTERS[i]}: ${o.en}`)], { timing: 'option', optionIndex: i });
+      beat(`option${LETTERS[i]}`, [], { timing: 'silentOption', optionIndex: i, silent: true });
     });
   } else {
     beat('number', [en('Type in the number.')]);
@@ -128,7 +132,7 @@ export function buildScript(q) {
 
   beat(
     'end',
-    [en('Follow for more. Every question is free in the '), de('Führerschein'), en(' Trainer app. The link is in my profile.')],
+    [en('Follow for more. Every question is free in the '), de('Führerschein'), en(' Trainer app, link in my profile.')],
     { tag: '[warm]' },
   );
 
