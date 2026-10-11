@@ -109,8 +109,8 @@ export function buildScript(q) {
   // Comments before the reveal are what the platforms reward most.
   beat(
     'countdown',
-    [en(q.kind === 'choice' && q.correct.length > 1 ? 'Careful, more than one can be right. Comment your answer!' : 'Comment your answer!')],
-    { tag: '[excited]' },
+    [en(q.kind === 'choice' && q.correct.length > 1 ? 'Careful, more than one can be right. Have a guess, and leave it in the comments.' : 'Have a guess, and leave it in the comments.')],
+    { tag: '[warm]' },
   );
 
   let reveal;

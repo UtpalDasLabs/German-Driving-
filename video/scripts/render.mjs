@@ -73,8 +73,10 @@ function narratedSeconds(id) {
 function buildTrack(id, fps, beatSeconds, workDir) {
   const { scriptFor } = beatsModule;
   const files = readdirSync(audioDir).filter((f) => /^\d\d-.+\.mp3$/.test(f) && !/\.\d+\.mp3$/.test(f));
+  // timing.json names each beat's take (newer narration caches takes by text).
+  const named = JSON.parse(readFileSync(join(audioDir, 'timing.json'), 'utf8')).files ?? {};
   const padded = scriptFor(id).beats.map((b, i) => {
-    const src = files.find((f) => f === `${String(i).padStart(2, '0')}-${b.name}.mp3`);
+    const src = named[b.name] ?? files.find((f) => f === `${String(i).padStart(2, '0')}-${b.name}.mp3`);
     if (!src) throw new Error(`Missing audio for beat ${i} "${b.name}"`);
     const secs = Math.round(beatSeconds[b.name] * fps) / fps;
     const wav = join(workDir, `${String(i).padStart(2, '0')}.wav`);

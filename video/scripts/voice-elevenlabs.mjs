@@ -22,6 +22,7 @@
  * request header. Audio is cached: rerunning does not spend credits again.
  */
 import { execFileSync } from 'node:child_process';
+import { createHash } from 'node:crypto';
 import { existsSync, mkdirSync, readdirSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -32,8 +33,12 @@ const VIDEO = join(dirname(fileURLToPath(import.meta.url)), '..');
 const FFMPEG = join(VIDEO, 'node_modules/@remotion/compositor-linux-x64-gnu/ffmpeg');
 const FFPROBE = join(VIDEO, 'node_modules/@remotion/compositor-linux-x64-gnu/ffprobe');
 
-/** The creator's cloned voice - the same one as the citizenship lessons. */
-const VOICE = process.env.ELEVENLABS_VOICE_ID ?? 'vFeVIow1bgkn4mgnqNwD';
+/**
+ * The creator's Professional Voice Clone (ElevenLabs), used for everything
+ * voiced from October 2026 on. The earlier instant clone, vFeVIow1bgkn4mgnqNwD,
+ * voiced the first 14 long-form lessons; their narration is kept as it is.
+ */
+const VOICE = process.env.ELEVENLABS_VOICE_ID ?? 'Rr3HT8xllxaRdjMZxGBa';
 /**
  * Eleven v4, the model and settings of the long-form lessons, so a short and a
  * lesson sound like the same person. v4 also performs each beat's delivery tag.
@@ -93,12 +98,16 @@ const seconds = (file) =>
 
 const script = scriptFor(id);
 const timing = {};
+/** The audio file each beat uses, so a render picks this text's take. */
+const files = {};
 
 for (const [i, beat] of script.beats.entries()) {
   if (only && beat.name !== only) continue;
-  const base = join(dir, `${String(i).padStart(2, '0')}-${beat.name}`);
-  const out = `${base}.mp3`;
   const whole = `${TAKES_TAGS && beat.tag ? `${beat.tag} ` : ''}${beat.say.map((s) => s.text).join('')}`;
+  // Cached by the exact text, so an edited line is voiced again and an
+  // unchanged one never is.
+  const base = join(dir, `${String(i).padStart(2, '0')}-${beat.name}-${createHash('sha1').update(whole).digest('hex').slice(0, 8)}`);
+  const out = `${base}.mp3`;
 
   if (!segments) {
     await speak(whole, out);
@@ -120,8 +129,9 @@ for (const [i, beat] of script.beats.entries()) {
     }
   }
   timing[beat.name] = Number(seconds(out).toFixed(3));
+  files[beat.name] = out.slice(dir.length + 1);
   console.log(`  ${beat.name.padEnd(15)} ${timing[beat.name].toFixed(2)}s  ${beat.say.map((s) => (s.lang === 'de' ? `[${s.text}]` : s.text)).join('')}`);
 }
 
-writeFileSync(join(dir, 'timing.json'), `${JSON.stringify({ id, voice: VOICE, model: MODEL, mode, timing }, null, 2)}\n`);
+writeFileSync(join(dir, 'timing.json'), `${JSON.stringify({ id, voice: VOICE, model: MODEL, mode, timing, files }, null, 2)}\n`);
 console.log(`\n${spent} characters sent this run (cached audio is not re-sent). Files: ${dir}`);
