@@ -50,7 +50,7 @@ const FFMPEG = join(VIDEO, 'node_modules/@remotion/compositor-linux-x64-gnu/ffmp
  * sentence starts. The countdown keeps its three silent seconds to guess in.
  */
 const AFTER_SPEECH = {
-  hook: 0.4, look: 1.2, question: 1.0, option: 0.5, number: 0.6,
+  hook: 0.4, question: 1.0, option: 0.5, number: 0.6,
   countdown: 3.0, reveal: 1.6, why: 0.8, tip: 0.8, end: 0.6,
 };
 

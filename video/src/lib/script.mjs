@@ -19,8 +19,7 @@ const LETTERS = ['A', 'B', 'C', 'D'];
 
 /** Seconds per beat when there is no narration to time it by. */
 export const SILENT_SECONDS = {
-  hook: 2.2,
-  look: 2.6,
+  hook: 2.6,
   question: 4.5,
   option: 2.6,
   number: 2.4,
@@ -90,8 +89,13 @@ export function buildScript(q) {
     beats.push({ name, seconds: SILENT_SECONDS[extra.timing ?? name], say, ...extra });
   const visual = q.scene ? 'scene' : q.signs.length ? 'signs' : 'none';
 
-  beat('hook', [en('German driving theory test. Would you get this one right?')]);
-  if (visual !== 'none') beat('look', [en(visual === 'scene' ? 'Look at the situation.' : 'Look at the sign.')]);
+  // Short-form viewers decide in the first second: the situation is on screen
+  // from frame one, and the opening line is the challenge, not a title.
+  beat(
+    'hook',
+    [en(q.points === 5 ? 'Five-point question. Get two of these wrong, and you fail the German driving test.' : 'German driving test. Would you get this one right?')],
+    { tag: '[curious]' },
+  );
   beat('question', [en(q.prompt.en)]);
 
   if (q.kind === 'choice') {
@@ -102,7 +106,12 @@ export function buildScript(q) {
     beat('number', [en('Type in the number.')]);
   }
 
-  beat('countdown', [en(q.kind === 'choice' && q.correct.length > 1 ? 'Careful: more than one can be right.' : 'What do you think?')]);
+  // Comments before the reveal are what the platforms reward most.
+  beat(
+    'countdown',
+    [en(q.kind === 'choice' && q.correct.length > 1 ? 'Careful, more than one can be right. Comment your answer!' : 'Comment your answer!')],
+    { tag: '[excited]' },
+  );
 
   let reveal;
   if (q.kind === 'number') {
@@ -117,11 +126,11 @@ export function buildScript(q) {
   beat('why', parseMarked(markGerman(shortWhy(q.why.en))));
   if (q.tip) beat('tip', [en('Remember: '), ...parseMarked(markGerman(q.tip.en))]);
 
-  beat('end', [
-    en('Practise every question free in the '),
-    de('Führerschein'),
-    en(' Trainer app. The link is in the description.'),
-  ]);
+  beat(
+    'end',
+    [en('Follow for more. Every question is free in the '), de('Führerschein'), en(' Trainer app. The link is in my profile.')],
+    { tag: '[warm]' },
+  );
 
   return { visual, correct: q.correct, beats };
 }

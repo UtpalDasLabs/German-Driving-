@@ -34,8 +34,15 @@ const FFPROBE = join(VIDEO, 'node_modules/@remotion/compositor-linux-x64-gnu/ffp
 
 /** The creator's cloned voice - the same one as the citizenship lessons. */
 const VOICE = process.env.ELEVENLABS_VOICE_ID ?? 'vFeVIow1bgkn4mgnqNwD';
-/** The established multilingual model; German is one of its native languages. */
-const MODEL = process.env.ELEVENLABS_MODEL ?? 'eleven_multilingual_v2';
+/**
+ * Eleven v4, the model and settings of the long-form lessons, so a short and a
+ * lesson sound like the same person. v4 also performs each beat's delivery tag.
+ */
+const MODEL = process.env.ELEVENLABS_MODEL ?? 'eleven_v4';
+const TAKES_TAGS = /^eleven_v[34]/.test(MODEL);
+const SETTINGS = TAKES_TAGS
+  ? { stability: 0.5 }
+  : { stability: 0.5, similarity_boost: 0.75, style: 0, use_speaker_boost: true };
 
 const args = process.argv.slice(2);
 const id = args.find((a) => /^[a-z]{2}\d{2}$/.test(a));
@@ -67,7 +74,7 @@ async function speak(text, file, context = {}) {
       body: JSON.stringify({
         text,
         model_id: MODEL,
-        voice_settings: { stability: 0.5, similarity_boost: 0.75, style: 0, use_speaker_boost: true },
+        voice_settings: SETTINGS,
         ...(context.previous ? { previous_text: context.previous } : {}),
         ...(context.next ? { next_text: context.next } : {}),
       }),
@@ -78,7 +85,7 @@ async function speak(text, file, context = {}) {
     throw new Error(`ElevenLabs ${res.status} for "${text.slice(0, 40)}": ${body.slice(0, 300)}`);
   }
   writeFileSync(file, Buffer.from(await res.arrayBuffer()));
-  spent += text.length;
+  spent += text.replace(/\[[a-z ]+\]\s*/g, '').length;
 }
 
 const seconds = (file) =>
@@ -91,7 +98,7 @@ for (const [i, beat] of script.beats.entries()) {
   if (only && beat.name !== only) continue;
   const base = join(dir, `${String(i).padStart(2, '0')}-${beat.name}`);
   const out = `${base}.mp3`;
-  const whole = beat.say.map((s) => s.text).join('');
+  const whole = `${TAKES_TAGS && beat.tag ? `${beat.tag} ` : ''}${beat.say.map((s) => s.text).join('')}`;
 
   if (!segments) {
     await speak(whole, out);

@@ -5,7 +5,7 @@ import { KitProvider, domKit } from '../../src/art/kit';
 import { SceneArt } from '../../src/art/scene';
 import { SignArt } from '../../src/art/signs';
 import { Countdown, OptionCard, Overline, type CardState } from './components';
-import { alpha, C, CHANNEL, FONT, GOLD, SAFE, SERIES } from './lib/brand';
+import { alpha, C, CHANNEL, FONT, GOLD, SAFE } from './lib/brand';
 import { load, sign } from './lib/data';
 import { motionOf, posesAt } from './lib/motion';
 import { formatNumber } from './lib/script.mjs';
@@ -70,8 +70,12 @@ export function QuestionShort({ id, showSafeArea = false, beatSeconds }: Questio
   const promptSize = q.prompt.en.length > 110 ? 44 : q.prompt.en.length > 70 ? 50 : 56;
   const visual = script.visual === 'scene' ? (q.options.length > 2 ? 660 : 720) : 0;
 
-  const hookOut = 1 - enter(script.visual === 'none' ? 'question' : 'look');
+  // The hook banner sits over the drawing for the opening line, then makes room.
+  const hookOut = 1 - enter('question');
   const endIn = enter('end');
+  const multi = q.kind === 'choice' && q.correct.length > 1;
+  const askFor = q.kind === 'number' ? 'Your number?' : q.options.length > 3 ? 'A, B, C or D?' : q.options.length > 2 ? 'A, B or C?' : 'A or B?';
+  const pill = `${multi ? 'More than one? ' : ''}${askFor} Comment 👇`;
 
   return (
     <KitProvider kit={domKit}>
@@ -114,18 +118,28 @@ export function QuestionShort({ id, showSafeArea = false, beatSeconds }: Questio
           {/* the situation */}
           {script.visual === 'scene' && q.scene ? (
             <div style={{ position: 'relative', alignSelf: 'center' }}>
-              <div style={{ borderRadius: 32, overflow: 'hidden', opacity: enter('look'), boxShadow: '0 20px 60px rgba(0,0,0,0.45)' }}>
+              <div style={{ borderRadius: 32, overflow: 'hidden', boxShadow: '0 20px 60px rgba(0,0,0,0.45)' }}>
                 <SceneArt scene={q.scene} size={visual} poses={poses} arrows={!(revealed && moving)} />
               </div>
               {current.name === 'countdown' ? (
-                <div style={{ position: 'absolute', right: -40, top: -40 }}>
-                  <Panel beat="countdown" script={script} enter={enter} frame={frame - current.from} frames={current.frames} fps={fps} />
-                </div>
+                <>
+                  <div style={{ position: 'absolute', right: -40, top: -40 }}>
+                    <Panel beat="countdown" script={script} enter={enter} frame={frame - current.from} frames={current.frames} fps={fps} />
+                  </div>
+                  <div style={{ position: 'absolute', left: 0, right: 0, bottom: 24, display: 'flex', justifyContent: 'center' }}>
+                    <CommentPill text={pill} enter={enter('countdown')} />
+                  </div>
+                </>
               ) : null}
             </div>
           ) : null}
+          {script.visual !== 'scene' && current.name === 'countdown' ? (
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <CommentPill text={pill} enter={enter('countdown')} />
+            </div>
+          ) : null}
           {script.visual === 'signs' ? (
-            <div style={{ display: 'flex', justifyContent: 'center', gap: 34, opacity: enter('look') }}>
+            <div style={{ display: 'flex', justifyContent: 'center', gap: 34 }}>
               {q.signs.map((s) => (
                 <div key={s} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 10 }}>
                   <SignArt id={s} size={q.signs.length > 2 ? 230 : 300} />
@@ -138,7 +152,7 @@ export function QuestionShort({ id, showSafeArea = false, beatSeconds }: Questio
           ) : null}
 
           {/* question */}
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 10, opacity: enter('question') }}>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
             <div style={{ fontWeight: 800, fontSize: promptSize, lineHeight: 1.2, color: C.text }}>{q.prompt.en}</div>
             <div style={{ fontWeight: 600, fontSize: 30, lineHeight: 1.3, color: C.textFaint }}>{q.prompt.de}</div>
           </div>
@@ -174,23 +188,39 @@ export function QuestionShort({ id, showSafeArea = false, beatSeconds }: Questio
           </div>
         </div>
 
-        {/* opening card */}
+        {/* hook banner: the challenge, over the drawing, from frame one */}
         {hookOut > 0.01 ? (
-          <AbsoluteFill
+          <div
             style={{
-              backgroundColor: C.bg,
-              opacity: hookOut,
+              position: 'absolute',
+              bottom: SAFE.bottom + 120,
+              left: SAFE.side,
+              right: SAFE.side,
+              display: 'flex',
+              flexDirection: 'column',
               alignItems: 'center',
-              justifyContent: 'center',
-              gap: 26,
-              transform: `scale(${interpolate(enter('hook'), [0, 1], [0.96, 1])})`,
+              gap: 14,
+              opacity: hookOut,
+              transform: `scale(${interpolate(enter('hook'), [0, 1], [0.9, 1])})`,
             }}
           >
-            <Img src={staticFile('icon.png')} style={{ width: 170, height: 170, borderRadius: 40 }} />
-            <Overline color={GOLD}>Führerschein · Theorie</Overline>
-            <div style={{ fontWeight: 800, fontSize: 92, color: C.text, textAlign: 'center', lineHeight: 1.1 }}>{SERIES}</div>
-            <div style={{ fontWeight: 600, fontSize: 44, color: C.textMuted }}>Would you get this right?</div>
-          </AbsoluteFill>
+            <div
+              style={{
+                padding: '22px 40px',
+                borderRadius: 30,
+                backgroundColor: q.points === 5 ? C.danger : GOLD,
+                color: q.points === 5 ? '#fff' : '#111',
+                fontWeight: 900,
+                fontSize: 66,
+                lineHeight: 1.05,
+                textAlign: 'center',
+                boxShadow: '0 18px 50px rgba(0,0,0,0.5)',
+              }}
+            >
+              {q.points === 5 ? '5-point question' : 'German driving test'}
+              <div style={{ fontSize: 50, fontWeight: 800, marginTop: 6 }}>Would you pass?</div>
+            </div>
+          </div>
         ) : null}
 
         {/* closing card */}
@@ -214,9 +244,14 @@ export function QuestionShort({ id, showSafeArea = false, beatSeconds }: Questio
                 fontSize: 40,
               }}
             >
-              Link in description
+              Link in profile
             </div>
-            <div style={{ marginTop: 30, fontWeight: 700, fontSize: 30, color: C.textFaint }}>{CHANNEL}</div>
+            <div style={{ marginTop: 30, fontWeight: 700, fontSize: 32, color: C.textMuted, textAlign: 'center', lineHeight: 1.4 }}>
+              Full lessons on YouTube
+              <br />
+              <span style={{ color: C.text }}>{CHANNEL}</span>
+            </div>
+            <div style={{ marginTop: 10, fontWeight: 800, fontSize: 40, color: GOLD }}>Follow for more</div>
           </AbsoluteFill>
         ) : null}
 
@@ -331,5 +366,26 @@ function SafeAreaOverlay() {
         <div style={label}>Caption, username, music</div>
       </div>
     </AbsoluteFill>
+  );
+}
+
+/** "A, B or C? Comment 👇" during the countdown: comments are what the platforms reward. */
+function CommentPill({ text, enter }: { text: string; enter: number }) {
+  return (
+    <div
+      style={{
+        padding: '18px 34px',
+        borderRadius: 999,
+        backgroundColor: GOLD,
+        color: '#111',
+        fontWeight: 900,
+        fontSize: 46,
+        boxShadow: '0 14px 40px rgba(0,0,0,0.5)',
+        opacity: enter,
+        transform: `scale(${0.9 + 0.1 * enter})`,
+      }}
+    >
+      {text}
+    </div>
   );
 }

@@ -9,6 +9,8 @@ export type Beat = {
   timing?: string;
   optionIndex?: number;
   correct?: number[];
+  /** Delivery tag for Eleven v4 ("[curious]"); never shown, never spoken. */
+  tag?: string;
 };
 
 export type Script = {
