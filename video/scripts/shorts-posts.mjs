@@ -41,7 +41,7 @@ const MEDIA = arg('--media', 'https://github.com/UtpalDasLabs/German-Driving-/re
 
 /** One hashtag per topic, in the words people search for. */
 const TOPIC_TAG = {
-  priority: '#vorfahrt', signals: '#ampel', signs: '#verkehrszeichen', basics: '#fahrschule',
+  priority: '#vorfahrt', signals: '#ampel', signs: '#verkehrszeichen', basics: '#führerscheinprüfung',
   speed: '#tempolimit', overtaking: '#überholen', turning: '#abbiegen', people: '#radfahrer',
   rail: '#bahnübergang', parking: '#parken', motorway: '#autobahn', hazards: '#gefahrenbremsung',
   fitness: '#promillegrenze', vehicle: '#auto', eco: '#spritsparen', law: '#verkehrsrecht',
