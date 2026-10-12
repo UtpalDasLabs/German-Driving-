@@ -7,11 +7,16 @@
  *   node scripts/shorts-posts.mjs                      plan from tomorrow, 19:00
  *   node scripts/shorts-posts.mjs --start 2026-10-14 --time 19:00
  *   node scripts/shorts-posts.mjs --media https://example.org/shorts/
+ *   node scripts/shorts-posts.mjs --skip 5 --start 2026-10-13
+ *                         the first five are posted: the plan starts at 006
+ *   node scripts/shorts-posts.mjs --comment
+ *                         with the app link as a first comment (Publer's free
+ *                         plan refuses scheduled comments on YouTube)
  *
  * Writes out/shorts/:
  *   order.txt               "001 pr03" per line: the file number of each short
  *   publer-all.csv          every short, one a day (needs a paid Publer plan)
- *   publer-batch-NN.csv     the same in fives (the free plan's CSV limit)
+ *   publer-from-NNN.csv     the same in fives (the free plan's CSV limit)
  *   captions/NNN-<id>.txt   title, caption and first comment, for posting by hand
  *
  * Columns follow Publer's own template (publer-assets.s3.amazonaws.com/site/
@@ -37,6 +42,8 @@ const arg = (name, fallback) => (args.includes(name) ? args[args.indexOf(name) +
 const tomorrow = new Date(Date.now() + 864e5).toISOString().slice(0, 10);
 const START = arg('--start', tomorrow);
 const TIME = arg('--time', '19:00');
+const SKIP = Number(arg('--skip', 0));
+const COMMENT = args.includes('--comment');
 const MEDIA = arg('--media', 'https://github.com/UtpalDasLabs/German-Driving-/releases/download/driving-shorts/');
 
 /** One hashtag per topic, in the words people search for. */
@@ -104,24 +111,26 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   mkdirSync(join(OUT, 'captions'), { recursive: true });
   for (const f of readdirSync(OUT)) if (/^publer-.*\.csv$/.test(f)) rmSync(join(OUT, f));
 
-  const rows = order.map((q, i) => {
+  const all = order.map((q, i) => {
     const n = String(i + 1).padStart(3, '0');
     const day = new Date(`${START}T00:00:00Z`);
-    day.setUTCDate(day.getUTCDate() + i);
+    day.setUTCDate(day.getUTCDate() + i - SKIP);
     const date = `${day.toISOString().slice(0, 10)} ${TIME}`;
     const file = `${n}-${q.id}.mp4`;
     writeFileSync(
       join(OUT, 'captions', `${n}-${q.id}.txt`),
       `${title(q)}\n\n${caption(q)}\n\nFirst comment:\n${firstComment()}\n\nPost on: ${date}\n`,
     );
-    return { n, q, cells: [date, caption(q), '', `${MEDIA}${file}`, title(q), 'driving-shorts', '', firstComment(), '', 'reel', '', ''] };
+    return { n, q, cells: [date, caption(q), '', `${MEDIA}${file}`, title(q), 'driving-shorts', '', COMMENT ? firstComment() : '', '', 'reel', '', ''] };
   });
+  const rows = all.slice(SKIP);
 
   const csv = (rs) => `${[HEADER, ...rs.map((r) => r.cells)].map((r) => r.map(csvCell).join(',')).join('\n')}\n`;
-  writeFileSync(join(OUT, 'order.txt'), rows.map((r) => `${r.n} ${r.q.id}`).join('\n') + '\n');
+  writeFileSync(join(OUT, 'order.txt'), all.map((r) => `${r.n} ${r.q.id}`).join('\n') + '\n');
   writeFileSync(join(OUT, 'publer-all.csv'), csv(rows));
   for (let b = 0; b * 5 < rows.length; b++) {
-    writeFileSync(join(OUT, `publer-batch-${String(b + 1).padStart(2, '0')}.csv`), csv(rows.slice(b * 5, b * 5 + 5)));
+    // Named by their first short's number, so a batch keeps its name whatever was skipped.
+    writeFileSync(join(OUT, `publer-from-${rows[b * 5].n}.csv`), csv(rows.slice(b * 5, b * 5 + 5)));
   }
   const longest = Math.max(...rows.map((r) => r.cells[4].length));
   console.log(`${rows.length} shorts, ${rows[0].cells[0]} to ${rows.at(-1).cells[0]}; longest title ${longest} characters. → ${OUT}`);
