@@ -17,6 +17,8 @@
  *   order.txt               "001 pr03" per line: the file number of each short
  *   publer-all.csv          every short, one a day (needs a paid Publer plan)
  *   publer-from-NNN.csv     the same in fives (the free plan's CSV limit)
+ *   import-calendar.txt     when to import which two files: Publer's free plan
+ *                           holds 10 scheduled posts per account, so ten days
  *   captions/NNN-<id>.txt   title, caption and first comment, for posting by hand
  *
  * Columns follow Publer's own template (publer-assets.s3.amazonaws.com/site/
@@ -132,6 +134,17 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     // Named by their first short's number, so a batch keeps its name whatever was skipped.
     writeFileSync(join(OUT, `publer-from-${rows[b * 5].n}.csv`), csv(rows.slice(b * 5, b * 5 + 5)));
   }
+  // Every ten days the queue is empty again: import the next two files that
+  // day, before the day's post time, and the next ten days are scheduled.
+  const day = (r) => new Date(`${r.cells[0].slice(0, 10)}T12:00:00Z`).toLocaleDateString('en-GB', { weekday: 'short', day: '2-digit', month: 'short', year: 'numeric', timeZone: 'UTC' });
+  const lines = ['Import calendar: on each date, before ' + TIME + ', import both files in Publer', '(Create -> Bulk Options -> CSV, all three accounts ticked, then Submit).', ''];
+  for (let i = 0; i < rows.length; i += 10) {
+    const ten = rows.slice(i, i + 10);
+    const files = [ten[0], ten[5]].filter(Boolean).map((r) => `publer-from-${r.n}.csv`).join(' + ');
+    lines.push(`${String(i / 10 + 1).padStart(2)}. ${day(ten[0])}   shorts ${ten[0].n}-${ten.at(-1).n}   ${files}`);
+  }
+  writeFileSync(join(OUT, 'import-calendar.txt'), `${lines.join('\n')}\n`);
+
   const longest = Math.max(...rows.map((r) => r.cells[4].length));
   console.log(`${rows.length} shorts, ${rows[0].cells[0]} to ${rows.at(-1).cells[0]}; longest title ${longest} characters. → ${OUT}`);
 }
