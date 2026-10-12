@@ -77,7 +77,9 @@ const lastSentence = (text) => (text.match(/[^.!?]+[.!?]+/g) ?? [text]).at(-1).t
 /** YouTube titles stay under 70 characters, the length shown in full on a phone. */
 function title(q) {
   const ask = lastSentence(q.prompt.en);
-  for (const t of [`${ask} | German driving test`, `${q.prompt.en} | German driving test`, ask, `German driving test: ${TOPICS[q.topic].title.en}`]) {
+  // "What do you do?" alone says nothing in search: name the topic in front.
+  const topical = `${TOPICS[q.topic].title.en}: ${ask[0].toLowerCase()}${ask.slice(1)} | German driving test`;
+  for (const t of [...(ask.length < 30 ? [topical] : []), `${ask} | German driving test`, `${q.prompt.en} | German driving test`, ask, `German driving test: ${TOPICS[q.topic].title.en}`]) {
     if (t.length <= 70) return t;
   }
   return `German driving test: ${TOPICS[q.topic].title.en}`;
@@ -119,12 +121,23 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     day.setUTCDate(day.getUTCDate() + i - SKIP);
     const date = `${day.toISOString().slice(0, 10)} ${TIME}`;
     const file = `${n}-${q.id}.mp4`;
-    writeFileSync(
-      join(OUT, 'captions', `${n}-${q.id}.txt`),
-      `${title(q)}\n\n${caption(q)}\n\nFirst comment:\n${firstComment()}\n\nPost on: ${date}\n`,
-    );
     return { n, q, cells: [date, caption(q), '', `${MEDIA}${file}`, title(q), 'driving-shorts', '', COMMENT ? firstComment() : '', '', 'reel', '', ''] };
   });
+  // A title used more than once gets the question's number, so no two
+  // shorts look alike in search results.
+  const uses = {};
+  for (const r of all) uses[r.cells[4]] = (uses[r.cells[4]] ?? 0) + 1;
+  for (const r of all) {
+    if (uses[r.cells[4]] < 2) continue;
+    const tag = ` (Q${Number(r.n)})`;
+    r.cells[4] = r.cells[4].length + tag.length <= 70 ? r.cells[4] + tag : r.cells[4].replace(' | German driving test', '') + tag;
+  }
+  for (const r of all) {
+    writeFileSync(
+      join(OUT, 'captions', `${r.n}-${r.q.id}.txt`),
+      `${r.cells[4]}\n\n${r.cells[1]}\n\nFirst comment:\n${firstComment()}\n\nPost on: ${r.cells[0]}\n`,
+    );
+  }
   const rows = all.slice(SKIP);
 
   const csv = (rs) => `${[HEADER, ...rs.map((r) => r.cells)].map((r) => r.map(csvCell).join(',')).join('\n')}\n`;
