@@ -12,6 +12,7 @@ import { Button, Card, Screen, Txt } from '@/components/ui';
 import { EXAM, buildExam, emptyAnswer, isAnswered, isCorrect, scoreExam, type Answer, type ExamScore } from '@/lib/exam';
 import { GOALS } from '@/lib/goals';
 import { useT } from '@/lib/useT';
+import { track } from '@/lib/analytics';
 import { useProgress } from '@/store/ProgressProvider';
 import { useSettings } from '@/store/SettingsProvider';
 import { useTheme } from '@/theme/ThemeProvider';
@@ -81,6 +82,15 @@ export default function ExamSessionScreen() {
       },
       goalXp,
     );
+    // The outcome only, never which questions were missed.
+    track('exam_complete', {
+      passed: score.passed,
+      error_points: score.errorPoints,
+      five_point_misses: score.fivePointMisses,
+      correct: score.correct,
+      total: score.total,
+      duration_sec: Math.floor((Date.now() - startedAt) / 1000),
+    });
     setResult(score);
     setOverview(false);
   }, [paper, answers, settings.goal, gradeMany, recordExam, startedAt]);
