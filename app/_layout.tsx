@@ -1,19 +1,24 @@
-import { Stack, useRouter, useSegments } from 'expo-router';
+import { Stack, usePathname, useRouter, useSegments } from 'expo-router';
 import Head from 'expo-router/head';
-import React, { useEffect } from 'react';
+import React, { useEffect, useRef } from 'react';
 import { Platform, View } from 'react-native';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { StatusBar } from 'expo-status-bar';
 
 import { ArtProvider } from '@/components/Art';
+import { ConsentBanner } from '@/components/ConsentBanner';
 import { useAppReady } from '@/components/Loading';
+import { initAnalytics, setAnalyticsContext, track, trackPageView } from '@/lib/analytics';
 import { registerServiceWorker } from '@/lib/durability';
 import { isRtl, languageInfo } from '@/lib/languages';
 import { hideSplash } from '@/lib/splash';
 import { ProgressProvider, useProgress } from '@/store/ProgressProvider';
 import { SettingsProvider, useSettings } from '@/store/SettingsProvider';
 import { ThemeProvider, useTheme } from '@/theme/ThemeProvider';
+
+// Before anything renders, so consent defaults are queued ahead of any hit.
+initAnalytics();
 
 function Navigator() {
   const { colors, dark } = useTheme();
@@ -22,7 +27,9 @@ function Navigator() {
   const { progress } = useProgress();
   const router = useRouter();
   const segments = useSegments();
+  const pathname = usePathname();
   const rtl = isRtl(settings.language);
+  const lastLanguage = useRef<string | null>(null);
 
   // Hold the splash until stored settings and progress have loaded, so the
   // first frame is the user's real state rather than an empty shell.
@@ -44,6 +51,23 @@ function Navigator() {
     document.documentElement.lang = languageInfo(settings.language).locale;
     document.documentElement.dir = rtl ? 'rtl' : 'ltr';
   }, [settings.language, rtl]);
+
+  // Tag every hit with the interface language — with 13 test languages, who
+  // studies in which one is the most useful thing the statistics can show.
+  // A change after the first load is an event of its own.
+  useEffect(() => {
+    if (!ready) return;
+    setAnalyticsContext({ app_language: settings.language });
+    if (lastLanguage.current && lastLanguage.current !== settings.language) {
+      track('language_change', { from: lastLanguage.current, to: settings.language });
+    }
+    lastLanguage.current = settings.language;
+  }, [ready, settings.language]);
+
+  // Client-side navigation does not reload the page, so count each screen.
+  useEffect(() => {
+    if (ready) trackPageView();
+  }, [ready, pathname]);
 
   // First-time visitors go to the intro, whichever route they arrived on.
   useEffect(() => {
@@ -85,6 +109,7 @@ function Navigator() {
           <Stack.Screen name="conversion" />
           <Stack.Screen name="plan" />
         </Stack>
+        <ConsentBanner />
       </View>
     </>
   );

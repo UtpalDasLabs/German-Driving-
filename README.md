@@ -17,8 +17,11 @@ the theory test can be taken in. It covers:
   the documents you need and the costs.
 - **A study plan.** Enter your test date and it works out how much to do each day.
 
-Progress stays on the device. There is no account and nothing is uploaded, and
-there is a backup file export. The app installs to the home screen and works offline.
+Progress stays on the device. There is no account, and there is a backup file
+export. On the web the app asks before sending anonymised usage statistics
+(screens used, mock-exam results — never answers) to Google Analytics; nothing
+is fetched from Google until you allow it, the choice can be changed any time
+on the "You" tab, and native builds send nothing. See `src/lib/analytics.ts`. The app installs to the home screen and works offline.
 
 **Languages:** German, English, Turkish, Arabic (right to left), Russian, Polish,
 Romanian, Croatian, Greek, Italian, Spanish, Portuguese, French. The app text,
