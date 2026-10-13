@@ -10,7 +10,7 @@ export const FPS = 30;
  */
 export const CHANNEL = 'Living in Deutschland';
 export const APP_NAME = 'Führerschein-Trainer';
-export const APP_URL = 'https://utpaldaslabs.github.io/German-Driving-/';
+export const APP_URL = 'https://fuehrerschein.utpaldas.com/';
 export const SERIES = 'German Driving Test';
 
 /**
