@@ -6,6 +6,7 @@ import { Header } from '@/components/Header';
 import { LoadingScreen, useAppReady } from '@/components/Loading';
 import { MascotSays } from '@/components/Mascot';
 import { Card, Chip, ProgressBar, Screen, Txt } from '@/components/ui';
+import { track } from '@/lib/analytics';
 import { forecast, formatDate, planFor } from '@/lib/forecast';
 import { GOALS, GOAL_ORDER } from '@/lib/goals';
 import { questionIds } from '@/lib/study';
@@ -99,7 +100,14 @@ export default function PlanScreen() {
                 key={iso}
                 label={formatDate(new Date(`${iso}T00:00:00`), locale)}
                 active={settings.examDate === iso}
-                onPress={() => update({ examDate: settings.examDate === iso ? null : iso })}
+                onPress={() => {
+                  const next = settings.examDate === iso ? null : iso;
+                  update({ examDate: next });
+                  if (next) {
+                    const days = Math.round((new Date(`${next}T00:00:00`).getTime() - Date.now()) / 86_400_000);
+                    track('exam_date_set', { days_until: days });
+                  }
+                }}
               />
             ))}
             <Chip label={t('noDate')} active={settings.examDate == null} onPress={() => update({ examDate: null })} />

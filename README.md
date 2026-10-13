@@ -17,8 +17,11 @@ the theory test can be taken in. It covers:
   the documents you need and the costs.
 - **A study plan.** Enter your test date and it works out how much to do each day.
 
-Progress stays on the device. There is no account and nothing is uploaded, and
-there is a backup file export. The app installs to the home screen and works offline.
+Progress stays on the device. There is no account, and there is a backup file
+export. On the web the app asks before sending anonymised usage statistics
+(screens used, mock-exam results — never answers) to Google Analytics; nothing
+is fetched from Google until you allow it, the choice can be changed any time
+on the "You" tab, and native builds send nothing. See `src/lib/analytics.ts`. The app installs to the home screen and works offline.
 
 **Languages:** German, English, Turkish, Arabic (right to left), Russian, Polish,
 Romanian, Croatian, Greek, Italian, Spanish, Portuguese, French. The app text,
@@ -78,16 +81,14 @@ official test" through `ourQuestion`, so official ones can be told apart.
 
 ## Deploying
 
-`.github/workflows/deploy-web.yml` builds and checks the data, typechecks and
-publishes the static web app to GitHub Pages on every push. GitHub Pages needs
-setting up once:
+The app is served at **https://fuehrerschein.utpaldas.com**, deployed by Vercel from
+`main` (`vercel.json`). `.github/workflows/deploy-web.yml` builds and checks the
+data and typechecks on every push.
 
-1. Settings → Pages → Source: **GitHub Actions**.
-2. A private repository needs GitHub Pro (or a paid plan) for Pages. Otherwise,
-   make the repository public.
-
-The app is then at `https://utpaldaslabs.github.io/German-Driving-/`. The base path
-is set in `app.json` under `experiments.baseUrl`.
+It used to live at `utpaldaslabs.github.io/German-Driving-/`. GitHub Pages still
+serves that address, but only the page in `handover/`, which carries each
+visitor's saved progress over to the new address (`public/handover.html`
+receives it).
 
 ## Videos
 

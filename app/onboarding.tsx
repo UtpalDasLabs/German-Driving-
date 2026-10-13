@@ -10,6 +10,7 @@ import { LanguagePicker } from '@/components/LanguagePicker';
 import { LoadingScreen, useAppReady } from '@/components/Loading';
 import { Mascot, type MascotMood } from '@/components/Mascot';
 import { Button, Chip, ProgressBar, Screen, Txt } from '@/components/ui';
+import { track } from '@/lib/analytics';
 import { GOALS, GOAL_ORDER } from '@/lib/goals';
 import { isEmbeddedArtifact } from '@/lib/install';
 import { getQuestion, meta } from '@/lib/study';
@@ -57,8 +58,9 @@ export default function OnboardingScreen() {
 
   const finish = useCallback(() => {
     update({ onboarded: true });
+    track('onboarding_complete', { language: settings.language, goal: settings.goal });
     router.replace('/(tabs)');
-  }, [update, router]);
+  }, [update, router, settings.language, settings.goal]);
 
   const appReady = useAppReady();
   if (!appReady) return <LoadingScreen />;
