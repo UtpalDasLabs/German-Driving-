@@ -53,7 +53,7 @@ const TOPIC_TAG = {
   priority: '#vorfahrt', signals: '#ampel', signs: '#verkehrszeichen', basics: '#führerscheinprüfung',
   speed: '#tempolimit', overtaking: '#überholen', turning: '#abbiegen', people: '#radfahrer',
   rail: '#bahnübergang', parking: '#parken', motorway: '#autobahn', hazards: '#gefahrenbremsung',
-  fitness: '#promillegrenze', vehicle: '#auto', eco: '#spritsparen', law: '#verkehrsrecht',
+  fitness: '#verkehrssicherheit', vehicle: '#auto', eco: '#spritsparen', law: '#verkehrsrecht',
 };
 const TAGS = '#germandrivingtest #führerschein #fahrschule #drivingingermany #lifeingermany';
 
