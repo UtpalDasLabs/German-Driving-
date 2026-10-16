@@ -23,9 +23,9 @@ export const SILENT_SECONDS = {
   question: 4.5,
   option: 2.6,
   /** An option shown without narration: long enough to read, short enough to keep pace. */
-  silentOption: 1.5,
+  silentOption: 0.75,
   number: 2.4,
-  countdown: 3.0,
+  countdown: 2.0,
   reveal: 3.4,
   why: 6.0,
   tip: 3.2,
@@ -93,11 +93,9 @@ export function buildScript(q) {
 
   // Short-form viewers decide in the first second: the situation is on screen
   // from frame one, and the opening line is the challenge, not a title.
-  beat(
-    'hook',
-    [en(q.points === 5 ? 'Five-point question. Two of these wrong, and you fail.' : 'German driving test. Would you get this one right?')],
-    { tag: '[curious]' },
-  );
+  // No spoken opener any more (Oct 2026): only about 23% of viewers stayed
+  // past the first seconds while it played. The question is heard first and
+  // the situation and options are on screen from frame one.
   beat('question', [en(q.prompt.en)]);
 
   if (q.kind === 'choice') {

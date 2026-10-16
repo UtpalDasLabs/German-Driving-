@@ -54,8 +54,13 @@ export function QuestionShort({ id, showSafeArea = false, beatSeconds }: Questio
   const { q, script } = load(id);
   const tl = timeline(script, fps, beatSeconds);
 
+  // The question, the situation and the options are all on screen from frame
+  // one: viewers decide in the first second whether to stay.
+  const FROM_START = /^(question|option[A-D])$/;
   const enter = (name: string, delayFrames = 0) =>
-    spring({ frame: frame - tl.start(name) - delayFrames, fps, config: { damping: 200 }, durationInFrames: 14 });
+    FROM_START.test(name)
+      ? 1
+      : spring({ frame: frame - tl.start(name) - delayFrames, fps, config: { damping: 200 }, durationInFrames: 14 });
   const reached = (name: string) => frame >= tl.start(name);
   const current = tl.beats.find((b) => frame >= b.from && frame < b.from + b.frames) ?? tl.beats[tl.beats.length - 1];
 
@@ -251,7 +256,7 @@ export function QuestionShort({ id, showSafeArea = false, beatSeconds }: Questio
               <br />
               <span style={{ color: C.text }}>{CHANNEL}</span>
             </div>
-            <div style={{ marginTop: 10, fontWeight: 800, fontSize: 40, color: GOLD }}>Follow for more</div>
+            <div style={{ marginTop: 10, fontWeight: 800, fontSize: 40, color: GOLD }}>Follow for a question a day</div>
           </AbsoluteFill>
         ) : null}
 

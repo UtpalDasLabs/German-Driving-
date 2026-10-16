@@ -18,6 +18,7 @@
  * then from a preinstalled headless Chromium if one exists, and otherwise
  * Remotion downloads its own - which is what happens on GitHub's runners.
  */
+import { ffbin } from './ffbin.mjs';
 import { execFileSync } from 'node:child_process';
 import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from 'node:fs';
 import { basename, dirname, join } from 'node:path';
@@ -52,7 +53,7 @@ const browserExecutable = process.env.REMOTION_BROWSER ?? (existsSync(PREINSTALL
 
 mkdirSync(OUT, { recursive: true });
 
-const FFMPEG = join(VIDEO, 'node_modules/@remotion/compositor-linux-x64-gnu/ffmpeg');
+const FFMPEG = ffbin('ffmpeg');
 
 /**
  * Silence after each beat's narration, in seconds: room to read the German
@@ -61,7 +62,7 @@ const FFMPEG = join(VIDEO, 'node_modules/@remotion/compositor-linux-x64-gnu/ffmp
  */
 const AFTER_SPEECH = {
   hook: 0.4, question: 1.0, option: 0.5, number: 0.6,
-  countdown: 3.0, reveal: 1.6, why: 0.8, tip: 0.8, end: 0.6,
+  countdown: 2.0, reveal: 1.6, why: 0.8, tip: 0.8, end: 0.6,
 };
 
 function narratedSeconds(id) {
