@@ -12,7 +12,7 @@ Video: `66-stories-gluehwein.mp4` (Hidden Deutschland, Living in Deutschland).
 | 6 | Hypocras-label | Benoît Prieur | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hypocras-label.JPG) | cropped, slow zoom |
 | 7 | Text card: 11 December 1834 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/66-stories-gluehwein.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
 | 8 | WP August Josef Ludwig von Wackerbarth | Johann Friedrich Gottlieb Unger (1755-1804) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WP_August_Josef_Ludwig_von_Wackerbarth.jpg) | cropped, slow zoom |
-| 9 | Pixabay video 113171 | Matthias_koll_leverkusen | [Pixabay Content License](https://pixabay.com/service/license-summary/) | [Pixabay](https://pixabay.com/videos/id-113171/) | cropped, trimmed |
+| 9 | Nürnberger Rauschgold-Engel Glühwein | Catlemur | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:N%C3%BCrnberger_Rauschgold-Engel_Gl%C3%BChwein.jpg) | cropped, slow zoom |
 | 10 | AK - Augsburg - Pfersee - Mehrbild | unknown author | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:AK_-_Augsburg_-_Pfersee_-_Mehrbild.jpg) | cropped, slow zoom |
 | 11 | Glühwein-Zubereitung | Angela Huster | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gl%C3%BChwein-Zubereitung.JPG) | cropped, slow zoom |
 
