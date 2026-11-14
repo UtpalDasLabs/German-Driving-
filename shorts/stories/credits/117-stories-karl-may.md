@@ -1,0 +1,18 @@
+# Picture credits: Which German wrote the most famous Wild West hero without ever visiting America?
+
+Video: `117-stories-karl-may.mp4` (Hidden Deutschland, Living in Deutschland).
+
+| # | Picture | Author | Licence | Source | Changes |
+|---|---|---|---|---|---|
+| 1 | Winnetou | Sascha Schneider | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Winnetou.jpg) | cropped, slow zoom |
+| 2 | Karl May Mutterliebe Illustration 005 | A. Hrdlicka | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Karl_May_Mutterliebe_Illustration_005.jpg) | cropped, slow zoom |
+| 3 | Karl May Museum Buchausgaben | Immanuel Giel 10:16, 23 September 2005 (UTC) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Karl_May_Museum_Buchausgaben.jpg) | cropped, slow zoom |
+| 4 | Vereinigte Staaten von Nord-Amerika Nordostlicher Theil. Druck und Verlag von C. Flemming in Glogau. (to accompany) (IA dr vereinigte-staaten-von-nord-amerika-nordostlicher-theil-druck-und-verlag-v-11640099) | Sohr, Karl Berghaus, Heinrich, 1797-1884 Handtke, Friedrich, 1815-1879 Klein, H.J. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vereinigte_Staaten_von_Nord-Amerika_Nordostlicher_Theil._Druck_und_Verlag_von_C._Flemming_in_Glogau._(to_accompany)_(IA_dr_vereinigte-staaten-von-nord-amerika-nordostlicher-theil-druck-und-verlag-v-11640099).jpg) | cropped, slow zoom |
+| 5 | Text card: Prison for fraud | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/117-stories-karl-may.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 6 | Text card: 1908 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/117-stories-karl-may.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 7 | Vereinigte Staaten von Nord-Amerika. Druck und Verlag von C. Flemming in Glogau. (to accompany) Sohr-Berghaus Hand-Atlas uber (IA dr vereinigte-staaten-von-nord-amerika-druck-und-verlag-von-c-flemming-in-gl-11640097) | Sohr, Karl Berghaus, Heinrich, 1797-1884 Handtke, Friedrich, 1815-1879 Klein, H.J. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vereinigte_Staaten_von_Nord-Amerika._Druck_und_Verlag_von_C._Flemming_in_Glogau._(to_accompany)_Sohr-Berghaus_Hand-Atlas_uber_(IA_dr_vereinigte-staaten-von-nord-amerika-druck-und-verlag-von-c-flemming-in-gl-11640097).jpg) | cropped, slow zoom |
+| 8 | Piere Brice als Winnetou, Karl-May-Festspiele Elspe 1 | Elke Wetzig | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Piere_Brice_als_Winnetou,_Karl-May-Festspiele_Elspe_1.jpg) | cropped, slow zoom |
+| 9 | Piere Brice als Winnetou, Karl-May-Festspiele Elspe 3 | Elke Wetzig | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Piere_Brice_als_Winnetou,_Karl-May-Festspiele_Elspe_3.jpg) | cropped, slow zoom |
+| 10 | Karl-May-Spiele Winnetou I Blutsbrüder 04 | Hinnerk11 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Karl-May-Spiele_Winnetou_I_Blutsbr%C3%BCder_04.jpg) | cropped, slow zoom |
+
+Narration: Utpal, with a voice model trained on his own recordings (ElevenLabs).
