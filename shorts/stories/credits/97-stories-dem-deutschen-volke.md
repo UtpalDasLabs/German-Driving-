@@ -1,0 +1,18 @@
+# Picture credits: Why did Berlin's parliament stand without its motto for 22 years?
+
+Video: `97-stories-dem-deutschen-volke.mp4` (Hidden Deutschland, Living in Deutschland).
+
+| # | Picture | Author | Licence | Source | Changes |
+|---|---|---|---|---|---|
+| 1 | Berlin Inschrift Dem Deutschen Volke Portalgiebel über Portikus vom Deutschen Bundestag Reichstag Foto 2009 Wolfgang Pehlemann Wiesbaden IMG 0977 | Wolfgang Pehlemann Wiesbaden Germany | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Berlin_Inschrift_Dem_Deutschen_Volke_Portalgiebel_%C3%BCber_Portikus_vom_Deutschen_Bundestag_Reichstag_Foto_2009_Wolfgang_Pehlemann_Wiesbaden_IMG_0977.jpg) | cropped, slow zoom |
+| 2 | 60716-Reichstag-Dem deutschen Volke | Muns | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:60716-Reichstag-Dem_deutschen_Volke.JPG) | cropped, slow zoom |
+| 3 | Reichstagsgebäude von Westen | Jörg Braukmann | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Reichstagsgeb%C3%A4ude_von_Westen.jpg) | cropped, slow zoom |
+| 4 | Text card: 22 years | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/97-stories-dem-deutschen-volke.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 5 | Kaiser Wilhelm II of Germany - 1902 | Studio of Thomas Heinrich Voigt | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kaiser_Wilhelm_II_of_Germany_-_1902.jpg) | cropped, slow zoom |
+| 6 | Reichstag building Berlin view from west before sunset | Jürgen Matern | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Reichstag_building_Berlin_view_from_west_before_sunset.jpg) | cropped, slow zoom |
+| 7 | Text card: December 1916 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/97-stories-dem-deutschen-volke.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 8 | Berlin Portikus mit Portalgiebel-Inschrift Dem Deutschen Volke am Reichstagsgebäude des Deutschen Bundestages Foto 2009 Wolfgang Pehlemann Wiesbaden IMG 0978 | Wolfgang Pehlemann Wiesbaden Germany | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Berlin_Portikus_mit_Portalgiebel-Inschrift_Dem_Deutschen_Volke_am_Reichstagsgeb%C3%A4ude_des_Deutschen_Bundestages_Foto_2009_Wolfgang_Pehlemann_Wiesbaden_IMG_0978.jpg) | cropped, slow zoom |
+| 9 | Text card: 1813-1815 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/97-stories-dem-deutschen-volke.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 10 | Reichstagsgebäude mit Weihnachtsbaum bei Nacht, Berlin, 151223, ako | Ansgar Koreng | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Reichstagsgeb%C3%A4ude_mit_Weihnachtsbaum_bei_Nacht,_Berlin,_151223,_ako.jpg) | cropped, slow zoom |
+
+Narration: Utpal, with a voice model trained on his own recordings (ElevenLabs).
