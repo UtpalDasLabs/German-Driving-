@@ -1,0 +1,19 @@
+# Picture credits: Which building near Berlin's Potsdamer Platz sent Germany's first radio broadcast?
+
+Video: `166-stories-erste-radiosendung.mp4` (Hidden Deutschland, Living in Deutschland).
+
+| # | Picture | Author | Licence | Source | Changes |
+|---|---|---|---|---|---|
+| 1 | Text card: 29 October 1923 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/166-stories-erste-radiosendung.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 2 | Berlin Potsdamer Platz - Haus Vaterland (49609053797) | Sludge G | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Berlin_Potsdamer_Platz_-_Haus_Vaterland_(49609053797).jpg) | cropped, slow zoom |
+| 3 | Gedenktafel Potsdamer Platz 1 (Tierg) Deutscher Rundfunk | OTFW, Berlin | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gedenktafel_Potsdamer_Platz_1_(Tierg)_Deutscher_Rundfunk.jpg) | cropped, slow zoom |
+| 4 | Téléphone sans fil dans un wagon à l'exposition T.S.F. à Berlin, Rol - btv1b53139901c | Agence Rol. Agence photographique (commanditaire) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:T%C3%A9l%C3%A9phone_sans_fil_dans_un_wagon_%C3%A0_l%27exposition_T.S.F._%C3%A0_Berlin,_Rol_-_btv1b53139901c.jpg) | cropped, slow zoom |
+| 5 | Museum für Kommunikation Bern 9808.210-002-1 Detektorempfänger SW | Museum für Kommunikation, Bern | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Museum_f%C3%BCr_Kommunikation_Bern_9808.210-002-1_Detektorempf%C3%A4nger_SW.jpg) | cropped, slow zoom |
+| 6 | Fotothek df ktgrf 0004227 Messestand der Fachzeitschrift "Radio Mentor" bei der 16. Internationalen Funkausstellung | Karl Theodor Gremmler | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fotothek_df_ktgrf_0004227_Messestand_der_Fachzeitschrift_%22Radio_Mentor%22_bei_der_16._Internationalen_Funkausstellung.jpg) | cropped, slow zoom |
+| 7 | Text card: 0 licences | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/166-stories-erste-radiosendung.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 8 | Text card: 467 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/166-stories-erste-radiosendung.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 9 | Text card: 1,580 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/166-stories-erste-radiosendung.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 10 | Verkehrsturm am Potsdamer Platz - LABW - Staatsarchiv Freiburg W 134 Nr. 000137A | This image was catalogued by Staatsarchiv Freiburg of the Landesarchiv Baden-Württemberg under ID: W 134 Nr. 000137A. | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Verkehrsturm_am_Potsdamer_Platz_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._000137A.jpg) | cropped, slow zoom |
+| 11 | Einweihungsakt Berliner Funkturm | obs/Messe Berlin GmbH | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Einweihungsakt_Berliner_Funkturm.jpg) | cropped, slow zoom |
+
+Narration: Utpal, with a voice model trained on his own recordings (ElevenLabs).
