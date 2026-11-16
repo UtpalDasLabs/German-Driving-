@@ -1,0 +1,23 @@
+# Picture credits: Which chancellor started the German health insurance in 1883?
+
+Video: `212-stories-bismarck-sozialversicherung.mp4` (Hidden Deutschland, Living in Deutschland).
+
+| # | Picture | Author | Licence | Source | Changes |
+|---|---|---|---|---|---|
+| 1 | Franz von Lenbach - Bildnis Otto Eduard Leopold von Bismarck (Indianapolis) | Franz von Lenbach | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Franz_von_Lenbach_-_Bildnis_Otto_Eduard_Leopold_von_Bismarck_(Indianapolis).jpg) | cropped, slow zoom |
+| 2 | Walter Petersen - Porträt Fürst Bismarck im Reichstag (1892) | Walter Petersen | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Walter_Petersen_-_Portr%C3%A4t_F%C3%BCrst_Bismarck_im_Reichstag_(1892).jpg) | cropped, slow zoom |
+| 3 | Kaiserliche Botschaft 17111881 | KarleHorn | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kaiserliche_Botschaft_17111881.jpg) | cropped, slow zoom |
+| 4 | Text card: Insurance | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/212-stories-bismarck-sozialversicherung.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 5 | Meiningen, Schlossmuseum, Franz von Lenbach, Porträt Otto von Bismarck | Dguendel | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Meiningen,_Schlossmuseum,_Franz_von_Lenbach,_Portr%C3%A4t_Otto_von_Bismarck.jpg) | cropped, slow zoom |
+| 6 | Text card: 1884 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/212-stories-bismarck-sozialversicherung.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 7 | Lenbach, Franz von - Otto von Bismarck, photographische Studie (2) (Zeno Fotografie) | Lenbach, Franz von | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lenbach,_Franz_von_-_Otto_von_Bismarck,_photographische_Studie_(2)_(Zeno_Fotografie).jpg) | cropped, slow zoom |
+| 8 | Kaisers Botschaft Kyffhäuser Bad Frankenhausen | Clemensfranz | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kaisers_Botschaft_Kyffh%C3%A4user_Bad_Frankenhausen.jpg) | cropped, slow zoom |
+| 9 | Karikatur Sozialistengesetz-Puck-1878 | unknown author | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Karikatur_Sozialistengesetz-Puck-1878.jpg) | cropped, slow zoom |
+| 10 | Text card: Weaken the socialists | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/212-stories-bismarck-sozialversicherung.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 11 | August Bebel a sheet with four images.1 | The New York Public Library | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:August_Bebel_a_sheet_with_four_images.1.png) | cropped, slow zoom |
+| 12 | Franz von Lenbach - Portrait of Otto Eduard Leopold von Bismarck - Walters 371007 - View B | Franz von Lenbach | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Franz_von_Lenbach_-_Portrait_of_Otto_Eduard_Leopold_von_Bismarck_-_Walters_371007_-_View_B.jpg) | cropped, slow zoom |
+| 13 | Text card: Accidents | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/212-stories-bismarck-sozialversicherung.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 14 | Text card: Health | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/212-stories-bismarck-sozialversicherung.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 15 | Deutsches Reichsgesetzblatt 1878 034 351 | official juridical document | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Deutsches_Reichsgesetzblatt_1878_034_351.jpg) | cropped, slow zoom |
+
+Narration: Utpal, with a voice model trained on his own recordings (ElevenLabs).
