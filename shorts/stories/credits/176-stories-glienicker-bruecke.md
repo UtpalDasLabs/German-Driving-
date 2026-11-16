@@ -1,0 +1,23 @@
+# Picture credits: Which bridge between Berlin and Potsdam was used to swap spies?
+
+Video: `176-stories-glienicker-bruecke.mp4` (Hidden Deutschland, Living in Deutschland).
+
+| # | Picture | Author | Licence | Source | Changes |
+|---|---|---|---|---|---|
+| 1 | GlienickerBruecke ty 20060908r0012645 | Torsten Henning | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:GlienickerBruecke_ty_20060908r0012645.jpg) | cropped, slow zoom |
+| 2 | Autumn and the Blue Bridge (24099524087) | Garry Knight from London, England | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Autumn_and_the_Blue_Bridge_(24099524087).jpg) | cropped, slow zoom |
+| 3 | Glienicker Brücke and wall (50785762202) | Brian Sterling from Palo Alto, CA, USA | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Glienicker_Br%C3%BCcke_and_wall_(50785762202).jpg) | cropped, slow zoom |
+| 4 | Glienicker Brücke to Potsdam (50785761557) | Brian Sterling from Palo Alto, CA, USA | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Glienicker_Br%C3%BCcke_to_Potsdam_(50785761557).jpg) | cropped, slow zoom |
+| 5 | Text card: 10 February 1962 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/176-stories-glienicker-bruecke.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 6 | RIAN archive 35174 American Spy Pilot Francis Gary Powers | Chernov / Чернов | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:RIAN_archive_35174_American_Spy_Pilot_Francis_Gary_Powers.jpg) | cropped, slow zoom |
+| 7 | Indicted as Spy--Rudolf Ivanovich Abel, above, was indicted today in New York, charged with conspiring to commit espionage for a Soviet Union spy ring | AP Wire | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Indicted_as_Spy--Rudolf_Ivanovich_Abel,_above,_was_indicted_today_in_New_York,_charged_with_conspiring_to_commit_espionage_for_a_Soviet_Union_spy_ring.png) | cropped, slow zoom |
+| 8 | Glienicker Brücke | Uwca at German Wikipedia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Glienicker_Br%C3%BCcke.JPG) | cropped, slow zoom |
+| 9 | Glienicker Lake, Glienicker Brücke, Jungfernsee-0443 | Raimond Spekking & Superbass | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Glienicker_Lake,_Glienicker_Br%C3%BCcke,_Jungfernsee-0443.jpg) | cropped, slow zoom |
+| 10 | Text card: June 1985 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/176-stories-glienicker-bruecke.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 11 | Text card: 11 February 1986 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/176-stories-glienicker-bruecke.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 12 | Natan Sharansky 2016 | Nathan Roi | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Natan_Sharansky_2016.jpg) | cropped, slow zoom |
+| 13 | Potsdam - Glienicker Brücke - around 1900 | unknown author | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Potsdam_-_Glienicker_Br%C3%BCcke_-_around_1900.jpg) | cropped, slow zoom |
+| 14 | Lange Brücke, Havel, Potsdam Hauptbahnhof | Oursana | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lange_Br%C3%BCcke,_Havel,_Potsdam_Hauptbahnhof.jpg) | cropped, slow zoom |
+| 15 | Text card: 10 Nov 1989 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/176-stories-glienicker-bruecke.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+
+Narration: Utpal, with a voice model trained on his own recordings (ElevenLabs).
