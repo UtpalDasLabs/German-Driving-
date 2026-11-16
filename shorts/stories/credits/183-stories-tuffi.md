@@ -1,0 +1,22 @@
+# Picture credits: Which elephant jumped from a suspended train in Wuppertal in 1950?
+
+Video: `183-stories-tuffi.mp4` (Hidden Deutschland, Living in Deutschland).
+
+| # | Picture | Author | Licence | Source | Changes |
+|---|---|---|---|---|---|
+| 1 | Wuppertaler Schwebebahn – Station Landgericht | August Geyler | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wuppertaler_Schwebebahn_%E2%80%93_Station_Landgericht.jpg) | cropped, slow zoom |
+| 2 | Wuppertal Friedrich-Ebert-Str 0084 | Atamari | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wuppertal_Friedrich-Ebert-Str_0084.jpg) | cropped, slow zoom |
+| 3 | Wuppertal,Schwebebahn(elephant) | Островский Александр, Киев | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wuppertal,Schwebebahn(elephant).jpg) | cropped, slow zoom |
+| 4 | Wuppertal Schwebebahn Generation 15 | guillanst | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wuppertal_Schwebebahn_Generation_15.jpg) | cropped, slow zoom |
+| 5 | Text card: Schwebebahn | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/183-stories-tuffi.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 6 | Zirkus Carl Althoff (Kiel 68.370) | Magnussen, Friedrich (1914-1987) | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Zirkus_Carl_Althoff_(Kiel_68.370).jpg) | cropped, slow zoom |
+| 7 | Zirkus Carl Althoff (Kiel 68.369) | Magnussen, Friedrich (1914-1987) | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Zirkus_Carl_Althoff_(Kiel_68.369).jpg) | cropped, slow zoom |
+| 8 | Schwebebahn kurz hinter der Haltestelle Varresbecker Straße | Joinsi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Schwebebahn_kurz_hinter_der_Haltestelle_Varresbecker_Stra%C3%9Fe.jpg) | cropped, slow zoom |
+| 9 | Historische Ansichtskarte vintage picture postcard. "Elberfeld. Schwebebahn. Haltestelle Döppersberg." (15852317272) | wwwuppertal | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Historische_Ansichtskarte_vintage_picture_postcard._%22Elberfeld._Schwebebahn._Haltestelle_D%C3%B6ppersberg.%22_(15852317272).jpg) | cropped, slow zoom |
+| 10 | Text card: 10+ metres | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/183-stories-tuffi.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 11 | Wuppertal, Wupper östl. Adlerbrücke, Tuffi-Störstein, vom Nordufer, Bild 3 | Im Fokus | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wuppertal,_Wupper_%C3%B6stl._Adlerbr%C3%BCcke,_Tuffi-St%C3%B6rstein,_vom_Nordufer,_Bild_3.jpg) | cropped, slow zoom |
+| 12 | Wuppertal, Wupper östl. Adlerbrücke, Tuffi-Störstein, vom Nordufer, Bild 8 mit Schwebebahn | Im Fokus | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wuppertal,_Wupper_%C3%B6stl._Adlerbr%C3%BCcke,_Tuffi-St%C3%B6rstein,_vom_Nordufer,_Bild_8_mit_Schwebebahn.jpg) | cropped, slow zoom |
+| 13 | Text card: A montage | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/183-stories-tuffi.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 14 | 2015.09.26.103401 Haltestelle Varresbecker Straße Schwebebahn Wuppertal | Hermann Luyken | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2015.09.26.103401_Haltestelle_Varresbecker_Stra%C3%9Fe_Schwebebahn_Wuppertal.jpg) | cropped, slow zoom |
+
+Narration: Utpal, with a voice model trained on his own recordings (ElevenLabs).
