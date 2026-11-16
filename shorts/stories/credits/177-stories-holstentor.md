@@ -1,0 +1,23 @@
+# Picture credits: How many votes saved Lübeck's famous gate from demolition in 1863?
+
+Video: `177-stories-holstentor.mp4` (Hidden Deutschland, Living in Deutschland).
+
+| # | Picture | Author | Licence | Source | Changes |
+|---|---|---|---|---|---|
+| 1 | Holstentor in Lübeck 2015 | Christian Wolf (www.c-w-design.de) | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Holstentor_in_L%C3%BCbeck_2015.jpg) | cropped, slow zoom |
+| 2 | Holstentor in Lübeck Frontseite - Zuschnitt | Christian Wolf (www.c-w-design.de) | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Holstentor_in_L%C3%BCbeck_Frontseite_-_Zuschnitt.jpg) | cropped, slow zoom |
+| 3 | Holstentor von der Petrikirche | Christian Wolf (www.c-w-design.de) | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Holstentor_von_der_Petrikirche.jpg) | cropped, slow zoom |
+| 4 | Holstentor Sep08 | Garitzko | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Holstentor_Sep08.jpg) | cropped, slow zoom |
+| 5 | Holstentor Lübeck Feldseite Materialien | Christian Wolf (www.c-w-design.de) | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Holstentor_L%C3%BCbeck_Feldseite_Materialien.jpg) | cropped, slow zoom |
+| 6 | Text card: 50 cm | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/177-stories-holstentor.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 7 | Holstentor, die Türme von St. Marien und St. Petri und die ehem. Salzspeicher in Lübeck | JoachimKohler-HB | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Holstentor,_die_T%C3%BCrme_von_St._Marien_und_St._Petri_und_die_ehem._Salzspeicher_in_L%C3%BCbeck.jpg) | cropped, slow zoom |
+| 8 | Mittelbau Dächer drei Türme (Holstentor) Ansicht Stadtseite Lübeck P1030656 2024-09-23 yj | Fyrtaarn | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mittelbau_D%C3%A4cher_drei_T%C3%BCrme_(Holstentor)_Ansicht_Stadtseite_L%C3%BCbeck_P1030656_2024-09-23_yj.jpg) | cropped, slow zoom |
+| 9 | HL Damals – Bürgerschaftssitzung | Lorenz Christensen, Lübeck | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:HL_Damals_%E2%80%93_B%C3%BCrgerschaftssitzung.jpg) | cropped, slow zoom |
+| 10 | Text card: 1863 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/177-stories-holstentor.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 11 | Holstentor in Lübeck Frontseite | Christian Wolf (www.c-w-design.de) | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Holstentor_in_L%C3%BCbeck_Frontseite.jpg) | cropped, slow zoom |
+| 12 | Lübeck, Holstentor Rückseite, Inschrift "1477. S.P.O.L. 1871." | Freepenguin | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:L%C3%BCbeck,_Holstentor_R%C3%BCckseite,_Inschrift_%221477._S.P.O.L._1871.%22.jpg) | cropped, slow zoom |
+| 13 | Text card: 50 mark note | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/177-stories-holstentor.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 14 | Lübeck, Holstentor -- 2017 -- 0295 | Dietmar Rabich | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:L%C3%BCbeck,_Holstentor_--_2017_--_0295.jpg) | cropped, slow zoom |
+| 15 | Lübeck, Holstentor Vorderseite, Inschrift "Concordia domi foris pax" | Freepenguin | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:L%C3%BCbeck,_Holstentor_Vorderseite,_Inschrift_%22Concordia_domi_foris_pax%22.jpg) | cropped, slow zoom |
+
+Narration: Utpal, with a voice model trained on his own recordings (ElevenLabs).
