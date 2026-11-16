@@ -1,0 +1,25 @@
+# Picture credits: Which 1818 painting made a chalk cliff on Rügen famous?
+
+Video: `185-stories-kreidefelsen-ruegen.mp4` (Hidden Deutschland, Living in Deutschland).
+
+| # | Picture | Author | Licence | Source | Changes |
+|---|---|---|---|---|---|
+| 1 | Friedrich, Caspar David - Kreidefelsen auf Rügen | Caspar David Friedrich | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Friedrich,_Caspar_David_-_Kreidefelsen_auf_R%C3%BCgen.jpg) | cropped, slow zoom |
+| 2 | Caspar David Friedrich - Der Abendstern | Caspar David Friedrich | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Der_Abendstern.jpg) | cropped, slow zoom |
+| 3 | Kreidefelsen, Nationalpark Jasmund, Insel Rügen, 1804061149, ako | Ansgar Koreng | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kreidefelsen,_Nationalpark_Jasmund,_Insel_R%C3%BCgen,_1804061149,_ako.jpg) | cropped, slow zoom |
+| 4 | Caroline Bardua - Porträt Caspar David Friedrichs (1810) | Caroline Bardua | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caroline_Bardua_-_Portr%C3%A4t_Caspar_David_Friedrichs_(1810).jpg) | cropped, slow zoom |
+| 5 | Blick von Wissower Klinken Rügen 2 | ubahnverleih | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Blick_von_Wissower_Klinken_R%C3%BCgen_2.jpg) | cropped, slow zoom |
+| 6 | Friedrich, Caspar David - Selbstbildnis(?) - Hamburger Kunsthalle Kupferstichkabinett | Caspar David Friedrich | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Friedrich,_Caspar_David_-_Selbstbildnis(%3F)_-_Hamburger_Kunsthalle_Kupferstichkabinett.jpg) | cropped, slow zoom |
+| 7 | Text card: 21 Jan 1818 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/185-stories-kreidefelsen-ruegen.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 8 | Königsstuhl Rügen 2012 | Felix König | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:K%C3%B6nigsstuhl_R%C3%BCgen_2012.JPG) | cropped, slow zoom |
+| 9 | Königsstuhl und Viktoria-Sicht | Thomas Wolf, www.foto-tw.de | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:K%C3%B6nigsstuhl_und_Viktoria-Sicht.jpg) | cropped, slow zoom |
+| 10 | Text card: Honeymoon? | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/185-stories-kreidefelsen-ruegen.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 11 | Friedrich, Caspar David - Kleine Stubbenkammer auf Rügen, rechte Seite | Caspar David Friedrich | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Friedrich,_Caspar_David_-_Kleine_Stubbenkammer_auf_R%C3%BCgen,_rechte_Seite.jpg) | cropped, slow zoom |
+| 12 | Kreidefelsen, Stubbenkammer (2011-05-21) 7 | Klugschnacker | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kreidefelsen,_Stubbenkammer_(2011-05-21)_7.JPG) | cropped, slow zoom |
+| 13 | Text card: Two places | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/185-stories-kreidefelsen-ruegen.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 14 | Text card: 3 figures | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/185-stories-kreidefelsen-ruegen.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 15 | Kunst Museum Winterthur Reinhart am Stadtgarten 2023 01 | Iolanda Pensa | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kunst_Museum_Winterthur_Reinhart_am_Stadtgarten_2023_01.jpg) | cropped, slow zoom |
+| 16 | Wissower Klinken auf Rügen | Otto Domes | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wissower_Klinken_auf_R%C3%BCgen.jpg) | cropped, slow zoom |
+| 17 | Text card: Never like that | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/185-stories-kreidefelsen-ruegen.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+
+Narration: Utpal, with a voice model trained on his own recordings (ElevenLabs).
