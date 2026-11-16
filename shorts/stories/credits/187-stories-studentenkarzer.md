@@ -1,0 +1,21 @@
+# Picture credits: Which German university had its own prison for students until 1914?
+
+Video: `187-stories-studentenkarzer.mp4` (Hidden Deutschland, Living in Deutschland).
+
+| # | Picture | Author | Licence | Source | Changes |
+|---|---|---|---|---|---|
+| 1 | Heidelberg, Alte Universität v S, 5 | Renardo la vulpo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Heidelberg,_Alte_Universit%C3%A4t_v_S,_5.jpeg) | cropped, slow zoom |
+| 2 | Portrait des Prof. Dr. jur. Karl Joseph Anton MIttermaier (1787-1867) | Peter Boss HD | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait_des_Prof._Dr._jur._Karl_Joseph_Anton_MIttermaier_(1787-1867).jpg) | cropped, slow zoom |
+| 3 | Studentenkarzer, Heidelberg (1) | Christoph Schäper | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Studentenkarzer,_Heidelberg_(1).jpg) | cropped, slow zoom |
+| 4 | Text card: February 1914 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/187-stories-studentenkarzer.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 5 | Alte Aula Universität Heidelberg 2011 | 4028mdk09 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alte_Aula_Universit%C3%A4t_Heidelberg_2011.JPG) | cropped, slow zoom |
+| 6 | Text card: Locked up for | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/187-stories-studentenkarzer.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 7 | Universitätsplatz Heidelberg links im Bild die Alte Universität, an der östlichen Platzwand, Augustinersgasse 7, das Musikwissenschaftliche Seminar mit einer Gedenktafel für Karl Gottfried Nadler und Karl Bernhard Stark | Ribax (Diskussion) 12:33, 12. Mai 2014 (CEST) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Universit%C3%A4tsplatz_Heidelberg_links_im_Bild_die_Alte_Universit%C3%A4t,_an_der_%C3%B6stlichen_Platzwand,_Augustinersgasse_7,_das_Musikwissenschaftliche_Seminar_mit_einer_Gedenktafel_f%C3%BCr_Karl_Gottfried_Nadler_und_Karl_Bernhard_Stark.JPG) | cropped, slow zoom |
+| 8 | Studentenkarzer, Heidelberg (3) | Christoph Schäper | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Studentenkarzer,_Heidelberg_(3).jpg) | cropped, slow zoom |
+| 9 | Studentenkarzer Heidelberg - Flickr - cspannagel | Christian Spannagel | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Studentenkarzer_Heidelberg_-_Flickr_-_cspannagel.jpg) | cropped, slow zoom |
+| 10 | Text card: 2,000 images | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/187-stories-studentenkarzer.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 11 | Eingang Studentenkarzer | 4028mdk09 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eingang_Studentenkarzer.JPG) | cropped, slow zoom |
+| 12 | Text card: Mark Twain | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/187-stories-studentenkarzer.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 13 | Uni-Heidelberg Studentenkarzer | Stefan Kühn | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Uni-Heidelberg_Studentenkarzer.jpg) | cropped, slow zoom |
+
+Narration: Utpal, with a voice model trained on his own recordings (ElevenLabs).
