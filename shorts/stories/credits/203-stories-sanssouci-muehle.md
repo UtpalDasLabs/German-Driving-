@@ -1,0 +1,23 @@
+# Picture credits: Did a miller really refuse to sell his mill to Frederick the Great?
+
+Video: `203-stories-sanssouci-muehle.mp4` (Hidden Deutschland, Living in Deutschland).
+
+| # | Picture | Author | Licence | Source | Changes |
+|---|---|---|---|---|---|
+| 1 | Park Sanssouci Potsdam - Historische Mühle 03 | H. Zell | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Park_Sanssouci_Potsdam_-_Historische_M%C3%BChle_03.jpg) | cropped, slow zoom |
+| 2 | Stolperstein Kleine Alexanderstr 12 (Mitte) Johann Müller | OTFW, Berlin | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stolperstein_Kleine_Alexanderstr_12_(Mitte)_Johann_M%C3%BCller.jpg) | cropped, slow zoom |
+| 3 | Friedrich der Große - Johann Georg Ziesenis - Google Cultural Institute | Johann Georg Ziesenis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Friedrich_der_Gro%C3%9Fe_-_Johann_Georg_Ziesenis_-_Google_Cultural_Institute.jpg) | cropped, slow zoom |
+| 4 | Aerial image of Sanssouci (view from the south) | Carsten Steger | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aerial_image_of_Sanssouci_(view_from_the_south).jpg) | cropped, slow zoom |
+| 5 | Text card: "Es gibt noch Richter in Berlin" | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/203-stories-sanssouci-muehle.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 6 | Historic Mill of Sanssouci - DPLA - af5658330b124a9708f9839ef50d81ce | Edmund F. Arras | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Historic_Mill_of_Sanssouci_-_DPLA_-_af5658330b124a9708f9839ef50d81ce.jpg) | cropped, slow zoom |
+| 7 | Sanssouci, Medici Venus (November 2025) | Romzig | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sanssouci,_Medici_Venus_(November_2025).jpg) | cropped, slow zoom |
+| 8 | Text card: 200+ years | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/203-stories-sanssouci-muehle.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 9 | Historische Mühle (Sanssouci) im Schnee | Angel Miklashevsky | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Historische_M%C3%BChle_(Sanssouci)_im_Schnee.jpg) | cropped, slow zoom |
+| 10 | Text card: 1787 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/203-stories-sanssouci-muehle.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 11 | Text card: around 1770 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/203-stories-sanssouci-muehle.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 12 | Sanssouci (November 2025) 3 | Romzig | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sanssouci_(November_2025)_3.jpg) | cropped, slow zoom |
+| 13 | Park Sanssouci Potsdam - Historische Mühle 02 | H. Zell | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Park_Sanssouci_Potsdam_-_Historische_M%C3%BChle_02.jpg) | cropped, slow zoom |
+| 14 | Text card: rebuilt 1993 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/203-stories-sanssouci-muehle.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 15 | Park Sanssouci Potsdam - Historische Mühle 01 | H. Zell | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Park_Sanssouci_Potsdam_-_Historische_M%C3%BChle_01.jpg) | cropped, slow zoom |
+
+Narration: Utpal, with a voice model trained on his own recordings (ElevenLabs).
