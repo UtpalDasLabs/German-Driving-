@@ -1,0 +1,22 @@
+# Picture credits: Which Hamburg market opens at five on Sunday mornings?
+
+Video: `194-stories-altonaer-fischmarkt.mp4` (Hidden Deutschland, Living in Deutschland).
+
+| # | Picture | Author | Licence | Source | Changes |
+|---|---|---|---|---|---|
+| 1 | Fischauktionshalle im Morgengrauen | GZagatta | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fischauktionshalle_im_Morgengrauen.jpg) | cropped, slow zoom |
+| 2 | Cuxhaven- Fischkutter im Hafen - LABW - Staatsarchiv Freiburg W 134 Nr. 048631a | Willy Pragher | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cuxhaven-_Fischkutter_im_Hafen_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._048631a.jpg) | cropped, slow zoom |
+| 3 | Fischmarkt (Hamburg-Altona-Altstadt).Wetterfahne.ajb | Ajepbah | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fischmarkt_(Hamburg-Altona-Altstadt).Wetterfahne.ajb.jpg) | cropped, slow zoom |
+| 4 | Text card: 5:00 - 9:30 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/194-stories-altonaer-fischmarkt.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 5 | Fischereihafen Altona1900 | Johann Hinrich W. Hamann | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fischereihafen_Altona1900.JPG) | cropped, slow zoom |
+| 6 | Text card: 1703 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/194-stories-altonaer-fischmarkt.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 7 | Fischhändler + Marktfrau, Fischmarkt Hamburg, Brandes, Fischhändler | Pauli-Pirat | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fischh%C3%A4ndler_%2B_Marktfrau,_Fischmarkt_Hamburg,_Brandes,_Fischh%C3%A4ndler.jpg) | cropped, slow zoom |
+| 8 | Hamburg, St.-Pauli-Fischmarkt, Fischauktionshalle -- 2016 -- 3087 | Dietmar Rabich | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hamburg,_St.-Pauli-Fischmarkt,_Fischauktionshalle_--_2016_--_3087.jpg) | cropped, slow zoom |
+| 9 | Text card: 1896 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/194-stories-altonaer-fischmarkt.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 10 | Fish Auktion S Hall With Wet Feets (95606065) | Tobias Meslien | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fish_Auktion_S_Hall_With_Wet_Feets_(95606065).jpeg) | cropped, slow zoom |
+| 11 | Hamburg, St.-Pauli-Fischmarkt, Fischauktionshalle -- 2016 -- 3078 | Dietmar Rabich | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hamburg,_St.-Pauli-Fischmarkt,_Fischauktionshalle_--_2016_--_3078.jpg) | cropped, slow zoom |
+| 12 | 20230318 Große Elbstraße 142 | Flocci Nivis | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20230318_Gro%C3%9Fe_Elbstra%C3%9Fe_142.jpg) | cropped, slow zoom |
+| 13 | Text card: March 2020 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/194-stories-altonaer-fischmarkt.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
+| 14 | Hamburg, Hamburg - Fischverkauf; Siegesdenkmal; Altonaer Fischmarkt (Zeno Ansichtskarten) | Jos. Heimler, Hamburg | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hamburg,_Hamburg_-_Fischverkauf;_Siegesdenkmal;_Altonaer_Fischmarkt_(Zeno_Ansichtskarten).jpg) | cropped, slow zoom |
+
+Narration: Utpal, with a voice model trained on his own recordings (ElevenLabs).
