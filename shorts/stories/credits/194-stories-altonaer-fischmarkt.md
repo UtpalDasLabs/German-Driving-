@@ -5,7 +5,7 @@ Video: `194-stories-altonaer-fischmarkt.mp4` (Hidden Deutschland, Living in Deut
 | # | Picture | Author | Licence | Source | Changes |
 |---|---|---|---|---|---|
 | 1 | Fischauktionshalle im Morgengrauen | GZagatta | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fischauktionshalle_im_Morgengrauen.jpg) | cropped, slow zoom |
-| 2 | Cuxhaven- Fischkutter im Hafen - LABW - Staatsarchiv Freiburg W 134 Nr. 048631a | Willy Pragher | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cuxhaven-_Fischkutter_im_Hafen_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._048631a.jpg) | cropped, slow zoom |
+| 2 | Elbe Hamburg Sonnenaufgang 300817 | NAC | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elbe_Hamburg_Sonnenaufgang_300817.jpg) | cropped, slow zoom |
 | 3 | Fischmarkt (Hamburg-Altona-Altstadt).Wetterfahne.ajb | Ajepbah | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fischmarkt_(Hamburg-Altona-Altstadt).Wetterfahne.ajb.jpg) | cropped, slow zoom |
 | 4 | Text card: 5:00 - 9:30 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/194-stories-altonaer-fischmarkt.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
 | 5 | Fischereihafen Altona1900 | Johann Hinrich W. Hamann | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fischereihafen_Altona1900.JPG) | cropped, slow zoom |
