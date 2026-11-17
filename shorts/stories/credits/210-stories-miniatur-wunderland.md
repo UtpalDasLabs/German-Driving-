@@ -5,7 +5,7 @@ Video: `210-stories-miniatur-wunderland.mp4` (Hidden Deutschland, Living in Deut
 | # | Picture | Author | Licence | Source | Changes |
 |---|---|---|---|---|---|
 | 1 | Miniatur Wunderland Hamburg 2 | Steven Lek | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Miniatur_Wunderland_Hamburg_2.jpg) | cropped, slow zoom |
-| 2 | 2015-03-21 DOSB by Olaf Kosinsky-39 | Olaf Kosinsky | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2015-03-21_DOSB_by_Olaf_Kosinsky-39.jpg) | cropped, slow zoom |
+| 2 | Miniatur Wunderland building 02 | Leif Jørgensen | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Miniatur_Wunderland_building_02.JPG) | cropped, slow zoom |
 | 3 | Miniatur Wunderland Hamburg | Steven Lek | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Miniatur_Wunderland_Hamburg.jpg) | cropped, slow zoom |
 | 4 | Text card: Guinness | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/210-stories-miniatur-wunderland.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
 | 5 | Miniatur Wunderland building 01 | Leif Jørgensen | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Miniatur_Wunderland_building_01.JPG) | cropped, slow zoom |
