@@ -8,6 +8,7 @@ import { StatusBar } from 'expo-status-bar';
 
 import { ArtProvider } from '@/components/Art';
 import { ConsentBanner } from '@/components/ConsentBanner';
+import { LegalFooter } from '@/components/LegalFooter';
 import { useAppReady } from '@/components/Loading';
 import { initAnalytics, setAnalyticsContext, track, trackPageView } from '@/lib/analytics';
 import { registerServiceWorker } from '@/lib/durability';
@@ -93,6 +94,7 @@ function Navigator() {
       {/* Yoga mirrors every row under a right-to-left root, so Arabic gets a
           mirrored layout without per-screen code. */}
       <View style={{ flex: 1, direction: rtl ? 'rtl' : 'ltr' }}>
+        <View style={{ flex: 1 }}>
         <Stack
           screenOptions={{
             headerShown: false,
@@ -110,6 +112,8 @@ function Navigator() {
           <Stack.Screen name="plan" />
         </Stack>
         <ConsentBanner />
+        </View>
+        <LegalFooter />
       </View>
     </>
   );
