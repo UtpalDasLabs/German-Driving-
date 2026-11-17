@@ -5,7 +5,7 @@ Video: `211-stories-steinerne-bruecke.mp4` (Hidden Deutschland, Living in Deutsc
 | # | Picture | Author | Licence | Source | Changes |
 |---|---|---|---|---|---|
 | 1 | Regensburg, Steinerne Brücke -- 2026 -- 4411 | Dietmar Rabich | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Regensburg,_Steinerne_Br%C3%BCcke_--_2026_--_4411.jpg) | cropped, slow zoom |
-| 2 | Eisenbahnbrücke Güls 1879 | Theodor Creifelds | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eisenbahnbr%C3%BCcke_G%C3%BCls_1879.jpg) | cropped, slow zoom |
+| 2 | Regensburg Steinerne Bruecke 06 2006 | unknown author | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Regensburg_Steinerne_Bruecke_06_2006.jpg) | cropped, slow zoom |
 | 3 | Donau in Regensburg mit Altstadt | High Contrast | [CC BY 3.0 de](https://creativecommons.org/licenses/by/3.0/de/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Donau_in_Regensburg_mit_Altstadt.JPG) | cropped, slow zoom |
 | 4 | Text card: 1135 - 1146 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/211-stories-steinerne-bruecke.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
 | 5 | Text card: 16 arches | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/211-stories-steinerne-bruecke.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
