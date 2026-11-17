@@ -5,7 +5,7 @@ Video: `174-stories-loreley.mp4` (Hidden Deutschland, Living in Deutschland).
 | # | Picture | Author | Licence | Source | Changes |
 |---|---|---|---|---|---|
 | 1 | Loreley-Felsen am Rhein (tone-mapping) | Guido Radig | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Loreley-Felsen_am_Rhein_(tone-mapping).jpg) | cropped, slow zoom |
-| 2 | Eisgang 1929 im Rhein, Schiffe im Hafen 1929-02 HB09059 | unknown author | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eisgang_1929_im_Rhein,_Schiffe_im_Hafen_1929-02_HB09059.jpg) | cropped, slow zoom |
+| 2 | Aussichtskanzel Loreley 2026a | Whgler | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aussichtskanzel_Loreley_2026a.jpg) | cropped, slow zoom |
 | 3 | Loreley-Statue am Ende der Mole des Loreley-Hafens | Xjvolker | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Loreley-Statue_am_Ende_der_Mole_des_Loreley-Hafens.jpg) | cropped, slow zoom |
 | 4 | Rhine-near-Sankt-Goarshausen-JR-G6-4692-2010-06-05 | Johannes Robalotoff | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rhine-near-Sankt-Goarshausen-JR-G6-4692-2010-06-05.jpg) | cropped, slow zoom |
 | 5 | Loreley am Rhein | Guido Radig | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Loreley_am_Rhein.JPG) | cropped, slow zoom |
