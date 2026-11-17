@@ -5,7 +5,7 @@ Video: `184-stories-christo-reichstag.mp4` (Hidden Deutschland, Living in Deutsc
 | # | Picture | Author | Licence | Source | Changes |
 |---|---|---|---|---|---|
 | 1 | Verhüllter Reichstag, Berlin 1995 | Nik Konietzny | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Verh%C3%BCllter_Reichstag,_Berlin_1995.jpg) | cropped, slow zoom |
-| 2 | Berlin, Weiße Kreuze an der Spree -- 2016 -- 5599 | Dietmar Rabich | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Berlin,_Wei%C3%9Fe_Kreuze_an_der_Spree_--_2016_--_5599.jpg) | cropped, slow zoom |
+| 2 | Reichtstag 2004 | Karl Döringer | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Reichtstag_2004.jpg) | cropped, slow zoom |
 | 3 | Christo and Jeanne-Claude | Martin Dürrschnabel | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Christo_and_Jeanne-Claude.jpg) | cropped, slow zoom |
 | 4 | Jeanne-Claude und Christo (1995) | Claude Lebus | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jeanne-Claude_und_Christo_(1995).jpg) | cropped, slow zoom |
 | 5 | Text card: 1971 - 1994 | Living in Deutschland | own graphic | [Living in Deutschland](https://github.com/UtpalDasLabs/German-Driving-/blob/claude/stories-shorts/shorts/stories/credits/184-stories-christo-reichstag.md) | background: a blurred, darkened crop of the next photo in this list or the one before |
